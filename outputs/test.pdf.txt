@@ -1,0 +1,92 @@
+# About This Report
+
+# Board Statement
+
+# 2023 Key Achievements
+
+# Our Approach to Sustainability
+
+# Accelerating the Transition to a Net-Zero Future
+
+# Bringing Impact to Communities
+
+# Conducting Our Business Responsibly
+
+# Content Index
+
+# Assurance Statement
+
+# Accelerating the Transition to a Net-Zero Future
+
+# Climate Action: Managing our Environmental Footprint
+
+# Our Operational Footprint
+
+| |% change between 2023 and 2022|2023|2022|2021|
+|---|---|---|---|---|
+|Total energy consumption (GJ)|4.3|418,221|401,076|419,941|
+|Diesel consumption for building operations (GJ)|-62.6|219|586|643|
+|Company fleet mileage (GJ)|11.6|1,842|1,650(25)|2,659|
+|Total electricity consumption (MWh)|4.3|115,600|110,789|115,733|
+|Electricity intensity (MWh/ft2)|5.0|0.021|0.020|0.022|
+
+# Emissions
+
+| |%|2023|2022|2021|
+|---|---|---|---|---|
+|Total emissions (tCOe)(28)2|-58.0|27,497|65,488|68,151|
+|Scope 1 (tCOe)(29)2|-8.1|147|160|237|
+|Scope 2 (tCOe)(30)2|7.1|68,334(31)|63,811(32)|67,636(32)|
+|Scope 2 (tCOe)(33)2|-63.2|23,501|63,811|67,636|
+|Scope 3 (tCOe)(34)2|153.7|3,849|1,517|278|
+
+# Emission intensity ratios
+
+| |%|2023|2022|2021|
+|---|---|---|---|---|
+|Scope 2 (tCOe/ft2)2|7.0|0.0123|0.0115|–|
+
+# Water
+
+| |%|2023|2022|2021|
+|---|---|---|---|---|
+|Total water consumption (m3)(35)|8.4|433,969|400,322|407,051|
+|Water consumption intensity (m3/ft2)|4.1|0.101|0.097|0.077|
+
+# Waste
+
+| |%|2023|2022|2021|
+|---|---|---|---|---|
+|General Waste (tonnes)|30.6|1,605|1,229|–|
+|Recycled waste (tonnes)(36) – includes electronic waste|27.0|207|163|–|
+|Office paper (tonnes)(37) – excludes statement paper|-7.9|340|369|379|
+
+# Footnotes
+
+(25) Company fleet mileage for 2022 was restated due to data improvement from our operation in Mainland China.
+
+(26) Our approach to carbon emissions is aligned to the GHG Protocol Standards, using the operational control approach to determine carbon emissions boundaries. The environmental data covers all our operations in Singapore, Malaysia, Indonesia and Greater China unless otherwise stated.
+
+(27) Emission factors used to calculate carbon emissions are derived from, or in reference to, the Intergovernmental Panel on Climate Change (IPCC) emission factor database.
+
+(28) Total emissions refer to the aggregation of Scope 1, Scope 2 (Market-based) and Scope 3 emissions.
+
+(29) Scope 1 carbon emissions include direct carbon emissions from backup diesel generators on OCBC premises and carbon emissions from petrol consumption by corporate cars.
+
+(30) Scope 2 carbon emissions refer to purchased electricity. OCBC reports Scope 2 carbon emissions using the location-based approach. Emission factor source: Energy Market Authority of Singapore, Malaysia Energy Commission, Institute of Global Environment Strategies (IGES) – IGES Grid Emission Factors, HK Electric, CLP Power Hong Kong Limited, Companhia de Electricidade de Macau and (Indonesia’s) Directorate General of Electricity.
+
+(31) In 2023, we have added OCBC Space, a new building in Indonesia that is 100% powered by renewable energy to our reporting.
+
+(32) Scope 2 carbon emissions for 2022 and 2021 were restated due to an update to the grid emission factor for Malaysia’s purchased electricity released in 2023.
+
+(33) Under the market-based approach, our Scope 2 emissions were reduced from purchased RECs in Malaysia, Indonesia and Greater China.
+
+(34) Scope 3 carbon emissions include business air travel which covers OCBC Bank’s key markets, Bank of Singapore, OCBC Securities Pte Ltd and OCBC Property Services Pte Ltd. Emission factors are derived from, or in reference to, the United Kingdom Department for Environment Food and Rural Affairs (DEFRA). This does not include financed emissions. Financed emissions also do not form part of the scope of external assurance.
+
+(35) All of our water use is withdrawn from the municipal water supply, consumed within our operations and discharged to the public sewerage system. The quality of water withdrawn and discharged is managed by the public utility provider. We recognise that OCBC operates in countries that may be water-stressed including Singapore and will therefore continue to do our part to promote water conservation.
+
+(36) Recycled waste includes 18 tonnes of recycled electronic waste from OCBC Bank’s key markets, Bank of Singapore, OCBC Securities Pte Ltd and OCBC Property Services Pte Ltd, excluding OCBC Indonesia.
+
+(37) Our paper usage data accounts for paper used within the Group offices for business operations. It excludes papers used for customer statements and letters. Total office paper in 2021 covers Singapore entities including OCBC, OCBC Securities Pte Ltd, OCBC Property Services Pte Ltd, Bank of Singapore, OCBC Malaysia, OCBC China, OCBC Hong Kong, OCBC Macau and OCBC Indonesia. In 2022, the scope expanded to include an additional 38 tonnes from remote offices and branches outside Kuala Lumpur, which were not tracked in 2021. In 2023, office paper covers all OCBC key markets, Bank of Singapore, OCBC Securities Pte Ltd and OCBC Property Services.
+
+# OCBC Sustainability Report 2023
