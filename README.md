@@ -1,9 +1,8 @@
 # DSS5105_BugBuster
 
-
+Here is a table of SGX 
 ### Environmental Metrics
 
-```markdown
 | Topic                    | Metric                                          | Unit                      | Framework Alignment                                      | Description                                                                                                                                             |
 |--------------------------|-------------------------------------------------|---------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Greenhouse Gas Emissions** | Absolute emissions by: Total, Scope 1, Scope 2, Scope 3 (if appropriate) | tCO2e                     | GRI 305-1, 305-2, 305-3, TCFD, SASB 110, WEF core          | Metric tons of carbon dioxide equivalent (tCO2e) of GHG emissions.                                                                                     |
@@ -13,11 +12,10 @@
 | **Water Consumption**    | Total water consumption                         | ML or m³                  | GRI 303-5, SASB 140, TCFD, WEF core metrics                 | Total water consumption in megalitres or cubic metres across all operations.                                                                           |
 |                          | Water consumption intensity                     | ML or m³/organization-specific metrics | TCFD, SASB IF-RE-140a.1                               | Water intensity ratios per unit of organization-specific metrics.                                                                                     |
 | **Waste Generation**     | Total waste generated                           | t                         | GRI 306-3, SASB 150, TCFD, WEF expanded metrics             | Total weight of waste generated in metric tons, with relevant waste composition information.                                                           |
-```
+
 
 ### Social Metrics
 
-```markdown
 | Topic                        | Metric                                      | Unit                      | Framework Alignment                                      | Description                                                                                                                                             |
 |------------------------------|---------------------------------------------|---------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Gender Diversity**         | Current employees by gender                 | Percentage (%)            | GRI 405-1, SASB 330, WEF core metrics                     | Percentage of existing employees by gender.                                                                                                             |
@@ -32,11 +30,11 @@
 |                              | High-consequence injuries                    | Number of cases           | GRI 403-9, WEF core metrics, MOM (Singapore)             | Number of high-consequence work-related injuries (excluding fatalities).                                                                                 |
 |                              | Recordable injuries                          | Number of cases           | GRI 403-9, WEF core metrics, MOM (Singapore), SASB 320   | Number of recordable work-related injuries during the reporting period.                                                                                 |
 |                              | Recordable work-related illnesses            | Number of cases           | GRI 403-10, WEF expanded metrics, MOM (Singapore)        | Number of recordable work-related illnesses or health conditions during the reporting period.                                                           |
-```
+
 
 ### Governance Metrics
 
-```markdown
+
 | Topic                 | Metric                      | Unit          | Source                                                 | Description                                                                                                                   |
 |-----------------------|-----------------------------|---------------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **Board Composition**  | Board independence          | Percentage (%)| GRI 102-22, GRI 2-9, WEF core metrics                  | The number of independent board directors as a percentage of all directors.                                                  |
@@ -47,4 +45,3 @@
 | **Certifications**    | List of relevant certifications | List       | Commonly reported metric by SGX issuers                | List all sustainability or ESG-related certifications (e.g., ISO 45000 family, BCA Green Building, LEED, ENERGY STAR).        |
 | **Alignment with Frameworks** | Alignment with GRI/TCFD/SASB/SGX-ST Listing Rules | N/A            | SGX-ST Listing Rules (Mainboard) 711A and 711B, Practice Note 7.6; SGX-ST Listing Rules (Catalist) 711A and 711B | Use recognized frameworks for sustainability reporting, providing a description of the extent of framework application.       |
 | **Assurance**         | Assurance of sustainability report | Internal/External/None | GRI 2-5, SGX-ST Listing Rules                      | Disclose whether the sustainability report has undergone assurance and specify the scope of external or internal assurance.  |
-```
