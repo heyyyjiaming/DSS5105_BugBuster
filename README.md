@@ -1,8 +1,12 @@
 # DSS5105_BugBuster
+
+## Team Member (in alphabetic order):
+Bi Ying, Chen Zhujun, Ding Jiaming, Huang Yuxin, Li Jingming, Niu Muyuan, Wang Hao, Zhang yi
+
 ## Project Description
 This an automatic system that extracts ESG information from unstructured reports and provides a comprehensive analysis of ESG performance within selected industries. By incorporating advanced natural language processing (NLP) techniques and data analysis, the tool helps streamline the ESG data extraction process, improve data quality, and offer valuable insights into corporate sustainability practices.
 
-Here is a table of SGX 
+We're evaluating on the basis of SGX Metrics below.
 ### Environmental Metrics
 
 | Topic                    | Metric                                          | Unit                      | Framework Alignment                                      | Description                                                                                                                                             |
