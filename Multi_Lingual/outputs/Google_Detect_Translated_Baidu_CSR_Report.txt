@@ -1,0 +1,1442 @@
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Contact Us
+Address: Baidu Building, No. 10 Shangdi 10th Street, Haidian District, Beijing
+Zip code: 100085
+Email：esg@baidu.com
+Using technology to make the complex world simpler
+# Table of contents
+# About this report
+# CEO Message
+# About Baidu
+# Corporate Governance
+# Talent Development
+# Quality of Service
+# ESG Management
+# Board Governance
+# Risk Governance
+# Talent structure
+# Content Governance
+# User Experience
+# Innovation Management
+# Baidu Business Case
+# Transparent Taxation
+# Business Ethics
+# Mobile Ecosystem
+# Smart Cloud
+# Intelligent Driving
+# Baidu Health
+# Technical Platform
+# Xiaodu
+# Appendix
+# Trust Commitment
+# Green Concept
+# Community Development and Responsibility
+# Index of human rights tracking indicators
+# Security Management
+# Climate Change
+# AI Talent Training
+# Determination of material issues
+# Security
+# Green Operations
+# Rural Revitalization
+# Stock Exchange ESG Index
+# Personal information and privacy protection
+# Co-building a safe ecosystem
+# GRI Standards Index
+# SASB Standards Index
+# UNSDGs Contribution and Index
+# Third-party carbon verification certification
+# Reader Feedback
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# CEO Message
+This report is the fifth environmental, social and governance report (ESG report) released by Baidu, which fully reflects Baidu&#39;s performance in environment, society and governance (hereinafter referred to as &quot;ESG&quot;).
+2023 is undoubtedly an exciting year. The rise of large language models has revealed a clear path to achieve general artificial intelligence. For Baidu, we stand at the forefront of technological innovation, witnessing the emergence of new technologies and feeling the infinite possibilities it brings.
+Artificial intelligence is exerting a profound and wide-ranging impact on the economy, society and almost all fields with its huge influence. In this era full of opportunities, we should strengthen our confidence, take innovation as the engine, and seize every opportunity for development. We should deepen cooperation with the industry, give full play to the enabling role of artificial intelligence, improve the technical level of workers, enhance work efficiency, and improve product quality, so as to promote the rich development of new quality productivity, promote economic growth, and pass on this confidence to everyone.
+# Report Scope
+This report is an annual report, covering the financial year from January 1, 2023 to December 31, 2023 (hereinafter referred to as the &quot;reporting period&quot;), and some related information may be traced back to outside the reporting period. The data and information disclosed in this report are all derived from Baidu&#39;s official documents and statistical reports, covering all relevant situations of Baidu Core (excluding Baidu Holdings).
+# Preparation basis
+This report is prepared in accordance with the ESG Reporting Guide 2.0 issued by Nasdaq, the Environmental, Social and Governance Reporting Guide issued by the Hong Kong Stock Exchange and the consultation documents on the relevant Listing Rules, with additional reference to the &quot;Ten Principles&quot; of the United Nations Global Compact (UNGC), the GRI Standards of the Global Sustainability Standards Board (GSSB), the SASB Sustainability Accounting Standards Board Standards issued by the Sustainability Accounting Standards Board, the International Standards for Sustainable Disclosures in Financial Reporting issued by the International Sustainability Standards Board (ISSB) and the United Nations Sustainable Development Goals (UN SDGs).
+Baidu has joined and committed to the ten principles of the United Nations Global Compact for 16 years. During these 16 years, we have been unremittingly promoting the deep integration of technology and social development, and striving to make technology better serve society. We insist on sustainable development as the core, continuously operate and innovate our business, strive to eliminate the technological gap, safeguard the rights and interests of vulnerable groups, and actively participate in addressing global issues such as climate change. We work with stakeholders to govern the safety and ethical issues of artificial intelligence in development, always adhering to the mission of &quot;making the complex world simpler with technology&quot;, and committed to creating a sustainable future. Actions speak louder than words, we adhere to ESG governance and practice the concept of sustainable development.
+Baidu continues to publish this report every year to make our ESG actions not only visible, but also accelerated, to contribute to creating long-term sustainable development and everyone&#39;s well-being. We firmly believe that only through practical actions can we promote social progress and achieve a better future.
+# Report acquisition
+Baidu will simultaneously publish the report in simplified Chinese, traditional Chinese and English on the ESG official website (esg.baidu.com). For more information on the company&#39;s business ethics, privacy protection and data security, human capital, and low-carbon development, please visit Baidu ESG official website.
+Readers are welcome to provide any comments on this report via email to esg@baidu.com.
+Founder, Chairman and CEO of Baidu
+# Forward-Looking Statements
+Some of the contents of this report are forward-looking and are subject to uncertainties that may cause actual results to differ materially. The Company assumes no obligation to update any forward-looking statements in this report.
+# 04 Baidu 2023 Environmental, Social and Governance (ESG) Report
+# About Baidu
+Baidu is a leading AI company with a strong Internet foundation. It is one of the few companies in the world that provides AI chips. Under the general trend of cloud, AI and Internet integration, Baidu has formed a full stack of AI technologies such as mobile ecology, Baidu Smart Cloud, software architecture and applications, and has been rated as one of the top four AI companies in the world by international organizations. Baidu takes &quot;using technology to make the complex world simpler&quot; as its mission, adheres to technological innovation, and is committed to &quot;becoming the world&#39;s top high-tech company that understands users best and can help people grow.&quot;
+Baidu responds to billions of search requests from more than 100 countries and regions every day. It is the main entry point for netizens to obtain Chinese information and services, serving 1 billion Internet users.
+Based on the search engine, Baidu has evolved artificial intelligence technologies such as voice, image, knowledge graph, and natural language processing; in the past 10 years, Baidu has invested in cutting-edge fields such as deep learning, conversational artificial intelligence operating systems, autonomous driving, and AI chips, making Baidu a leading AI company with a strong Internet foundation.
+# Baidu&#39;s strategic business map
+|Strategic Business:|Three Growth Curves|Multi-Engine Growth|
+|---|---|---|
+| Active and stable mature business | 1 billion Internet users | Mobile ecosystem |
+|667 million monthly active users|High-growth emerging businesses|China Smart Cloud|
+|TOP1|Cloud and Intelligence Integration|In-depth Industry|
+|Eco-prosperity|AI inclusive|China&#39;s No. 1 AI public cloud service provider|
+|Leading the cutting-edge business of the industry|Smart driving and others|Global|
+|TOP1|The world&#39;s largest autonomous driving travel service provider|Global|
+|The world&#39;s largest patent package for autonomous driving|China|China|
+|TOP1|Smart screen shipments ranked first in China|Smart speaker shipments ranked first in China|
+Independent full-stack layout, leading at every level, end-to-end optimization
+# Application layer
+Search for Smart Transportation Finance Water and Electricity...
+# Model Layer
+Information distribution large model traffic large model energy large model...
+# Framework layer
+Chip layer
+# 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+Baidu attaches great importance to its commitments and responsibilities in environmental, social and governance aspects. It integrates ESG concepts into the company&#39;s operations and management, continuously improves its own governance level, manages corporate operational risks, builds a solid bottom line of business ethics, creates a sustainable supply chain, and continuously communicates with stakeholders to create long-term value for all parties.
+# Trust Commitment
+| Passed ISO 37001| Anti-bribery management system certification | 38 sessions |
+|---|---|---|
+|Hold the &quot;2023 Baidu Professional Ethics Promotion Week&quot; event, |with 34,000 employees participating|
+|New female director|1| |
+|The signing rate of professional ethics commitment letters reached |100%| |
+|Establishment of Science and Technology Ethics Committee|Sunshine Workplace Integrity Mechanism Project won|&quot;China Integrity Innovation Award&quot;|
+| |Special Innovation Project Award| |
+# 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# ESG Management System
+Baidu uses the Baidu Environmental, Social and Governance (ESG) System1 as the basis for ESG management. In recent years, it has formulated corresponding management systems for key issues such as data security and privacy protection, carbon neutrality, health and safety, product quality, and business ethics, and continuously improved the ESG system guarantee system. In order to better deploy and implement ESG-related work, Baidu has established a three-level ESG management structure consisting of &quot;Board of Directors-ESG Committee-ESG Working Group&quot;.
+# ESG Concept
+Baidu adheres to the core value of &quot;simplicity and reliability&quot; and is committed to realizing the vision of &quot;becoming the world&#39;s top high-tech company that understands users best and can help people grow&quot;. It integrates the core concepts of ESG into daily operations, takes the sustainable development of technology, business and employees as the long-term management goal of ESG, and strengthens ESG governance capabilities.
+Baidu has set up an ESG working group across business systems to actively explore and plan the implementation of ESG goals around key ESG issues such as data security and privacy protection, product quality, green opportunities, carbon neutrality, human rights protection, and community development. Baidu regularly communicates with stakeholders and responds to their expectations and suggestions on our ESG performance from multiple angles, achieving the sustainability of the company&#39;s operations while promoting sustainable social development.
+# Board of Directors
+- Bear the highest authority and ultimate responsibility for Baidu&#39;s ESG-related matters;
+- Responsible for ESG governance objectives and strategies, guide and approve Baidu&#39;s ESG implementation plan, and supervise ESG risk assessment and response.
+# ESG Committee
+- It is composed of senior managers in the fields of legal affairs, finance, human resources, etc., responsible for coordinating and managing ESG-related matters;
+- Develop an ESG indicator system that is in line with the company and industry characteristics, and comprehensively and standardizedly display the company&#39;s ESG performance;
+- Establish an ESG performance assessment mechanism and link ESG performance with the remuneration of senior executives;
+- Formulate ESG work objectives and action paths based on ESG issues of concern to stakeholders;
+- Provide regular sustainability advice to the Board of Directors.
+# ESG Working Group
+- Establish professional teams for carbon neutrality target management, data security and privacy protection, etc.;
+- Link up with the company&#39;s relevant business lines and functional departments to implement and execute ESG-related work;
+- Report regularly to the ESG Committee.
+# 2030 Carbon Neutrality Target
+# environment
+# society
+# Green Opportunities
+Green supply chain partnership mechanism
+Smart cloud energy saving and emission reduction technology empowerment
+Intelligent transportation full-chain carbon reduction technology empowerment
+Baidu ESG Concept
+1 Baidu&#39;s Environmental, Social and Governance (ESG) System
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Board Governance
+Baidu strictly abides by the relevant laws and regulations of the place where it is listed and where it operates, formulates corporate governance operation norms, establishes a scientific and efficient governance structure with clear responsibilities, and sets up an audit committee, a compensation committee, and a corporate governance and nomination committee under the board of directors to clarify the responsibilities of the board of directors and each committee, and fully protect the interests of shareholders and the sustainable development of the company. The scope of authority of the board of directors and each committee and the information of each director can be viewed on the company&#39;s investor relations website.
+# Risk Governance
+Baidu attaches great importance to risk management and internal control, and regards them as the core of business management. To this end, Baidu has established a &quot;three-line&quot; risk control model, and combined with the company&#39;s actual situation, established and improved the risk management system to effectively ensure the implementation of various risk management tasks. We regularly identify and evaluate internal risks, and after effective communication with internal management and external regulatory agencies, we formulate corresponding risk response measures in a targeted manner. In addition, we have formulated the &quot;Baidu Internal Audit Charter&quot; and carried out special audit work related to risk management, promoting cooperation among the front, middle and back offices to carry out risk identification and management, and ensuring the effectiveness of the implementation of the risk management mechanism.
+# Traditional Risk Management
+|Board Independence|Board Performance|
+|---|---|
+|· The board of directors consists of six directors, five of whom are independent directors and have no vested interests with the controlling shareholder;|The audit test of relevant businesses is carried out in accordance with the regulatory compliance requirements of the listing and operation locations to identify problems and promote rectification;|
+|· Independent directors provide independent opinions and judgments on the company&#39;s business strategy, performance, risk prevention and control, and conflicts of interest, and enjoy complete, equal and independent voting rights; | Regularly evaluate and inspect the effectiveness of process control design and execution in key areas, identify major process mechanism defects and problems, and make timely corrections. |
+|· The appointment and performance of each committee member meet the independence requirements. |A total of 4 board meetings were held|
+# New risk management
+Pay attention to long-term emerging risks, conduct compliance audits in areas related to data security and personal information protection, and help the company&#39;s compliance defense line.
+# Baidu Audit Digital Transformation
+Baidu was invited to participate in the &quot;2023 4th IT New Governance Leadership Forum&quot; hosted by the China Academy of Information and Communications Technology. Based on the current exploration and practice of audit digital governance, it shared the audit digital transformation team case at the forum and was selected as the &quot;Influential Team of the Year&quot;.
+# Title of Baidu Internal Audit Department
+&quot;Influential Team of the Year&quot;
+Baidu Investor Relations
+Baidu&#39;s risk management measures
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Transparent Taxation
+Baidu has always adhered to the principle of paying taxes in good faith and maintaining consistency between taxation and revenue-generating activities. In accordance with tax policies and relevant laws and regulations, it has formulated corresponding tax management systems, conducted tax planning based on commercial rationality and business arrangements, and disclosed relevant tax information on a regular basis.
+# Business Ethics
+Baidu has established a three-tier business ethics governance system consisting of the board of directors, the professional ethics committee and the professional ethics construction department to coordinate and implement matters related to business ethics. Among them, the board of directors bears the ultimate responsibility for business ethics and is responsible for decision-making, guidance, supervision and approval of matters related to the company&#39;s business ethics compliance construction; at the execution level, the professional ethics committee, as the highest decision-making body, is responsible for guiding, making decisions, supervising and inspecting the implementation of the company&#39;s business ethics, code of conduct and other work, and reporting to the board of directors; the professional ethics construction department is guided and supervised by the professional ethics committee and is responsible for implementing specific work, including revising business ethics-related systems, carrying out business ethics-related publicity and training, investigating and handling employee violations of laws and regulations, etc.
+|Business Ethics Management System|Reporting|Board of Directors|
+|---|---|---|
+|Ethics Committee|Audit Committee|Professional Ethics Department (PED)|
+| Collaboration| Internal Audit Department| |
+# Internal system of business ethics
+|Training|Publication|Supervision|Financial Audit|Internal Control and Compliance|Special Audit|
+|---|---|---|---|---|---|
+|Tracking|Processing|Investigation|Information System Audit|Anti-Fraud|Anti-Money Laundering|
+# Related Notes
+- Relevant explanation of &quot;Baidu&#39;s Professional Ethics Construction Management Regulations&quot;
+- Baidu Professional Ethics and Code of Conduct
+- Relevant explanation of Baidu Reward and Punishment Management System
+- Relevant explanation of &quot;Baidu Professional Ethics Reporting Management Regulations&quot;
+- Relevant explanation of Baidu&#39;s conflict of interest avoidance system
+- Integrity Agreement
+Baidu has a &quot;zero tolerance&quot; attitude towards any violation of business ethics, clearly defines all behaviors and potential behaviors that violate business ethics, and stipulates relevant management measures. We implement business ethics-related inspections on all major businesses of the company during the internal audit process every year.
+Since Baidu obtained the ISO 37001 anti-bribery management system certification in 2021, Baidu invites external certification agencies to supervise and review Baidu&#39;s business ethics management system and standards every year to provide compliance guarantees for Baidu.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Business Ethics Management Initiative
+# Business ethics culture construction
+Baidu has signed a &quot;Professional Ethics and Code of Conduct Commitment Letter&quot; with all employees of its branches, subsidiaries, and Class A and B1 ecological companies to urge employees to comply with relevant business ethics systems. At the same time, we promote a culture of professional ethics and regularly conduct professional ethics publicity and education for all employees to enhance their compliance awareness.
+- Adhere to the principle of &quot;fair trade&quot; and never sell goods through bribery;
+- If you secretly accept bribes or give kickbacks to other companies or individuals, it will be treated as bribery or bribery.
+In 2023, Baidu launched a series of business ethics training, assessment and publicity projects, and held a total of 38 business ethics training sessions.
+# Anti-fraud and Anti-corruption
+We will investigate and deal with any disciplinary and illegal acts that violate business ethics with a zero-tolerance attitude to safeguard the interests of the company and create a clean and sunny workplace environment.
+# Anti-monopoly and Anti-unfair competition
+- Attach great importance to anti-monopoly and anti-unfair competition issues, and establish a special compliance system for major monopoly behaviors such as monopoly agreements, abuse of market dominance, and illegal implementation of business concentration;
+- Do not illegally exclude competitors&#39; fair competition and legitimate business activities by any unfair means, and do not deliberately fabricate and spread false facts;
+- Based on the business situation, issue compliance guidelines, conduct special compliance assessments, carry out internal and external compliance training and publicity, and create a correct concept of competition.
+# Avoid conflicts of interest
+- Any employee&#39;s personal interests are prohibited from conflicting with the interests of the company;
+- If unnecessary conflicts of interest arise between the company and its employees in daily operations, they should be reported to the company truthfully.
+# Industry experience exchange
+# Online Assessment
+A professional ethics and code of conduct examination was conducted for all employees (regular employees, interns, outsourced personnel, etc.). The pass rate for regular employees was 99.9%, and the overall pass rate was 98.74%.
+# Professional Ethics Awareness Week
+In November 2023, Baidu held the &quot;2023 Baidu Professional Ethics Promotion Week&quot; event, aiming to promote Baidu&#39;s Sunshine Workplace concept of &quot;being honest, doing things right, and doing the right things&quot;. It organized online and offline activities including charity auctions, Sunshine Workplace surveys, and signing of professional ethics commitment letters, with 34,000 participants.
+- Charity Auction:
+- Employees need to report the gifts received from partners to Baidu&#39;s Professional Ethics Committee in accordance with the requirements of the gift reporting system and then donate them to the Baidu Foundation;
+- Baidu Foundation will auction all the gifts collected to all employees, and all the proceeds will be used for charity donations. In 2023, a total of 11,699 people participated in the auction, raising a total of 420,000 yuan.
+- Sunshine Workplace Survey: According to the survey results, employees&#39; recognition and awareness of the company&#39;s work ethics have increased compared to last year.
+- Signing of the Professional Ethics Commitment Letter: The signing rate reached 100%, including regular employees, interns, outsourced personnel, and labor dispatch.
+# External publicity
+Through external publicity channels such as the &quot;Sunshine Workplace&quot; Baijiahao, the Sunshine Integrity Alliance, and the Corporate Anti-Fraud Alliance, we continue to speak out to the outside world and have published a total of 22 professional ethics-related publicity articles.
+# Whistleblowing and whistleblower protection
+In order to improve the management of business ethics supervision and reporting, Baidu has formulated the &quot;Baidu Professional Ethics Reporting Management Regulations&quot; to standardize the reporting channels and processes to ensure that complaints and reporting incidents are effectively handled.
+We have made public multiple reporting channels, including e-mail, face-to-face reporting, professional ethics suggestion boxes, letters, etc., and encourage employees and external personnel to report all kinds of suspected illegal, irregular, disciplinary and professional ethics and labor discipline violations. At the same time, we protect the safety of reporters in accordance with the law, strictly keep the information of reporters and the content of reports confidential, and strictly prohibit any form of retaliation.
+In 2023, no Baidu employees were treated unfairly, such as being fired, demoted, suspended, intimidated, harassed, etc., for legitimate reporting, and no incidents of retaliation in any form against external whistleblowers occurred.
+In 2023, Baidu&#39;s &quot;Gift Reporting to Support Public Welfare&quot; Sunshine Workplace Integrity Mechanism Project won the &quot;China Integrity Innovation Award&quot; Featured Innovation Project Award.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# supply chain management
+# Supplier Management
+Baidu has formulated a series of internal system documents such as &quot;Supplier Management Specifications&quot; and &quot;Baidu Supplier Daily Management and Complaints Methods&quot;, and established a full-process control mechanism including supplier screening and access, evaluation and assessment, communication and cooperation, and elimination and exit. At the same time, Baidu launched a procurement platform supplier management system covering the entire procurement life cycle, which conducts comprehensive online management of suppliers, covering basic information query, classification, performance assessment, etc., to grasp the various situations of suppliers in real time and continuously improve the transparency of supplier management.
+# ESG Dimension
+|Assessment requirements|Labor rights|Business ethics|Health and safety|Environmental protection|
+|---|---|---|---|---|
+|Screening and access|Conduct labor rights-related background investigations on potential key suppliers before cooperation, including on-site assessments;|Comply with laws and regulations on anti-corruption, anti-bribery, anti-money laundering, and anti-unfair competition in the country and the region where the business is located;|Formulate relevant system documents on occupational health and safety, and pass relevant occupational health and safety certifications, such as OHSAS 18001, ISO 45001, etc.;|The production/workplace must comply with relevant laws, regulations and standards on environmental protection, pollution emissions, biodiversity and greenhouse gas emissions;|
+| |Screen potential suppliers for entry; |Resolutely put an end to any form of corruption, embezzlement, bribery, fraud, unfair competition, etc.; |Comply with information security requirements, protect users&#39; personal privacy, personal information and data security, and prevent data leakage. |Obtain environmental management system certification, such as ISO 14001, etc. |
+|Evaluation and Assessment|Organize and carry out supplier performance assessment and evaluation work, and fully examine the supplier&#39;s product and service quality, delivery status and other factors;|When signing a product or service supply contract with Baidu, an &quot;Integrity Agreement&quot; should be signed at the same time. In 2023, the signing rate of the &quot;Integrity Agreement&quot; for suppliers involved in procurement will reach 100%;|Formulate anti-corruption related system documents and pass anti-corruption related certifications, such as ISO 37001;|Number of suppliers by region|
+| |Grade suppliers according to the assessment results, urge suppliers that fail the assessment to make rectifications, and dynamically track the rectifications until they are completed. |Establish reporting channels and whistleblower protection mechanisms; |Eliminate suppliers that fail the assessment and whose rectifications do not meet expectations; |25,075|
+|Communication and Cooperation|Classify and grade suppliers, and focus on the management of key category suppliers;|Carry out business ethics training regularly;|Follow the &quot;Supplier Reward and Punishment Measures&quot; to deal with suppliers who violate national laws and regulations and Baidu&#39;s &quot;Supplier Management Standards&quot;. |Number of Chinese suppliers (including Hong Kong, Macao and Taiwan)|
+| |Complete the processes of sending inquiries, receiving inquiries, bidding evaluation, negotiation, etc. through the procurement platform; |For suppliers who engage in commercial bribery, unfair competition, etc., they will be included in the blacklist and cooperation will be terminated indefinitely according to the &quot;Baidu Partner Blacklist Management Measures&quot;. | |5,346|
+|Elimination and Exit| | | |Number of Overseas Suppliers|
+Statistics are based on the historical accumulated data in Baidu supplier database
+Baidu Supplier Sustainability Principles
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# AI Ethics
+Baidu believes that AI ethics is the cornerstone of the future development of intelligent society. The rapid rise of AI big models has brought new opportunities to the industry and society, while the widespread application of AI big models has also brought many challenges in science and technology ethics. Baidu firmly believes that the mission of AI is to serve people. To this end, Baidu continues to improve AI ethics standards to ensure that AI technology brings benefits to mankind.
+# AI Ethics Practice
+Baidu strengthens communication and cooperation with industry organizations, research institutions and other relevant parties, actively explores and promotes the research of scientific and technological ethics norms and standards, and participates in and improves the construction of AI ethics standards.
+# AI Ethical Principles
+Baidu founder Robin Li proposed the “Four Principles of AI Ethics” in 2018, namely:
+- The highest principle of AI is safety and controllability;
+- The innovative vision of AI is to promote more equal access to technology and capabilities for humans;
+- The value of AI is to teach people to learn and help them grow, not to surpass or replace them;
+- The ultimate goal of AI is to bring more freedom and possibilities to humans.
+This principle aims to establish a common concept and rules for all AI products and technologies to be followed by the whole society, create responsible and sustainable AI products, and solve the problem of harmonious coexistence between AI and humans.
+# AI Ethics Training
+In 2023, Baidu invited professors from the Data Law Institute of China University of Political Science and Law to conduct a training on the theme of &quot;International Governance of Artificial Intelligence and Technological Ethics&quot;, and conducted in-depth discussions on courses such as the legality and compliance of large AI models, fairness and impartiality during operation, and AI accountability mechanisms. The training is aimed at Baidu&#39;s Technology Strategy Committee and T9 (Chief Architect) and above employees, aiming to deepen the understanding of technological ethics from the top level, provide a more solid ethical foundation for the company&#39;s technological development and strategic decision-making, and lead the direction of future technological development.
+# Explainability of AI Algorithms
+Baidu continues to explore the explainability, transparency, controllability and fairness of AI algorithms in the development of AI technology and products. Baidu has built a complete heterogeneous data set and optimized AI fairness from the acquisition aspect. In addition, Baidu continues to improve its recommendation strategy in the development and application of large-model products, effectively avoiding the problem of information cocoons and presenting a broader world to users.
+# AI Safety and Ethical Standards
+In 2023, Baidu formulated a number of AI safety and ethics standards, covering algorithms, privacy protection, deep learning, autonomous driving, smart terminals, system services and many other aspects, and is committed to building a healthy and reliable artificial intelligence industry development ecosystem.
+# AI Ethics Committee
+In October 2023, Baidu officially established the Technology Ethics Committee. The establishment of Baidu&#39;s Technology Ethics Committee aims to reduce the &quot;black box risk&quot; of AI algorithms and achieve more predictive AI governance.
+Baidu&#39;s Technology Ethics Committee actively explores ethical governance in the field of generative artificial intelligence such as large models, continuously improves AI ethical standards and regulations, upgrades Baidu&#39;s AI governance system, and keeps a firm grip on the &quot;steering wheel&quot; of AI ethics.
+6 Baidu formally establishes a science and technology ethics committee
+7 A collection of related database systems that enables data sharing and transparent access
+# 20 Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# 21
+# Human Rights Governance
+As a signatory of the United Nations Global Compact, Baidu is committed to the ten principles and has developed the Baidu Human Rights System with reference to the Universal Declaration of Human Rights, the International Covenant on Economic, Social and Cultural Rights, the United Nations Guiding Principles on Business and Human Rights, and the Declaration on Fundamental Principles and Rights at Work of the International Labor Organization. The system covers stakeholders such as employees, users, supply chains, and communities, and is applicable to Baidu, entities owned by the company, entities in which the company holds a majority stake, and institutions managed by the company. At the same time, we invite Baidu&#39;s partners and suppliers to follow the system and encourage them to develop human rights protection systems that suit their actual conditions.
+Following the guidance of the UNGPs, we have built Baidu&#39;s human rights tracking indicator system, which covers various human rights issues in Baidu&#39;s key business scenarios, including: the right to privacy and information self-determination, the right to freedom of opinion and expression, the right to equality and freedom from discrimination, the right to freedom from harassment and violence, anti-corruption and human rights, the right to life and health, the right to social security, the right to fair and favorable working conditions, etc.
+We work with third-party human rights experts to regularly conduct company-wide due diligence on human rights impacts. We track internal and external human rights protections annually to identify potential impacts and risks in order to avoid or mitigate potential human rights risks in the company and its value chain. At the same time, we provide or take fair and just remedial measures for the negative human rights impacts that have been identified as a result of the company&#39;s business activities. Baidu discloses the risk identification, tracking and response to various human rights issues in this report (see Appendix - Human Rights Tracking Indicator Index Table for details).
+# 22 Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+Baidu takes security as its bottom line. We continue to develop advanced security technologies, improve product performance in the security field, continue to strengthen information security management and privacy protection, and actively share practical experience in the security field to jointly build an industry security ecosystem and live up to the trust of every user and other stakeholders.
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Conduct emergency drills
+# Baidu&#39;s large model security solution was successfully won
+# WitAwards 2023 Outstanding Cybersecurity Solution Award
+|Item|Quantity|
+|---|---|
+|DDoS attack prevention platform intercepted 7,639 attacks throughout the year|
+|Complete attack and defense exercises and penetration testing|15 rounds|
+| Baidu Dianshi&#39;s industry practice results were selected | 2023 China Academy of Information and Communications Technology Big Data &quot;Galaxy&quot; Outstanding Case |
+|Total participation in large model field safety standards in 2023|28 items|
+|International Standard|1 item|
+|National Standards|6 items|
+|Industry standards|6 items|
+|Group Standards|15 items|
+# Trust Commitment
+Trust commitment: Baidu security publicity month activities participated in more than
+90,000
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Security Management Services
+Baidu Security builds a security ecosystem with AI as its core, exporting capabilities and solutions to the entire industry.
+# Security Management
+Baidu has established a company-wide security management concept, a complete security management system and clear security management measures to ensure the efficient operation of the company&#39;s security system while providing external security management services.
+# Safety Management Measures
+Baidu continues to work hard in frontier areas such as vulnerability attack and defense, security testing, etc. to improve its own security protection capabilities. At the same time, we release security protection products to improve the security protection capabilities of various industries.
+# Five major security matrices
+|Infrastructure|Improve a series of internal systems such as &quot;Baidu Data Management Measures&quot;, &quot;Baidu Data Circulation Specifications&quot;, &quot;Baidu Data Permission Management Specifications&quot;, and &quot;Baidu Data API Management Specifications&quot; for all business lines, standardize data security organizations, and improve risk management systems|
+|---|---|
+|Network Security|Deploy Baidu full-flow protection IDS, host IDS, WAF system, firewall, anti-virus software, white box audit, black box scanning system, etc. at the network area boundary, application layer, database layer, host layer, etc. to efficiently identify and protect against external attacks|
+|Code Security|Set strict code management permissions and formulate secure coding guidelines to standardize code writing and enhance its security|
+|Cloud Security|With AI as the core, big data and machine learning as the foundation, a defense-in-depth system is formed: Cloud network: equipped with intelligent threat hunting platform products to ensure the security of customer data assets on the cloud|
+|Product Security|Incorporate data security and privacy protection measures into product and service development: Before product launch, all products must pass the Springer testing platform, federated multi-party secure computing, privacy benchmark testing, etc.|
+# Data security protection products
+Dianshi Federated Learning Platform is based on technologies such as Model Predictive Control (MPC), Federated Learning (FL), and Differential Privacy (DP), which strictly limits the data area and protects privacy throughout the process.
+Dianshi confidential computing platform builds a virtual security zone based on hardware. While using ciphertext computing, it maintains nearly complete hardware performance and uses machine learning and deep learning algorithms to achieve joint computing.
+Dianshi Data Security Sandbox is based on permission access control, data desensitization, sampling and other technologies, and uses multiple isolation technologies to build a data security area, separate the real data environment and the model basic debugging environment, and realize the one-way opening of data by the data owner to the data processor.
+# 2023
+Baidu Dianshi&#39;s industry practice results were selected as the 2023 CAICT Big Data &quot;Galaxy&quot; Outstanding Case
+Baidu&#39;s DDoS protection service solution won the 2023 CSA Security Gold Shield Award for its excellent experience of &quot;local + cloud&quot; joint defense; in order to ensure the privacy protection and security of tobacco industry data elements during circulation, Baidu Dianshi applied federated learning technology on the Qiancai Cloud platform, allowing all parties involved to jointly explore the value of data while ensuring data security. The results of &quot;Research and Application of Privacy Computing Technology in Digital Finance of Guizhou Tobacco Commercial Supply Chain&quot; were selected as the 2023 China Academy of Information and Communications Technology Big Data &quot;Galaxy&quot; Outstanding Case.
+Qiancaiyun, a comprehensive big data platform for the tobacco industry, integrates key data elements of the tobacco industry, such as production, sales, consumption and other information.
+# 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Security
+# Personal information and privacy protection
+Baidu has established a complete information security protection system, and has set up a comprehensive security protection mechanism from the aspects of system, process, certification and audit to ensure the continuity of organizational business.
+# Baidu Security
+Baidu continues to improve its personal information and privacy protection system to prevent personal information leaks by developing cutting-edge protection technologies, conducting regular certification and auditing work, and strengthening internal management.
+# Security Emergency Response Process
+Baidu has formulated internal systems such as &quot;Baidu Data Classification and Grading Specifications&quot;, &quot;Baidu Security Incident Handling Rules&quot;, &quot;Baidu Data Security Emergency Response Process&quot;, &quot;Data Security Emergency Plan&quot;, and &quot;Baidu Information and Product Security Penalty Rules&quot; to standardize the definition and classification of security incidents, security management responsibilities at all levels, and security incident penalty mechanisms at all levels to ensure that security incidents are handled seriously according to their levels.
+# Privacy Protection Measures
+Baidu is constantly updating its privacy protection technology, and through regular privacy certification and strengthening protection of key groups, it achieves protection of personal privacy information throughout its entire life cycle.
+# Privacy protection technology
+Baidu integrates personal information protection into the entire process of product and service research and development, development and launch. By improving management systems, developing cutting-edge technologies, and conducting training and publicity, it incorporates the concept of user privacy protection functions into product development, and monitors and assesses security risks in real time.
+In 2023, Baidu launched a database middleware service to manage data applications and permissions in a unified full life cycle through a data management platform. The service currently covers Wenxin Yiyan, Netdisk, Enterprise Netdisk, Mobile Bestone, Mini Programs, Baidu Cloud Push, Baidu Mobile User Growth Open Platform and other businesses, with more than 600 million authentication requests per day.
+# Highlights of the Data Management Platform
+|Control permissions|Authentication capabilities|Encryption protection|
+|---|---|---|
+|Control database permissions to segment or row level|Perform row verification on specific access instructions based on user identity to ensure data access when both user and permissions match|Strengthen data desensitization and data encryption functions|
+# Security Audit
+Baidu actively conducts internal and external security audits to ensure the effectiveness and reliability of the security management system. In 2023, Baidu will focus on conducting compliance audits in areas related to the company&#39;s data security and personal information protection, focusing on assessing the company&#39;s overall governance structure, data classification and grading, and corresponding security control measures and responses. All risk points have been properly addressed.
+# Internal
+The internal audit department regularly conducts assessments and audits of personal information data and highly sensitive data risks.
+# External
+Every year, we invite a third-party organization with professional qualifications to audit and evaluate the company&#39;s data security policies, systems, processes and governance.
+Baidu&#39;s big model security solution successfully won the WitAwards 2023 Outstanding Network Security Solution Award.
+The &quot;Mobile Network Cross-Domain Intelligent Troubleshooting Knowledge Graph Case&quot; jointly submitted by Baidu, China Unicom and Nokia Bell was successfully selected as the &quot;2023 Trusted AI Case Knowledge Computing Application Excellent Case&quot;.
+9 A digital representation. In large model training, each token is associated with a unique digital ID, and the model uses the ID to distinguish different tokens in order to encode and decode the input text.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Third-party privacy protection requirements
+Regarding third-party data management, all data provided by Baidu is within the scope of the purpose necessary to complete the service. Personal information is not rented, sold or provided to third-party users for functions other than completing transactions/services. For details of Baidu&#39;s requirements for third-party privacy protection, please refer to the official website.
+# Co-building a safe ecosystem
+Baidu actively participates in the co-construction of the cybersecurity ecosystem, and cooperates with many outstanding companies and research institutes to formulate industry standards and improve the industry security system. Baidu has participated in 365 standards of various types, including 12 international standards, 101 national standards, 127 industry standards, 123 group standards, and 2 local standards. In 2023, a total of 41 standards of various types were released, covering SDK security, personal information protection, artificial intelligence security, etc.
+# staff
+Full staff training: Provide full staff information security training and assessment covering part-time and outsourced personnel, and conduct induction training for new employees;
+Special activities: Focusing on the three major themes of &quot;network security, data security, and privacy protection&quot;, we will promote Baidu&#39;s security and compliance concepts and popularize information security knowledge;
+Emergency drills: In 2023, 11 emergency drills were conducted, the DDoS anti-attack platform intercepted 7,639 attacks throughout the year, 15 rounds of attack and defense exercises and penetration tests were completed throughout the year, and relevant data systems were optimized and emergency plan materials were compiled based on the drill results.
+# Suppliers and partners
+Training: Provide data security and privacy protection related resources and course training services free of charge to stakeholders such as contractors, suppliers and outsourced employees;
+Assessment: Establish a data and privacy security assessment and penalty mechanism.
+# &quot;Baidu is safer with you&quot; Safety Promotion Month Event
+In 2023, Baidu launched a security publicity month with the theme of &quot;Baidu is safer with you&quot;, with more than 90,000 participants. This activity has been selected as the &quot;Data Security and Personal Information Protection Social Responsibility Practice Case&quot; of the Cybersecurity Industry Alliance (CCIA), and will be unveiled as one of the first benchmark cases in China during the 2023 National Cybersecurity Publicity Week.
+# Standard Participation
+|Standard Name|Type|
+|---|---|
+|IEEE-P2952 《P2952-Standard for Secure Computing Based on Trusted Execution Environment》|International Standard|
+|GB/T 42888-2023 &quot;Information Security Technology Machine Learning Algorithm Security Assessment Specification&quot; | National Standard |
+|GB/T 35274-2023 &quot;Information Security Technology Big Data Service Security Capability Requirements&quot; | National Standard |
+|GB/T 43435-2023 &quot;Information Security Technology Mobile Internet Application (App) SDK Security Guide&quot; | National Standard |
+|GB/T 42460-2023 &quot;Information Security Technology Personal Information De-identification Effect Grading Evaluation Specification&quot; | National Standard |
+|GB/T 42574-2023 &quot;Information Security Technology - Implementation Guidelines for Notification and Consent in the Processing of Personal Information&quot; | National Standard |
+|GB/T 29246-2023 &quot;Information Security Technology Information Security Management System Overview and Vocabulary&quot; | National Standard |
+|GB/T 42884-2023 &quot;Information Security Technology Mobile Internet Application (App) Lifecycle Security Management Guide&quot; | National Standard |
+Baidu actively participates in and promotes the formulation of safety standards in the field of large models. In 2023, it participated in 28 safety standards in the field of large models, including 1 international standard, 6 national standards, 6 industry standards, and 15 group standards.
+As of the end of 2023, Baidu has participated in the development of more than 240 standards, covering multiple business areas such as personal information protection, data security, and anti-fraud. It has taken the lead in formulating a number of standards in the areas of map personal information protection and large model personal information protection.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+Baidu attaches great importance to the common growth of talents and the company. With a complete talent selection, development and welfare system, it provides strong talent support for &quot;AI reconstruction&quot; and creates a healthy workplace environment with opportunities and warmth for employees.
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# The proportion of women in Baidu&#39;s management team is
+44.5%
+# Baidu employee training coverage rate reached
+100%
+# Average training time for employees
+38.5 hours
+# Baidu native development tool Comate
+Helping R&amp;D staff improve efficiency year-on-year
+11.6%
+# Get ISO 45001
+Occupational Health and Safety System Certification
+# 85%
+of employees report positive engagement in surveys
+#Forbes——
+2023 China&#39;s Most Digitally Responsible Employer
+# &quot;China&#39;s Artificial Intelligence Industry Innovation Talent Competitiveness Report (2023)&quot;——
+&quot;AI Industry Innovation Talent&quot; Champion
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Talent structure
+# Diversified talent structure
+|Indicator Name|Category|Unit|2023|
+|---|---|---|---|
+|Total number of employees|/|People|33,700|
+|Male employees|People|20,758| |
+|Female employees|People|12,942| |
+|30 years old and below|People|16,445| |
+|31-40 years old|People|15,296| |
+|41 years old and above|People|1,959| |
+|Senior Managers|People|18| |
+|Middle-level managers|People|193| |
+|Grassroots staff|People|33,489| |
+# Employee turnover
+|Indicator Name|Category|Unit|2023|
+|---|---|---|---|
+|Employee turnover rate|%| |27.8|
+|Male employees|%| |28.0|
+|Female employees|%| |27.3|
+|30 years and below|%| |30.8|
+|31-40 years old|%| |23.9|
+|41 years and above|%| |32.3|
+|Mainland China|%| |27.7|
+|China, Hong Kong, Macao and Taiwan|%| |26.8|
+|Overseas|%| |40.7|
+# Other indicators
+|Percentage of women in management|%|44.5|
+|---|---|---|
+|Percentage of women in middle management positions|%|27.5|
+|Percentage of women in senior management positions|%|27.8|
+|Percentage of women in top management positions|%|22.2|
+|Percentage of women in revenue-generating business management positions|%|56.2|
+|Disabled employees|People|20|
+|Employees with Hong Kong, Macao and Taiwan household registration|People|41|
+|Overseas employees|People|81|
+|Minority employees|People|1,880|
+# Localization Hiring Rate
+|South Korea|%|100|
+|---|---|---|
+|United States|%|17.6|
+|Japan|%|57.1|
+|Thailand|%|33.3|
+# Employee Ratio
+|Ratio of part-time employees|%|6.9|
+|---|---|---|
+|Ratio of informal employees|%|0.01|
+|Contractor/Consultant Ratio|%|0.01|
+# Employee turnover explanation
+In the context of the global economy, Baidu has continuously adapted to market development and has achieved certain results in its talent management strategy. Compared with Baidu&#39;s employee turnover rate in 2022 (30.1%), in 2023, Baidu&#39;s human resources management introduced active and effective measures in talent cultivation and retention, and the turnover rate began to steadily decline, effectively supporting the steady growth of the business.
+# 34 Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Talent selection
+# Talent reserve and selection
+Baidu continues to optimize talent selection and reserve solutions and technologies, matching multi-dimensional high-quality talents, supporting the company&#39;s long-term development, and pioneering exploration in areas such as AI native. In 2023, Baidu will add AI-related positions such as data science, data annotation algorithms, and model compression engineers, providing 16,406 new job opportunities for the society and 1,130 job opportunities for graduates.
+# Talent reserve and selection projects
+|Elite Internship Program|Establish 0-1AI native thinking and cultivate data talents in the era of big models. |
+|---|---|
+|AIDU Program|An elite recruitment program designed to attract top campus talents in the field of AI, providing high-end team guidance, professional training and competitive salary packages. |
+|Management Trainee|Baidu&#39;s management trainee program aims to recruit outstanding young talents and provide them with opportunities for rapid development through two years of mentoring, rotation development, and special training. So far, the program has recruited more than 30 management trainees. |
+|Autonomous Driving Top Talent Project|Recruit top talents in the field of autonomous driving worldwide. Provide talent guarantee for Baidu to actively explore the next generation of autonomous driving technology and always maintain the industry&#39;s top level in the field of autonomous driving research and development. |
+In 2023, Baidu deeply explored the demand characteristics of AI talents and built an AI talent assessment model. The model is based on the 3E talent label system, which includes five dimensions: educational background, professional knowledge, AI skills, AI experience, and quality and ability. We use our self-developed AI algorithms and large model technology to deeply mine and analyze employee data, generate AI portrait reports for each key talent, and identify tens of thousands of key talents.
+# Talent reserve and selection tools
+Baidu always pays attention to fairness and transparency in the recruitment process. In interviewer training, it is emphasized that interviewers should screen and evaluate candidates fairly and impartially, while respecting the diversity of employees. Interviewers should not discriminate against candidates based on salary, gender, age, financial status, marital status, appearance, religious beliefs, political stance, sexual orientation, etc.
+# High-end talent pool
+In 2023, Baidu&#39;s Talent Think Tank team worked with the college entrance examination business team to complete the construction of a high-end talent pool and build more than 1,000 detailed high-end talent portraits to help the company match the multi-dimensional high-quality talents it needs.
+# Intelligent Recruitment System
+Intelligent recruitment provides auxiliary recruitment functions such as resume analysis, resume profiling, person-job matching, talent assessment, smart pen/interview, etc., intelligently analyzes fluctuations in supply and demand in the AI talent market, and assists in recruitment decisions.
+3E Talent Label: The label architecture adopts the 3E model, which stands for Evidence (objective facts, results), Engagement (organizational roles, behaviors), and Engine (capabilities and qualities, evaluations), covering all talent management scenarios including talent inventory, promotion management, organizational assessment, and talent identification.
+# 36 Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Empowering people
+Baidu is reconstructing its talent training and development model with AI empowerment as its focus, using a team of top talents to meet complex challenges.
+# Promotion and Development
+Baidu encourages employees to be promoted across levels and to be promoted exceptionally, and provides more advancement channels and internal mobility opportunities for outstanding talents.
+At the same time, Baidu accelerates the promotion and development of AI talents through a flexible talent flow mechanism. We encourage outstanding employees to participate in important AI projects, and through project performance evaluation, expert considerations, etc., more opportunities are tilted towards outstanding AI talents.
+# Hierarchical governance mechanism for talent training
+Baidu has established a wide range of training programs for employees in different positions and at different stages of their career development.
+# Talent Training
+Baidu provides a comprehensive training program for all employees, taking into account the overall improvement of core competitiveness such as professionalism, leadership and professional ability, and industry insight. In 2023, Baidu&#39;s employee training platform Duxuetang added 7 special areas related to AI big models and 210 courses to provide employees with rich AI learning resources.
+Baidu has launched projects such as the Zero Degree Breakthrough compulsory course, the Mentor teaching mechanism, and the &quot;AI to the Future&quot; campus recruitment newcomer growth plan to help graduates successfully complete the transformation from campus to the workplace, integrate into the company culture, and stimulate AI perception.
+# Campus recruitment training
+Baidu&#39;s various business groups have launched special training programs for graduates, such as the MEG Redness Program, the TPG Intelligence Program, the ACG Tengyun Program, etc., aiming to enhance the professional capabilities and collaborative awareness of campus recruits.
+# Baidu Talent Training Platform and Training Mechanism
+The series of leadership development training programs developed by Baidu, such as the Qihang, Qingzhou and Linghang programs, aim to provide managers with a comprehensive leadership training system to ensure that they have the leadership for innovation, change and team development.
+# Manager Training
+In 2023, Baidu Technology Training Center (BIT) will organize a large number of AI-themed training and activities for the company&#39;s TPE professional series employees to promote the improvement of AI native thinking among all employees.
+# Professional training
+Big Model and AI Native Training: We organize a variety of training and learning activities around the basic knowledge of big models, prompts, business AI native practices, etc., covering more than 450,000 people in total.
+The 27th Hackathon: Focusing on &quot;Big Model Application&quot;, attracted 823 employees to sign up and collected 435 registered ideas, which effectively helped the business to innovate the application of big models.
+Engineer Day Activities: Carry out the &quot;Full Code Power&quot; theme competition, &quot;AI Hot in the City&quot; theme conference, &quot;Effective&quot; performance forum, etc., to help engineers use AI capabilities to reconstruct the R&amp;D process and advocate a new paradigm of AI-native R&amp;D in the era of big models.
+# External joint training
+Baidu has partnered with Renmin University of China Business School to provide all Baidu employees with on-the-job postgraduate opportunities and tuition discounts, as well as academic certification support, to help students with their long-term career development. In 2023, a total of 21 Baidu students were successfully enrolled.
+Topics include basic applications of large models, first principles of large models, AI business thinking, and quick reading of papers in the AI field.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Diversity Training
+Based on the Baidu Human Rights System and Baidu Employee Handbook, Baidu insists on ensuring equal training opportunities for everyone. Baidu has set up the Baidu Women&#39;s Leadership Forum for female managers to help Baidu&#39;s female employees achieve better career development. For employees from different countries, regions, nationalities and genders, Baidu has set up a special topic of &quot;Diversity and Inclusion in Baidu&#39;s Workplace Culture&quot; in Baidu Academy to create an equal and inclusive working environment.
+# Baidu&#39;s First Prompt Competition
+Baidu planned the first Prompt Competition, opening 11 tracks around business scenarios, attracting 238 employees from 88 departments to sign up for the competition, submitting 338 Prompt templates, and the output works were cumulatively experienced 7,725 times by 1,847 people. 40% of the registered contestants are non-R&amp;D employees, which means that more and more roles can use Prompt to participate in the development practice of AI native products.
+# Zero Degree Breakthrough Required Course
+Baidu&#39;s Zero Degree Breakthrough Project is the first &quot;compulsory course&quot; for new students entering Baidu. Through offline training courses, completing individual and team tasks in the form of &quot;points competitions&quot; and final exams, it helps students gain a deep understanding of the company&#39;s values and culture, aiming to build strong teamwork capabilities and improve overall work efficiency.
+# 2023 Employee Training Performance
+|Indicator name|Category|Unit|2023|
+|---|---|---|---|
+|Percentage of employees trained|/|%|100|
+|Percentage of employees trained by gender|Male employees|%|100|
+| |Female employees|%|100|
+| |Senior Manager|%|100|
+|Percentage of employees trained by job level|Middle-level managers|%|100|
+| | Grassroots staff|%|100|
+|Average training time for employees|/|hours|38.50|
+|Average training hours for employees by gender|Male employees|Hours|38.09|
+| |Female employee|Hours|39.17|
+|Average training hours for employees by job level|Senior managers|Hours|31.15|
+| |Mid-level manager|Hours|36.35|
+| | Grassroots staff|Hours|42.17|
+# Required course for new technical personnel
+For technical talents, Baidu has set up the &quot;Code God Training Camp&quot; as a compulsory course for new T-series employees, aiming to help new employees quickly familiarize themselves with the company&#39;s tool platform and safety system, improve their personal engineering awareness, consolidate their basic R&amp;D skills, and promote the improvement of R&amp;D efficiency. It is divided into three stages: &quot;pre-job-entry-advanced&quot;, which are respectively for new T-series students before joining, the first week of joining, and the first six months of joining. Through online course learning and certification exams, etc., new students can get started with work as soon as possible and improve their personal professional strength.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Digital empowerment
+Baidu uses its self-developed AI tools to help employees improve their work and learning efficiency, and install accelerators for their career development and personal growth.
+# Comate platform helps employees improve work efficiency
+Baidu&#39;s Comate platform uses AI to automatically generate code, providing strong support for the process-based scenarios of large model development and helping to improve employee R&amp;D efficiency. In 2023, with the help of the Comate platform, Baidu&#39;s annual completion demand for technical staff will increase by 11.6% year-on-year compared to 2022.
+# Comate Platform
+Comate platform supports AI automatic code generation. At present, the penetration rate of AI code in Baidu&#39;s native R&amp;D tools has reached 80%, and the proportion of AI code generation in the group has reached 20%.
+Comate Stack provides AI native R&amp;D tool support in four scenarios: SFT data process closed loop, Prompt development and release process, large model and AI application evaluation, and low-code AI application development platform. In 2023, Comate Stack has been used by more than 10,000 internal users of Baidu.
+# Coding = mate, Pair you createBaidu Comate
+# Duxuetang uses AI big models to improve training efficiency
+Baidu&#39;s &quot;DuXuetang&quot; uses digital labor to reduce costs and increase efficiency in employee training, greatly improving the efficiency of online learning and unleashing employee productivity.
+# AI digital human teaching
+Duxuetang uses AI digital humans to teach instead of lecturers, saving lecturers’ time in repeatedly recording courses.
+# AI intelligent search and intelligent summary
+By embedding smart search and smart summary functions in online courses, Baidu employees can identify and filter massive course content and learn the required knowledge and skills in a more targeted manner.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Talent Guarantee
+# Rights Protection
+Baidu respects and is committed to protecting the rights and interests of its employees, and strives to create a fair, diverse, mutually respectful, warm and positive working environment for its employees.
+Baidu attaches great importance to the protection of employees&#39; human rights, eliminates illegal employment practices such as forced labor and child labor, strictly prohibits human rights violations such as workplace harassment and discrimination, and safeguards the legitimate rights and interests of employees.
+# Baidu Human Rights Policy and Human Rights Tracking Indicators
+# Salary and Benefits
+While Baidu continues to improve its salary competitiveness, it continues to use an incentive model that combines short-term incentives with long-term incentives to encourage employees to create and share with the company. In 2023, Baidu&#39;s short-term incentive policy covers all employees, and long-term incentive policies such as stock options cover nearly half of its regular employees.
+# Baidu employee salary and performance incentive mechanism
+# Employee Communication and Feedback
+Baidu values the opinions and feelings of its employees, advocates &quot;no detours&quot;, and creates a transparent, inclusive and open working atmosphere. In 2023, Baidu conducted an employee engagement survey covering all employees. 85% of employees showed positive comments in the engagement survey, and overall satisfaction and engagement increased year by year.
+# Non-salary benefits and care
+Baidu has built a rich non-salary benefits system to provide employees with multi-faceted employee care in areas such as life, education, family, and medical care, thereby enhancing their sense of belonging, value, and happiness.
+In 2023, the company held three director meetings and communicated the company&#39;s strategic orientation to employees, which has been read by more than 300,000 people. In addition, the main leaders of each system and business leaders also actively shared their thinking evolution, communicated business development, listened to the front-line voices, and responded to employee concerns through all-staff meetings and internal communication meetings. Relevant opinions and speeches are dynamically published on the intranet to promote full communication between employees and management.
+# Employee reporting channels
+Baidu encourages employees to report difficulties and problems encountered in the workplace through various channels and to actively speak out against workplace unfairness. The Baidu Employee Handbook covers detailed employee reporting and complaint channels, including email addresses, mailing addresses, the location of the professional ethics suggestion box, and the contact information of the &quot;Sunshine Workplace&quot; face-to-face reporting contact.
+# Health and safety
+Baidu has established risk prevention and emergency measures, completed ISO 45001 occupational health and safety system certification, prevented work-related injuries and deaths among employees, carried out psychological counseling and physical exercise activities to relieve employees&#39; occupational and health pressures, and made every effort to ensure the health and safety of employees.
+# Baidu&#39;s employee health and safety management measures
+# Baidu employee communication and complaint mechanism
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+| Baidu data center PUE average | Renewable energy usage |
+|---|---|
+|1.19|52,179,275.0kWh|
+|PUE annual minimum value| |
+|1.11| |
+|The data center&#39;s &quot;Lingxi&quot; liquid cooling system saves about 26,000 kWh of electricity per year|
+|Baidu Building, Technology Park, and Kuike Building have been acquired | |
+|First launch|Energy management monitoring platform|
+|ISO 50001|ISO 14001 certified|
+|CDP Climate Change Questionnaire Rating: B| |
+|Holding Baidu World|The 4th IFF &quot;Zero Carbon Conference&quot;|
+| |Global Green Finance Award|
+# Green Concept
+Baidu actively responds to the goals of the international Paris Agreement and the country&#39;s &quot;3060&quot; dual carbon goals, and is committed to applying artificial intelligence technology to achieve green transformation and empower the green development of users, industries and society.
+Compared with the data in 2022, the main factors for the change of Baidu&#39;s PUE are: 1. Global warming, frequent extremely hot weather, and increased power demand for server cooling; 2. Large model training increases power consumption; 3. As Baidu&#39;s business expands, the power required for server operation also increases accordingly. Based on this, we will optimize and coordinate the relationship between energy use and business development to achieve cost reduction, efficiency improvement, and sustainable development.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Climate Change
+Climate change is a common challenge facing mankind, and all parties need to work together to address the risks it brings. Baidu assumes corporate responsibility to address climate change, identifies climate risks in its operations, and seeks development opportunities.
+Strategy: Following the announcement of the climate goal of achieving carbon neutrality by 2030 in 2021, Baidu has developed six emission reduction paths and carried out green practices. We continue to improve energy efficiency and the proportion of clean energy use. At the same time, we apply AI technology to enable green development in various industries.
+# Governance
+Baidu has established a climate change management system with the board of directors as the highest leadership, referring to the framework and recommendations of IFRS &quot;International Financial Reporting Sustainability Disclosure Standard No. 2 - Climate-related Disclosures&quot;, and has assigned a climate risk organization management team to be responsible for implementing specific work and gradually integrating climate change into corporate governance.
+# Baidu&#39;s six emission reduction paths
+|Board of Directors|Directs and approves overall climate change objectives and implementation plans|
+|---|---|
+|ESG Committee|Provide advice on climate change response, set goals and action paths|
+|ESG Working Group|Oversee the implementation and execution of climate change work|
+|Climate Risk Organization Management Team|Develop and implement response plans|
+# Baidu&#39;s six emission reduction paths
+- Build a green data center
+- Building smart office buildings
+- Carbon offset
+- Full-chain carbon reduction technology empowerment for intelligent transportation
+- Smart cloud empowers energy-saving and carbon-reduction technologies
+- Green supply chain partnership mechanism
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Risk Management
+In 2023, Baidu will take into account the potential impact of the development of large models based on the original climate change risk identification list, and formulate specific response measures based on the identified climate change risks:
+# Baidu Climate Change Risks and Response Measures
+|Type of risk|Risk description|Risk response measures|
+|---|---|---|
+| Policy and regulatory risks | International and domestic regulatory agencies, capital market rating indexes, etc. continue to increase the disclosure requirements for corporate environmental information | Strengthen environmental information disclosure research policy control risks, strengthen communication with stakeholders, and respond to the requirements of various stakeholders. Refined energy management, automatic statistics of various energy efficiency data, and regular disclosure of the proportion of green technology and clean energy used to achieve energy conservation and efficiency improvement, reduce carbon emissions, participate in CDP and other capital market ratings, and improve the level of environmental information disclosure. In 2023, Baidu CDP climate change questionnaire rating is B |
+|Market Risk|With the increasing public demand for low-carbon consumption, if Baidu&#39;s existing data centers and Xiaodu smart home products fail to effectively reduce carbon emissions during production and operation, it will directly lead to downstream customers&#39; preference for low-carbon consumption, reducing demand for related products and services, resulting in a decline in operating income|Responding to the market&#39;s demand for low-carbon consumption Based on years of AI technology accumulation, we continue to launch green solutions such as smart heating, smart water, and smart transportation for transportation and high-emission companies to help customers achieve green and low-carbon transformation Build a green data center and strive to provide customers with AI cloud services with 100% renewable energy Optimize the packaging materials of Xiaodu smart home products and use renewable and recyclable materials to meet green consumption needs|
+|Reputation risk|If Baidu only releases climate strategies and related statements without taking substantive measures, it will be widely questioned by customers, investors and the public due to &quot;greenwashing&quot;, which will affect the corporate image|Manage reputation risk Based on Baidu&#39;s six emission reduction paths, regularly disclose emission reduction measures and results, and further formulate emission reduction targets and methods to achieve them|
+|Technical Risk|Under the background of the national dual carbon goals, low-carbon technology is booming, which puts higher requirements on Baidu&#39;s energy-saving and environmental protection technology research and development, implementation and application, and special investment in energy conservation and emission reduction|Accelerate the transformation of low-carbon technology. Explore the combination of AI technology, power supply system, cooling system, computing power and other technologies, and consider the adaptability of technical solutions. In the data center, the maximum application of renewable energy such as wind power and solar energy is used, and low-energy consumption equipment is used to carry out predictive analysis and automatic scheduling through artificial intelligence technology, effectively schedule resources, and improve the efficiency of sorting and computing. Baidu data center already has a number of intelligent cooling solutions and systems, such as &quot;Glacier&quot; phase change cooling technology, &quot;Lingxi&quot; liquid cooling technology, and immersion liquid cooling technology. In 2023, the average PUE of Baidu data center is 1.19, and the annual minimum PUE is 1.11|
+|Acute risks|Extreme weather conditions such as typhoons and extreme rainfall may cause interruptions to the daily operations of the data center and the company, and have a negative impact on Baidu&#39;s business operations and corporate image|Complete local natural disaster pre-analysis for data center site selection, so as to avoid areas affected by extreme weather such as typhoons and extreme rainfall in advance and protect the safety of the data center. Formulate emergency management plans for extreme natural disasters, natural disaster prevention and control plans, and emergency measures for emergencies. In 2023, the data center formulated &quot;G-IDC-STA-OP-005-Baidu Data Center Emergency Management V1.0&quot;, and prepared emergency plans for multiple extreme scenarios such as public health events, fires, typhoons, earthquakes, safety accidents, power restrictions, and waterlogging, and regularly organize full-staff drills|
+|Chronic risks|Changes in climate and precipitation patterns may lead to sustained high temperatures and water shortages, increasing the cost of water resources required for data center operations and posing greater challenges to data center cooling and water-saving technologies|Self-built data centers should give priority to areas that can efficiently utilize natural cooling technology and are rich in green energy (such as wind power and other renewable energy) and continue to develop liquid cooling technology to reduce the energy consumption of mechanical refrigeration|
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Green Finance
+To ensure a stable supply of funds for green technology research and development, Baidu is actively exploring green financial products. Since the successful pricing and issuance of a $1 billion sustainable development bond, Baidu has established a sustainable finance working group. Based on the sustainable financing framework and in line with the United Nations Sustainable Development Goals, Baidu continues to contribute to 10 sustainable issues, including affordable clean energy, sustainable cities and communities, and good health and well-being.
+Baidu actively carries out green actions, constantly explores ways to save energy and reduce emissions from small practices, continuously improves the use rate of new energy, and carries out green cultural publicity activities.
+In 2023, Baidu won the Global Green Finance Award &quot;Annual Award&quot; for its active actions and leadership in green bonds to help the group save energy and carbon reduction, protect the environment and promote green social development.
+# Environmental Performance
+In 2023, we started carbon verification work on 33 operating sites (including office buildings and data centers). For details on the carbon verification method, please refer to the &quot;Appendix - Carbon Emissions Accounting Method&quot; of this report.
+# Energy usage
+# Metrics and Goals
+Since setting the carbon neutrality target 15 years ago, Baidu has actively carried out greenhouse gas emissions inventory, implemented refined management of energy consumption and carbon emissions, formulated carbon emission reduction action plans, and continuously promoted greenhouse gas emission reduction work.
+# Greenhouse gas emissions
+|Category|Unit|2021|2022|2023|
+|---|---|---|---|---|
+|Category 1 Greenhouse gas emissions|tons of carbon dioxide equivalent|16,407.0|20,320.9|20,039.0|
+|Scope 2 GHG emissions (location-based)|tonnes CO2e|601,740.2|801,942.2|903,195.5|
+|Scope 2 GHG emissions (market-based)|tonnes of CO2 equivalent|-|-|851,017.7|
+|Category 3 Greenhouse gas emissions|tons of carbon dioxide equivalent|1,173,460.6|1,299,528.5|1,452,401.7|
+|Total greenhouse gas emissions (based on location)|tonnes CO2e|1,791,607.8|2,121,791.6|2,375,636.2|
+|Total greenhouse gas emissions (market-based)|tonnes of CO2 equivalent|-|-|2,323,458.5|
+# Energy usage
+|Indicator|Unit|2021|2022|2023|
+|---|---|---|---|---|
+|Diesel|tons|184.0|118.5|81.1|
+|Gasoline|kg|8,712.7|377,725.3|8,171.2|
+|Natural gas|10,000 cubic meters|260.0|267.2|277.3|
+|Electricity|MWh|673,829.3|902,076.0|1,020,507.6|
+|Purchased heat|GJ|110,680.7|447,437.2|456,329.5|
+|Renewable Energy|kWh|3,049,469.3|6,074,031.0|52,179,275.0|
+# Greenhouse gas emission intensity
+|Indicator|Unit|2021|2022|2023|
+|---|---|---|---|---|
+|Greenhouse gas emissions intensity (based on location)|tonnes of CO2 equivalent/million|14.4|17.2|17.6|
+|Greenhouse gas emissions intensity (market-based)|tonnes of CO2 equivalent/million|-|-|17.2|
+# 52 Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# 53
+# Waste generation
+# Water use
+|Indicator|Unit|2021|2022|2023|
+|---|---|---|---|---|
+|Total amount of non-hazardous waste discharged|tons|6,939.0|5,273.8|5,105.2|
+|Non-hazardous waste emission density|tons/person|0.2|0.2|0.2|
+|Total hazardous waste emissions|tons|27.5|6.9|26.6|
+|Hazardous waste discharge density|tons/person|0.0008|0.0002|0.0008|
+|Indicator|Unit|2021|2022|2023|
+|---|---|---|---|---|
+|Total water consumption|tons|1,576,309.8|1,997,531.4|2,071,681.1|
+|Water density|tons/person|43.3|57.4|61.5|
+|Total displacement|Tons|584,399.9|903,837.2|698,859.4|
+|Rainwater recovery|tons|6,640.0|5,210.0|5,551.0|
+21 Including office paper, waste paper boxes, books and newspapers, waste metal, waste plastic, kitchen waste and other non-hazardous waste
+22 Including waste light bulbs, waste electronic equipment, waste toner cartridges and waste batteries. In 2022, Baidu will sell obsolete electronic equipment to the second-hand market, significantly reducing the emission of hazardous waste
+23 The 2022 water discharge data was misreported. This report has revised the 2022 total water discharge data.
+# 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Green Data Center
+Baidu is committed to building energy-saving and low-carbon data centers. The data center has set up a low-carbon energy-saving management team, built an operation and maintenance management platform, and referred to the operation data of previous years to formulate annual carbon usage rate (CUE), power usage efficiency (PUE) and water resource usage rate (WUE) goals, and disassembled the goals into monthly and quarterly indicators for evaluation and assessment. In 2023, the average PUE of Baidu&#39;s data center was 1.19, and the module with the lowest PUE was the Yangquan computer room #1 module with an annual average PUE of 1.11.
+# Power supply solution
+The world&#39;s first direct grid power supply + high-voltage DC offline architecture, with a power supply efficiency of up to 99.5%.
+Baidu&#39;s &quot;Dupinghu&quot; DC lithium battery system integrates high-voltage DC technology and lithium battery technology for the first time, innovating data center architecture and building layout, and won the &quot;Innovation Pioneer&quot; award at the first China Computing Power Conference.
+# Refrigeration Technology
+&quot;Glacier&quot; phase change cooling technology, the industry&#39;s first &quot;Ultimate Reverse Carnot Cycle&quot; cooling system, uses oil-free phase change cooling technology, and won the DC-Tech Excellence Innovation Pioneer Award, the highest award for data center innovation technology from the Ministry of Industry and Information Technology, and was selected into the National Communications Industry Energy-Saving Technology Catalog. Compared with traditional cooling solutions, it increases computing power by 20%, reduces IT annual TCO per kW by 20%, and reduces carbon emissions by 60%.
+# Data Center Green Initiatives
+In 2023, Baidu released the &quot;Lingxi&quot; liquid cooling system, which adopts a distributed architecture and can achieve &quot;air-liquid homology&quot; and &quot;air-liquid ratio&quot; adaptive adjustment; it supports a single cabinet power density of more than 100kW; taking a data center with 10,000 servers as an example, compared with traditional air cooling solutions, annual electricity savings can reach 262.8 million kWh, and CO2 emissions can be reduced by approximately 206,300 tons.
+# Water-saving technology
+Apply electromagnetic wave water treatment technology to evenly purify sewage. In 2023, Baidu Yangquan data center water treatment system uses electromagnetic wave water treatment technology, saving 20% of water.
+# Energy Management
+Immersion liquid cooling technology immerses all IT equipment in insulating liquid, dissipates heat through the circulation exchange of liquid, and achieves 100% liquid cooling of IT equipment; in 2023, the first immersion liquid cooling system was officially launched in Module 13 of Yangquan Computer Room.
+# Waste heat recovery
+A plate heat exchanger is installed to use chilled water to preheat humidified softened water, increase humidity, and reduce the operating energy consumption of the wet film humidifier. In 2023, the Yangquan 1# module will increase the humidification efficiency by 35% by installing a plate heat exchanger, saving 38,000 kWh of electricity consumption throughout the year.
+# Water efficiency management
+By applying sewage reuse technology, the sewage wastewater is treated by ultrafiltration, desalination, etc. to produce cooling water that meets the requirements for recycling.
+The single-module water-saving rate of Baidu Cloud Computing (Yangquan) Center reached 44.8%, and the annual water saving of the park reached 480,000 tons.
+# Water-saving equipment
+Water-saving cooling towers are preferred. Reverse osmosis water treatment systems are used to treat and recycle sewage.
+# Storage Devices
+Based on the low-frequency reading characteristics of stored data, the tape library storage medium solution was introduced, and the power consumption per TB was reduced to 0.024W/TB, which is only 1/13 of that of traditional hard disk drives.
+# Hardware Optimization
+Use box core to reduce the power supply requirements of a single cabinet.
+# Optimize network layout
+According to the business traffic model, regional topology optimization is completed to improve bandwidth utilization and reduce energy consumption.
+# Clean energy use
+Taking full advantage of solar energy, a 100KWP photovoltaic power station was built at the Baidu Cloud Computing (Yangquan) Center, which was successfully connected to the grid and has an annual power generation capacity of approximately 120,000kWh.
+# Green Certificate Purchase
+Purchase 50,000 I-Rec international green certificates, equivalent to 50 million kWh of green electricity.
+# 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Green Office
+Baidu actively manages energy and resources in office areas and promotes international standardized energy management system and environmental management system certification. In 2023, Baidu Building, Technology Park, and Kuike Building have obtained ISO 50001 and ISO 14001 certifications.
+The comprehensive environmental monitoring cloud platform is used in the office area to monitor and adjust the temperature, humidity and other environmental data of the office in real time to achieve refined energy management.
+# Operations
+# Water resources
+Set water conservation targets.
+# Water-saving appliances
+Use sensor-operated water-saving appliances.
+# Recycling
+Using rainwater recycling technology, Baidu Technology Park collects 3,195 cubic meters of rainwater through rainwater recycling devices throughout the year.
+The cooling tower is equipped with overflow return device, and the cooling tower recycles 15,830 cubic meters of water.
+A cooling tower and water landscape pool overflow return device were added in front of the recycled water collection pool in Baidu Building, and 568 cubic meters of recycled water were used for irrigation.
+# Energy Management Monitoring Platform
+Create a multi-dimensional and comprehensive refined and intelligent energy management system for the group.
+# Equipment modification and maintenance
+Replace 57,000 LED lamps, upgrade the intelligent lighting system of the science and technology park garage and office area, and accelerate the replacement frequency of air-conditioning system filters, saving a total of 5.58 million kWh of electricity in 2023.
+60 elevators have been retrofitted for energy saving, and the 28 elevators in operation in the first phase will generate 190,000 kWh of electricity in 2023.
+# Clean Energy
+Solar photovoltaic panels will be installed in Baidu Building, Penghuan Building, Baidu Technology Park, and Shenzhen Baidu International Building, generating a total of 1.497 million kWh of electricity in 2023.
+Using solar energy to heat domestic water reduces natural gas consumption by 45,000 cubic meters per year.
+# Green Power Trading
+Purchased 1.2 million kWh of green electricity.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Waste Management
+Baidu insists on fine management of garbage and cultivates the habit of garbage classification among employees. We classify garbage and hand it over to professional companies for removal. At the same time, we record and monitor the amount of various types of waste generated every day. For scrapped computers and other office equipment, we look for companies that have the qualifications to handle scrapped electronic equipment to recycle and sell them, and treat the parts that have no use value harmlessly.
+# Energy Management Monitoring Platform
+In 2023, based on its technical capabilities in green operation strategies and intelligent control, Baidu developed an energy management and monitoring platform, deployed more than 1,300 automatic energy collection points in office buildings, and carried out comprehensive and refined management of water, electricity, heat, gas and other energy, integrated management of energy and carbon targets, and intelligent operation and maintenance of HVAC systems.
+# 2023 Office Waste Classification Statistics
+|Category|Weight (kg)|
+|---|---|
+|Office Paper|14,362.6|
+|Waste paper boxes, books and newspapers|14,832.0|
+|Scrap Metal|696.0|
+|Waste plastics|2,169.0|
+|Light Tube|5,719.0|
+|Electronic equipment|8,851.0|
+|Toner Cartridges|1,483.0|
+|Battery|40,780.0|
+|Food waste|2,179.2|
+|Other garbage|2,894.0|
+# &quot;Zero Carbon Conference&quot; Baidu World Conference 2023
+On October 17, 2023, Baidu World 2023 with the theme of &quot;PROMPT THE WORLD&quot; was held in Beijing Shougang Park. The conference purchased wind energy carbon emission reduction quotas that met international standards. After data verification by an authoritative third-party agency, it completely neutralized the 80.1 tons of carbon dioxide generated by the conference, creating a &quot;zero-carbon conference.&quot;
+# 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+AI big models are expected to increase content review efficiency every year
+|Total number of complaints received|20%|30,780,043| | |
+|---|---|---|---|---|
+| | Clear harmful information through manual inspections | Total number of complaints and feedback processed | More than 86,453,000 | 30,516,857 |
+| Fight harmful information through machine big data mining | Processing rate reaches 99% | More than 60.436 billion | | |
+|Establish &quot;Baidu Wenxin Investment Fund&quot;|1 billion yuan|1 billion yuan| | | |
+| | |China&#39;s patent applications exceed |grants exceed | |
+|Risk exposure rate of serious violations|0.10%|3,000 cases| | |
+| | |Ranked first in China for 6 consecutive years|5,000 pieces| |
+|Won a total of 15 Chinese Patent Awards in the AI field, including 1 Chinese Patent Gold Award and 6 Silver Awards|15, including 1 Chinese Patent Gold Award and 6 Silver Awards| | | |
+|Won the title of &quot;National User Satisfaction Telecom Service Star&quot; and | &quot;National User Satisfaction Telecom Service Star Team&quot; by the Ministry of Industry and Information Technology. | | | |
+# Quality of Service
+Baidu is committed to providing users with high-quality, secure, and reliable products and services, respecting and protecting human rights, focusing on content governance, improving user service experience, continuously promoting the company&#39;s innovative development, empowering industrial development with AI technology, and achieving industry co-construction.
+Won the third Best Customer Service Award from China Consumers and was named one of the top 100 Chinese service brands for two consecutive years.
+# 62 Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Content Governance
+Baidu adheres to the mission of &quot;using technology to make the complex world simpler&quot;, continuously improves the construction of its content governance system, and is committed to providing users with high-quality, safe and responsible products and services.
+Governance outcomes
+Baidu has always fulfilled its mission of participating in public content governance and maintaining the security of the online society. It has continued to crack down on all kinds of bad online information, and regularly publishes the &quot;Information Security Comprehensive Governance Monthly Report&quot; to publicly release the results of content governance to the public. In 2023, Baidu cleaned up more than 86.453 million pieces of harmful information through manual inspections, cracked down on more than 60.436 billion pieces of harmful information through machine big data mining, intercepted 61.346 billion times of various malicious information, blocked 79.75 billion times of all kinds of malicious websites on the entire network from reaching users, blocked 89.6 million times of fraud-related websites and apps, and protected citizens&#39; personal information from malicious disclosure 250,000 times a day on average.
+# Product Content Governance
+Based on the original content governance process, Baidu uses the unique characteristics and audit advantages of the AI big model to ensure the standardization of audit standards and improve audit efficiency and quality; it combines the AI big model with the original appeal mechanism to improve the user complaint handling rate.
+# The amount of harmful information crackdown in 2023
+|Control the number of gambling information|Control the number of pornographic information|Control the number of fraud information|
+|---|---|---|
+|19.513 billion|28.699 billion|5.53 billion|
+# Advantages of AI large model audit
+Ensure the standardization of audit standards
+Based on the characteristics of semantic understanding and analytical judgment of AI big models, by instilling dynamic content review principles into the big models, the big models are trained to learn and understand content review standards, thereby ensuring the stability and standardization of review standards.
+Improve audit efficiency and quality
+By pre-training the large model, it is enabled to have the ability of real-time review and adapt to real-time review tasks. It provides reminders of review standards during the process of user content production, and assists users to adjust non-compliant content in a timely manner.
+Through the efficient use of big models, the review time is shortened, the review efficiency is improved, the enthusiasm for content production is increased, and the content ecology is enriched.
+Improve complaint handling rate
+By leveraging the autonomous identification and detection capabilities of large models, we conduct preliminary review and filtering of user complaints, thus speeding up the entire complaint process.
+# Governance Training
+Baidu regularly conducts relevant training on content governance to enhance awareness of content risk management and content governance standards, thereby improving the quality and efficiency of audits. In 2023, Baidu conducted a total of 247 training sessions on content risk management, including 64 special training sessions and 183 new employee safety awareness training sessions.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Commercial Content Governance
+Baidu strictly abides by the laws and regulations of the place of operation, such as the &quot;Advertising Law of the People&#39;s Republic of China&quot;, &quot;Anti-Unfair Competition Law of the People&#39;s Republic of China&quot;, and &quot;Interim Measures for the Administration of Internet Advertising&quot;, and has formulated the &quot;Baidu Commercial Advertisement Management Requirements&quot;, which strictly regulate the advertising placement in multiple industries such as food, health, chemical energy, agriculture, forestry, animal husbandry and fishery, real estate and home furnishings, luggage and clothing, games, software, etc., to guide daily management work.
+# User Rights Protection
+|User Rights|Safeguarding Measures|
+|---|---|
+|Right to freedom of opinion and expression|Continuously improve policies and measures related to the right to freedom of opinion and expression, and respect and protect the right to freedom of expression of all users. |
+|Right to life and health|Increase the efforts to deal with illegal and harmful information on the Internet, maintain a healthy and orderly Baidu content ecosystem; focus on cracking down on health and medical related commercial promotion information, as well as information related to violence, to protect the health of users. |
+|Right to equality and freedom from discrimination| Help all social groups, including vulnerable groups, to obtain information equally, save information acquisition costs, and achieve &quot;data equality&quot;. |
+|Right to be free from harassment and violence|Increase the crackdown on negative information such as online violence and harassment to ensure that users enjoy basic respect. |
+# Governance system
+Baidu has a complete commercial content management system of &quot;AI machine review + manual re-inspection + manual inspection&quot;, which comprehensively utilizes multiple algorithms and models to form a full life cycle management and control mechanism of commercial promotion content management of &quot;pre-monitoring - in-process interception - post-event tracing&quot;, effectively ensuring the compliance of advertising content.
+Baidu uses large models to monitor commercial promotion content generated in real time, quickly capture and identify negative information in the promotion content, and eliminate such advertisements in a timely manner, effectively saving time required to review advertising content due to non-compliance, and improving the efficiency of generating high-quality and high-standard advertisements.
+# Governance Training
+Baidu has carried out advertising governance training activities covering all base auditors across the country to strengthen commercial risk control awareness and ensure the standardized implementation of advertising content governance. In 2023, Baidu conducted more than 175 advertising governance-related training courses, including new employee training and related training for various business lines. The coverage rate of auditors participating in the training reached 100%, and the average training time per person was 3 hours/week.
+Baidu Tieba has integrated AI big model technology into the existing content review process, training the big model to understand obscure and implicit content information, further enhancing the effectiveness of content review and governance, and achieving more comprehensive protection for minors.
+# Advertising Complaints and Risk Management in 2023
+In 2023, Baidu received more than 300 complaints about medical-related advertisements, with a response rate of 100%. In 2023, Baidu effectively improved its ability to review text, audio, and video content in advertisements, with the review accuracy increased by more than 56% and the risk elimination rate reaching 99.90%.
+In 2023, there were a total of 37,307 disputes throughout the year, of which Baidu effectively protected 10,585 disputes and paid advance compensation of RMB 160,000.
+# Use AI to empower content review and protect the physical and mental health of minors
+Baidu uses large AI models to enhance the recognition of semantic emotions implicit in texts and improve the judgment of sensitive words and negative emotions. With the help of AI&#39;s understanding ability, we can properly handle the physical and mental health risks of minors that are difficult to deal with through regular audits, identify information that may affect the physical and mental health of minors in advance, and carry out offline intervention. In addition, large AI models have been trained to identify underage pornographic content, and the accuracy has been significantly improved compared to traditional manual review.
+24 For details, please see Baidu 2020 Environmental, Social and Governance (ESG) Report, page 77
+26 Baidu&#39;s User Service Protection Measures
+25 Serious violation risk exposure rate = 1 - business risk elimination rate. Serious violation risks include endangering national security, improper promotion, banned promotion, lack of qualifications, etc.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# User Experience
+Baidu is committed to building a complete user service management mechanism and demand response system, continuously optimizing service quality and improving user satisfaction.
+# Baidu user service protection measures
+# User Service Management
+Baidu has established a User Service Management Committee to strive to protect the rights and interests of users.
+# User Service Management Committee
+|Baidu Excellent Service Committee| is composed of experts from inside and outside the industry and Baidu employees who value user experience. They jointly monitor Baidu&#39;s service level and study service strategies.|
+|---|---|
+|DuChaCha Self-Discipline Committee|As a committee of &quot;universal participation and supervision&quot;, it introduces social forces to jointly govern, handles the bad information reported by netizens with high priority, and carries out special governance for serious problems found|
+# User Service System
+Baidu continues to improve its user service system covering employees, users and products, and creates a closed loop of Baidu service ecosystem that integrates services and guarantees.
+# Service Platform
+Baidu User Service Center27 provides users with a one-stop self-service platform for feedback, complaints, and problem solving, covering the entire Baidu search product line.
+# staff
+A full closed-loop performance monitoring system is set up for all employees of the Service Experience Development Center from the three dimensions of &quot;work efficiency&quot;, &quot;work quality&quot; and &quot;behavioral norms&quot;, and regular evaluations are conducted every month.
+# Users
+It provides 24/7 service to more than 1 billion Baidu users, responds to 500,000 user requests per day on average, the customer service hotline has an average monthly response time of up to 30 seconds, and the manual service response rate exceeds 85%.
+# product
+The function of identifying official website search results has been launched to prevent fake websites from harming users.
+# Complaint channels
+Complaint hotlines, reporting websites, reporting mailboxes, reporting reception rooms, etc. ensure that users can find solutions as soon as problems arise, thus achieving the shortest service path.
+# Complaints grading system
+User stratification and problem classification basically ensure that all complaints are handled within one working day, and key complaints are responded to in a graded manner.
+27 Baidu User Service Center
+# 68 Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# 69
+# Baidu establishes Wenxin Investment Fund
+Innovation Management In May 2023, Baidu established the RMB 1 billion Baidu Wenxin Investment Fund to provide comprehensive support including funds, technology, and business resources to potential companies in the AIGC field, aiming to promote the development of China&#39;s AI big model ecosystem. Baidu has been unremittingly promoting innovation management, continuously improving its independent innovation capabilities, and working with the ecosystem to jointly accumulate innovative results.
+# Innovation Guarantee
+Baidu has established a complete intellectual property protection management system and mechanism, covering the entire life cycle of intellectual property, including patent training, patent layout, patent application, patent quality management, patent maintenance, innovation incentives, litigation management, risk prevention and control, and transformation operations.
+# Improve innovation capabilities
+Baidu has always believed that innovation is the driving force of scientific and technological progress. It attaches great importance to and encourages technological innovation and invention, and actively creates a cultural atmosphere of technological innovation.
+# System
+In 2023, Baidu updated the &quot;Baidu Group Patent Reward Measures&quot; to refine patent reward methods and innovation quality management to encourage higher-quality technological innovation and application of results.
+# Innovation investment
+Thanks to its marathon-style and intensive R&amp;D investment, Baidu has key self-developed technologies at the AI chip layer, framework layer, model layer, and application layer. According to statistics, Baidu&#39;s annual R&amp;D investment accounted for more than 15% in the past decade, and its core R&amp;D investment accounted for 21.67% in 2023.
+# Training
+Baidu regularly organizes patent training for each business department every year, and conducts patent application, quality improvement and operation empowerment training according to technical direction and business characteristics. In 2023, Baidu held more than 75 intellectual property training sessions to improve the level of business innovation.
+# Talent
+In 2023, in the &quot;China Artificial Intelligence Industry Innovation Talent Competitiveness Report (2023)&quot;, Baidu&#39;s R&amp;D team won the &quot;AI Industry Innovation Talent&quot; championship with a huge lead and ranked first in seven major fields28. Among them, Baidu&#39;s pre-trained large model innovation results, innovation capabilities and team size are all ranked first in China.
+# Independent full-stack layout, leading at every level, end-to-end optimization
+|Application layer|Search|Smart transportation|Finance|Water|Electricity|...|Ratent Wall|
+|---|---|---|---|---|---|---|---|
+|Model layer|Information distribution model|Traffic model|Energy model| | | | |
+|Framework layer| | | | | | | | |
+|Chip layer| | | | | | | | |
+28 The report was released by the Intellectual Property and Innovation Development Center of the China Academy of Information and Communications Technology. Baidu’s leading seven areas include: pre-trained large models, deep learning, natural language processing, knowledge graphs, intelligent speech, computer vision, and autonomous driving.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Innovations
+Baidu has achieved a number of domestic and international patent cooperations by virtue of its own patent leadership, realizing the diversified value of patents. To safeguard the original rights, Baidu respects the intellectual property achievements of others, attaches great importance to intellectual property protection, and is committed to establishing and maintaining a platform order of benign interaction.
+In 2023, Baidu&#39;s Chinese patent applications exceeded 3,000, and the number of Chinese patent authorizations exceeded 5,000. Baidu&#39;s AI patent applications and authorizations have ranked first in China for six consecutive years, and its patent authorization rate and patent quality are leading in the country. Baidu leads the country in patent layout at the AI framework layer, model layer, and application layer.
+# Technical Monitoring
+Use technology to monitor original programs and original content from key high-quality authors in real time, and conduct reasonable investigations and handling of potential infringing content.
+# Baidu Copyright Complaint Platform
+We have opened and continuously upgraded Baidu&#39;s Copyright Complaint Platform and set up smooth user complaint channels, aiming to efficiently and quickly handle user complaints about copyright issues and reduce the risk of infringement.
+|Cumulative AI patent applications| |Cumulative AI patent authorizations| |
+|---|---|---|---|
+|2023|19,308|2023|9,260|
+|2022|16,754|2022|5,705|
+|2021|13,007|2021|3,652|
+# Cumulative changes in AI patent applications
+# &quot;2023 Baidu Top Ten Technological Inventions&quot; released
+On September 12, 2023, Baidu released the &quot;2023 Baidu Top Ten Technology Frontier Inventions&quot;, of which more than 70% involve large models and reconstruction innovation. The top ten technology frontier inventions are a concentrated display of Baidu&#39;s cutting-edge innovation achievements in 2023, reflecting the realization and breakthrough of Baidu&#39;s many international cutting-edge core technologies. The high-quality patent innovation achievements represented by the &quot;top ten inventions&quot; are an important driving force for Baidu&#39;s technology to enable industrial transformation and upgrading, scientific and technological revolution and industrial transformation.
+# Leading the co-construction of the ecosystem
+Baidu fully leverages the advantages of its patent ecosystem resources to promote the construction of an industrial intellectual property ecosystem, share intellectual property through patent cooperation, promote collaborative innovation among partners, and lead the co-construction of the ecosystem.
+# &quot;Application of Artificial Intelligence Patents to Promote Industrial Development&quot; Forum
+On April 26, 2023, Baidu and the Beijing Intellectual Property Protection Association jointly held a forum on &quot;The Application of Artificial Intelligence Patents to Promote Industrial Development&quot; and released the &quot;Baidu Artificial Intelligence Innovation and Patent White Paper 2023&quot;, demonstrating Baidu&#39;s leading position in the field of artificial intelligence patents from the aspects of artificial intelligence big models, cloud-intelligence integration, autonomous driving, and intelligent search. The forum built a bridge for patent cooperation and exchanges in the AI industry. Dozens of industry representatives attended the meeting, which further enhanced the attractiveness of Baidu&#39;s AI industry intellectual property operation ecosystem and expanded Baidu&#39;s AI industry ecosystem.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+Baidu Scholarships total
+As of 2023, Baidu has successfully cultivated AI talents for society
+106 people
+The world&#39;s top AI students and talents
+Awarding of bonuses
+Over 10 million yuan
+Funds are allocated to support flood control and disaster relief in Beijing, Tianjin, Hebei and other regions
+6
+30 million yuan
+Launched the &quot;Baidu Talent Training Galaxy Plan&quot; to train big model talents for society
+5 million
+10.7 million +
+Community Development and Responsibility
+Baidu always adheres to the people-oriented principle, serves the society, upholds the social responsibility concept of &quot;technology for better&quot;, and creates a better life for the public.
+# 74 Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# AI Talent Training
+Baidu is committed to promoting technological equality in the era of big models, providing differentiated training programs for AI enthusiasts, AI developers, corporate users and entrepreneurs, breaking the boundaries of AI native applications, and enabling everyone to gain the right to learn and use AI technology.
+Baidu and the National Engineering Research Center for Deep Learning Technology and Applications jointly established the &quot;AICA Chief A Architect Training Program&quot; project, which aims to cultivate new compound talents who can use AI technology to solve practical business problems under the trend of the integration of artificial intelligence and the real economy. Since the first phase of the project was launched in 2019, it has delivered 410 AI architects to the industry. On October 28, 2023, the 7th AICA project was successfully completed, and 88 students obtained AI architect certification. Among them, one-third of the graduates focused on the application of large models in the industry and achieved early results. Baidu Wenxin&#39;s big model has penetrated into a wide range of industry scenarios such as finance, manufacturing, energy, and transportation, accelerating the intelligence of the industry.
+# AI Community Building
+Baidu launched the PaddlePaddle Galaxy Community with PaddlePaddle and Wenxin Big Model as the core. The developer community is the key support for the development of the ecosystem. As the largest AI community in China, PaddlePaddle has gathered more than 10.7 million AI developers to learn, communicate, compete and grow together. The platform has accumulated more than 6.9 million training projects, covering many fields such as AIGC, CV, and recommendation. 5,000+ applications are available online, supporting multiple creation methods, providing developers with an integrated big model development experience, and providing rich product functions to facilitate developer communication and make progress together with developers.
+# Training of young AI talents
+Baidu proposed the &quot;5 million AI talents&quot; plan in 2020 to cultivate AI talents for the whole society. In 2023, Baidu will launch the &quot;Baidu Talent Training Galaxy Plan&quot; based on the 4.2 million AI talents it has already cultivated, and will cultivate another 5 million big model talents for the society.
+# Baidu Scholarship Program
+The Baidu Scholarship Program aims to discover outstanding young people who have unique insights in the field of AI, dare to challenge traditions and break through themselves, and continue to promote technological innovation and application expansion in the field of AI. The 11th Baidu Scholarship selected 10 students from top international universities, and their research directions include cognitive intelligence construction based on large models, multimodal basic large models, AI+art, etc. Since its establishment in 2013, the Baidu Scholarship has awarded more than 10 million yuan in prize money to 106 top AI talents in the world.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# Rural Revitalization
+Baidu is actively involved in rural construction and contributes technological strength to the development and digital transformation of the agricultural industry.
+# Hardship assistance
+As a company with great compassion, Baidu uses its extensive social influence and communication capabilities to help people in need.
+Baidu has invested resources and professional teams to provide emergency assistance to disaster-stricken areas affected by extreme weather, and achieve post-disaster recovery and sustainable development.
+# “Technology helps a better countryside” e-commerce project
+In order to actively respond to the national &quot;rural revitalization&quot; strategy and further promote the &quot;Ten Thousand Enterprises Revitalizing Ten Thousand Villages&quot; campaign, Baidu launched the &quot;Technology Support·Beautiful Villages&quot; assistance plan, introducing more than a dozen companies represented by rural revitalization and local leading industries to enter the e-commerce platform, creating a &quot;sun never sets&quot; digital human live broadcast room that sells more than 70 kinds of goods 24 hours a day, and jointly with the Beijing Civil Affairs System to create Beijing&#39;s first smart community model room, running a new model of online digital human live broadcast sales + offline community joint promotion, helping farmers establish online sales channels, increase sales of agricultural products, and increase farmers&#39; economic income.
+# Help Beijing, Tianjin and Hebei in flood relief efforts
+In July 2023, the Beijing-Tianjin-Hebei region was severely affected by floods and geological disasters brought by Typhoon Dusurui. Baidu immediately set up a special rescue material team and used the merchant resources linked to the platform to raise more than 3.2 million yuan in rescue materials, covering 51 categories such as emergency rescue equipment, daily food, and daily necessities, totaling 51,000 items, providing timely protection for the life safety and basic living of the affected people; on August 3, Baidu announced the allocation of 30 million yuan in funds to continue to support flood control and disaster relief in Beijing-Tianjin-Hebei and other places.
+At the same time, Baidu Maps has cooperated with local traffic police and government agencies to guide users to detour and avoid flooded and dangerous roads based on real-time information such as road waterlogging, public transportation suspension and adjustment, and temporary closure of public places. Baidu Maps has also cooperated with the Ministry of Emergency Management to launch a special topic of &quot;Beijing-Tianjin-Hebei Heavy Rain Rescue&quot; for national warnings, opening a green channel for rescue.
+# Baidu Digital Human helps users continue to love and accompany their loved ones
+In 2023, Baidu used AI technology to help former employee Samy preserve the voice and face of his seriously ill wife Xiaoying. Baidu&#39;s technical teams worked together to launch a customized digital human &quot;Xiaoying&quot; on the Wenxinyiyan App. In the conversation with Samy and his family, &quot;Xiaoying&quot; continued the love and companionship across time and space.
+# Join multiple media outlets to speak out for victims of domestic violence
+November 25 is the International Day for the Elimination of Violence against Women. Baidu has joined hands with a number of media outlets to establish the &quot;Baidu × Anti-Domestic Violence Media Alliance&quot;, leveraging the platform&#39;s advantages to popularize the dangers of domestic violence and self-help guides in multiple scenarios, calling on victims to use legal means to protect their rights and interests. The number of related video views has exceeded 12 million.
+# Baidu&#39;s &quot;Huiboxing&quot; digital human live broadcast helps tea farmers sell Jiangsu intangible cultural heritage white tea
+For more relevant information, please scan the QR code to view Baidu&#39;s anti-domestic violence campaign special.
+# 78 Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Corporate Governance
+# Trust Commitment
+# Talent Development
+# Green Concept
+# Quality of Service
+# Community Development and Responsibility
+# 79
+# Caring for key groups
+Baidu helps college entrance examination candidates in mountainous areas and contributes to promoting educational equality
+Baidu adheres to the social responsibility concept of &quot;Technology for the Better&quot; and continuously strives to create a better life. Baidu Marketing and Wanglaoji applied the Wenxin Big Model&#39;s understanding and generation capabilities to intelligently generate the first set of &quot;AI College Entrance Examination Simulation Papers&quot; in history, traveled thousands of miles to the mountainous area of Gannan, Gansu, and delivered the AI College Entrance Examination Simulation Papers to the children, helping them get one step closer to their dreams with the power of AI.
+# Caring for the elderly
+&quot;Warm Sun Project&quot; helps the elderly to surf the Internet safely
+Baidu participates in the development of new curriculum programming teaching content
+Baidu launched the &quot;Baidu Internet User Rights Protection Plan&quot; and the &quot;Silver-haired Elderly Assistance Mechanism&quot;, and has visited the elderly many times to help them solve their problems. In 2023, Baidu and the Shatou Street Social Worker Service Station in Panyu District, Guangzhou, cooperated to reach the &quot;Warm Sun Plan&quot; smart elderly care project to help the elderly surf the Internet safely. With this project, it was awarded the &quot;Excellent Community Social Organization&quot; and &quot;Best Public Welfare Partner&quot; by Shatou Street, Panyu District, Guangzhou.
+# Pay attention to the education and protection of minors
+Baidu continues to pay attention to the education and healthy growth of young people.
+Baidu donates Xiaodu smart learning devices to young people in remote areas
+Baidu donated Xiaodu smart learning machines to 1,000 young people in the disaster-stricken areas of Gansu, aiming to bridge the gap in high-quality educational resources in remote areas.
+Baidu enters the community to care for the physical and mental health of young people
+In 2023, Baidu focused on &quot;the physical and mental health of young people&quot; and went into the community to open mental health learning activities for young people, helping them better understand their emotions and learn to express them, and cultivate their positive attitude towards life and values.
+Photos from the event
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Baidu Business Case
+Baidu is committed to creating sustainable business value and using the United Nations&#39; 17 Sustainable Development Goals (UN SDGs) to guide business practices. From thousands of industries to thousands of households, from AI being available to everyone to ecological prosperity, we will help our society, customers, and users prosper and develop more sustainably.
+# Mobile Ecosystem
+The Mobile Ecology Business Group covers Baidu&#39;s mobile ecology businesses, including Baijiahao, Baidu App, Haokan Video, Baidu Tieba, Baidu Knows, Baidu Wenku and many other star products. It connects the information acquisition and security of hundreds of millions of users, carries business opportunities and businesses of thousands of industries, continues to use technological innovation, and grows together with users and customers.
+# How does Baidu protect the rights of creators?
+For a long time, acts of plagiarism and other infringements on the rights of original authors have been a thorn in the hearts of original authors in the Baidu community, and have also been the focus of Baidu&#39;s attention and crackdown. In order to protect the rights of creators, Baidu Baijiahao continues to strengthen content management, actively guides and regulates the behavior of original authors, and is committed to building a healthy Internet community with mutual respect and positive interaction.
+|Strengthen the system|Original protection|Account ban|
+|---|---|---|
+|In May 2023, Baidu Baijiahao released the &quot;Concepts and Norms on the Generation of Content by Artificial Intelligence Technology&quot;, which uses the large model of artificial intelligence technology to comprehensively identify and combat behaviors such as copying, plagiarism and rumors, and safeguard the rights of original authors. |Baijiahao provides professional original rights protection services for high-quality original authors. As of 2023, Baidu Baijiahao has more than 40,000 authors and more than 1 million articles protected by the &quot;creator&quot; certification, and the mainstream platform offline rate of plagiarized content exceeds 99%. |Baijiahao&#39;s &quot;High Imitation Account Asset Transfer&quot; mechanism bans high-imitation accounts and transfers their fans to the original authors. In 2023, Baijiahao has banned more than 5,000 high-imitation accounts and transferred more than 10 million fans. |
+# How does Baidu enable small and medium-sized enterprises to grow together?
+Baidu Baiqingteng, Aicaigou Merchant Operations and other teams have continued to pay attention to the development difficulties of small and medium-sized enterprises for many years. Using Baidu&#39;s unique AI technology as the cornerstone, they have injected new vitality into small and medium-sized enterprises and jointly written a new chapter of growth and development.
+When facing revenue pressure, a small and medium-sized enterprise in Hunan Province worked with Baidu&#39;s Baiqingteng team to explore an innovative development path, achieving a double harvest of advertising revenue and user data. Through &quot;advertising alliance&quot; and &quot;content alliance cooperation&quot;, a content ecosystem was built and new monetization methods were added. Data shows that the company&#39;s advertising alliance cooperation revenue increased by 20% in the past six months, content alliance cooperation revenue increased by 200%, and user usage time and retention rate also increased by 8%.
+Aicaigou&#39;s merchant operation team created the &quot;BOSS Says&quot; platform, which uses a variety of communication methods to let more people hear the entrepreneurial stories of small and medium-sized business owners, become a booster of dreams, and help small and medium-sized enterprises ride the wave of digital transformation. Dozens of companies have entered the public eye through this column, achieving order growth and doubling of revenue.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Baidu Business Case
+# How does Baidu help urban economic development?
+Baidu Smart Cloud implements the strategy of &quot;integration of cloud and intelligence, in-depth industry penetration, ecological prosperity, and AI universal access&quot;. By making full use of its powerful platform capabilities and resource advantages, Baidu Smart Cloud has built a city-level artificial intelligence industrial park, injecting new vitality into the city&#39;s economic development.
+In 2023, Baidu will join hands with Wuhu Jiangbei New District to actively respond to the &quot;East Data West Computing&quot; project, jointly build an artificial intelligence basic data industry base, and use digital technology to empower thousands of industries in Wuhu City; establish an intelligent industrial park that gathers upstream and downstream companies of large computing power, big data, and large models, cultivate an artificial intelligence industry chain ecosystem, and provide computing power empowerment solutions for multiple scenarios including government services, urban governance, government and enterprise offices, content creation, etc., optimize the development of urban industrial supply chains, value chains, and ecological chains, and continuously promote the transformation and upgrading of the urban economy.
+The Intelligent Cloud Business Group provides one-stop content security solutions such as cloud computing, big data, and artificial intelligence to customers in many industries, including government, education, finance, energy, and manufacturing. It helps customers improve content management efficiency, enhance user experience, and promote industrial intelligence upgrades. It continuously leads and helps customers stay at the forefront of the times in achieving the goal of &quot;sustainable development&quot; and &quot;taking action on climate change.&quot;
+# How does Baidu use AI technology to protect people’s right to life?
+Baidu is always thinking about how to use warm technology to create a happier life for society and residents. In urban scenarios related to water, we have explored a way to apply AI technology to protect the lives of residents.
+# How does Baidu enable climate change monitoring?
+In 2023, Baidu participated in the construction of the smart water project in Lintao County, Gansu Province, implemented the &quot;Special Action for Water Safety&quot;, and provided AI video analysis capabilities for the Taohe River Basin.
+In order to achieve the smart meteorological goals of &quot;intelligent observation, accurate forecast, open service, scientific management and continuous innovation&quot;, Baidu combines meteorological edge-cloud fusion perception technology with AI intelligent analysis technology to launch a new model of intelligent meteorological observation. In the &quot;City Brain&quot; system in Haidian, we added the &quot;Sky Face Recognition&quot; solution, using urban video resources and artificial intelligence visual recognition algorithm technology to conduct comprehensive intelligent recognition of various weather and social scenes such as rainfall, snowfall, snow accumulation, road icing, and willow catkins, so as to achieve &quot;real-time, fixed-point, and full-volume&quot; collection of meteorological observation data and provide &quot;precise, accurate, and detailed&quot; meteorological services, so as to better serve the society and ensure people&#39;s quality of life and the safe operation of the city.
+The crowded overpass area is a key location for observing and monitoring high-risk rivers. Baidu&#39;s AI cameras accurately observe and analyze the behavior of people around the river flowing through the bustling commercial district. Once any potential suicidal behavior is captured, such as climbing over the railing, approaching the edge of the water, and wandering in the dangerous area, the system will immediately issue an early warning to ensure that rescuers take measures as soon as possible.
+By working closely with local police patrols and fire brigades, the project not only improves emergency response speed, but also greatly enhances rescue efficiency. When an early warning is issued, relevant departments can quickly arrive at the scene, persuade people in potential danger to leave, and provide emergency rescue when necessary, effectively avoiding drowning accidents.
+Baidu&#39;s smart water project not only created a new model of intelligent safety management, but also served as an invisible safety net, raising the hope of life for the residents of Lintao County. The successful implementation of this project has made an important contribution to promoting the modernization of regional social governance.
+# How does Baidu implement flood emergency response in extreme weather conditions?
+Affected by extreme weather caused by climate change, floods and waterlogging disasters are becoming more frequent, threatening the assets and lives of cities and people. Faced with increasingly frequent heavy rainfall and flood risks, Baidu Smart Cloud is exploring AI technology to go deep into water affairs scenarios and explore the use of AI technology to effectively respond to urban water affairs flood emergency response issues. In a certain area in southern China, Baidu Smart Cloud Smart Water installed an intelligent urban waterlogging and waterlogging control system to conduct comprehensive monitoring and real-time reminders of flood-prone points and waterlogging areas, improving the city&#39;s emergency response capabilities for floods:
+- Flood-prone point monitoring: By monitoring the flood-prone points of most tunnels and culverts in the region, the time required to handle flooding incidents can be shortened from hours to minutes;
+- Waterlogging risk identification: Based on the Internet of Things, artificial intelligence, cloud computing and other technologies, combined with Baidu Water Brain, AI is used to identify safety factors such as waterlogging and tunnel travel, ensuring the safety of people&#39;s travel in extreme weather.
+- Waterlogging warning: Linked with Baidu Maps, warnings can be issued for waterlogged areas through the Baidu Maps navigation interface; at the same time, linked with the emergency supervision systems of water-related departments at all levels, it can automatically identify abnormal conditions such as waterlogging and trapped people and vehicles, and promptly notify relevant departments, plan the best route, and improve accident handling efficiency.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Baidu Business Case
+# How does Baidu support shared mobility?
+Guided by the concept of smart technology and green travel, we have integrated autonomous driving technology with new energy vehicles and launched the Carrot Run travel service platform, which has been operating fully unmanned autonomous driving operations in Beijing, Wuhan, Chongqing, Guangzhou, Shanghai and other cities. As of January 2024, Carrot Run has been deployed in more than 10 cities across the country, providing users with more than 5 million autonomous driving travel services, and has firmly established itself as a leader in the global autonomous driving service field. In the future, we will continue to expand our business and strive to build the world&#39;s largest unmanned driving operation area, and promote the prosperity and development of China&#39;s intelligent connected vehicle industry through continuous technological innovation and service optimization.
+# Intelligent Driving
+We believe that Turnip Run will become an important force in promoting social progress and improving people&#39;s quality of life. Through unremitting efforts and exploration, Turnip Run will lead us into a new era of smarter, more convenient and greener travel.
+The Intelligent Driving Business Group is committed to providing complete solutions for the automotive industry and the field of autonomous driving, and has a complete R&amp;D, production, operation and service system. In the field of intelligent driving business, Baidu takes improving traffic efficiency and safety and advocating green travel as its primary goal. On the one hand, it promotes travel emission reduction and implements &quot;climate action&quot;. On the other hand, it is consistent with the goal of &quot;sustainable cities and communities&quot;, making travel more convenient, making cars smarter, and making the yearning for the future become within reach.
+# How does Baidu enable the green transformation and development of the logistics industry?
+While Baidu&#39;s AI technology is developing rapidly, we have never forgotten our original mission of protecting user data security. To avoid hacker attacks and data leaks, Baidu&#39;s autonomous driving system protects user data security from three aspects: network security, data security, and privacy protection.
+In the past five years, China&#39;s express delivery industry has experienced rapid development, but with it has come a significant increase in industry carbon emissions, exceeding 200%30. The transportation link has become the largest source of carbon emissions in the industry, and road and air transportation are the top priorities for emission reduction in the transportation link. In order to meet this challenge, Baidu Maps released a transportation and logistics construction plan to create an industry-leading digital and intelligent transportation and logistics full-area service. Among them, the intelligent dispatch service provides intelligent services to many logistics companies such as Jianhua Logistics, China Building Materials, Shuanghui Logistics, etc. through precise data analysis and algorithm optimization, improving transportation efficiency by more than 90% and significantly reducing carbon emissions during transportation.
+Baidu Maps is leading the transportation and logistics industry to develop in a more intelligent, efficient and environmentally friendly direction, contributing to the goal of achieving carbon neutrality. In the future, Baidu Maps will continue to promote the digital transformation of the transportation and logistics industry and help China&#39;s express delivery industry move towards a greener and more sustainable future.
+# Cybersecurity
+# Data Security
+# Privacy Protection
+|Use static protection + dynamic protection to defend against network attacks|Based on the &quot;Automotive Data Classification and Grading Specifications&quot;, classify and manage data in a graded manner, including data encryption, data desensitization, coordinate deflection and other measures, and conduct data risk assessments regularly;|The PIA personal information impact assessment has been carried out for the Radish Run App, and at the same time, in the privacy terms and agreements, effective consent from individuals has been obtained to clarify the content and purpose of data collection. |
+|---|---|---|
+|Static protection: Through measures such as secure startup, two-way authentication, secure upgrade, and secure login, a gray-set in-depth defense system is formed; |Dynamic protection: Based on the automotive attack knowledge graph, a dynamic defense system is formed; at the same time, network security emergency drills are carried out to simulate hacker attack behaviors, ensure that the network security monitoring of autonomous driving is accurate and sensitive, and enhance the ability to resist hacker attacks. | |
+30 According to the Carbon Emissions of China’s Express Delivery Industry published by the international environmental organization Greenpeace
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Baidu Business Case
+# How does Baidu empower the development of the medical and health industry?
+Baidu Health
+Baidu&#39;s Big Health Business Group includes two core businesses: Internet health and smart healthcare, and two brands: Baidu Health and Lingyi Zhihui. Baidu is committed to becoming the preferred health manager for Chinese people by promoting equal access to healthcare through big model technology, using big model technology to promote the innovative development of the big health industry, and contributing to the goal of &quot;good health and well-being&quot;, so that the dividends of technology can benefit thousands of patients.
+Taking into account the three aspects of &quot;doctors, patients, and medicines&quot;, Baidu launched the first large model of the medical industry in China, the &quot;Spiritual Doctor&quot; model. It has significant advantages in algorithms, computing power, data and industry accumulation, attracting more than 1,000 companies in the medical industry. It has been tested and used by various institutions and enterprises to continuously inject the powerful power of AI technology into the high-quality development of the health industry.
+# Multi-scenario application
+Baidu continues to improve the &quot;Spiritual Doctor&quot; model and applies it to Internet medical care, public hospitals, pharmaceutical and medical equipment companies, pharmacies, clinics and other scenarios, providing users with convenient online medical experience, accurate auxiliary diagnosis and treatment services, and efficient intelligent guidance functions. These services not only improve the efficiency and quality of medical services, but also greatly improve patients&#39; medical experience.
+# How does Baidu promote equal access to medical care?
+&quot;It is difficult and expensive to see a doctor&quot; has always been a medical problem that troubles patients. In order to deal with the problem of uneven distribution of medical resources, Baidu Health has launched an innovative &quot;precise doctor-patient matching mechanism&quot; with its advanced AI large model algorithm. This mechanism aims to optimize the allocation of medical resources and ensure that users can efficiently obtain medical services that suit them, thereby improving the efficiency of the use of medical resources and accurately meeting users&#39; medical needs.
+The &quot;precision doctor-patient matching mechanism&quot; mainly solves the pain points of long medical consultation time, cumbersome procedures, and complex information access. By matching the relevant information searched by users with the existing disease knowledge graph, referring to the patient&#39;s area, we recommend authoritative medical clinics in the corresponding area to patients, and provide patients with full-process guidance such as online registration and hospital treatment in Baidu Mini Program. This mechanism was first created by Baidu and has been verified in practice, which greatly improves the efficiency of patients in obtaining medical information and reduces the cost of medical treatment for patients.
+In 2023, Baidu cooperated with Chongqing Fifth People&#39;s Hospital to match patient searches with the hospital&#39;s advantageous disciplines and doctors based on the digital, AI and disciplinary advantages of both parties, and create a &quot;one-click&quot; medical process for patients from online consultation, precise matching, and online diagnosis and treatment, providing intelligent solutions.
+# Technological innovation and cooperation
+Currently, Baidu Health&#39;s medical service network covers more than 70 top-level public hospitals in 19 provinces, significantly improving the efficiency and quality of public medical services. Baidu actively promotes integrated innovation and service upgrades in the medical field. In 2023, Baidu will cooperate with GlaxoSmithKline to build a disease defense mechanism; it will cooperate with Vopak Intelligent Technology to integrate the &quot;spiritual doctor&quot; large model into its medical and health care robot products to promote the intelligent development of the medical and health field.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Baidu Business Case
+# Technical Middle Platform
+The Technology Middle Platform Business Group covers Baidu&#39;s artificial intelligence technology, platform and ecology, enterprise efficiency and intelligent work, security, etc. It is positioned to lead technological innovation, improve efficiency, ensure security, and support the company&#39;s sustainable development. It includes the PaddlePaddle deep learning platform, Wenxin big model, and multimodal understanding, generation and interaction technologies such as natural language processing, knowledge graph, voice, computer vision, AR/VR based on it; an enterprise efficiency platform that supports the efficiency improvement and intelligent upgrade of corporate office, R&amp;D and management; and a security platform that comprehensively guarantees the security of the company&#39;s technology, products and business.
+# Xiaodu
+As an important part of Baidu&#39;s &quot;AI Life&quot;, Xiaodu is committed to making artificial intelligence ubiquitous and using AI to make life better. With Xiaodu Assistant as its core and hardware as its carrier, Xiaodu enables more users to experience the smart life brought by technology and create a better life through the integration of software and hardware innovation.
+# How does Baidu improve the well-being of the elderly?
+Today, the global population is aging rapidly, and Baidu is concerned about the multiple physical and psychological difficulties faced by the elderly. In response, we hope to provide a more convenient, safe and comfortable living environment for the elderly with services and products suitable for the elderly, helping them better adapt to the development of society and enjoy a high-quality life in their later years.
+# How does Baidu promote cutting-edge research in the field of life sciences?
+Based on its own technological and market advantages, Baidu&#39;s &quot;Xiaodu&quot; smart product has developed a series of aging-friendly functions to provide intelligent solutions for the elderly care and assistance industries.
+Baidu combines large language models with protein structure prediction to contribute value to life science research. In August 2023, researchers from Baidu published a major achievement in the field of biocomputing in Machine Intelligence, a subsidiary of Nature, a top international academic journal. This is HelixFold-Single, a protein structure prediction method based on a protein language model. This method uses a protein language model to learn species evolution information, thereby accurately predicting the three-dimensional spatial structure of proteins. This method improves reasoning efficiency by a hundred times compared to previous structure prediction methods, can support high-throughput protein structure prediction, and improves accuracy in scenarios such as peptides and antibodies. It has broad application prospects in the field of protein analysis and design.
+# How does Baidu empower the industry to improve information security governance?
+In September 2023, Baidu held a training and publicity event for APP developers on personal information protection. In this event, Baidu shared its insights, practices and thoughts on APP &quot;personal information protection&quot; compliance and APP &quot;personal information protection&quot; engineering, and shared personal information protection practices with more than 240 mobile application developers from more than 80 companies.
+We work together with various Internet companies in Beijing to actively implement relevant laws and regulations such as the &quot;Cybersecurity Law&quot;, &quot;Data Security Law&quot;, and &quot;Personal Information Protection Law&quot; to create best practices in information security protection.
+# Service Content
+|Safety monitoring|Home care|Medical information records|Life services|
+|---|---|---|---|
+|The Xiaodu Smart Screen is equipped with the industry&#39;s most accurate visual algorithm, which can detect changes in light brightness, intensity, and depth one by one. |By calling the Xiaodu Smart Screen, the elderly can easily obtain community services, such as calling a nursing home manager to assist with diet and daily life. |In conjunction with health and medical institutions, Xiaodu can realize convenient and intelligent recording and storage of medical information for the elderly, eliminating the tedious and error-prone manual data reporting process in the previous physical examination process, and improving the quality and efficiency of service personnel&#39;s work. |Xiaodu and its partners have jointly developed the &quot;15-minute life circle&quot; function, adding local services such as medical appointments, food delivery, supermarkets, and taxi calls to the homepage of the function interface, and can provide differentiated services based on the actual conditions of each region and community to fully protect the physical and mental health of the elderly. |
+In 2023, Xiaodu has entered 45 million households, providing AI services and companionship to hundreds of millions of users, greatly facilitating the lives of the elderly, while helping to accelerate the construction of the &quot;end-cloud-service&quot; smart elderly care industry ecosystem. Through the joint efforts of technological innovation and social services, we look forward to creating a more warm, convenient and safe living environment for the elderly, allowing them to enjoy more happiness and dignity in their later years.
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Appendix
+# Index of human rights tracking indicators
+|Category|Policy Commitment|Corresponding Chapter|Disclosure Location|Category|Policy Commitment|Corresponding Chapter|Disclosure Location|
+|---|---|---|---|---|---|---|---|
+|Privacy and information self-determination rights|&quot;Baidu&#39;s Personal Information Protection Compliance&quot;|Safety Management Measures|P24, 26-28, 64|Enjoy fair and favorable treatment|&quot;Baidu Human Rights System&quot;|Supplier ESG Management|P17, 42|
+| |《Baidu Digital Security Strategy》|Security Emergency Response Process| |Rights to Working Conditions|《Baidu Employee Handbook》|Rights Protection| |
+| |《Baidu Privacy Policy General Rules》|Personal Information and Privacy Protection| | |《Supplier Management Standards》| | |
+| |《Baidu Group Data Outbound Security Management System》|Commercial Content Governance| |Right to Social Security|《Baidu Human Rights System》|Non-salary Benefits and Care|P42|
+| |《Baidu Data Management Measures》| | |Right to equality and freedom from discrimination|《Baidu Human Rights System》|Rights protection|P42, 65, 17|
+| |《Baidu Data Circulation Specification》| | | |《Baidu Employee Handbook》|User Rights Protection| |
+| |《Baidu Data Classification and Grading Specifications》| | | |《Baidu Virtual Resource Management Specifications》| | |
+| |《Baidu General Rules for Handling Security Issues》| | | |《Baidu Professional Ethics Construction Management Regulations》|Supplier ESG Management| |
+| |《Baidu Security Incident Handling Rules》| | | |《Baidu Professional Ethics Reporting Management Regulations》| | |
+| |《Baidu Commercial Advertisement Management Requirements》| | | |《Baidu Professional Ethics and Code of Conduct》| | |
+| |《Baidu AI Ethical Four Principles》| | | |《Integrity Agreement》| | |
+| |《Baidu&#39;s Six Initiatives on Technology Ethics》| | | |《Baidu&#39;s Supplier Sustainability Principles》| | |
+|Right to freedom of opinion and expression|&quot;Baidu Human Rights System&quot;|Employee communication and feedback|P43, 62-65|Right to freedom from harassment and violence|&quot;Baidu Human Rights System&quot;|Rights protection|P42, 65, 17|
+| |《Baidu Employee Handbook》|User Rights Protection| | |《Baidu Employee Handbook》|User Rights Protection| |
+| |《Baidu Content Ecosystem Management Specifications》| | | |《Baidu Professional Ethics Construction Management Regulations》|Supplier ESG Management| |
+| |《Baidu User Product Risk Control Red Line Standards》| | | |《Baidu Professional Ethics Reporting Management Regulations》| | |
+| |《Baidu protects children&#39;s personal information》| | | |《Baidu&#39;s Code of Professional Ethics and Conduct》| | |
+| |《Security Audit Standards》| | | |《Baidu’s Conflict of Interest Avoidance System》| | |
+| | | | | | &quot;Baidu&#39;s Management System for Major Undisclosed Information and Prohibition of Insider Trading&quot; | | |
+|Anti-corruption and human rights|&quot;Baidu Professional Ethics Construction Management Regulations&quot;|Business Ethics Management System|P12-13, 15, 17| |&quot;Baidu Professional Ethics Red Line Management Regulations&quot;| | |
+| |《Baidu Professional Ethics Reporting Management Regulations》|Reporting and whistleblower protection| | |《Baidu Reward and Punishment Management System》| | |
+| |《Baidu Professional Ethics and Code of Conduct》|Supplier ESG Management| | |《Baidu Partner Blacklist Management Measures》| | |
+| |《Baidu’s Conflict of Interest Avoidance System》| | | |《Baidu’s Supplier Sustainable Development Principles》| | |
+| |《Baidu&#39;s Management System for Major Undisclosed Information and Prohibition of Insider Trading》| | | |《Baidu&#39;s Professional Ethics Red Line Management Regulations》| | |
+| |《Baidu Reward and Punishment Management System》| | | |《Baidu Partner Blacklist Management Measures》| | |
+| |Integrity Agreement| | | |Supplier Management Standards| | |
+| |《Supplier Reward and Punishment Measures》| | | |《Baidu Supplier Sustainable Development Principles》| | |
+|Right to life and health|&quot;Baidu Human Rights System&quot;|Health and safety|P42, 65, 17| |&quot;Baidu Employee Handbook&quot;|User rights protection| |
+| |《Baidu Recruitment Management Standards》|Supplier ESG Management| | |《Baidu Security Management Standards》| | |
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Appendix
+# Determination of material issues
+|Stakeholders|Communication methods|Expectations and demands|
+|---|---|---|
+|Partners/NGOs|Baidu World Conference|Technology Innovation|
+| |Baidu AI Developer Conference|Cooperation and Development|
+| |Baidu Cloud Intelligence Summit|Product Quality Assurance|
+| |Baidu Alliance Summit|Low Carbon Operation|
+| |Project Cooperation|Corporate Social Responsibility|
+| |Technical Exchange| |
+Baidu listens to the opinions and suggestions from stakeholders through various channels, ensures smooth communication with stakeholders, and is committed to jointly creating sustainable value.
+In 2023, Baidu held a total of 32 ESG communication roadshows to respond to the concerns of shareholders and stakeholders in a timely manner and synchronize the progress of related issues.
+# Stakeholders
+|Stakeholders|Communication methods|Expectations and demands|Result sharing|
+|---|---|---|---|
+|Shareholders and Investors|Shareholders&#39; Meeting|Sustained and Stable Business Growth| |
+| |Media|Information is open and transparent| |
+| |Regular reports and announcements|Compliance operations| |
+| |Media Interviews|Compliance Operations| |
+| |Investor email and meeting communication|Risk management| |
+| |ESG Communication Roadshow|Products, Services and Quality| |
+|Users|User feedback channels|User experience improvement| |
+| |Product Research Feedback|Information Security| |
+| |Company website and social media interaction|Data and privacy protection| |
+| | |Content Ecosystem Governance| |
+| | |Corporate Social Responsibility| |
+| | |Environment| |
+| | |Apply energy-saving and emission-reduction technologies| |
+| | |Emissions Management| |
+| | |Develop green products| |
+| | |Energy and resource conservation| |
+| | |Cultivating users&#39; low-carbon awareness| |
+| | |Low-carbon operation| |
+|Government and Regulatory Agencies|Information Disclosure|Compliance Operations| |
+| |Cooperation Projects|Information Security| |
+| |Daily communication and reporting|Data and privacy protection| |
+| |Supervision and Inspection|Content Ecosystem Governance| |
+| |Visitor Reception| | |
+|Employees|Internal Office System|Employee Rights Protection| |
+| |Internal Communication Meeting|Employee Training and Development| |
+| |Regular survey feedback|Employee welfare protection| |
+| |Online and offline training activities|Occupational disease prevention| |
+|Suppliers|Invitation to Bid|Sustainable Supply Chain| |
+| |Project Procurement|Integrity Management| |
+| |Contract and Agreement|Mutual Benefit and Win-Win| |
+| |Supplier Management Conference|Supplier Empowerment| |
+| |Supplier Business Communication Meeting| | |
+| |Other Supplier Exchange Events| | |
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Appendix
+# 2023 Substantive Issues Matrix
+In 2023, Baidu conducted in-depth research on various ESG material issues based on the research of standards such as the GRI Sustainability Reporting Standards and the SASB Sustainability Accounting Standards Board Standards, comprehensively considered the mainstream ESG rating index in the capital market, and conducted in-depth research on various ESG material issues through internal and external interviews, peer benchmarking, and rating indicator sorting. Baidu&#39;s board of directors, ESG committee, and management analyzed and discussed corporate sustainable development and ESG key issues, and finally formed the 2023 material issue matrix. Compared with the 2022 material issue matrix, the results have not changed significantly.
+| | | | |Indicator|Details|Corresponding page number| |
+|---|---|---|---|---|---|---|---|
+|Economic Issues|High| | |1| | | |
+| | | | | |Disclosure of the board’s oversight of environmental, social and governance matters|P09| |
+| |The board’s ESG management approach and strategy, including the process for assessing, prioritising and managing significant ESG related issues (including risks to the issuer’s business)| | | | |P08-09| |
+|Importance to Stakeholders| | |7|6| | | |
+| | | | | | How the board reviews progress against relevant ESG targets and explains how they relate to the issuer’s business | P08-09 | |
+| | | | | |Reporting scope|11| |
+| |Explain the reporting scope of the ESG report and describe the process for selecting which entities or businesses to include in the ESG report. If the reporting scope changes, the issuer should explain the difference and the reasons for the change| | | | | | |
+| | | | |A. Environment| | | |
+|Level A1: Emissions| | | | |General disclosure: Emissions of waste gas and greenhouse gases, discharges to water and land, generation of hazardous and non-hazardous wastes, etc.: |P50-59| |
+| |(a) Policy; and | | | | | | |
+| |(b) Information on compliance with relevant laws and regulations that have a significant impact on the issuer| | | | | | |
+| | | | |A1.1|Emission types and related emission data. |P50-52, 59| |
+|Low|Direct (Scope 1) and energy indirect (Scope 2) GHG emissions (in tonnes) and, where applicable, intensity (e.g. per unit of production, per facility). | | | | |P50-51| |
+| | |Importance to Baidu&#39;s sustainable development| |High|A1.2| | |
+|Baidu’s 2023 Substantive Issues List| | | | | | | | |
+|Level|No.|Topic|Scope|Related chapters of the report| | | |
+|Topics of high importance|1|Data and privacy protection|Economy|Personal information and privacy protection| | | |
+| |2|Information Security|Economy|Trust Commitment| | | |
+| |3|Employee Rights Protection|Society|Talent Development| | | |
+| |4|Product quality assurance|Economy|Service quality| | | |
+| |5|Improving user experience|Economy|User experience| | | |
+| |6|Employee Talent Development|Social|Talent Development| | | |
+| |7|Employee welfare protection|Social|Talent protection| | | |
+| |8|Protecting intellectual property rights|Economic|Innovation management| | | |
+| |9|Anti-corruption and business ethics|Economy|Business ethics| | | |
+| |10|Content Ecosystem Governance|Economy|Content Governance| | | |
+| |11|Energy and resource conservation|Environment|Green concept| | | |
+| |12|Low-carbon operation|Environment|Green concept| | | |
+| |13|Community Public Welfare Contribution|Society|Community Development and Responsibility| | | |
+|Topics of medium importance|14|Occupational disease prevention|Society|Talent security| | | |
+| |15|Supplier Sustainability Management|Economics|Supply Chain Management| | | |
+| |16|Board Governance Effectiveness|Economics|Board Governance| | | |
+|Low importance topics|17|Emission management|Environment|Green concept| | | |
+# 96 Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Appendix
+|Indicator|Details|Corresponding page number|Indicator|Details|Corresponding page number|
+|---|---|---|---|---|---|
+|A3.1|Describe the significant impacts of business activities on the environment and natural resources and the actions taken to manage such impacts. |P50-59|B5.2|Describe the practices for engaging suppliers, the number of suppliers to whom such practices are implemented, and the relevant implementation and monitoring methods. |P16|
+|A4|Climate Change| |B5.3|Describe the practices for identifying environmental and social risks at each stage of the supply chain, as well as the related implementation and monitoring methods. |P16-17|
+|General Disclosure|Policies on identifying and addressing significant climate-related issues that have and may have an impact on the issuer|P46|B5.4|Describe the practices used to promote the use of more environmentally friendly products and services when selecting suppliers, and the related implementation and monitoring methods. |P16-17|
+|A4.1|Describe the significant climate-related issues that have or may have an impact on the issuer, and the actions taken to respond. |P46-50|Aspect B6|Product responsibility| |
+|B|Social| |General Disclosure| Regarding health and safety, advertising, labeling and privacy issues of products and services provided and methods of remedy:|P62-64|
+|(a)| policies; and| | |(b) information on compliance with relevant laws and regulations that have a significant impact on the issuer| |
+|B6.1|Percentage of total products sold or shipped that were recalled for safety and health reasons. |Not Applicable|B6.2|Number of complaints received about products and services and how they were handled. |P67|
+|B6.3|Describe practices related to maintaining and protecting intellectual property rights. |P70|B6.4|Describe quality assurance processes and product recall procedures. |P62-64|
+|B6.5|Describe the consumer data protection and privacy policy, as well as the related implementation and monitoring methods. |P27-28|Level B7|Anti-corruption| |
+|GENERAL DISCLOSURES| Regarding the prevention of bribery, extortion, fraud and money laundering: |P12|(a)| Policy; and| |
+|(b)|Compliance with relevant laws and regulations that have a significant impact on the issuer| |B7.1|The number of concluded legal cases on corruption filed against the issuer or its employees during the reporting period and the outcomes of the cases. |P15|
+|B7.2|Describe the preventive measures and reporting procedures, as well as the related implementation and monitoring methods. |P15|B7.3|Describe the anti-corruption training provided to directors and employees. |P15|
+| Level B8 | Community Investment | | General Disclosure | Policy on community engagement to understand the needs of the communities in which it operates and to ensure that its business activities take into account community interests | P74-79 |
+|B8.1|Focused area of contribution (e.g., education, environmental issues, labor needs, health, culture, sports). |P74-79|B8.2|Resources used in focused area (e.g., money or time). |P74-79|
+|Level B4|Labor Standards| |General Disclosure|Regarding the prevention of child labor or forced labor: |P42|
+|(a)| Policies; and | |(b)| Information on compliance with relevant laws and regulations that have a significant impact on the issuer | |
+|B4.1|Describe measures to review recruitment practices to avoid child and forced labor. |P42|B4.2|Describe steps taken to eliminate violations when they are discovered. |P42|
+|Level B5|Supply Chain Management| |General Disclosure|Policy on Environmental and Social Risk Management of Supply Chain|P16|
+|B5.1|Number of suppliers by region. |P16| | | |
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Appendix
+# GRI Standards Index
+| | |Indicator|Indicator description|Report location| |
+|---|---|---|---|---|---|
+| | |3-1|Process of Identifying Substantive Issues|P92-94| |
+|Baidu reported the information cited in this GRI Content Index in accordance with GRI standards from January 1, 2023 to December 31, 2023| | | | | |
+| | |GRI 3: Material Topics 2021|3-2|List of Material Topics|P94|
+| | |3-3|Management of Substantive Issues|P94| |
+|GRI 201: Economic Performance 2016| |201-1|Directly generated and distributed economic value|See annual report| |
+| | |201-2|Financial impacts and other risks and opportunities of climate change|P48-49| |
+| | |201-3|Defined benefit plan obligations and other retirement plans|P42| |
+| | |201-4|Financial subsidies from the government|P12| |
+|GRI 203: Indirect Economic Impacts 2016| |203-1|Infrastructure Investment and Support Services|P74-79, 82, 84| |
+| | |203-2|Major indirect economic impact|P74-79, 82-85, 87-88| |
+| | |GRI 204: Procurement in Practice 2016|204-1|Proportion of spending from local suppliers|P16|
+|GRI 205: Anti-corruption 2016| |205-1| Operations that have undergone corruption risk assessment|P12-14| |
+| | |205-2|Communication and Training on Anti-Corruption Policies and Procedures|P12-15| |
+| | |205-3|Confirmed incidents of corruption and actions taken|P15| |
+| | |GRI 206: Anticompetitive Behavior 2016|206-1|Legal Actions Against Anticompetitive Behavior, Antitrust and Antimonopoly Practices|P12|
+|GRI 301: Materials 2016| |301-1|Material used by weight or volume|P59| |
+| | |301-2|Recycled feed used|P59| |
+| | |301-3|Recycled products and their packaging materials|P59| |
+|GRI 302: Energy 2016| |302-1|Energy consumption within the organization|P50| |
+| | |302-2|Energy consumption outside the organization|P50| |
+| | |302-3|Energy intensity|P50| |
+| | |302-4|Reduce energy consumption|P50| |
+| | |302-5|Declining energy demand for products and services|P56-59| |
+|GRI 303: Water and Wastewater 2018| |303-1|Interactions between organizations and water as a shared resource|P54, 56| |
+| | |303-2|Management of drainage-related impacts|P54, 56| |
+| | |303-3|Water Collection|P53| |
+| | |303-4|Drainage|P53| |
+| | |303-5|Water consumption|P53| |
+|GRI 304: Biodiversity 2016| |304-1|Operations owned, leased, managed by the organization in or adjacent to protected areas and areas of high biodiversity outside protected areas|None| |
+| | |304-2|Significant impacts of activities, products and services on biodiversity|None| |
+| | |304-3|Protected or restored habitats|None| |
+| | |304-4|Species listed in the IUCN Red List and national conservation lists in habitats affected by operations|None| |
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Appendix
+|Indicator|Indicator description|Report location|Indicator|Indicator description|Report location|
+|---|---|---|---|---|---|
+|305-1|Direct (Scope 1) GHG emissions|P50|GRI 407: Freedom of Association and Collective Bargaining 2016|407-1 Operations and suppliers where freedom of association and collective bargaining rights may be at risk|P43|
+|305-2|Energy indirect (Scope 2) greenhouse gas emissions|P50|GRI 408: Child Labor 2016|408-1 Operations and suppliers with significant risk of incidents of child labor|P42|
+|305-3|Other indirect (Scope 3) GHG emissions|P50|GRI 409: Forced or compulsory labor|409-1 Operations and suppliers at significant risk for incidents of forced or compulsory labor|P42|
+|GRI 305: Emissions 2016|305-4 Greenhouse gas emissions intensity|P50|GRI 411: Indigenous Peoples’ Rights 2016|411-1 Incidents involving violations of Indigenous Peoples’ rights|None|
+|305-5|Greenhouse gas emissions reductions|P50|GRI 413: Local Communities 2016|413-1 Operations with local community engagement, impact assessments, and development plans|P76-79|
+|305-6|Emissions of ozone-depleting substances (ODS)|None|GRI 413: Local Communities 2016|413-2 Operations with actual or potential significant negative impacts on local communities|None|
+|306-1|Waste generation and significant waste-related impacts|P59|GRI 414: Supplier social assessment|414-1 New suppliers screened using social assessment dimensions|P16-17|
+|306-2|Management of significant waste-related impacts|P59|GRI 414: Supplier Social Assessment|414-2 Negative social impacts in the supply chain and actions taken|P17|
+|306-3|Waste generated|P59|GRI 415: Public Policy 2016|415-1 Political contributions|P76-79|
+|306-4|Waste diverted from disposal|P59|GRI 416: Customer health and safety|416-1 Assessment of health and safety impacts of product and service categories|P62-64|
+|306-5|Waste entering disposal|P59|GRI 416: Customer health and safety|416-2 Incidents of noncompliance involving health and safety impacts of products and services|P62-64|
+|308-1|New suppliers screened using the environmental assessment dimension|P16-17|GRI 418: Customer Privacy 2016|418-1 Substantiated complaints involving breaches of customer privacy and loss of customer data|P27-28|
+|401-1|New employee hiring rate and employee turnover rate|P32-33|GRI 401: Employment 2016|401-2 Benefits provided to full-time employees (excluding temporary or part-time employees)|P42|
+|401-3|Parental leave|P42|GRI 403: Occupational health and safety|403-1 Occupational health and safety management system|P42|
+|403-2|Hazard identification, risk assessment and incident investigation|P42|403-3 Occupational health services|P42|GRI 403: Occupational Health and Safety 2018|
+|403-4|Occupational health and safety affairs: worker participation, consultation and communication|P42|403-5 Worker occupational health and safety training|P42|403-6 Promoting worker health|
+|403-7|Prevention and mitigation of occupational health and safety impacts directly related to business relationships|P42|403-8 Workers covered by the occupational health and safety management system|P42|403-9 Work-related injuries|
+|403-10|Work-related health issues|P42|GRI 404: Training and Education 2016|404-1 Average hours of training per employee per year|P39|
+|404-2|Employee skill development programs and transition assistance programs|P36-39|404-3 Percentage of employees receiving regular performance and career development reviews|P36|GRI 405: Diversity and Equal Opportunity 2016|
+|405-1|Diversity of Governance Bodies and Employees|P32|GRI 406: Anti-Discrimination 2016|406-1 Incidents of discrimination and corrective actions taken|P42|
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Appendix
+# SASB Standards Index
+# UNSDGs Contribution and Index
+|Topic|Accounting standards|Code|Disclosure location|Key response targets|Baidu&#39;s commitments and major actions|Corresponding chapters| | | |
+|---|---|---|---|---|---|---|---|---|---|
+|(1) Total energy consumption;|(2) Power grid ratio;|TC-SI-130a.1|P51|Actively respond to the call for &quot;rural revitalization&quot;, promote the development of agricultural industry, and help more people in rural areas increase their income|Rural Revitalization| | | | |
+|(3) Renewable energy share |Environmental footprint of hardware facilities |(1) Total water withdrawal; |TC-SI-130a.2|P53|(2) Total water consumption, percentage of areas with high or very high water stress | | | | |
+| |Discussion on integrating environmental factors into data center strategic planning|TC-SI-130a.3|P54-55|Establish workplace risk prevention and emergency response measures to fully protect employee health and safety|Health and Safety| | | | |
+|Data Privacy and Free Expression|Description of policies and practices related to behavioral advertising and user privacy|TC-SI-220a.1|P27-28, 62-64|(1) Number of data breaches;|(2) Percentage of data breaches involving personally identifiable information (PII);|TC-SI-230a.1| | | |
+|Data security|(3) Number of affected users| |Cultivate 5 million AI talents for the whole society|Build AI community|Discover outstanding young people in the field of AI and encourage technological innovation in the field of AI|Cultivate young AI talents| | | |
+|Description of methods for identifying and addressing data security risks, including the use of third-party cybersecurity standards|TC-SI-230a.2|P24-29|Percentage of employee participation|TC-SI-330a.2|P32|Eliminate illegal employment practices in the workplace, strictly enforce human rights violations in the workplace, and safeguard the legitimate rights and interests of employees| | | |
+|Recruitment &amp; Management|A Global, Diverse and Skilled Workforce|(1) Management;| |(2) Technical;|TC-SI-330a.3|P32| | | |
+|(3) Gender and racial/ethnic representation percentage of all other employees| | | Baidu data centers continue to optimize their energy structure, vigorously use clean energy, and purchase 50 million kWh of green electricity annually|Green operations|Actively manage energy and resources in office areas| | | | |
+| | | |Provide a complete talent promotion and career development mechanism for outstanding talents|Promotion and development|Build a complete skill improvement and personal development training system for employees|Talent training|Use self-developed big model technology in work scenarios to digitally empower workforce development|Digital empowerment| |
+| | | |Adhere to the concept of &quot;Everyone can AI&quot; and actively open source AI-related technical tools|Intelligent Cloud|Practice the strategy of &quot;integration of cloud and intelligence, in-depth industry, ecological prosperity, and AI inclusiveness&quot;, use its own platform and resource advantages to establish a city-level artificial intelligence industrial park and promote urban economic development|Technology Middle Platform| | | |
+# 104 Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Appendix
+# 105
+|Key response targets|Baidu&#39;s commitments and major actions|Corresponding chapters|Third-party carbon verification certification|
+|---|---|---|---|
+|Help the elderly learn electronic and digital knowledge |Caring for the elderly group| | |
+|Help minors get digital skills learning opportunities|Focus on the education and protection of minors| | |
+|Assist rural construction and contribute scientific and technological strength to agricultural industrial development and digital transformation|Rural revitalization| | |
+|Use professional resources to provide emergency assistance and sustainable post-disaster reconstruction to the disaster-stricken areas |Help for the needy| | |
+|Using media platforms and influence to combat domestic violence| | | |
+|A sound information security management system has been established, and a personal information and privacy protection system has been formulated| | | |
+|Integrate personal information protection into the entire process of product and service research and development, development and launch, integrate the concept of user privacy protection functions into product development, and monitor and evaluate security risks in real time | Personal information and privacy protection | Product content governance | 1 |
+|Continuously improve the content governance system and strive to provide users with high-quality, safe and responsible products and services| | | |
+|Refer to the framework and recommendations of IFRS International Financial Reporting Sustainability Disclosure Standard No. 2 - Climate-related Disclosures, establish a climate change governance system, formulate carbon reduction strategies and goals, regularly identify climate change risks, and take actions to address climate change | Climate Change | | |
+|Integrate ESG concepts into the company&#39;s business management, continuously improve its own governance level, control corporate operational risks, and build a solid business ethics bottom line | Board Governance | Business Ethics | |
+|Share intellectual property rights through patent cooperation, promote collaborative innovation among partners, and lead the co-construction of the ecosystem |Innovation management| | |
+# Baidu 2023 Environmental, Social and Governance (ESG) Report
+# Appendix
+# Reader Feedback
+Dear readers,
+Hello!
+Thank you very much for taking the time to read Baidu&#39;s 2023 Environmental, Social and Governance (ESG) Report. We sincerely look forward to your comments and suggestions on the report and our work. You can directly submit your valuable comments by mail or scan and send by email. Thank you!
+# 1. What type of stakeholder does your company belong to in Baidu?
+- □ Shareholders
+- □ Staff
+- □ Supplier
+- □ User
+- □ Government
+- □ Community
+- □ Bank
+- □ Academic institutions
+- □ Others (please specify) _____________
+# 2. What is your overall evaluation of this report?
+- □ Good
+- □ Better
+- □ General
+- □ Poor
+# 3. What do you think of the clarity, accuracy and completeness of the information and data disclosed in this report?
+- □ Good
+- □ Better
+- □ General
+- □ Poor
+# 4. How comprehensive do you think this report is in reflecting the economic responsibilities undertaken by the company?
+- □ Good
+- □ Better
+- □ General
+- □ Poor
+# 5. How comprehensive do you think this report is in reflecting the environmental responsibilities undertaken by our company?
+- □ Good
+- □ Better
+- □ General
+- □ Poor
+# 6. How comprehensive do you think this report is in reflecting the social responsibilities undertaken by our company?
+- □ Good
+- □ Better
+- □ General
+- □ Poor
+# 7. What do you think of the design and layout of this report?
+- □ Good
+- □ Better
+- □ General
+- □ Poor
+# 8. What do you think is the most important aspect of this report that needs improvement?
+- □ Corporate Governance
+- □ Trust and Commitment
+- □ Talent Development
+- □ Green Concept
+- □ Service Quality
+- □ Social Responsibility
+# 9. Is there anything you would like to know that is not disclosed in this report?
+_________________________________________________________
+# 10. What are your opinions and suggestions on the Company’s environmental, social and governance work and report preparation?
+_________________________________________________________
