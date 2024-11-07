@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4671600c-0f77-4d6b-b21b-48e719ef8cb2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/lazada-2024.pdf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/lazada-2024.pdf.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/llama_parsed.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/output.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/test.pdf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/test.pdf.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf_extract.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/run9.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,14 +20,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,6 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730552405114</updated>
       <workItem from="1730552407756" duration="34000" />
+      <workItem from="1730978181484" duration="58000" />
     </task>
     <servers />
   </component>
