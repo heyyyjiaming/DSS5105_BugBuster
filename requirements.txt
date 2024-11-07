@@ -1,13 +1,8 @@
 streamlit
 openai
-os
 pandas
 numpy
-nest_asyncio
-sys
 llama_parse
 uniflow
-dotenv
-requests
 transformers
 beautifulsoup4
