@@ -2,9 +2,7 @@ streamlit
 openai
 pandas
 numpy
-nest_asyncio
 llama_parse
 uniflow
-dotenv
 transformers
 beautifulsoup4
