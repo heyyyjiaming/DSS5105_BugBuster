@@ -1,20 +1,8 @@
 import streamlit as st
-from llama_parse import LlamaParse
-
-
-# def convert_pdf_to_txt(input_file, txt_output_path):
-#     documents = LlamaParse(result_type="markdown").load_data(input_file)
-#     # Merge all the text into one str
-#     all_text = []
-#     for doc in documents:
-#         all_text.append(doc.text)
-
-#     merged_doc = '\n\n'.join(all_text)
-#     # Save as txt
-#     txt_output_path = os.path.join(dir_cur, 'outputs/llama_parsed', f'{base_name}.txt')
-#     with open(txt_output_path, 'w', encoding='utf-8') as file:
-#         file.write(merged_doc)
-
+import os
+import glob
+from extract import convert_pdf_to_text
+from extract import convert_text_to_xlsx  
 
 
 
@@ -24,9 +12,9 @@ st.write(
     "To use this app, you may need to provide some API keys below. "
 )
 
-openai_api_key = st.text_input("OpenAI API Key", type="password")
-llama_api_key = st.text_input("Llama Cloud API Key", type="password")
-if not (openai_api_key and llama_api_key):
+input_openai_api_key = st.text_input("OpenAI API Key", type="password")
+input_llama_api_key = st.text_input("Llama Cloud API Key", type="password")
+if not (input_openai_api_key and input_llama_api_key):
     st.info("Please add your OpenAI & Llama Cloud API key to continue.", icon="🗝️")
 else:
 
@@ -37,3 +25,38 @@ else:
     if uploaded_file:
         st.write("File uploaded successfully!")
 
+#Current dir
+thisfile_dir = os.path.dirname(os.path.abspath(__file__))
+dir_cur = os.path.join(thisfile_dir, '..')
+print("Target Directory:", dir_cur)
+
+pdf_directory = os.path.join(dir_cur, 'data/Reports')
+txt_output_path = os.path.join(dir_cur, 'outputs/llama_parsed')
+xlsx_directory = os.path.join(dir_cur, 'outputs/extracted_data')
+
+# Get all PDF 
+pdf_files = glob.glob(os.path.join(pdf_directory, "*.pdf"))
+
+# select pdf
+selected_pdf = st.selectbox("Please choose a PDF file", pdf_files)
+base_name = os.path.basename(selected_pdf)
+
+# 检查选择的文件是否已经有对应的 XLSX 文件
+selected_basename = os.path.basename(selected_pdf)
+xlsx_file = os.path.join(xlsx_directory, f'{selected_basename}.txt')
+
+if os.path.exists(xlsx_file):
+    st.success(f"已存在对应的 XLSX 文件: {xlsx_file}")
+else:
+    st.info("没有找到对应的 XLSX 文件。")
+
+# 文件转换按钮
+if st.button("转换为 XLSX"):
+    if (input_openai_api_key and input_llama_api_key):
+        if not os.path.exists(xlsx_file):
+            convert_pdf_to_text(selected_pdf, xlsx_file, input_llama_api_key)
+            st.success("PDF 已成功转换为 XLSX。")
+        else:
+            st.warning("XLSX 文件已经存在，不需要重新转换。")
+    else:
+        st.error("请提供有效的 API 网址。")
