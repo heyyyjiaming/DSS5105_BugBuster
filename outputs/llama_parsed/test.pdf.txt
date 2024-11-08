@@ -58,8 +58,8 @@
 | |%|2023|2022|2021|
 |---|---|---|---|---|
 |General Waste (tonnes)|30.6|1,605|1,229|–|
-|Recycled waste (tonnes)(36) – includes electronic waste|27.0|207|163|–|
-|Office paper (tonnes)(37) – excludes statement paper|-7.9|340|369|379|
+|Recycled waste (tonnes)(36)|27.0|207|163|–|
+|Office paper (tonnes)(37)|-7.9|340|369|379|
 
 # Footnotes
 

@@ -1,0 +1,8 @@
+streamlit
+openai
+pandas
+numpy
+llama_parse
+uniflow
+transformers
+beautifulsoup4
