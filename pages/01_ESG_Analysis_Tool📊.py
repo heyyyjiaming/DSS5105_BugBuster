@@ -1,5 +1,5 @@
 import streamlit as st
-import streamlit_scrollable_textbox as stx
+# import streamlit_scrollable_textbox as stx
 import os
 import glob
 from utils.extract import convert_pdf_to_text
