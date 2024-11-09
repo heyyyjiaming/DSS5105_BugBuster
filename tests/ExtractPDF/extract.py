@@ -24,7 +24,7 @@ def convert_pdf_to_text(input_file, output_path, input_llama_api):
     else:
         os.environ["LLAMA_CLOUD_API_KEY"] = input_llama_api
 
-    documents = LlamaParse(result_type="markdown").load_data(input_file)
+    documents = LlamaParse(result_type="markdown").load_data(input_file, extra_info={"file_name": "_"})
 
     # Merge all the text into one str
     all_text = []
