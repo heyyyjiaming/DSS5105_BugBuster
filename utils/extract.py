@@ -1,4 +1,3 @@
-# %%
 import os
 import pandas as pd
 import nest_asyncio
@@ -8,31 +7,13 @@ from uniflow.flow.client import TransformClient
 from uniflow.flow.config import TransformOpenAIConfig
 from uniflow.flow.config import OpenAIModelConfig
 from uniflow.op.prompt import PromptTemplate, Context
-from dotenv import load_dotenv
 
-# Load the .env file
-# dotenv_path = 'D:/apikeys/.env'  
-# load_dotenv(dotenv_path=dotenv_path)
 
-# Retrieve the API key from the environment
-# openAI_API = os.getenv('OPENAI_API_KEY')
-# llama_API = os.getenv('LLAMA_API_KEY')
 
-# %%
-# Set dir
-# sys.path.append(".")
-# sys.path.append("..")
-
-# thisfile_dir = os.path.dirname(os.path.abspath(__file__))#if put this file in tests/ExtractPDF
-# dir_cur = os.path.join(thisfile_dir, '..', '..')
-# print("Target Directory:", dir_cur)
-
-# %%
 def convert_pdf_to_text(input_file):
     
     nest_asyncio.apply()
     documents = LlamaParse(result_type="markdown").load_data(input_file, extra_info={"file_name": "_"})
-    # documents
 
     # Merge all the text into one str
     all_text = []
@@ -41,7 +22,7 @@ def convert_pdf_to_text(input_file):
 
     merged_doc = '\n\n'.join(all_text)
 
-    return documents, merged_doc
+    return documents
 
 
 
@@ -249,6 +230,7 @@ def convert_text_to_xlsx(documents):
 
     #store the extracted esg contents as a dictionary
     ESG_contents = {}
+    print("1")
 
     for idx, doc in enumerate(documents):
         input_page = [
@@ -257,9 +239,12 @@ def convert_text_to_xlsx(documents):
             )]
 
         ESG_contents[idx] = identify_client.run(input_page)
-
+        ESG_contents[idx]
+    # ESG_contents
+    
     # Restructure the extracted esg contents as a list
     extracted_contents = extract_esg_contents(ESG_contents)
+    # print(extracted_contents)
 
     # run step 2 and store the json output in a dictionary 
     output = {}
