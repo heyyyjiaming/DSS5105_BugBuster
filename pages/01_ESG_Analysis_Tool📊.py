@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit_scrollable_textbox as stx
 import os
 import glob
-# from extract import convert_pdf_to_text
+from utils.extract import convert_pdf_to_text
 # from extract import convert_text_to_xlsx  
 from utils.tools import read_pdf
 
@@ -25,7 +25,8 @@ else:
     if uploaded_file:
         st.write("File uploaded successfully!")
         ## Test importing pkg
-        context = read_pdf(uploaded_file)
+        # context = read_pdf(uploaded_file)
+        context = convert_pdf_to_text(uploaded_file, input_llama_api_key)
         st.markdown("**Here is the content of the PDF file 📄:**")
         stx.scrollableTextbox(context,height = 500)
         # st.write(context)
