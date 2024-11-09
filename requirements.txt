@@ -1,4 +1,5 @@
 streamlit
+streamlit-scrollable-textbox
 openai
 pandas
 numpy
@@ -6,3 +7,4 @@ llama_parse
 uniflow
 transformers
 beautifulsoup4
+PyPDF2
