@@ -11,3 +11,5 @@ uniflow
 transformers
 beautifulsoup4
 PyPDF2
+scikit-learn
+plotly
