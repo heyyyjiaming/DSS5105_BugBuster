@@ -230,7 +230,6 @@ def convert_text_to_xlsx(documents):
 
     #store the extracted esg contents as a dictionary
     ESG_contents = {}
-    print("1")
 
     for idx, doc in enumerate(documents):
         input_page = [
@@ -239,8 +238,6 @@ def convert_text_to_xlsx(documents):
             )]
 
         ESG_contents[idx] = identify_client.run(input_page)
-        ESG_contents[idx]
-    # ESG_contents
     
     # Restructure the extracted esg contents as a list
     extracted_contents = extract_esg_contents(ESG_contents)
@@ -293,7 +290,142 @@ def convert_text_to_xlsx(documents):
     
     
     
+exchange_rates = {
+    'EUR': 1.1,   # 1 EUR = 1.1 USD
+    'GBP': 1.3,   
+    'CAD': 0.8,   
+    'CNY': 0.139,  
+    'SGD': 0.754,
+    'JPY': 0.0091, 
+    'AUD': 0.7,
+    'USD': 1  
+}
+
+def modify_units(row):
+    if row['unit'] == 'GJ':
+        row['unit'] = 'MWhs'
+        row['value'] = row['value'] * 0.277778  # GJ to MWh
+    elif row['unit'] == 'm³':
+        row['unit'] = 'ML'
+        row['value'] = row['value'] * 0.001  # m3 to ML
+    elif row['unit'] == 'm3':
+        row['unit'] = 'ML'
+        row['value'] = row['value'] * 0.001  # m3 to ML
+    elif row['unit'] == 'kg':
+        row['unit'] = 't'
+        row['value'] = row['value'] / 1000  # kg to t
+    elif row['unit'] in exchange_rates:
+        row['value'] = row['value'] * exchange_rates[row['unit']]
+        row['unit'] = 'USD' 
+
+    return row
+
+
+def fill_esg_data(df, new_df, column_name, label=None, metric=None, unit=None):
+    condition = pd.Series([True] * len(df))
+    if label is not None:
+        condition &= (df['label'].str.contains(label, regex=False))
+    if metric is not None:
+        condition &= (df['metric'].str.contains(metric, regex=False))
+    if unit is not None:
+        condition &= (df['unit'].str.contains(unit, regex=False))
     
+    filtered_df = df[condition]
+    
+    max_values_by_year = filtered_df.groupby('year')['value'].max().reset_index()
+    max_values_by_year = max_values_by_year.set_index('year')
+
+    if column_name not in new_df.columns:
+        new_df[column_name] = ''
+
+    for year, row in max_values_by_year.iterrows():
+        new_df.loc[year, column_name] = row['value']
+
+
+
+
+def restructure(df,company_name):
+    new_df = pd.DataFrame(columns=['year'])
+    new_df.set_index('year', inplace=True)
+    
+    fill_esg_data(df, new_df, 'GHG Emissions (Scope 1) (tCO2e)', label='Greenhouse Gas Emissions', metric='Scope 1', unit = 'tCO2e')
+    fill_esg_data(df, new_df, 'GHG Emissions (Scope 2) (tCO2e)', label='Greenhouse Gas Emissions', metric='Scope 2', unit='tCO2e')
+    fill_esg_data(df, new_df, 'GHG Emissions (Scope 3) (tCO2e)', label='Greenhouse Gas Emissions', metric='Scope 3', unit='tCO2e')
+    fill_esg_data(df, new_df, 'GHG Emissions (Total) (tCO2e)', label='Greenhouse Gas Emissions', metric='Total', unit='tCO2e')
+    fill_esg_data(df, new_df, 'Total Energy Consumption (MWhs)', label='Energy Consumption', metric='Total energy consumption', unit='MWhs')
+    fill_esg_data(df, new_df, 'Total Water Consumption (ML)', label='Water Consumption', metric='Total water consumption', unit='ML')
+    fill_esg_data(df, new_df, 'Total Waste Generated (t)', label='Waste Generation', metric='Total waste generated', unit='t')
+    fill_esg_data(df, new_df, 'Current Employees by Gender (Female %)', label='Gender Diversity', metric='Current employees by gender', unit='Female Percentage (%)')
+    fill_esg_data(df, new_df, 'New Hires and Turnover by Gender (Female %)', label='Gender Diversity', metric='New hires and turnover by gender', unit='Female Percentage (%)')
+    fill_esg_data(df, new_df, 'Current Employees by Age Groups (Millennials %)', label='Age-Based Diversity', metric='Current employees by age groups', unit='Millennials (%)')
+    fill_esg_data(df, new_df, 'New Hires and Turnover by Age Groups (Millennials %)', label='Age-Based Diversity', metric='New hires and turnover by age groups', unit='Millennials (%)')
+    fill_esg_data(df, new_df, 'Total Turnover (%)', label='Employment', metric='Total employee turnover')
+    fill_esg_data(df, new_df, 'Total Number of Employees', label='Employment', metric='Total number of employees')
+    fill_esg_data(df, new_df, 'Average Training Hours per Employee', label='Development & Training', metric='Average training hours per employee')
+    fill_esg_data(df, new_df, 'Fatalities', metric='Fatalities')
+    fill_esg_data(df, new_df, 'High-consequence injuries', metric='High-consequence injuries')
+    fill_esg_data(df, new_df, 'Recordable injuries', metric='Recordable injuries')
+    fill_esg_data(df, new_df, 'Recordable work-related ill health cases', metric='Number of recordable work-related illnesses or health conditions')
+    fill_esg_data(df, new_df, 'Board Independence (%)', label='Board Composition', metric='Board independence')
+    fill_esg_data(df, new_df, 'Women on the Board (%)', label='Board Composition', metric='Women on the board')
+    fill_esg_data(df, new_df, 'Women in Management Team (%)', label='Management Diversity', metric='Women in the management team')
+    fill_esg_data(df, new_df, 'Anti-Corruption Disclosures', metric='Anti-corruption disclosures')
+    fill_esg_data(df, new_df, 'Anti-Corruption Training for Employees (%)', label='Ethical Behaviour', metric='Anti-corruption training for employees')
+    fill_esg_data(df, new_df, 'List of Relevant Certifications', label='Certifications', metric='List of relevant certifications')
+    fill_esg_data(df, new_df, 'Alignment with Frameworks and Disclosure Practices', label='Alignment with Frameworks', metric='Alignment with frameworks and disclosure practices')
+    fill_esg_data(df, new_df, 'Assurance of Sustainability Report', label='Assurance', metric='Assurance of sustainability report')
+
+    new_df.insert(0, 'Company Name', company_name)
+    new_df.rename_axis('Year', inplace=True)
+    new_df.reset_index(inplace=True)
+    new_df.fillna('', inplace=True)
+
+    return new_df
+
+# def append_to_summary(summary_table_path, new_df):
+#     existing_df = pd.read_excel(summary_table_path, sheet_name='E')
+
+#     # Ensure 'Year' and 'Company Name' are present in new_df
+#     if 'Year' not in new_df.columns or 'Company Name' not in new_df.columns:
+#         raise ValueError("new_df must contain 'Year' and 'Company Name' columns")
+
+#     # Go through each row in new_df
+#     for index, new_row in new_df.iterrows():
+#         # Check if there is an existing row that matches the 'Year' and 'Company Name'
+#         match = (existing_df['Year'] == new_row['Year']) & (existing_df['Company Name'] == new_row['Company Name'])
+        
+#         if existing_df[match].empty:
+#             # If there is no matching row, concatenate the new row
+#             existing_df = pd.concat([existing_df, pd.DataFrame([new_row])], ignore_index=True)
+#         else:
+#             # If there is a matching row, update the values
+#             existing_df.loc[match, new_df.columns] = new_row
+
+#     # Write the updated dataframe back to the same Excel file
+#     existing_df.to_excel(summary_table_path, sheet_name='E', index=False)
+    
+    
+def convert_xlsx_to_summary(data_df, company_name):
+    data_df = data_df.apply(modify_units, axis=1)
+    new_df = restructure(data_df, company_name)
+    # append_to_summary(summary_table_path, new_df)  
+        # Ensure 'Year' and 'Company Name' are present in new_df
+    # if 'Year' not in new_df.columns or 'Company Name' not in new_df.columns:
+    #     raise ValueError("new_df must contain 'Year' and 'Company Name' columns")
+
+    # # Go through each row in new_df
+    # for index, new_row in new_df.iterrows():
+    #     # Check if there is an existing row that matches the 'Year' and 'Company Name'
+    #     match = (data_df['year'] == new_row['Year']) & (data_df['Company Name'] == new_row['Company Name'])
+        
+    #     if data_df[match].empty:
+    #         # If there is no matching row, concatenate the new row
+    #         data_df = pd.concat([data_df, pd.DataFrame([new_row])], ignore_index=True)
+    #     else:
+    #         # If there is a matching row, update the values
+    #         data_df.loc[match, new_df.columns] = new_row
+    return new_df
+
 
 
 # %% 
