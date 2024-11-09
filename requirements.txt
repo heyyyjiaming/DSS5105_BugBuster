@@ -1,4 +1,8 @@
+python_version >= "3.7"
+pip>=24.3.1
 streamlit
+# streamlit-scrollable-textbox
+# distutils
 openai
 pandas
 numpy
@@ -6,3 +10,4 @@ llama_parse
 uniflow
 transformers
 beautifulsoup4
+PyPDF2
