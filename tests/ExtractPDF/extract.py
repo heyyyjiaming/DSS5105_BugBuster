@@ -327,6 +327,15 @@ exchange_rates = {
 }
 
 def modify_units(row):
+    # Cleaning the Year column
+    if pd.notnull(row['year']): 
+        year_str = ''.join(filter(str.isdigit, str(row['year'])))
+        if year_str:  
+            row['year'] = int(year_str)
+        else:
+            row['year'] = None  
+    
+    # Existing unit modifications
     if row['unit'] == 'GJ':
         row['unit'] = 'MWhs'
         row['value'] = row['value'] * 0.277778  # GJ to MWh
@@ -342,6 +351,9 @@ def modify_units(row):
     elif row['unit'] in exchange_rates:
         row['value'] = row['value'] * exchange_rates[row['unit']]
         row['unit'] = 'USD' 
+    elif row['unit'] == 'Million dollars':
+        row['value'] = row['value'] * 1000000
+        row['unit'] = 'USD' 
 
     return row
 
@@ -356,8 +368,17 @@ def fill_esg_data(df, new_df, column_name, label=None, metric=None, unit=None):
         condition &= (df['unit'].str.contains(unit, regex=False))
     
     filtered_df = df[condition]
-    
-    max_values_by_year = filtered_df.groupby('year')['value'].max().reset_index()
+
+    def custom_agg(values):
+        numeric_values = pd.to_numeric(values, errors='coerce').dropna()
+        string_values = values[numeric_values.index.difference(values.index)]
+
+        if not numeric_values.empty: 
+            return numeric_values.max() 
+        else:
+            return ', '.join(string_values.unique()) 
+
+    max_values_by_year = filtered_df.groupby('year')['value'].agg(custom_agg).reset_index()
     max_values_by_year = max_values_by_year.set_index('year')
 
     if column_name not in new_df.columns:
@@ -365,7 +386,6 @@ def fill_esg_data(df, new_df, column_name, label=None, metric=None, unit=None):
 
     for year, row in max_values_by_year.iterrows():
         new_df.loc[year, column_name] = row['value']
-
 
 
 
@@ -382,8 +402,8 @@ def restructure(df,company_name):
     fill_esg_data(df, new_df, 'Total Waste Generated (t)', label='Waste Generation', metric='Total waste generated', unit='t')
     fill_esg_data(df, new_df, 'Current Employees by Gender (Female %)', label='Gender Diversity', metric='Current employees by gender', unit='Female Percentage (%)')
     fill_esg_data(df, new_df, 'New Hires and Turnover by Gender (Female %)', label='Gender Diversity', metric='New hires and turnover by gender', unit='Female Percentage (%)')
-    fill_esg_data(df, new_df, 'Current Employees by Age Groups (Millennials %)', label='Age-Based Diversity', metric='Current employees by age groups', unit='Millennials (%)')
-    fill_esg_data(df, new_df, 'New Hires and Turnover by Age Groups (Millennials %)', label='Age-Based Diversity', metric='New hires and turnover by age groups', unit='Millennials (%)')
+    # fill_esg_data(df, new_df, 'Current Employees by Age Groups (Millennials %)', label='Age-Based Diversity', metric='Current employees by age groups', unit='Millennials (%)')
+    # fill_esg_data(df, new_df, 'New Hires and Turnover by Age Groups (Millennials %)', label='Age-Based Diversity', metric='New hires and turnover by age groups', unit='Millennials (%)')
     fill_esg_data(df, new_df, 'Total Turnover (%)', label='Employment', metric='Total employee turnover')
     fill_esg_data(df, new_df, 'Total Number of Employees', label='Employment', metric='Total number of employees')
     fill_esg_data(df, new_df, 'Average Training Hours per Employee', label='Development & Training', metric='Average training hours per employee')
@@ -396,9 +416,9 @@ def restructure(df,company_name):
     fill_esg_data(df, new_df, 'Women in Management Team (%)', label='Management Diversity', metric='Women in the management team')
     fill_esg_data(df, new_df, 'Anti-Corruption Disclosures', metric='Anti-corruption disclosures')
     fill_esg_data(df, new_df, 'Anti-Corruption Training for Employees (%)', label='Ethical Behaviour', metric='Anti-corruption training for employees')
-    fill_esg_data(df, new_df, 'List of Relevant Certifications', label='Certifications', metric='List of relevant certifications')
-    fill_esg_data(df, new_df, 'Alignment with Frameworks and Disclosure Practices', label='Alignment with Frameworks', metric='Alignment with frameworks and disclosure practices')
-    fill_esg_data(df, new_df, 'Assurance of Sustainability Report', label='Assurance', metric='Assurance of sustainability report')
+    # fill_esg_data(df, new_df, 'List of Relevant Certifications', label='Certifications', metric='List of relevant certifications')
+    # fill_esg_data(df, new_df, 'Alignment with Frameworks and Disclosure Practices', label='Alignment with Frameworks', metric='Alignment with frameworks and disclosure practices')
+    # fill_esg_data(df, new_df, 'Assurance of Sustainability Report', label='Assurance', metric='Assurance of sustainability report')
 
     new_df.insert(0, 'Company Name', company_name)
     new_df.rename_axis('Year', inplace=True)
@@ -423,8 +443,16 @@ def append_to_summary(summary_table_path, new_df):
             # If there is no matching row, concatenate the new row
             existing_df = pd.concat([existing_df, pd.DataFrame([new_row])], ignore_index=True)
         else:
-            # If there is a matching row, update the values
-            existing_df.loc[match, new_df.columns] = new_row
+            for col in new_df.columns:
+                existing_value = existing_df.loc[match, col].values[0]
+                new_value = new_row[col]
+                
+                if pd.isna(existing_value):
+                    existing_df.loc[match, col] = new_value
+                else:
+                    # If the existing value is not empty, keep the larger one
+                    if pd.notna(new_value):  # Only compare if new_value is not NaN
+                        existing_df.loc[match, col] = max(existing_value, new_value)
 
     # Write the updated dataframe back to the same Excel file
     existing_df.to_excel(summary_table_path, sheet_name='E', index=False)
@@ -462,8 +490,8 @@ dir_cur = os.path.join(thisfile_dir, '..', '..')
 print("Target Directory:", dir_cur)
 
 # Put the name of PDF file and company name here #
-pdf_file = "test.pdf"
-company_name = 'CompanyName'
+pdf_file = "singtel-sustainability-report-2021.pdf"
+company_name = 'Singtel'
 # Put the name of PDF file and company name here #
 
 input_file = os.path.join(f"{dir_cur}\data\Reports", pdf_file)
@@ -473,7 +501,6 @@ xlsx_path = os.path.join(dir_cur, 'outputs\extracted_data', f'{base_name}.xlsx')
 summary_path = os.path.join(f"{dir_cur}", "outputs\Summary_table.xlsx")
 
 # %%
-
 ###############################
 
 documents = convert_pdf_to_text(input_file, txt_path, input_llama_api)
