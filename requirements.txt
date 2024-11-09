@@ -1,5 +1,6 @@
 streamlit
 streamlit-scrollable-textbox
+distutils
 openai
 pandas
 numpy
