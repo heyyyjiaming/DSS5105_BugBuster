@@ -27,9 +27,14 @@ else:
         ## Test importing pkg
         # context = read_pdf(uploaded_file)
         context = convert_pdf_to_text(uploaded_file, input_llama_api_key)
+        print(context)
+        if context=="":
+            print("No content")
+        else:
+            print("Yes!")
         st.markdown("**Here is the content of the PDF file 📄:**")
         # stx.scrollableTextbox(context,height = 500)
-        st.write(context)
+        st.markdown(context)
 
 
 

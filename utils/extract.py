@@ -40,8 +40,10 @@ def convert_pdf_to_text(input_file, input_llama_api):
     #     os.environ["LLAMA_CLOUD_API_KEY"] = llama_API
     # else:
     #     os.environ["LLAMA_CLOUD_API_KEY"] = input_llama_api
-
+    
+    os.environ["LLAMA_CLOUD_API_KEY"] = input_llama_api
     documents = LlamaParse(result_type="markdown").load_data(input_file)
+    # documents
 
     # Merge all the text into one str
     all_text = []
@@ -55,7 +57,7 @@ def convert_pdf_to_text(input_file, input_llama_api):
     # with open(txt_output_path, 'w', encoding='utf-8') as file:
     #     file.write(merged_doc)
         
-    return documents
+    return merged_doc
 
 # %% 
 # pdf_file = "test.pdf"
