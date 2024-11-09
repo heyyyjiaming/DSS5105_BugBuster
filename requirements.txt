@@ -1,5 +1,6 @@
 streamlit
 # streamlit-scrollable-textbox
+pip==24.3.1
 distutils
 openai
 pandas
