@@ -12,5 +12,4 @@ transformers
 beautifulsoup4
 PyPDF2
 scikit-learn
-matplotlib
 plotly

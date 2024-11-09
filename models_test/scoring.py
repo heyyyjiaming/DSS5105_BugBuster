@@ -4,7 +4,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.linear_model import LinearRegression
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import plotly.express as px
 
 def categorize_performance_by_cluster(cluster):
