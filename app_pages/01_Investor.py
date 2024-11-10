@@ -143,6 +143,7 @@ else:
 
         except requests.exceptions.JSONDecodeError as e:
             st.write("JSONDecodeError: Unable to parse JSON response")
+            st.write("Failed to decode JSON, raw response:", result.text)
         except requests.exceptions.RequestException as e:
             st.write(f"Request Error: {e}")
 

@@ -1,7 +1,7 @@
 import streamlit as st
 
 pages = {
-    "Overview 🎈": [
+    "Overview 👀": [
         st.Page("app_pages/00_Welcome.py", title="DSS5105 BugBuster 👾")
     ],
     "Your Role 🧑🏻‍💼👩🏻‍💼": [
