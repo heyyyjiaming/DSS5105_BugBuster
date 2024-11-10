@@ -22,7 +22,7 @@ def convert_pdf_to_text(input_file):
 
     merged_doc = '\n\n'.join(all_text)
 
-    return documents
+    return documents, merged_doc
 
 
 
