@@ -1,0 +1,94 @@
+Indicator,2020,2021,2022,2023,2024
+Period Ended,31 Dec 2019,31 Dec 2020,31 Dec 2021,31 Dec 2022,31 Dec 2023
+Period Length,12 Months,12 Months,12 Months,12 Months,12 Months
+Source,ARS,ARS,ARS,ARS,ARS
+Revenue,131.91,164.44,271.22,372.39,299.91
+Total Revenue,131.91,164.44,271.22,372.39,299.91
+"Selling/General/Admin. Expenses, Total",7.64,8.51,12.28,16.20,17.76
+Depreciation/Amortisation,6.72,7.55,12.47,15.75,18.07
+Unusual Expense (Income),1.03,7.11,2.08,-0.03,-0.49
+"Other Operating Expenses, Total",1.56,2.59,5.03,4.82,6.47
+Total Operating Expense,98.31,123.09,193.41,267.53,230.93
+Operating Income,33.60,41.35,77.81,104.86,68.98
+"Interest Inc.(Exp.),Net-Non-Op., Total",1.59,-2.37,1.58,-1.86,-1.17
+"Other, Net",-,-,-,-,-
+Net Income Before Taxes,35.46,38.89,79.40,103.22,68.50
+Provision for Income Taxes,2.24,2.60,21.82,1.24,7.31
+Net Income After Taxes,33.21,36.29,57.58,101.98,61.19
+Net Income Before Extra. Items,33.56,36.47,53.10,98.17,59.98
+Net Income,33.56,36.47,53.10,98.17,59.98
+Income Available to Com Excl ExtraOrd,33.56,36.47,53.10,98.17,59.98
+Income Available to Com Incl ExtraOrd,33.56,36.47,53.10,98.17,59.98
+Diluted Net Income,33.56,36.47,53.10,98.17,59.98
+Diluted Weighted Average Shares,670.54,667.58,666.79,667.48,670.44
+Diluted EPS Excluding ExtraOrd Items,0.05,0.05,0.08,0.15,0.09
+DPS - Common Stock Primary Issue,0.03,0.03,0.05,0.05,0.06
+Diluted Normalised EPS,0.05,0.06,0.08,0.15,0.09
+Period Ended,31 Dec 2019,31 Dec 2020,31 Dec 2021,31 Dec 2022,31 Dec 2023
+Source,ARS,ARS,ARS,ARS,ARS
+Cash,-,-,-,-,-
+Short Term Investments,4.59,5.34,11.14,1.22,8.09
+Cash and Short Term Investments,34.36,53.79,65.41,62.64,68.04
+"Accounts Receivable - Trade, Net",18.20,20.45,52.34,49.97,42.05
+"Total Receivables, Net",21.70,23.18,65.53,77.51,53.84
+Prepaid Expenses,0.38,0.30,1.65,2.38,2.40
+"Other Current Assets, Total",-,-,-,-,-
+Total Current Assets,108.18,131.20,219.70,253.20,235.04
+"Property/Plant/Equipment, Total - Gross",190.48,200.74,278.21,309.41,337.13
+"Accumulated Depreciation, Total",-133.94,-139.67,-151.43,-163.03,-174.50
+"Property/Plant/Equipment, Total - Net",56.54,61.07,126.78,146.38,162.63
+"Goodwill, Net",81.21,80.08,86.35,86.35,86.35
+"Intangibles, Net",0.00,-,2.20,1.90,1.60
+Long Term Investments,41.23,37.11,1.66,1.50,1.37
+Total Assets,287.21,309.54,436.75,489.42,487.17
+Accounts Payable,8.30,9.56,26.01,31.06,21.09
+Accrued Expenses,6.91,9.93,18.69,19.78,18.44
+Notes Payable/Short Term Debt,1.40,1.40,1.40,0.91,0.00
+"Other Current liabilities, Total",6.31,9.33,30.54,18.20,17.69
+Total Current Liabilities,32.51,46.18,89.41,82.25,65.95
+Total Long Term Debt,7.28,8.09,32.84,27.79,23.75
+Total Debt,18.28,25.46,47.03,41.01,32.47
+Deferred Income Tax,2.13,1.91,9.82,10.61,10.14
+"Other Liabilities, Total",0.41,0.41,0.41,0.41,0.41
+Total Liabilities,43.95,58.25,157.85,148.95,127.33
+"Common Stock, Total",136.62,136.62,136.62,136.62,136.62
+Retained Earnings (Accumulated Deficit),117.47,127.27,156.01,221.55,244.83
+Treasury Stock - Common,-,-1.92,-2.06,-0.89,-0.15
+Unrealised Gain (Loss),-,-,-,-,-
+"Other Equity, Total",-10.82,-10.68,-11.67,-16.81,-21.47
+Total Equity,243.27,251.29,278.90,340.47,359.84
+Total Liabilities & Shareholders' Equity,287.21,309.54,436.75,489.42,487.17
+Total Common Shares Outstanding,670.54,666.79,666.12,668.41,669.87
+"Tangible Book Value per Share, Common Eq",0.24,0.26,0.29,0.38,0.41
+Period Ended,31 Dec 2019,31 Dec 2020,31 Dec 2021,31 Dec 2022,31 Dec 2023
+Source,ARS,ARS,ARS,ARS,ARS
+Net Income/Starting Line,35.46,38.89,79.40,103.22,68.50
+Depreciation/Depletion,6.87,7.70,12.43,15.61,17.93
+Non-Cash Items,0.69,10.60,1.61,3.17,-0.23
+Cash Taxes Paid,2.34,2.12,4.47,7.96,11.14
+Changes in Working Capital,10.58,-0.81,-27.47,-29.91,-6.72
+Cash from Operating Activities,53.60,56.38,66.16,92.38,79.78
+Capital Expenditures,-2.21,-11.59,-9.98,-53.52,-29.68
+"Other Investing Cash Flow Items, Total",-4.99,-1.40,-11.05,-2.95,-1.46
+Cash from Investing Activities,-7.19,-12.98,-21.03,-56.47,-31.14
+Total Cash Dividends Paid,-18.78,-26.67,-22.67,-33.39,-36.21
+"Issuance (Retirement) of Stock, Net",-,-1.92,-0.15,3.06,1.89
+Cash from Financing Activities,-30.66,-23.00,-33.45,-37.68,-44.41
+Foreign Exchange Effects,-0.32,-0.97,-0.38,-1.64,1.56
+Net Change in Cash,15.44,19.42,11.30,-3.41,5.79
+Period Ended,31 Dec 2019,31 Dec 2020,31 Dec 2021,31 Dec 2022,31 Dec 2023
+Return on Assets (ROA),-,0.122,0.154,0.220,0.125
+Return on Equity (ROE),-,0.147,0.200,0.317,0.171
+Operating Margin,0.255,0.251,0.287,0.282,0.230
+Net Profit Margin,0.252,0.221,0.212,0.274,0.204
+Asset Turnover,-,0.551,0.727,0.804,0.614
+Current Ratio,3.327,2.841,2.457,3.078,3.564
+Quick Ratio,1.736,1.673,1.483,1.733,1.885
+Debt / Equity,0.075,0.101,0.169,0.120,0.090
+Period Ended,31 Dec 2019,31 Dec 2020,31 Dec 2021,31 Dec 2022,31 Dec 2023
+Revenue Growth (%),-,24.66,64.94,37.30,-19.46
+Net Profit Margin Growth (%),-,-12.34,-3.81,28.98,-25.50
+Operating Margin Growth (%),-,-1.28,14.09,-1.84,-18.33
+Diluted Normalised EPS Growth (%),-,26.57,26.59,79.17,-40.10
+"Common Stock, Total Growth (%)",-,0.00,0.00,0.00,0.00
+Net Income Growth (%),-,8.69,45.60,84.87,-38.90
