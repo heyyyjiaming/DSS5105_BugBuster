@@ -435,7 +435,7 @@ def restructure(df,company_name):
     # fill_esg_data(df, new_df, 'New Hires and Turnover by Age Groups (Millennials %)', label='Age-Based Diversity', metric='New hires and turnover by age groups', unit='Millennials (%)')
     fill_esg_data(df, new_df, 'Total Turnover (%)', label='Employment', metric='Total employee turnover')
     fill_esg_data(df, new_df, 'Total Number of Employees', label='Employment', metric='Total number of employees')
-    fill_esg_data(df, new_df, 'Average Training Hours per Employee', label='Development & Training', metric='Average training hours per employee', unit='hour')
+    fill_esg_data(df, new_df, 'Average Training Hours per Employee', label='Development & Training', metric='Average training hours per employee', unit='Hour')
     fill_esg_data(df, new_df, 'Fatalities', metric='Fatalities')
     fill_esg_data(df, new_df, 'High-consequence injuries', metric='High-consequence injuries', unit='Number')
     fill_esg_data(df, new_df, 'Recordable injuries', metric='Recordable injuries', unit='Number')
