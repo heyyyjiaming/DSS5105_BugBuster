@@ -14,6 +14,6 @@ PyPDF2
 scikit-learn
 plotly
 matplotlib
-yfinance==0.2.32
+yfinance==0.2.48
 yahooquery
 beautifulsoup4
