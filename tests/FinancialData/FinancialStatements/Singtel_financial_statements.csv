@@ -1,0 +1,94 @@
+Indicator,2020,2021,2022,2023,2024
+Period Ended,31 Mar 2020,31 Mar 2021,31 Mar 2022,31 Mar 2023,31 Mar 2024
+Period Length,12 Months,12 Months,12 Months,12 Months,12 Months
+Source,ARS,ARS,ARS,ARS,ARS
+Revenue,"16,542.30","15,644.00","15,339.10","14,624.40","14,127.50"
+Total Revenue,"16,542.30","15,644.00","15,339.10","14,624.40","14,127.50"
+"Selling/General/Admin. Expenses, Total","4,513.10","4,587.30","4,719.00","4,815.90","4,686.10"
+Depreciation/Amortisation,"2,580.30","2,684.80","2,722.50","2,574.10","2,444.00"
+Unusual Expense (Income),-419.30,503.30,-234.10,-21.60,"1,250.20"
+"Other Operating Expenses, Total",-170.00,-152.40,-161.30,-197.70,-220.10
+Total Operating Expense,"14,165.50","15,101.50","14,057.90","13,493.90","14,224.90"
+Operating Income,"2,376.80",542.50,"1,281.20","1,130.50",-97.40
+"Interest Inc.(Exp.),Net-Non-Op., Total",-796.10,241.30,"1,354.80","1,507.70","1,097.20"
+"Other, Net",-15.30,-29.80,-14.80,-39.80,-38.60
+Net Income Before Taxes,"1,565.40",754.00,"2,621.20","2,598.40",961.20
+Provision for Income Taxes,513.20,194.10,661.90,364.90,157.70
+Net Income After Taxes,"1,052.20",559.90,"1,959.30","2,233.50",803.50
+Net Income Before Extra. Items,"1,074.60",553.70,"1,948.50","2,225.10",795.00
+Net Income,"1,074.60",553.70,"1,948.50","2,225.10",795.00
+Income Available to Com Excl ExtraOrd,"1,074.60",553.70,"1,948.50","2,225.10",795.00
+Income Available to Com Incl ExtraOrd,"1,074.60",553.70,"1,948.50","2,225.10",795.00
+Diluted Net Income,"1,074.60",553.70,"1,948.50","2,225.10",795.00
+Diluted Weighted Average Shares,"16,349.23","16,386.53","16,550.28","16,555.55","16,556.17"
+Diluted EPS Excluding ExtraOrd Items,0.07,0.03,0.12,0.13,0.05
+DPS - Common Stock Primary Issue,0.12,0.08,0.09,0.10,0.13
+Diluted Normalised EPS,0.05,0.06,0.11,0.13,0.11
+Period Ended,31 Mar 2020,31 Mar 2021,31 Mar 2022,31 Mar 2023,31 Mar 2024
+Source,ARS,ARS,ARS,ARS,ARS
+Cash,847.60,599.10,"1,101.70",654.20,"1,402.60"
+Short Term Investments,14.80,19.30,50.60,0.00,21.80
+Cash and Short Term Investments,999.60,754.70,"2,130.10","1,667.90","4,627.00"
+"Accounts Receivable - Trade, Net","4,388.20","4,330.10","4,116.10","3,924.30","3,798.90"
+"Total Receivables, Net","5,013.60","4,833.60","4,602.80","4,441.10","4,416.90"
+Prepaid Expenses,545.80,610.10,642.40,571.70,588.80
+"Other Current Assets, Total",337.20,62.20,485.40,"1,555.90",426.00
+Total Current Assets,"7,175.80","6,532.20","8,130.40","8,582.80","10,360.10"
+"Property/Plant/Equipment, Total - Gross","34,224.50","37,988.10","40,040.60","38,399.90","39,244.40"
+"Accumulated Depreciation, Total","-21,800.20","-24,398.30","-25,790.20","-25,015.20","-26,373.70"
+"Property/Plant/Equipment, Total - Net","12,424.30","13,589.80","14,250.40","13,384.70","12,870.70"
+"Goodwill, Net","11,429.90","10,767.20","9,660.70","9,021.90","6,411.40"
+"Intangibles, Net","2,306.00","2,361.90","2,316.50","1,967.60","1,815.60"
+Long Term Investments,"14,226.80","13,734.60","13,847.40","12,521.80","13,362.80"
+Total Assets,"48,954.90","47,998.40","49,131.00","46,530.00","46,198.50"
+Accounts Payable,"4,430.50","4,759.90","4,422.40","4,037.80","4,103.50"
+Accrued Expenses,932.30,953.40,950.10,947.30,"1,036.00"
+Notes Payable/Short Term Debt,0.00,0.00,0.00,0.00,0.00
+"Other Current liabilities, Total","1,245.20","1,389.60","2,068.40","2,331.30","1,940.20"
+Total Current Liabilities,"10,578.50","9,136.80","9,055.10","8,299.10","7,649.40"
+Total Long Term Debt,"10,202.10","10,825.60","10,254.40","9,910.60","11,329.90"
+Total Debt,"14,172.60","12,859.50","11,868.60","10,893.30","11,899.60"
+Deferred Income Tax,525.50,498.90,498.80,542.50,539.70
+"Other Liabilities, Total",834.80,"1,025.70","1,213.40","1,763.50","1,714.80"
+Total Liabilities,"22,165.70","21,512.60","21,038.30","20,531.90","21,270.80"
+"Common Stock, Total","4,127.30","4,573.50","4,573.10","4,573.10","4,573.10"
+Retained Earnings (Accumulated Deficit),"25,277.10","23,779.10","24,582.40","24,254.50","23,531.80"
+Treasury Stock - Common,-31.00,-22.50,-25.50,-31.80,-32.30
+Unrealised Gain (Loss),-214.20,-75.80,159.60,32.90,201.20
+"Other Equity, Total","-2,370.00","-1,768.50","-1,196.90","-2,830.60","-3,346.10"
+Total Equity,"26,789.20","26,485.80","28,092.70","25,998.10","24,927.70"
+Total Liabilities & Shareholders' Equity,"48,954.90","47,998.40","49,131.00","46,530.00","46,198.50"
+Total Common Shares Outstanding,"16,320.62","16,507.44","16,505.70","16,503.92","16,503.31"
+"Tangible Book Value per Share, Common Eq",0.80,0.81,0.98,0.91,1.01
+Period Ended,31 Mar 2020,31 Mar 2021,31 Mar 2022,31 Mar 2023,31 Mar 2024
+Source,ARS,ARS,ARS,ARS,ARS
+Net Income/Starting Line,"1,565.40",754.00,"2,621.20","2,598.40",961.20
+Depreciation/Depletion,"2,580.30","2,684.80","2,722.50","2,574.10","2,444.00"
+Non-Cash Items,361.00,316.90,"-1,586.50","-1,526.00",156.10
+Cash Taxes Paid,491.90,164.00,351.60,346.70,341.30
+Changes in Working Capital,"1,310.60","1,853.30","1,540.60","1,129.30","1,156.70"
+Cash from Operating Activities,"5,817.30","5,609.00","5,297.80","4,775.80","4,718.00"
+Capital Expenditures,"-2,386.60","-2,428.40","-2,494.60","-2,280.70","-2,362.50"
+"Other Investing Cash Flow Items, Total",-534.20,-237.80,"1,850.20",-21.00,"2,609.80"
+Cash from Investing Activities,"-2,920.80","-2,666.20",-644.40,"-2,301.70",247.30
+Total Cash Dividends Paid,"-2,856.70","-1,272.90","-1,139.10","-1,964.30","-2,146.10"
+"Issuance (Retirement) of Stock, Net",-23.00,-15.70,-23.40,-36.50,-32.70
+Cash from Financing Activities,"-2,446.80","-3,190.00","-3,266.40","-2,941.20","-1,992.70"
+Foreign Exchange Effects,37.20,-2.10,21.20,-37.40,-21.70
+Net Change in Cash,486.90,-249.30,"1,408.20",-504.50,"2,950.90"
+Period Ended,31 Mar 2020,31 Mar 2021,31 Mar 2022,31 Mar 2023,31 Mar 2024
+Return on Assets (ROA),-,0.012,0.040,0.047,0.017
+Return on Equity (ROE),-,0.021,0.071,0.082,0.031
+Operating Margin,0.144,0.035,0.084,0.077,-0.007
+Net Profit Margin,0.064,0.036,0.128,0.153,0.057
+Asset Turnover,-,0.323,0.316,0.306,0.305
+Current Ratio,0.678,0.715,0.898,1.034,1.354
+Quick Ratio,0.652,0.685,0.868,0.992,1.315
+Debt / Equity,0.529,0.486,0.422,0.419,0.477
+Period Ended,31 Mar 2020,31 Mar 2021,31 Mar 2022,31 Mar 2023,31 Mar 2024
+Revenue Growth (%),-,-5.43,-1.95,-4.66,-3.40
+Net Profit Margin Growth (%),-,-43.73,256.89,19.57,-62.76
+Operating Margin Growth (%),-,-75.86,140.86,-7.45,-108.92
+Diluted Normalised EPS Growth (%),-,16.73,89.33,24.37,-16.61
+"Common Stock, Total Growth (%)",-,10.81,-0.01,0.00,0.00
+Net Income Growth (%),-,-48.47,251.91,14.20,-64.27
