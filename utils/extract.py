@@ -303,29 +303,24 @@ exchange_rates = {
 
 ## Change whole func
 def modify_units(row):
-    # if row['unit'] == 'GJ':
-    #     row['unit'] = 'MWhs'
-    #     row['value'] = row['value'] * 0.277778  # GJ to MWh
-    # elif row['unit'] == 'm³':
-    #     row['unit'] = 'ML'
-    #     row['value'] = row['value'] * 0.001  # m3 to ML
-    # elif row['unit'] == 'm3':
-    #     row['unit'] = 'ML'
-    #     row['value'] = row['value'] * 0.001  # m3 to ML
-    # elif row['unit'] == 'kg':
-    #     row['unit'] = 't'
-    #     row['value'] = row['value'] / 1000  # kg to t
-    # elif row['unit'] in exchange_rates:
-    #     row['value'] = row['value'] * exchange_rates[row['unit']]
-    #     row['unit'] = 'USD' 
-        # Cleaning the Year column
-        
-    if pd.notnull(row['year']): 
+    min_year = 2015
+    max_year = 2025
+    
+    if pd.notnull(row['year']):
+        # Extract digits from the year field
         year_str = ''.join(filter(str.isdigit, str(row['year'])))
-        if year_str:  
-            row['year'] = int(year_str)
+        
+        if year_str:
+            # Convert the string to an integer
+            year_int = int(year_str)
+            # Check if the year falls within a realistic range
+            if min_year <= year_int <= max_year:
+                row['year'] = year_int
+            else:
+                row['year'] = None
         else:
-            row['year'] = None  
+            row['year'] = None
+    
     # Existing unit modifications
     if row['unit'] == 'GJ':
         row['unit'] = 'MWhs'
@@ -409,40 +404,6 @@ def fill_esg_data(df, new_df, column_name, label=None, metric=None, unit=None):
 
 ## change whole
 def restructure(df,company_name):
-    # new_df = pd.DataFrame(columns=['year'])
-    # new_df.set_index('year', inplace=True)
-    
-    # fill_esg_data(df, new_df, 'GHG Emissions (Scope 1) (tCO2e)', label='Greenhouse Gas Emissions', metric='Scope 1', unit = 'tCO2e')
-    # fill_esg_data(df, new_df, 'GHG Emissions (Scope 2) (tCO2e)', label='Greenhouse Gas Emissions', metric='Scope 2', unit='tCO2e')
-    # fill_esg_data(df, new_df, 'GHG Emissions (Scope 3) (tCO2e)', label='Greenhouse Gas Emissions', metric='Scope 3', unit='tCO2e')
-    # fill_esg_data(df, new_df, 'GHG Emissions (Total) (tCO2e)', label='Greenhouse Gas Emissions', metric='Total', unit='tCO2e')
-    # fill_esg_data(df, new_df, 'Total Energy Consumption (MWhs)', label='Energy Consumption', metric='Total energy consumption', unit='MWhs')
-    # fill_esg_data(df, new_df, 'Total Water Consumption (ML)', label='Water Consumption', metric='Total water consumption', unit='ML')
-    # fill_esg_data(df, new_df, 'Total Waste Generated (t)', label='Waste Generation', metric='Total waste generated', unit='t')
-    # fill_esg_data(df, new_df, 'Current Employees by Gender (Female %)', label='Gender Diversity', metric='Current employees by gender', unit='Female Percentage (%)')
-    # fill_esg_data(df, new_df, 'New Hires and Turnover by Gender (Female %)', label='Gender Diversity', metric='New hires and turnover by gender', unit='Female Percentage (%)')
-    # fill_esg_data(df, new_df, 'Current Employees by Age Groups (Millennials %)', label='Age-Based Diversity', metric='Current employees by age groups', unit='Millennials (%)')
-    # fill_esg_data(df, new_df, 'New Hires and Turnover by Age Groups (Millennials %)', label='Age-Based Diversity', metric='New hires and turnover by age groups', unit='Millennials (%)')
-    # fill_esg_data(df, new_df, 'Total Turnover (%)', label='Employment', metric='Total employee turnover')
-    # fill_esg_data(df, new_df, 'Total Number of Employees', label='Employment', metric='Total number of employees')
-    # fill_esg_data(df, new_df, 'Average Training Hours per Employee', label='Development & Training', metric='Average training hours per employee')
-    # fill_esg_data(df, new_df, 'Fatalities', metric='Fatalities')
-    # fill_esg_data(df, new_df, 'High-consequence injuries', metric='High-consequence injuries')
-    # fill_esg_data(df, new_df, 'Recordable injuries', metric='Recordable injuries')
-    # fill_esg_data(df, new_df, 'Recordable work-related ill health cases', metric='Number of recordable work-related illnesses or health conditions')
-    # fill_esg_data(df, new_df, 'Board Independence (%)', label='Board Composition', metric='Board independence')
-    # fill_esg_data(df, new_df, 'Women on the Board (%)', label='Board Composition', metric='Women on the board')
-    # fill_esg_data(df, new_df, 'Women in Management Team (%)', label='Management Diversity', metric='Women in the management team')
-    # fill_esg_data(df, new_df, 'Anti-Corruption Disclosures', metric='Anti-corruption disclosures')
-    # fill_esg_data(df, new_df, 'Anti-Corruption Training for Employees (%)', label='Ethical Behaviour', metric='Anti-corruption training for employees')
-    # fill_esg_data(df, new_df, 'List of Relevant Certifications', label='Certifications', metric='List of relevant certifications')
-    # fill_esg_data(df, new_df, 'Alignment with Frameworks and Disclosure Practices', label='Alignment with Frameworks', metric='Alignment with frameworks and disclosure practices')
-    # fill_esg_data(df, new_df, 'Assurance of Sustainability Report', label='Assurance', metric='Assurance of sustainability report')
-
-    # new_df.insert(0, 'Company Name', company_name)
-    # new_df.rename_axis('Year', inplace=True)
-    # new_df.reset_index(inplace=True)
-    # new_df.fillna('', inplace=True)
     new_df = pd.DataFrame(columns=['year'])
     new_df.set_index('year', inplace=True)
     
@@ -455,18 +416,23 @@ def restructure(df,company_name):
     fill_esg_data(df, new_df, 'Total Waste Generated (t)', label='Waste Generation', metric='Total waste generated', unit='t')
     fill_esg_data(df, new_df, 'Current Employees by Gender (Female %)', label='Gender Diversity', metric='Current employees by gender', unit='Female Percentage (%)')
     fill_esg_data(df, new_df, 'New Hires and Turnover by Gender (Female %)', label='Gender Diversity', metric='New hires and turnover by gender', unit='Female Percentage (%)')
+    # fill_esg_data(df, new_df, 'Current Employees by Age Groups (Millennials %)', label='Age-Based Diversity', metric='Current employees by age groups', unit='Millennials (%)')
+    # fill_esg_data(df, new_df, 'New Hires and Turnover by Age Groups (Millennials %)', label='Age-Based Diversity', metric='New hires and turnover by age groups', unit='Millennials (%)')
     fill_esg_data(df, new_df, 'Total Turnover (%)', label='Employment', metric='Total employee turnover')
     fill_esg_data(df, new_df, 'Total Number of Employees', label='Employment', metric='Total number of employees')
-    fill_esg_data(df, new_df, 'Average Training Hours per Employee', label='Development & Training', metric='Average training hours per employee')
+    fill_esg_data(df, new_df, 'Average Training Hours per Employee', label='Development & Training', metric='Average training hours per employee', unit='hour')
     fill_esg_data(df, new_df, 'Fatalities', metric='Fatalities')
-    fill_esg_data(df, new_df, 'High-consequence injuries', metric='High-consequence injuries')
-    fill_esg_data(df, new_df, 'Recordable injuries', metric='Recordable injuries')
-    fill_esg_data(df, new_df, 'Recordable work-related ill health cases', metric='Number of recordable work-related illnesses or health conditions')
+    fill_esg_data(df, new_df, 'High-consequence injuries', metric='High-consequence injuries', unit='Number')
+    fill_esg_data(df, new_df, 'Recordable injuries', metric='Recordable injuries', unit='Number')
+    fill_esg_data(df, new_df, 'Recordable work-related ill health cases', metric='Number of recordable work-related illnesses or health conditions', unit='Number')
     fill_esg_data(df, new_df, 'Board Independence (%)', label='Board Composition', metric='Board independence')
     fill_esg_data(df, new_df, 'Women on the Board (%)', label='Board Composition', metric='Women on the board')
     fill_esg_data(df, new_df, 'Women in Management Team (%)', label='Management Diversity', metric='Women in the management team')
-    fill_esg_data(df, new_df, 'Anti-Corruption Disclosures', metric='Anti-corruption disclosures')
-    fill_esg_data(df, new_df, 'Anti-Corruption Training for Employees (%)', label='Ethical Behaviour', metric='Anti-corruption training for employees')
+    # fill_esg_data(df, new_df, 'Anti-Corruption Disclosures', metric='Anti-corruption disclosures')
+    fill_esg_data(df, new_df, 'Anti-Corruption Training for Employees (%)', label='Ethical Behaviour', metric='Anti-corruption training for employees',unit='Number')
+    # fill_esg_data(df, new_df, 'List of Relevant Certifications', label='Certifications', metric='List of relevant certifications')
+    # fill_esg_data(df, new_df, 'Alignment with Frameworks and Disclosure Practices', label='Alignment with Frameworks', metric='Alignment with frameworks and disclosure practices')
+    # fill_esg_data(df, new_df, 'Assurance of Sustainability Report', label='Assurance', metric='Assurance of sustainability report')
 
     new_df.insert(0, 'Company Name', company_name)
     new_df.rename_axis('Year', inplace=True)
@@ -491,8 +457,19 @@ def restructure(df,company_name):
 #             # If there is no matching row, concatenate the new row
 #             existing_df = pd.concat([existing_df, pd.DataFrame([new_row])], ignore_index=True)
 #         else:
-#             # If there is a matching row, update the values
-#             existing_df.loc[match, new_df.columns] = new_row
+#             for col in new_df.columns:
+#                 existing_value = existing_df.loc[match, col].values[0]
+#                 new_value = new_row[col]
+                
+#                 if pd.isna(existing_value):
+#                     existing_df.loc[match, col] = new_value
+#                 else:
+#                     # Check if both values are numeric or strings before comparing
+#                     if pd.notna(new_value):  # Only compare if new_value is not NaN
+#                         if isinstance(existing_value, (int, float)) and isinstance(new_value, (int, float)):
+#                             existing_df.loc[match, col] = max(existing_value, new_value)
+#                         else:
+#                             existing_df.loc[match, col] = existing_value  # Keep existing value if types differ
 
 #     # Write the updated dataframe back to the same Excel file
 #     existing_df.to_excel(summary_table_path, sheet_name='E', index=False)
@@ -521,7 +498,36 @@ def convert_xlsx_to_summary(data_df, company_name):
 
 
 
-# %% 
-# input_openai_api = ''
-# output_path = os.path.join(dir_cur, 'outputs/extracted_data', f'{base_name}.xlsx')
-# convert_text_to_xlsx(documents, output_path, input_openai_api)
+# %%
+
+# # This block retrieves the directory where this script is located and the parent directory
+# thisfile_dir = os.path.dirname(os.path.abspath(__file__))
+# dir_cur = os.path.join(thisfile_dir, '..', '..')
+# reports_dir = os.path.join(dir_cur, 'data', 'Reports')
+# summary_path = os.path.join(dir_cur, 'outputs', 'Summary_table.xlsx')
+
+# print("Target Directory:", dir_cur)
+
+# # Iterate over all PDF files in the Reports directory
+# for pdf_file in glob.glob(os.path.join(reports_dir, '*.pdf')):
+#     base_name = os.path.basename(pdf_file)
+    
+#     # Define paths for the output files
+#     txt_path = os.path.join(dir_cur, 'outputs', 'llama_parsed', f'{base_name}.txt')
+#     xlsx_path = os.path.join(dir_cur, 'outputs', 'extracted_data', f'{base_name}.xlsx')
+    
+#     # Check if the PDF is already processed by checking if the output files exist
+#     if os.path.exists(txt_path) and os.path.exists(xlsx_path):
+#         print(f"Skipping {base_name}, already processed.")
+#         continue
+    
+#     # Put the company name here, assuming it is derived from the PDF file name
+#     company_name = base_name
+
+#     # Process the PDF
+#     print(f"Processing {base_name}...")
+#     documents = convert_pdf_to_text(pdf_file, txt_path, input_llama_api)
+#     convert_text_to_xlsx(documents, xlsx_path, input_openai_api)
+#     convert_xlsx_to_summary(xlsx_path, summary_path, company_name)
+
+# print("Processing complete.")
