@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4671600c-0f77-4d6b-b21b-48e719ef8cb2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/run9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/run9.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/summarize_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tests/summarize_data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
       <workItem from="1730552407756" duration="34000" />
       <workItem from="1730978181484" duration="58000" />
       <workItem from="1731160600119" duration="2000" />
+      <workItem from="1731239371405" duration="23000" />
     </task>
     <servers />
   </component>
