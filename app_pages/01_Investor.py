@@ -16,7 +16,7 @@ from sklearn.cluster import KMeans
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 import plotly.express as px
-from yahooquery import search, Ticker
+from yahooquery import search
 import requests
 
 
@@ -126,8 +126,7 @@ else:
         # get_ticker_symbol(company_name)
         # try:
         # Perform search using yahooquery
-        # result = search(company_name)
-        result = Ticker(company_name)
+        result = search(company_name)
         st.write(result)
             # print(f"Raw response: {result}")  # Debug print to see response
 

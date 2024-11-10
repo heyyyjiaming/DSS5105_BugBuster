@@ -456,35 +456,35 @@ def restructure(df,company_name):
 
     return new_df
 
-def append_to_summary(existing_df, new_df):
-    # existing_df = pd.read_excel(summary_table_path, sheet_name='E')
+# def append_to_summary(summary_table_path, new_df):
+#     existing_df = pd.read_excel(summary_table_path, sheet_name='E')
 
-    # Ensure 'Year' and 'Company Name' are present in new_df
-    if 'Year' not in new_df.columns or 'Company Name' not in new_df.columns:
-        raise ValueError("new_df must contain 'Year' and 'Company Name' columns")
+#     # Ensure 'Year' and 'Company Name' are present in new_df
+#     if 'Year' not in new_df.columns or 'Company Name' not in new_df.columns:
+#         raise ValueError("new_df must contain 'Year' and 'Company Name' columns")
 
-    # Go through each row in new_df
-    for index, new_row in new_df.iterrows():
-        # Check if there is an existing row that matches the 'Year' and 'Company Name'
-        match = (existing_df['Year'] == new_row['Year']) & (existing_df['Company Name'] == new_row['Company Name'])
+#     # Go through each row in new_df
+#     for index, new_row in new_df.iterrows():
+#         # Check if there is an existing row that matches the 'Year' and 'Company Name'
+#         match = (existing_df['Year'] == new_row['Year']) & (existing_df['Company Name'] == new_row['Company Name'])
         
-        if existing_df[match].empty:
-            # If there is no matching row, concatenate the new row
-            existing_df = pd.concat([existing_df, pd.DataFrame([new_row])], ignore_index=True)
-        else:
-            for col in new_df.columns:
-                existing_value = existing_df.loc[match, col].values[0]
-                new_value = new_row[col]
+#         if existing_df[match].empty:
+#             # If there is no matching row, concatenate the new row
+#             existing_df = pd.concat([existing_df, pd.DataFrame([new_row])], ignore_index=True)
+#         else:
+#             for col in new_df.columns:
+#                 existing_value = existing_df.loc[match, col].values[0]
+#                 new_value = new_row[col]
                 
-                if pd.isna(existing_value):
-                    existing_df.loc[match, col] = new_value
-                else:
-                    # Check if both values are numeric or strings before comparing
-                    if pd.notna(new_value):  # Only compare if new_value is not NaN
-                        if isinstance(existing_value, (int, float)) and isinstance(new_value, (int, float)):
-                            existing_df.loc[match, col] = max(existing_value, new_value)
-                        else:
-                            existing_df.loc[match, col] = existing_value  # Keep existing value if types differ
+#                 if pd.isna(existing_value):
+#                     existing_df.loc[match, col] = new_value
+#                 else:
+#                     # Check if both values are numeric or strings before comparing
+#                     if pd.notna(new_value):  # Only compare if new_value is not NaN
+#                         if isinstance(existing_value, (int, float)) and isinstance(new_value, (int, float)):
+#                             existing_df.loc[match, col] = max(existing_value, new_value)
+#                         else:
+#                             existing_df.loc[match, col] = existing_value  # Keep existing value if types differ
 
 #     # Write the updated dataframe back to the same Excel file
 #     existing_df.to_excel(summary_table_path, sheet_name='E', index=False)
