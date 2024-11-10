@@ -124,28 +124,28 @@ else:
         
         st.header("Financial Analysis")
         # get_ticker_symbol(company_name)
-        try:
+        # try:
         # Perform search using yahooquery
-            result = search(company_name)
-            st.write(result)
+        result = search(company_name)
+        st.write(result)
             # print(f"Raw response: {result}")  # Debug print to see response
 
             # Check if response is in the expected format
-            if not isinstance(result, dict) or 'quotes' not in result:
-                st.write("Unexpected response format or empty response")
+        #     if not isinstance(result, dict) or 'quotes' not in result:
+        #         st.write("Unexpected response format or empty response")
             
-            # Extract the ticker symbol from the result
-            quotes = result.get('quotes', [])
-            if quotes:
-                st.write(quotes[0].get('symbol', None))
-            else:
-                st.write("No quotes found for the company name")
+        #     # Extract the ticker symbol from the result
+        #     quotes = result.get('quotes', [])
+        #     if quotes:
+        #         st.write(quotes[0].get('symbol', None))
+        #     else:
+        #         st.write("No quotes found for the company name")
 
-        except requests.exceptions.JSONDecodeError as e:
-            st.write("JSONDecodeError: Unable to parse JSON response")
-            st.write("Failed to decode JSON, raw response:", result.get('quotes', []))
-        except requests.exceptions.RequestException as e:
-            st.write(f"Request Error: {e}")
+        # except requests.exceptions.JSONDecodeError as e:
+        #     st.write("JSONDecodeError: Unable to parse JSON response")
+        #     st.write("Failed to decode JSON, raw response:", result.get('quotes', []))
+        # except requests.exceptions.RequestException as e:
+        #     st.write(f"Request Error: {e}")
 
             # stock_price = get_stock_data(company_name)
             # fig = px.line(stock_price, x='Date', y='Adj Close', title=f"{company_name} Stock Price")
