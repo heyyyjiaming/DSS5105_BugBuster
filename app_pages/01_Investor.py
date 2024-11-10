@@ -123,7 +123,7 @@ else:
  
         
         st.header("Financial Analysis")
-        get_ticker_symbol(company_name)
+        # get_ticker_symbol(company_name)
         try:
         # Perform search using yahooquery
             result = search(company_name)
@@ -143,7 +143,7 @@ else:
 
         except requests.exceptions.JSONDecodeError as e:
             st.write("JSONDecodeError: Unable to parse JSON response")
-            st.write("Failed to decode JSON, raw response:", result.text)
+            st.write("Failed to decode JSON, raw response:", result.get('quotes', []))
         except requests.exceptions.RequestException as e:
             st.write(f"Request Error: {e}")
 
