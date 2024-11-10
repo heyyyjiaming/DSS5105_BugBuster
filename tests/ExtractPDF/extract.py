@@ -3,6 +3,7 @@ import os
 import pandas as pd
 import nest_asyncio
 import sys
+import glob
 from llama_parse import LlamaParse
 from uniflow.flow.client import TransformClient
 from uniflow.flow.config import TransformOpenAIConfig
@@ -414,7 +415,7 @@ def restructure(df,company_name):
     fill_esg_data(df, new_df, 'Board Independence (%)', label='Board Composition', metric='Board independence')
     fill_esg_data(df, new_df, 'Women on the Board (%)', label='Board Composition', metric='Women on the board')
     fill_esg_data(df, new_df, 'Women in Management Team (%)', label='Management Diversity', metric='Women in the management team')
-    fill_esg_data(df, new_df, 'Anti-Corruption Disclosures', metric='Anti-corruption disclosures')
+    # fill_esg_data(df, new_df, 'Anti-Corruption Disclosures', metric='Anti-corruption disclosures')
     fill_esg_data(df, new_df, 'Anti-Corruption Training for Employees (%)', label='Ethical Behaviour', metric='Anti-corruption training for employees')
     # fill_esg_data(df, new_df, 'List of Relevant Certifications', label='Certifications', metric='List of relevant certifications')
     # fill_esg_data(df, new_df, 'Alignment with Frameworks and Disclosure Practices', label='Alignment with Frameworks', metric='Alignment with frameworks and disclosure practices')
@@ -485,25 +486,37 @@ input_openai_api = ''
 sys.path.append(".")
 sys.path.append("..")
 
-thisfile_dir = os.path.dirname(os.path.abspath(__file__))#if put this file in tests/ExtractPDF
-dir_cur = os.path.join(thisfile_dir, '..', '..')
-print("Target Directory:", dir_cur)
-
-# Put the name of PDF file and company name here #
-pdf_file = "singtel-sustainability-report-2021.pdf"
-company_name = 'Singtel'
-# Put the name of PDF file and company name here #
-
-input_file = os.path.join(f"{dir_cur}\data\Reports", pdf_file)
-base_name = os.path.basename(input_file)
-txt_path = os.path.join(dir_cur, 'outputs\llama_parsed', f'{base_name}.txt')
-xlsx_path = os.path.join(dir_cur, 'outputs\extracted_data', f'{base_name}.xlsx')
-summary_path = os.path.join(f"{dir_cur}", "outputs\Summary_table.xlsx")
 
 # %%
-###############################
 
-documents = convert_pdf_to_text(input_file, txt_path, input_llama_api)
-convert_text_to_xlsx(documents, xlsx_path, input_openai_api)
-convert_xlsx_to_summary(xlsx_path, summary_path, company_name)
+# This block retrieves the directory where this script is located and the parent directory
+thisfile_dir = os.path.dirname(os.path.abspath(__file__))
+dir_cur = os.path.join(thisfile_dir, '..', '..')
+reports_dir = os.path.join(dir_cur, 'data', 'Reports')
+summary_path = os.path.join(dir_cur, 'outputs', 'Summary_table.xlsx')
 
+print("Target Directory:", dir_cur)
+
+# Iterate over all PDF files in the Reports directory
+for pdf_file in glob.glob(os.path.join(reports_dir, '*.pdf')):
+    base_name = os.path.basename(pdf_file)
+    
+    # Define paths for the output files
+    txt_path = os.path.join(dir_cur, 'outputs', 'llama_parsed', f'{base_name}.txt')
+    xlsx_path = os.path.join(dir_cur, 'outputs', 'extracted_data', f'{base_name}.xlsx')
+    
+    # Check if the PDF is already processed by checking if the output files exist
+    if os.path.exists(txt_path) and os.path.exists(xlsx_path):
+        print(f"Skipping {base_name}, already processed.")
+        continue
+    
+    # Put the company name here, assuming it is derived from the PDF file name
+    company_name = base_name
+
+    # Process the PDF
+    print(f"Processing {base_name}...")
+    documents = convert_pdf_to_text(pdf_file, txt_path, input_llama_api)
+    convert_text_to_xlsx(documents, xlsx_path, input_openai_api)
+    convert_xlsx_to_summary(xlsx_path, summary_path, company_name)
+
+print("Processing complete.")
