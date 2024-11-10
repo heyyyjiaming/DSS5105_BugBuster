@@ -13,3 +13,6 @@ beautifulsoup4
 PyPDF2
 scikit-learn
 plotly
+yfinance
+yahooquery
+beautifulsoup4
