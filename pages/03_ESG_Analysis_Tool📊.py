@@ -18,7 +18,6 @@ from sklearn.linear_model import LinearRegression
 import plotly.express as px
 
 
-
 st.title("ESG Analysis Tool 📊")
 st.write(
     "Upload an ESG report below and see how well the company performs! "
