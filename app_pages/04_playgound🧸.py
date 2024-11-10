@@ -8,7 +8,7 @@ from uniflow.flow.client import TransformClient
 from uniflow.flow.config import TransformOpenAIConfig
 from uniflow.flow.config import OpenAIModelConfig
 from uniflow.op.prompt import PromptTemplate, Context
-from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, extract_esg_contents, convert_xlsx_to_summary
+from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, extract_esg_contents, convert_xlsx_to_summary, append_to_summary
 # from models_test.scoring import ESGModel
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler
@@ -57,9 +57,9 @@ else:
         company_name = st.text_input("Please enter the name of company you want to analyze")
         st.session_state.uploaded_path = st.file_uploader("Upload a your ESG report(PDF) 📎", type=("pdf"), accept_multiple_files=True)
 
-    if not st.session_state.uploaded_file:
+    if not st.session_state.uploaded_path:
         st.warning("⬅️ Please upload a PDF file to continue 👻")
-    if st.session_state.uploaded_file:
+    else:
         st.write("File uploaded successfully! 🎉")
         init_session()
         
@@ -68,25 +68,42 @@ else:
             # st.session_state.df_summary = None
             start = st.form_submit_button("Strat to analyze")
             if start:
-                with st.spinner("Converting PDF file into text..."):
-                    for i in len(st.session_state.uploaded_path):
-                        cur_doc_parsed, cur_pdf_texts = convert_pdf_to_text(st.session_state.uploaded_path[i])
-                        if st.session_state.doc_parsed is not None:
-                            st.session_state.doc_parsed = cur_doc_parsed
-                        else:
-                            st.session_state.doc_parsed.append(cur_doc_parsed)
-                        if st.session_state.pdf_texts is not None:
-                            st.session_state.pdf_texts = cur_pdf_texts
-                        else:
-                            st.session_state.pdf_texts.append(cur_pdf_texts)
+                progress_text = "Processing PDF file "
+                my_bar = st.progress(0, text=progress_text)
+                for i in range(len(st.session_state.uploaded_path)):
 
-                        st.session_state.df_info = convert_text_to_xlsx(st.session_state.doc_parsed)
-                        st.session_state.df_summary = convert_xlsx_to_summary(st.session_state.df_info, company_name)
-                    st.session_state.doc_parsed, st.session_state.pdf_texts = convert_pdf_to_text(st.session_state.uploaded_file)
+                # for percent_complete in range(100):
+                    my_bar.progress(1/len(st.session_state.uploaded_path)*i, text=progress_text+f"{i+1}")
+                
+                # with st.spinner(f"Processing PDF file {i+1}..."):
+                    with st.spinner("Converting PDF file into text..."):
+                        cur_doc_parsed, cur_pdf_texts = convert_pdf_to_text(st.session_state.uploaded_path[i])
+                    with st.spinner("Extracting ESG information..."):
+                        df_info = convert_text_to_xlsx(cur_doc_parsed)
+                        st.dataframe(df_info)
+                        # df_summary = convert_xlsx_to_summary(df_info, company_name)
                     
-                with st.spinner("Extracting ESG information..."): 
-                    st.session_state.df_info = convert_text_to_xlsx(st.session_state.doc_parsed)
-                    st.session_state.df_summary = convert_xlsx_to_summary(st.session_state.df_info, company_name) 
+                    if st.session_state.df_info is not None:
+                        st.session_state.df_info = df_info
+                    else:
+                        st.session_state.df_info = pd.concat([st.session_state.df_info, df_info])
+                        st.dataframe(st.session_state.df_info)
+                my_bar.empty()
+                            
+                            # if (st.session_state.df_summary is not None) and (df_summary is not None):
+                            #     st.session_state.df_summary = df_summary
+                            # else:
+                            #     st.session_state.df_summary = append_to_summary(st.session_state.df_summary, df_summary)
+                            # st.dataframe(st.session_state.df_summary)
+                            
+                                
+                            # st.session_state.df_info = convert_text_to_xlsx(st.session_state.doc_parsed)
+                            # st.session_state.df_summary = convert_xlsx_to_summary(st.session_state.df_info, company_name)
+                        # st.session_state.doc_parsed, st.session_state.pdf_texts = convert_pdf_to_text(st.session_state.uploaded_file)
+                        
+                    # with st.spinner("Extracting ESG information..."): 
+                    #     st.session_state.df_info = convert_text_to_xlsx(st.session_state.doc_parsed)
+                    #     st.session_state.df_summary = convert_xlsx_to_summary(st.session_state.df_info, company_name) 
 
 
         if st.session_state.df_summary is not None:
