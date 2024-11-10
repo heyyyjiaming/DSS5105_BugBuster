@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4671600c-0f77-4d6b-b21b-48e719ef8cb2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/tests/summarize_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tests/summarize_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/Summary_table.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/Summary_table.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/extracted_data/output.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/extracted_data/test.pdf.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/llama_parsed/lazada-2024.pdf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/llama_parsed/llama_parsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/llama_parsed/singtel-sustainability-report-2021.pdf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/llama_parsed/test.pdf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/llama_parsed/test2.pdf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/FinancialData/StockPrice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tests/FinancialData/StockPrice.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +37,10 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -40,6 +56,10 @@
       <workItem from="1730978181484" duration="58000" />
       <workItem from="1731160600119" duration="2000" />
       <workItem from="1731239371405" duration="23000" />
+      <workItem from="1731243147374" duration="598000" />
+      <workItem from="1731244163477" duration="9000" />
+      <workItem from="1731245877595" duration="1000" />
+      <workItem from="1731251670938" duration="1000" />
     </task>
     <servers />
   </component>

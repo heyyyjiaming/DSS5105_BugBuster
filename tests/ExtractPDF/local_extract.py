@@ -330,23 +330,38 @@ exchange_rates = {
 
 
 def modify_units(row):
-    min_year = 2015
-    max_year = 2025
-    
+        # Check if the 'year' field is not null
     if pd.notnull(row['year']):
-        # Extract digits from the year field
-        year_str = ''.join(filter(str.isdigit, str(row['year'])))
+        year_str = str(row['year'])
         
-        if year_str:
-            # Convert the string to an integer
-            year_int = int(year_str)
-            # Check if the year falls within a realistic range
-            if min_year <= year_int <= max_year:
-                row['year'] = year_int
+        # Initialize variables for finding the year sequence
+        potential_year = ''
+        year_found = False
+        
+        for char in year_str:
+            if char.isdigit():
+                potential_year += char
             else:
-                row['year'] = None
-        else:
+                # Reset if the sequence goes beyond four digits
+                potential_year = ''
+
+            # Once four consecutive digits are found, validate
+            if len(potential_year) == 4:
+                year_int = int(potential_year)
+                # Define the valid year range
+                min_year, max_year = 2015, 2025
+                if min_year <= year_int <= max_year:
+                    row['year'] = year_int
+                    year_found = True
+                    break
+                else:
+                    # Reset and continue searching if invalid
+                    potential_year = ''
+
+        if not year_found:
             row['year'] = None
+    else:
+        row['year'] = None
     
     # Existing unit modifications
     if row['unit'] == 'GJ':

@@ -1,0 +1,1081 @@
+# Sustainability:
+
+# Thinking Big
+
+September 2019
+
+sustainability.aboutamazon.com
+
+# Committed to a Sustainable Future
+
+Amazon is making big changes to protect the planet.
+
+# Table of Contents
+
+- Goals 4
+- Sustainable Operations 8
+- Packaging and Products 22
+- Social Responsibility 40
+- Employees and Communities 46
+- Sustainability in the Cloud 52
+- Tech for Good 62
+- Governance 66
+- Amazon Around the Globe 78
+
+# Ambitious Goals
+
+# Immediate Action
+
+Building a sustainable business for our customers and the planet.
+
+# The Climate Pledge
+
+On September 19, 2019, Amazon and Global Optimism announced The Climate Pledge, a commitment to meet the Paris Agreement 10 years early. Amazon is the first signatory of this pledge. The Climate Pledge calls on signatories to be net zero carbon across their businesses by 2040—a decade ahead of the Paris Agreement’s goal of 2050.
+
+# Companies that sign The Climate Pledge agree to:
+
+- Measure and report greenhouse gas emissions on a regular basis;
+- Implement decarbonization strategies in line with the Paris Agreement through real business changes and innovations, including efficiency improvements, renewable energy, materials reductions, and other carbon emission elimination strategies;
+- Neutralize any remaining emissions with additional, quantifiable, real, permanent, and socially-beneficial offsets to achieve net zero annual carbon emissions by 2040.
+
+By joining The Climate Pledge and agreeing to decarbonize on a faster time horizon, signatories will play a critical role in stimulating investment in the development of low carbon products and services that will be required to help companies meet the pledge.
+
+# Paris Agreement 10 Years Early
+
+# Net Zero Carbon by 2040
+
+Deploying our technology and people to reach net zero carbon across Amazon by 2040, one decade ahead of the Paris Agreement.
+
+# 80% Renewable Energy by 2024
+
+Investing in wind and solar to reach 80% renewable energy across all business operations by 2024. We expect to reach ~40% renewable energy by the end of 2019.
+
+# 100% Renewable Energy by 2030
+
+Investing in wind and solar to reach 100% renewable energy across all business operations by 2030.
+
+# 50% Shipments Net Zero Carbon by 2030
+
+Our vision to make all Amazon shipments net zero carbon, with 50% of all shipments net zero carbon by 2030.
+
+# 100,000 fully-electric delivery vehicles, the largest order ever for electric delivery vehicles
+
+$100 million in reforestation projects around the world to begin removing carbon from the atmosphere now
+
+7
+
+# Sustainable Operations
+
+We are taking a broad, science-based approach to measuring and reducing carbon emissions in our operations.
+
+E
+
+   9
+
+# Sustainable Operations
+
+# Our Carbon Footprint
+
+Learn more about the science and technology behind our carbon footprint amzn.to/measuring-carbon.
+
+Amazon’s corporate carbon footprint quantifies the total greenhouse gas (GHG) emissions attributed to our direct and indirect operational activities. With this carbon footprint, we measured our total impact on the climate, mapped the largest activities contributing to this impact, and used this information to develop meaningful reduction goals, including our overall goal to reach net zero carbon across Amazon by 2040.
+
+We included emissions from Amazon-operated and third-party freight, electricity use, Amazon-branded products, capital goods, business travel, packaging, customer trips to Amazon’s stores, and other purchased goods and services. This system boundary meets the widely adopted international standards (GHG Protocol and ISO 14064) and was externally assured by Bureau Veritas.
+
+Verification Statement from Bureau Veritas amzn.to/bureau-veritas.
+
+# Amazon’s Enterprise-Wide Carbon Footprint for the 2018 Fiscal Year
+
+|Category|Million Metric Tons (mmt) CO₂e|
+|---|---|
+|Emissions from Direct Operations|4.98|
+|Fossil fuels|4.70|
+|Refrigerants|0.28|
+|Electricity Emissions|4.71|
+|Emissions from Indirect Sources|34.71|
+|Corporate purchases and Amazon-branded product emissions (e.g., operating expenses, business travel, and Amazon-branded product manufacturing, use phase, and end-of-life)|11.95|
+|Capital goods|4.64|
+|Other indirect emissions (e.g., third-party transportation, packaging, upstream energy related)|13.89|
+|Lifecycle emissions from customer trips to Amazon’s physical stores|4.23|
+|Amazon’s Total Footprint|44.40|
+
+Amazon’s carbon intensity metric, measured as grams carbon dioxide equivalent (CO2e) per dollar of Gross Merchandise Sales (GMS), equals 128.9 g CO2e per dollar (USD).
+
+# Sustainable Operations
+
+# Shipment Zero
+
+In 2019, Amazon announced Shipment Zero, an initiative to make every Amazon shipment net zero carbon, with half of all shipments achieving net zero carbon by 2030. Shipment Zero means that the fulfillment operations we undertake to deliver a customer shipment are net zero carbon—from the fulfillment center where an item is picked off the shelf, to the materials used to package the item, and the vehicles that transport the package to the customer’s door. The first Shipment Zero deliveries will begin shipping to customers before the end of 2019 in both Europe and the U.S. before expanding to India, Japan, and other geographies in 2020 and beyond.
+
+# Fulfillment Centers
+
+Every Shipment Zero delivery begins its journey at fulfillment and sort centers powered by 100% renewable energy. More than 50 Amazon facilities around the world are powered by solar roofs, which can generate as much as 80% of a single fulfillment facility’s annual energy needs. To reach 100% renewable energy, we invest in large-scale wind and solar projects that distribute energy onto the grid for our use.
+
+# Transportation
+
+A Shipment Zero package will be transported in a zero-emissions delivery vehicle—for example, one of our 100,000 newly ordered electric delivery vehicles, an electric bike, or an electric rickshaw in India. We also leverage innovative technology to maximize efficiency on the road and reduce delivery times by placing delivery stations close to large Amazon customer populations.
+
+# Packaging
+
+A Shipment Zero order will be shipped in its own container or in carbon neutral packaging. We continue to raise the bar for sustainable packaging—from optimizing the size and weight of shipping materials, inventing new recyclable mailers, and working with suppliers to streamline and innovate product packaging.
+
+13
+
+# Sustainable Operations
+
+# Sustainable Transportation
+
+Transportation is a key component of our vision to make all Amazon shipments net zero carbon as part of Shipment Zero. We are committed to optimizing and transforming this critical part of our carbon footprint using several strategies.
+
+# Electrifying our Future Transport Fleets
+
+Amazon operates hundreds of electric vehicles across the globe and has invested $440 million in Rivian to accelerate the production of electric vehicles, which are critical to reducing emissions from transportation. As part of our commitment to The Climate Pledge, Amazon recently ordered 100,000 new electric delivery vehicles from Rivian, the largest order ever of electric delivery vehicles. Amazon plans to start using these new electric vehicles to deliver packages to customers by 2021, with 10,000 new vehicles on the road as early as 2021 and all 100,000 vehicles on the road by 2030, saving 4 million metric tons of carbon per year by 2030.
+
+# Maximizing Efficiency on Current Vehicles
+
+While we are working hard to adopt the most efficient, cutting-edge vehicle technologies, we are also maximizing efficiencies on our existing fleets. In North America, our fleet includes a mix of trailers in different sizes that are equipped with skirts (panels attached to the lower side edges of a trailer to make it more aerodynamic) and automatic tire inflation systems that keep tires properly inflated and maximize fuel efficiency. We use mud flaps specially designed to allow airflow and water to pass through them, minimizing drag and saving an average of 100 gallons of diesel fuel per vehicle annually. In Europe, we have deployed double-deck trailers, which increase the load capacity per trailer, reducing the total number of trailers on the road.
+
+# Optimizing our Delivery Logistics
+
+Amazon is constantly working to optimize our delivery network and drive efficiencies in the process of delivering our products. To fulfill customer orders quickly, we have thousands of vehicles moving from fulfillment centers to delivery destinations. We use data and algorithms to consolidate as many
+
+# Using Alternative Delivery Methods
+
+We are continually piloting new or alternative ideas in different locations around the world in an effort to increase our efficiency and reduce emissions. In urban centers like New York City, we deliver packages on foot, have expanded our use of traditional bicycles, and use pedal-assist electric bikes connected to cargo trailers that can carry up to 45 packages. In India, our fleet includes electric three-wheelers, or rickshaws, and compressed natural gas (CNG) vehicles. Electric bikes and CNG vehicles are also part of our delivery fleet in Europe. Finally, we’re developing electric autonomous delivery services, such as the Amazon Scout device and Prime Air drones.
+
+# Partnering with Experts and Industry
+
+In 2017, Amazon signed the Sustainable Fuel Buyers’ Principles, demonstrating our commitment to working with service providers to accelerate the transition to low-carbon commercial transportation solutions. Members of the nonprofit Business for Social Responsibility (BSR) Future of Fuels group developed The Buyers’ Principles and vetted them through its network of 600 expert and industry stakeholders. These principles outline criteria that will catalyze the partnerships needed to drive the transition to a sustainable road freight transportation system.
+
+# Buildings
+
+# Sustainable Fulfillment Centers
+
+As one of the most important stops on a product’s journey to a customer’s door, Amazon’s fulfillment centers play a key role in achieving our Shipment Zero goal. We have invested significantly in on-site solar systems to power our facilities with renewable energy, making us the #1 ranked company in the U.S. for the amount of corporate on-site solar installed in 2018 in the Solar Energy Industries Association’s (SEIA) 2018 Solar Means Business Report.
+
+Many of our facilities throughout the U.S., Europe, and India are powered by on-site solar, where a rooftop installation can power nearly 80% of a facility’s.
+
+# Sustainable Operations
+
+Energy use, and we recently achieved our goal to install solar on 50 rooftops worldwide by 2020, more than a year ahead of schedule.
+
+In addition to a clean energy supply, Amazon’s fulfillment centers around the world are designed with efficient building systems to minimize energy use throughout our operations. We use building control system technology and real-time data analytics to optimize our heating and cooling systems for comfort while operating as efficiently as possible.
+
+Natural daylighting, LED lighting, and lighting controls reduce energy use, and many areas in our fulfillment centers use advanced automation and robotics, which require minimal or no lighting to operate. We use highly-efficient motors and advanced controls in our conveyor systems to move packages efficiently throughout our facilities, and we are testing a number of new technologies to further reduce the energy use of material handling equipment. Through building retrofits and energy studies, we are continuously improving and learning to optimize the efficiency of our operations and uncover savings opportunities.
+
+Amazon is the #1 ranked company in the U.S. for the amount of corporate on-site solar installed in 2018 in the Solar Energy Industries Association’s (SEIA) 2018 Solar Means Business Report.
+
+Through Amazon’s Sustainability Ambassadors program, associates are also an important driving force who make fulfillment center operations more efficient. Ambassadors build a culture of sustainability by driving improvements in waste reduction, recycling, and efficiency within their own work environment.
+
+# Sustainable Offices
+
+At Amazon, we embed sustainability principles and initiatives throughout our corporate offices, from green building design to low-carbon transit incentives for employees. Our sustainable campuses offer a healthy environment in which our employees work, collaborate, and innovate.
+
+# Seattle Campus
+
+Our corporate offices in Seattle are designed for energy efficiency and responsible use of resources. The buildings’ interiors feature salvaged and
+
+# Locally-Sourced Woods and Sustainable Practices
+
+Locally-sourced woods, energy-efficient lighting, and composting and recycling alternatives, as well as public plazas and pockets of open green space outside of the buildings. At the heart of the Seattle campus is The Spheres, an indoor plant conservatory housing 40,000 plants from the cloud forest regions of more than 30 countries, that provides a natural source of insulation and cooling.
+
+# LEED Certification
+
+The U.S. Green Building Council has awarded 26 of our Seattle buildings with LEED (Leadership in Energy and Environmental Design) certification as of June 2019, including 18 that are LEED Gold and four that have achieved LEED Platinum, the two highest tiers of certification for sustainable design and construction methods.
+
+# Denny Triangle Area
+
+Some of our buildings in the Denny Triangle area of Seattle are heated through a district energy system that recycles heat generated at a neighboring data center. Green roofs on our Doppler building and adjacent Meeting Center reduce building heating and cooling loads, clean and reduce storm water runoff by at least 70%, moderate the urban heat island effect, and improve local air quality.
+
+# Sustainable Transport
+
+Amazon also encourages sustainable transport for employee commutes. In Seattle, more than half of employees walk, bike, or take public transport to work. In 2017 alone, we provided $63 million toward employees’ public transit fares. In many Amazon buildings across Seattle, we offer plug-in electric vehicle charging stations to our employees, with additional charging infrastructure offered to our employees in multiple other locations as well.
+
+# HQ2 and Offices Worldwide
+
+Our new offices and fulfillment centers are equipped with energy-efficient technologies such as LED lighting, advanced building management systems, motor variable frequency drives, high-efficiency heating and cooling systems, and remote energy and power monitoring.
+
+# Sustainable Operations
+
+The new HQ2 campus in Arlington, Virginia, will incorporate LEED Gold certified buildings, walkable access to basic amenities such as shops, restaurants, and daycare, and access to public transportation and bike storage. We are also working to secure renewable energy for the campus to achieve net zero carbon as defined by the International Living Future Institute, which means the buildings will operate on 100% renewable energy and offset the carbon emissions embedded in their construction and building materials.
+
+The new HQ2 campus in Arlington, Va. will incorporate LEED Gold certified buildings, walkable access to basic amenities such as shops, restaurants, and daycare, and access to public transportation and bike storage.
+
+We also focus on sustainable design in our international locations. Our corporate offices in Munich, Germany, have been certified Gold for environmental design by the German Sustainable Building Council based on their energy-efficient interiors and use of sustainable building materials. In Luxembourg, efficient chillers and an advanced building management system cut energy costs, while rooftop bee hives supply honey, and food is served in compostable and biodegradable containers. We aim to take best practices from across our global locations and embed them at our offices all over the world.
+
+# Renewable Energy
+
+Amazon is committed to using 100% renewable energy across our global infrastructure. We are ranked #1 in the U.S. by the Solar Energy Industries Association (SEIA) for corporate on-site solar installed in 2018. These installations offset the carbon dioxide equivalent of more than 200 million miles of truck deliveries.
+
+Scaling up the use of renewable energy is a critical part of Amazon’s goal to reach net zero carbon by 2040. Clean energy sources, such as wind and solar, reduce our reliance on fossil fuels to power our services to customers.
+
+In 2019, we surpassed a goal we set in 2017 to install 50 solar rooftop systems on our fulfillment network buildings by 2020, 18 months early. Globally, Amazon
+
+# Renewable Energy Projects
+
+Amazon has 32 rooftop systems in the U.S., 12 in Europe, and seven in India, totaling more than 98 megawatts (MW) of installed capacity as of July 2019. A rooftop solar system can generate as much as 80% of a single fulfillment facility’s annual energy needs, depending on the specific project, time of year, and other factors. These solar projects supply energy to our operations network, helping us achieve our Shipment Zero goal to make all Amazon shipments net zero carbon, with 50% of all shipments net zero by 2030.
+
+Our largest wind project to date, Amazon Wind Farm Texas, is a 253 MW wind farm in Scurry County in the western part of the state. With more than 100 turbines, the project generates 1 million megawatt hours (MWh) of wind energy annually—enough to power almost 90,000 U.S. homes for a year.
+
+Our newest renewable energy project in the U.S. will be located in Pittsylvania County, Virginia, and will be the seventh Amazon Solar Farm in the Commonwealth of Virginia. Once complete, the new Amazon Solar Farm will provide 45 MW of renewable capacity and is expected to generate 100,000 MWh of clean energy annually. Our newest renewable energy project in Europe will be located in Cork, Ireland, and will be the second Amazon Wind Farm in the Republic of Ireland. Once complete, the new Amazon Wind Farm will provide 23.2 MW of renewable capacity, with expected generation of 68,000 MWh of clean energy annually.
+
+As of August 2019, Amazon has 66 renewable energy projects, including 51 solar rooftops, which have the capacity to generate 1,342 MW and deliver more than 3.9 million MWh of energy annually.
+
+# How Clean Energy and Recycled Water Are Powering Operations in India
+
+At Amazon fulfillment centers in India, enhancements including solar arrays, advanced building energy management systems, and water conservation methods are advancing operations efficiency. These upgrades are an important part of Amazon’s goal to reduce greenhouse gas emissions around the globe by saving energy and water.
+
+# Sustainable Operations
+
+# Solar Power
+
+Amazon’s operations team in India began installing solar arrays on its buildings in 2017 and have quickly scaled up since then. Eight facilities have a total of more than 8 MW of solar capacity installed. Spanning facilities in Delhi, Hyderabad, Bangalore, and Mumbai, these solar arrays support the annual energy needs related to fulfilling orders, reducing dependence on conventional sources of energy.
+
+# Energy Efficiency
+
+Amazon’s sortation center in Delhi, where associates sort customer orders by final destination and consolidate them onto trucks for faster delivery, was awarded a Gold rating by the Indian Green Building Council for its exemplary performance on energy and resource efficiency. Constructed with locally sourced materials and outfitted with high-efficiency plumbing and electrical equipment, the facility uses about 30% less energy and water than a typical building of its size.
+
+Across facilities, an advanced energy management system provides building operators with a dashboard that enables them to optimize energy use and identify opportunities for further savings. Sensors make sure lighting and climate controls are only used when buildings are occupied.
+
+# Saving Water
+
+Many of our fulfillment centers have the ability to collect and recycle water. We do this with rainwater collection tanks or recharge wells, which send water back into aquifers, and in-house sewage treatment plants, making it possible to reuse water for flushing and gardening.
+
+# Cleaner Vehicles
+
+Amazon India has successfully launched electric and commercial compressed natural gas (CNG) vehicles for deliveries. CNG vehicles, which can reduce greenhouse gas emissions compared with conventional fuels, are becoming increasingly common in India and are supported by an expanding network of fuel stations. Last year, close to 200 new CNG vehicles were rolled out across North India. These vehicles can reduce our carbon footprint by around 91 metric tons a month. Our electric fleet consists of nearly 150 vehicles.
+
+# Packaging-Free Shipping
+
+In June 2019, Amazon India announced the expansion of packaging-free shipping to nine cities in India. Customer orders within this program are shipped in their original packaging without secondary or additional packaging. The program is available depending on the location of the customer, the distance the order has to travel, and the category of product ordered. The program is now set to expand to cover more regions, with a wider selection of products and a larger customer base.
+
+# Engaging with Communities
+
+Amazon is expanding clean energy in India beyond its fulfillment centers, donating solar energy systems to 19 government schools and one mini planetarium in Bhiwandi, Maharashtra. This infrastructure supports the needs of children in schools and other members of the local communities in 24 villages, benefitting more than 2,500 people across the Haryana and Maharashtra provinces. In addition, we have supported lake cleanup by partnering locally to construct a sewage treatment plant in Bangalore. We are also planting more than 10,000 saplings around our fulfillment centers.
+
+# Partnerships
+
+Many of the cross-cutting sustainability issues that we prioritize at Amazon are enhanced through partnerships and collaborative initiatives with credible, knowledgeable, and innovative industry partners.
+
+• Advanced Energy Buyers Group
+
+• Advanced Energy Economy
+
+• American Council on Renewable Energy
+
+• Center for Climate and Energy Solutions
+
+• RE-Source Platform
+
+• SolarPower Europe
+
+• U.S. Partnership for Renewable Energy Finance
+
+# Packaging and Products
+
+Redesigning packaging to reduce waste and making our private-label products in responsible ways.
+
+23
+
+# Packaging and Products
+
+# How We Reduce Packaging Waste
+
+Our customers want right-sized, recyclable packaging that minimizes waste and ensures damage-free delivery. We work to reinvent and simplify our sustainable packaging options using a science-based approach that includes lab testing, machine learning, materials science, and manufacturing partnerships to scale sustainable change across the packaging supply chain.
+
+# Sustainable Packaging Initiatives
+
+Our sustainable packaging initiatives reduce waste and make it easier for customers to take products out of their packages. Since 2008, initiatives including Frustration-Free Packaging (FFP) have eliminated more than 665,000 tons of packaging materials—more than 1.18 billion shipping boxes—by promoting easy-to-open, recyclable packaging and shipping products in their own packages without additional shipping boxes.
+
+To certify products under FFP, we work with manufacturers worldwide, helping them innovate and improve their packaging functionality. By testing products in a dedicated, state-of-the-art lab in Seattle and in our fulfillment centers across the globe, we identify specific steps that manufacturers can take to improve their packaging and ensure customers’ products are protected all the way to their final destination.
+
+Since 2008, initiatives including Frustration-Free Packaging have eliminated more than 665,000 tons of packaging materials—more than 1.18 billion shipping boxes.
+
+We started small with just 19 products enclosed in hard plastic cases known as “clamshells” and secured with plastic-coated wire ties, which are commonly used in consumer goods packaging. Today, more than 1.3 million products qualify under FFP, including the Philips Norelco OneBlade razor, which now takes up 80% less packaging volume than its original design.
+
+# Using Machine Learning to Optimize Packages
+
+How big of a box is needed for a given product? Is an Amazon box needed at all? To better understand the answers to those questions, we use machine learning algorithms to arrive at the best possible packaging choices for
+
+deliveries. That means identifying which products are suitable for envelopes and moving from a box to a mailer for smaller items. Mailers use less material than their box equivalent, weigh less, and are more efficient to ship, reducing carbon in small amounts to create larger impact across our network.
+
+In cases where the protection of a box is needed, algorithms help us continuously optimize box choices to fit our ever-changing catalog. Computer-aided engineering is also helping us redesign boxes to use less material while making sure customer orders are protected.
+
+These improvements help reduce volume per shipment, which means less unnecessary packaging and more efficient use of all forms of transportation.
+
+# Recyclable Mailers
+
+In 2018, we launched a fully recyclable paper padded mailer made of four layers of paper and a water-based cushioning material that protects products during shipping, ensuring customer deliveries arrive undamaged and in sustainable packaging. The cushioning material—created with components commonly found in the glue used to make cardboard—was specifically designed to easily separate from the paper in the same way that print inks and other paper coatings are removed during the paper recycling process.
+
+# Engaging with Vendors and Industry
+
+We work with top brands to reinvent their packaging for waste reduction in e-commerce, and vendors have worked to improve product packaging so products can be shipped in their own container. The toy maker Hasbro, for example, redesigned the packaging for its popular toy, Baby Alive, reducing both the amount of material used and the overall package size by more than half. The pet food company Hill’s Pet Nutrition reworked its packaging to make bags of kibble less likely to break and spill during shipment; testing at Judge a toy by Amazon validated the redesigned packaging.
+
+We are working across the packaging industry, using new analytics and test methods, new materials, and new ways to build enclosures that protect customer products. With packaging suppliers, for example, we have developed solutions for liquid dispensing systems on hard-to-ship items, such as household cleaners and personal care products, preventing spills and the need for extra packaging to contain spills if they happen.
+
+Amazon is a member of the Sustainable Packaging Coalition (SPC), an industry working group dedicated to a more robust environmental vision.
+
+# Packaging and Products
+
+for packaging. SPC uses strong member support, an informed and science-based approach, supply chain collaborations, and continuous outreach to design packaging that encourages a sustainable flow of materials. Amazon has also joined the International Safe Transit Association (ISTA), an organization focused on the specific concerns of transport packaging. ISTA is a nonprofit, member-driven association that sets the standards for optimizing the resources in packages that are designed to be survivable, sustainable, and successful.
+
+# Innovating to Reduce Spills in Transit
+
+In an effort to reduce waste at every step of our supply chain, we are constantly exploring ways to minimize damage to products during the transportation and delivery process. When products spill or break during transit, it not only creates product and packaging waste, but requires additional shipping and processing efforts, all of which contribute to our carbon footprint. We are working directly with manufacturers and suppliers to make packaging more durable for the journey between a manufacturer’s facility and a customer’s home without the need for excessive protective packaging that ends up in the waste stream.
+
+To help target products where even small packaging improvements can have significant impacts on reducing waste, we developed a machine learning model to identify liquid products with the highest average rates of customer reported damages. We then subjected 14 of the most commonly damaged liquid products to extensive additional testing at our Amazon Packaging Lab, where we simulate a package’s journey from the manufacturer to the customer.
+
+Through this process, we teamed up with Rieke—a packaging solutions firm that makes dispensing systems for personal care, food, and healthcare products—to provide data and packaging insights on many of the conventional dispensing systems that are used in millions of products you see on Amazon. By strengthening materials, creating new locking mechanisms to prevent pumps from twisting open, and sealing potential leak points, Rieke’s team has created dispensers specially designed to withstand the journey.
+
+to the customer. These new and improved designs include trigger sprayers common on household cleaners and personal care products, pumps for lotions, and pumps for foams.
+
+Rieke’s new trigger sprayer design, for example, reduces the number of packaging components from five to one and cuts package volume by nearly 50%. Rieke’s new trigger sprayer design, for example, reduces the number of packaging components from five to one and cuts package volume by nearly 50%, earning Amazon’s Frustration-Free Packaging certification. Product manufacturers like Unilever are adopting these dispensers, and you can find the redesigned lotion pumps on body washes from Caress and Dove. Rieke is also developing entirely new forms of packaging for liquid products sold on Amazon, such as sprayer and foaming caps that are activated by squeezing instead of hand triggers or pumps.
+
+Some of these changes might seem simple, and most will go unnoticed by customers. But whether the adjustments are straightforward tweaks or complex feats of engineering, they all represent significant changes to how products are shipped, delighting customers and reducing packaging waste. These innovations are just one part of Amazon’s efforts to reduce waste in packaging and achieve net zero carbon shipments through our Shipment Zero goal.
+
+# Sustainable Products from Amazon
+
+Amazon strives to be Earth’s most customer-centric company, which means giving our customers access to the sustainable products they want. We regularly seek ways to reduce our environmental impact and provide more information about the products we sell.
+
+When we call a product sustainable, that means it has a lower impact on the environment, reduces waste, promotes consumer health, protects animal welfare, or has social benefits over conventional versions of the same products. We work with many of the manufacturers that produce our private-label selection to grow these types of product offerings. We focus on every step of the process: the ingredients and materials, how the people behind the products are treated, the packaging, and the experience for customers.
+
+# Packaging and Products
+
+# Household Goods
+
+Many Amazon customers prioritize safety and sustainability when it comes to household goods like cleaning supplies and personal care products. Customers want to be sure the products they buy are safe for their families and the planet, without compromising on quality or price.
+
+We focus on every step of the process: the ingredients and materials, how the people behind the products are treated, the packaging, and the experience for customers.
+
+Thousands of sustainable options, from established brands to growing startups, are available in Amazon’s stores and we take an active role in promoting sustainability with these selling partners. For example, we teamed up with Procter & Gamble to develop the Tide Eco-Box, a concentrated version of Tide’s traditional laundry detergent compressed into a fully recyclable, shipping-safe package, which is produced using 60% less plastic and 30% less water than a conventional plastic jug. Countless other Amazon selling partners offer biodegradable and plant-based options for staples like dish detergent and multi-purpose cleaners.
+
+Amazon aims to develop eco-friendly products that are good for customers and the planet. From biobased laundry and dish soaps that offer an effective, alternative choice to conventional formulas, to beauty products that are formulated without harmful chemicals, Amazon is working to bring sustainability into many of our private-label selections. As part of that commitment, Amazon has implemented a Chemicals Policy and Restricted Substance List (RSL), both of which apply to Amazon-owned baby, household cleaning, personal care, and beauty brands.
+
+And to support the broader retail sector’s collaborative effort to encourage national brands to use safer formulations and produce more sustainable products, Amazon joined the Retail Leadership Council of the
+
+# Green Chemistry and Commerce Council (GC3)
+
+and also participates in the Beauty and Personal Care Products Sustainability Project through The Sustainability Consortium.
+
+# Food and Grocery
+
+Sustainable food selection means something different to each customer. Across our Amazon food and grocery businesses, we make it easy for customers to find a range of sustainable food options like free range, pasture-fed, organic, and fair trade groceries.
+
+We are committed to upholding animal welfare across every step of our supply chain to ensure the animal products we sell are derived from animals that receive industry leading levels of care and treatment. Our Animal Welfare Policy provides guidance for producers and suppliers of animal-derived goods and services during production, transport, and slaughter. We are working with our private-label manufacturers to source palm oil that is sustainably certified, starting with private-label food products in North America and Europe.
+
+Across our Amazon food and grocery businesses, we make it easy for customers to find a range of sustainable food options.
+
+At Whole Foods Market, we sell only the highest quality natural and organic foods. We research ingredients and audit sourcing practices to make shopping easier for customers. In our meat department, products are free of added hormones or antibiotics, and no cages or tethers are permitted during the animal’s daily life. Our seafood department sources only from responsibly managed fish farms and fisheries. Produce and other items with our Whole Trade Guarantee ensure a product meets criteria that support both workers and the environment.
+
+# Devices
+
+Amazon devices make every day easier by helping customers watch, read, listen, and control their smart homes. Our most popular devices include Echo and Alexa devices, Fire Tablets, Fire TVs, Kindle e-readers, and home security products (Ring, Blink, etc.). We take a scientific approach.
+
+# Packaging and Products
+
+to understanding the environmental impact of these devices, completing detailed life-cycle assessments (LCAs) for many of them. LCA is an internationally-accepted methodology for assessing the environmental, human health, and natural resource impacts of products and services.
+
+Amazon devices make everyday easier by helping customers watch, read, listen, and control their smart homes. An LCA takes inflows from nature—raw materials, water, energy—and converts them into the process outputs and environmental impacts—releases to air, land, and water—for all processes that represent over 5% of total impact, energy use, or product mass. We use LCA to identify science-based environmental impacts across raw materials extraction, manufacturing, transportation, product use, and product end-of-life. These results help us improve device energy efficiency, research and prototype new materials, and explore additional opportunities to improve the circularity of Amazon devices through programs like Amazon Trade-In and Amazon Device Recycling.
+
+# Textiles
+
+Amazon brands offer home goods and apparel, including men’s and women’s fashion, bedding, and baby accessories. We aim to use high-quality, sustainable cotton for many categories, and have joined the Better Cotton Initiative (BCI). The BCI aims to transform cotton production worldwide by developing Better Cotton as a sustainable mainstream commodity.
+
+Additionally, in 2019 we signed the Responsible Sourcing Network’s public Cotton Pledge, committing not to source cotton from Turkmenistan and Uzbekistan until the use of government-mandated forced labor is stopped.
+
+We are continuing to refine and strengthen our commitments to responsible sourcing. In the future, we will expand our Restricted Substance List to include additional brands, product categories, and geographies. We will work to further develop sustainable products that customers can trust are safe for their families and for the planet.
+
+# Circular Economy
+
+We are minimizing waste, increasing recycling, and providing options for our customers to participate in the circular economy.
+
+# Closing the Loop on Waste
+
+At Amazon, we’re constantly working to eliminate waste across our retail operations, for our business and for our customers. Reducing packaging is just one part of this effort—we are pursuing a vision of a world where customers get to enjoy products for the full length of their useful lives, and then recycle those items so the materials can be transformed into new products—a “circular economy” that encourages reuse, repairs, and recycling. From donations to recycling programs, we are building strategies aimed at sending less material to the landfill and more material back into the circular economy loop.
+
+# Recycling
+
+Amazon is taking responsibility for some of the toughest to recycle materials in our operations to reduce our environmental footprint, and we are helping to support the domestic recycling industry in the process.
+
+In 2019, we piloted plastic film recycling at four fulfillment centers. Rather than focus on just the highest-value film—clear stretch wrap from pallets—we helped to develop technology to mechanically sort different grades of flexible plastic film.
+
+Based on the success of this pilot, we’re dramatically expanding this program in 2020, starting with more than 50 fulfillment centers across our network and in every region of the country, with more on the way. Through this program, we expect to be recycling over 7,000 tons of plastic film a year, in addition to the 1,500 tons of plastic waste already being recycled annually in Europe.
+
+This is just one way Amazon is closing the loop on plastics and other waste materials. In the United Kingdom, for example, we are collecting the silicone backing paper from shipping labels and are on track to divert 250 tons of this.
+
+# Packaging and Products
+
+We’re looking across our entire operations to incorporate more of our own recycled plastic in products, packaging, and operations.
+
+# Partnerships
+
+Amazon has also invested $10 million in the Closed Loop Fund, a project-finance fund large retail and consumer goods companies created to invest in building infrastructure that will increase product and packaging recycling, ensuring that material gets back into the manufacturing supply chain.
+
+Over the next decade, Amazon’s investment in the Closed Loop Fund will increase the availability of curbside recycling for 3 million homes in communities across the United States, diverting 1 million tons of recyclable material from landfill and eliminating the equivalent of 2 million metric tons of carbon dioxide.
+
+Amazon’s investment in the Closed Loop Fund will increase the availability of curbside recycling for 3 million homes in communities across the United States.
+
+Amazon has also joined The Recycling Partnership to improve curbside recycling in the United States. The Recycling Partnership supports communities and local governments with education, infrastructure, and measurement related to curbside recycling.
+
+# Amazon Second Chance
+
+Amazon Second Chance provides information on how to trade in, recycle, or repair Amazon devices and products, how to recycle Amazon packaging, and how to find open-box and refurbished devices. Customers may visit Second Chance to learn about and compare programs that help eliminate waste and give products a second life.
+
+Customers who have eligible items they no longer want may discover the Amazon Trade-In program, which allows customers to receive an Amazon.com Gift Card in exchange for thousands of eligible items. Electronics, books, video games, and more are eligible for trade-in. In addition, customers wanting to responsibly dispose of their electronics may discover our device recycling program for a variety of electronics and related accessories.
+
+Amazon also gives customers several options to shop for great deals on open-box or gently-used items. Amazon Warehouse—an online store for great deals on quality used products including furniture, toys, instruments, kitchen appliances, clothes, and more—has an extensive inspection process that ensures as many gently-used returned items as possible can be resold rather than being sent to landfill. Amazon Renewed offers refurbished, pre-owned, and open-box products such as computers, laptops, smartphones, tablets, cameras, audio devices, home appliances, and more. And Certified Refurbished and Used Amazon Devices provides customers access to pre-owned Amazon devices such as Echo, Fire Tablets, Kindle E-readers, and more. Certified Refurbished devices have been refurbished, tested, and internally certified by Amazon to look and work like new. All of these programs reduce waste and encourage re-use by ensuring that valuable products can go back into the hands of customers rather than being sent to landfills.
+
+Amazon also encourages customers to fix the things they buy before replacing, returning, or disposing of them. Amazon offers free Product Support (on a select but growing number of items) with the goal of helping customers maximize the useful life of the things they already own. Product Support serves seven global geographies with technical support, parts replacement, and repair services.
+
+Helping customers responsibly dispose of Amazon packaging is another key component of Second Chance. Customers are able to view various types of Amazon packaging and are provided with instructions on how and where to dispose of the materials.
+
+# Packaging and Products
+
+# Donations
+
+Amazon’s fulfillment network and delivery services allow our customers to fit all types of shopping into their routines and improve their busy lives.
+
+We are continuously working on initiatives to minimize the amount of food and non-food products that go to landfills. For the past few years our fulfillment centers have been helping our local communities by donating food and non-food products to hundreds of foodbanks and nonprofits. Amazon has launched initiatives with Feeding America and Good360 to donate these goods and ensure these products get directed to communities in need.
+
+In 2018, Amazon and Whole Foods Market donated 23 million meals to Feeding America through its donation program in addition to useful apparel and supplies to Good360 and other nonprofits. Amazon is dedicated to engaging with its local community and donations is one of the ways we achieve this.
+
+Throughout countries in Europe, we collaborate with local food banks to donate products to communities in need. Amazon partners with the German nonprofit Innatura, which brokers product donations in kind to charitable organizations and which we have supported as a founding partner since 2013. In this way, more than 1,000 charities have received Amazon donations and around 450,000 needy people have benefited from them. Donations include toys, shoes, clothing, or drugstore items among others. We also work with In Kind Direct, a United Kingdom national charity that manages the donation of surplus products to charities across the country. Through our work with In Kind Direct, we have donated over 170,000 products worth over £4.5 million ($5.5 million), and in 2017 alone we donated 47,000 products worth £1.5 million ($1.8 million) to over 1,800 charities and voluntary organizations across the United Kingdom. And in 2019, we launched Fulfillment by Amazon (FBA) Donations, a program where eligible excess and returned products from sellers using FBA will be made available to charitable organizations in the U.S. and UK.
+
+# Our Materials and Commitments
+
+# Amazon Chemicals Policy
+
+We are committed to developing high-quality and affordable Private Brands products that customers love. Part of our commitment to quality is avoiding chemicals of concern in our products that can affect human health and/or the environment. We define chemicals of concern as those chemicals that:
+
+1. meet the criteria for classification as a carcinogen, mutagen, reproductive, or other systemic toxicant; or
+2. are persistent, bioaccumulative, and toxic.
+
+We strategically prioritize which chemicals of concern to focus on based on product type, customer concerns, and the availability of safer alternatives.
+
+The baseline list of chemicals of concern included on our first Restricted Substance List (RSL) identifies the chemicals that we seek to avoid in Amazon-owned Private Brands Baby, Household Cleaning, Personal Care, and Beauty products in the U.S. and Europe. This policy is in addition to applicable local legal requirements and associated compliance plans. It will be expanded to additional brands, product categories, and geographies over time.
+
+# Cotton
+
+Amazon is a member of the Better Cotton Initiative (BCI). The Better Cotton Initiative aims to transform cotton production worldwide by developing Better Cotton as a sustainable mainstream commodity.
+
+Additionally, in 2019 we signed the Responsible Sourcing Network’s public Cotton Pledge to not source cotton from Turkmenistan and Uzbekistan until the pervasive use of government-mandated forced labor is stopped. We prohibit forced labor within our supply chains, and we have developed internal controls and external engagements to address forced labor within global supply chains. This pledge represents an additional step in that direction and lends Amazon’s voice in demanding an end to forced labor in these two countries.
+
+# Packaging and Products
+
+# Palm Oil
+
+Palm oil is used extensively as an ingredient in consumer products, however, its cultivation has contributed to deforestation, biodiversity loss, and negative social impacts in some of the regions where it is grown. Our approach is to promote the use of sustainably-certified palm oil in our Private Brands food products. We ask our Private Brands suppliers to source palm oil that is sustainably certified. We are starting with Amazon-owned Private Brands food products in North America and across Europe, where our goal is to source 100% sustainable palm oil by the end of 2020.
+
+# Animal Welfare
+
+We recognize that, as sellers of animal-derived products, we have a responsibility to uphold animal welfare within our supply chain. We will continue to make it easy for customers to buy free range, pasture-fed, organic, or other higher welfare products, and to offer these products at the best possible prices. We will also continue to offer easily-identifiable vegetarian and vegan products. This animal welfare policy provides guidance for producers and suppliers of animal-derived goods and services during production, transport, and slaughter. At Amazon, we recognize and expect our suppliers to uphold the Five Freedoms framework. These freedoms are:
+
+- Freedom from hunger and thirst – by providing ready access to fresh water and a diet to maintain full health and vigor.
+- Freedom from discomfort – by providing an appropriate environment including shelter and a comfortable resting area.
+- Freedom from pain, injury, or disease – by ensuring prevention or rapid diagnosis and treatment.
+- Freedom to express normal behavior – by providing sufficient space, proper facilities, and company of the animal’s own kind.
+- Freedom from fear and distress – by ensuring conditions and treatment which avoid mental suffering.
+
+We expect our suppliers to comply with all applicable laws.
+
+We expect our suppliers to take a zero-tolerance approach to animal cruelty, abuse, and neglect.
+
+We encourage suppliers to continuously improve their animal welfare standards and practices, and to work towards recognized animal welfare certifications or industry guidelines that include welfare provisions.
+
+# How We Enable Sustainability for Customers
+
+Amazon has set ambitious goals to make our business more sustainable on behalf of customers. Part of our commitment to both sustainability and customers includes making it easier for everyone to participate in making a positive impact on the planet and society. If you want to join us in supporting local communities and reducing your environmental footprint, here are a few easy ways to get started.
+
+# Reducing, Reusing, and Recycling
+
+- Visit the Amazon Trade-In store to learn how to receive an Amazon Gift Card in exchange for thousands of eligible items including Amazon Devices, books, video games, and more.
+- Visit Amazon Device Recycling to find out how to cut back on clutter and recycle your electronic items, ensuring they are disposed of properly.
+- Find open-box, pre-owned and refurbished products at a great price with Amazon Renewed, discounted deals on quality used products from Amazon Warehouse, and certified refurbished Amazon Devices.
+- Find out how to recycle your Amazon packaging by checking out the Amazon Second Chance site.
+- If you have an Echo device, Alexa Skills can help you find local recycling centers for specific items like lightbulbs and batteries. You can say “Alexa, open Recycling Center” to search for local options. Alexa is constantly adding new skills and improving on existing ones. The more people use them, the better they get over time.
+
+# Saving Energy and Water
+
+- Install a smart thermostat through Amazon Home Services. You can see if a certified provider is available in your area by checking online. Smart home thermostats can help reduce heating and cooling energy use by adjusting the temperature by a few degrees depending on the time of day and whether or not anyone is home.
+
+# Packaging and Products
+
+- Amazon Home Services professionals can help keep your home appliances in good working condition. They can take care of heating furnace and water heater maintenance or install a low-flow showerhead for you.
+- To reduce home electricity and water use at home, search for LED lights, or in the U.S., ENERGY STAR, EPEAT, or WaterSense-certified products on Amazon.com.
+- Reduce the carbon emissions of your travel. You can use your Echo device to find the closest bikeshare rental by saying “Alexa, open TransportMe”. Another Alexa skill, Evie Assistant, will help you find the location of the nearest electric vehicle charging station (say “Alexa, open Evie Assistant”). And you can even get an electric vehicle charging station installed at your house using Amazon Home Services’ network of installation professionals.
+- Echo devices can also make it easier to save energy or water at home. You can use Alexa-enabled LEDs and smart plugs to turn off plugged appliances and devices when you aren’t using them. Alexa Skills can also make it fun and easy to save energy. For example, you can say “Alexa, open Shower Buddy” to time your showers and use less water, or say “Alexa, open Cool My House” to reduce energy consumption.
+
+# Supporting Charitable Organizations and Small Businesses
+
+- Shop with AmazonSmile and choose from over a million charities to support. AmazonSmile has donated more than $100 million to charities thanks to customers shopping at smile.amazon.com.
+- Purchase items for a charity by searching AmazonSmile Wish Lists for that charity’s registry. Amazon customers have donated more than 600,000 relief items through Wish Lists.
+- Donate directly to charities through your Echo device using your Amazon Pay account by saying “Alexa, make a donation.”
+- Support artisans and women entrepreneurs. In Europe and North America, Amazon Handmade offers handcrafted artisan goods from around the world. In India, Amazon Saheli offers a wide selection of unique regional products by women entrepreneurs across clothing, accessories, office, home, and kitchen.
+
+# Partnerships
+
+Many of the sustainability issues that we prioritize at Amazon are enhanced through partnerships and collaborative initiatives with credible, knowledgeable, and innovative industry partners.
+
+- Beauty and Personal Care Leadership Group
+- Closed Loop Fund
+- Green Chemistry and Commerce Council
+- International Safe Transit Association
+- Sustainable Packaging Coalition
+- The Recycling Partnership
+
+See all our partners here.
+
+# Social Responsibility
+
+Amazon is strongly committed to conducting our business in a lawful and ethical manner, including engaging with suppliers who respect human rights, provide safe and inclusive workplaces, and promote a sustainable future.
+
+41
+
+# Social Responsibility
+
+# About Our Supply Chain
+
+Our mission is for our products to be made in a way that respects human rights and the environment. Our global teams work closely with suppliers to communicate our standards, and help suppliers build their capacity to provide safe and respectful working environments.
+
+To ensure that our policies and programs incorporate internationally recognized human rights standards, we benchmark our policies and programs against those of industry and multilateral groups to continually improve our risk assessment and audit program. Our standards are derived from the United Nations Guiding Principles on Business and Human Rights and the Core Conventions of the International Labour Organization (ILO), including the ILO Declaration on Fundamental Principles and Rights at Work and the UN Universal Declaration of Human Rights. We review our Supplier Code of Conduct against policies developed by industry initiatives (such as the Responsible Business Alliance) and further develop our standards in consultation with NEST (amzn.to/build-a-nest), Business for Social Responsibility (amzn.to/biz-for-sr), and Impactt Limited (amzn.to/impactt-limited).
+
+# Supply Chain Standards
+
+We set a high bar for ourselves and our suppliers. Our Supply Chain Standards detail the requirements and expectations for suppliers in our supply chain, and suppliers must contractually commit to these standards as a condition of doing business with us. amzn.to/supplier-code-of-conduct
+
+# Supplier Manual
+
+Our Supply Chain Standards Manual provides guidance and resources to suppliers of Amazon-branded products on how to meet and exceed the expectations outlined in our Supply Chain Standards. amzn.to/supplier-manual
+
+# Key Commitments
+
+We are committed to assessing our impact and focusing our efforts in the following key areas.
+
+We evaluate our supply chain to identify the industries, countries, and issues where we have the greatest opportunities to identify and address risks and have a positive impact on workers. To do so, we leverage internal and external
+
+# Safe Workplaces
+
+Safe and healthy workplaces are a top priority for Amazon. We have global teams who partner with suppliers to increase worker awareness of safety issues, promote worker participation in their safety culture, and promote initiatives focused on the well-being of workers on issues that matter most to them.
+
+Our suppliers must provide workers with a safe and healthy work environment; suppliers must, at a minimum, comply with applicable laws regarding working conditions. Additionally, we are committed to driving improvement in these key priority areas: (1) occupational safety, including adequate machine safeguarding, and ensuring suppliers continually identify, evaluate, and control physically demanding tasks to ensure that worker health and safety is not jeopardized; (2) emergency preparedness and response planning; and (3) sanitation and housing, where if suppliers provide residential facilities for their workers, they must provide clean and safe accommodations.
+
+We conduct on-site audits of suppliers’ safety conditions throughout our business relationship—often multiple times a year. This includes assessments of protections such as adequate fire safety systems, sanitary dormitories and facilities, and adequate machine safeguarding.
+
+We require suppliers to address these issues prior to beginning production with Amazon. Audit and assessment results are reviewed regularly by the leadership of the appropriate business, and corrective action plans are implemented with suppliers as needed.
+
+# Freely Chosen Employment
+
+We will not tolerate the use of forced labor in our supply chain. Our Supplier Code of Conduct prohibits all forms of forced labor and human trafficking; this includes charging workers recruitment fees, holding passports or personal documentation, and coercion to work through threats of deportation or contacting immigration authorities. During our investigations, we track where vulnerable workers migrated from and how much they paid in recruitment fees. If fees have been paid, we require the supplier to reimburse workers in full.
+
+# Social Responsibility
+
+We are collaborating with industry-wide efforts to address these issues holistically and spur change in the broader recruitment industry. These include:
+
+- Tech Against Trafficking: Tech Against Trafficking is a coalition of technology companies collaborating with global experts to help eradicate human trafficking using technology.
+- Global Business Coalition Against Trafficking (GBCAT): GBCAT is a business-led collaborative initiative working to eliminate human trafficking in global business operations.
+- Responsible Labor Initiative: The Responsible Labor Initiative is a multi-industry, multi-stakeholder initiative focused on ensuring that the rights of workers vulnerable to forced labor in global supply chains are consistently respected and promoted.
+
+Learn more about our approach to forced labor in our Modern Day Slavery Statement here: amzn.to/modern-slavery.
+
+# Empowering Women
+
+Quality jobs for women translate to positive impacts for communities, and we are actively working to empower women across dimensions of health, finance, and career development. This includes collaborating with globally-recognized programs such as Better Work and, in 2019, beginning an initiative with Business for Social Responsibility’s HERproject™. To date, over 8,000 women in our supply chain are involved in BSR HERproject™.
+
+# Fair Wages
+
+We are committed to working closely with suppliers, business partners, and multi-stakeholder associations to monitor and promote continuous improvement in working conditions, including fair and on-time payment of wages. We have dedicated teams across the globe that work directly with suppliers to track and report performance against these standards.
+
+Our suppliers are required to pay legally required compensation (including overtime and benefits), and we encourage our suppliers to continuously evaluate whether workers earn enough to meet their basic needs and the needs of their family.
+
+We require all eligible suppliers in Bangladesh and Vietnam to enroll in the Better Work program. By working with suppliers and training on workers on their rights, Better Work is able to help workers improve wages over time.
+
+# Environmental Protection
+
+Our aim is to ensure that our products do not cause unnecessary environmental harm, and positively impact people and communities. We are a member of the Sustainable Apparel Coalition (the Coalition). The Coalition is an industry-wide group of leading apparel and footwear brands, retailers, manufacturers, non-governmental organizations, academic experts, and government organizations working to reduce the environmental and social impacts of products around the world.
+
+We encourage our Private Brands suppliers to evaluate their practices using the Coalition’s Higg Index. We are committed to driving adoption of this assessment and helping our suppliers understand their environmental impact.
+
+# Partnerships
+
+Many of the sustainability issues that we prioritize at Amazon are enhanced through partnerships and collaborative initiatives with credible, knowledgeable, and innovative industry partners.
+
+- amfori
+- Business for Social Responsibility
+- BSR HERproject™
+- Responsible Business Alliance
+- Supplier Ethical Data Exchange
+- Sustainable Apparel Coalition
+
+# Employees and Communities
+
+Amazon is committed to supporting people—customers, employees, and communities—through initiatives ranging from disaster relief to veteran employment.
+
+47
+
+# Employees and Communities
+
+# How Amazon Employees Help Drive Sustainability
+
+At Amazon locations around the world, employees bring their energy and focus to initiatives that amplify and deliver on our company’s ambitious sustainability goals. Our employees find opportunities to lead and collaborate on such projects via Amazon Sustainability Ambassadors—a voluntary employee program that helps expand efforts by our global teams who work directly on managing our environmental and social impacts.
+
+The program started in 2017 with chapters in corporate offices and fulfillment centers in the U.S. and Europe. Today, more than 3,000 Amazonians worldwide have signed up to participate as Sustainability Ambassadors, and the program continues to expand, with over 105 teams across North America, Europe, and Asia.
+
+Ambassadors engage fellow Amazonians in sustainability awareness efforts and promote environmental education through onsite events, but they also lead projects and pilot initiatives that tangibly reduce our environmental impact. These initiatives include: expanding recycling to include new items or locations; setting up carpool programs; adding motion sensors to light switches to reduce electricity use; conducting energy audits with local utilities; switching to more sustainable products in common areas such as pantries and bathrooms; and campaigns aimed at reducing the use of disposable plastic bottles and containers.
+
+Sustainability Ambassadors have a unique chance to launch ideas with data-driven analysis and action using Amazon technology.
+
+Sustainability Ambassadors also have a unique chance to launch ideas with data-driven analysis and action using Amazon technology. For example, after auditing lunchtime waste at two Seattle campus cafes, one ambassador developed a proposal to improve waste sorting using AWS DeepLens, a deep
+
+# Sustainability Ambassadors
+
+A team of Amazon employees built a dataset and model that used DeepLens’ object detection capabilities to identify the waste items being discarded and use built-in audio to tell people which bin to use for a given item.
+
+The combination of ground-level action with scalable ideas and advanced technology makes Sustainability Ambassadors potent partners in realizing Amazon’s larger sustainability goals.
+
+# Diversity and Inclusion
+
+We are continually looking for ways to further diversify our workforce and strengthen our culture of inclusion. amzn.to/diversity-inclusion
+
+# Affinity groups
+
+Amazon has 10 affinity groups, also known as employee resource groups, which bring Amazonians together across businesses and locations around the world. amzn.to/affinity-groups
+
+# Building an inclusive culture
+
+Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust. amzn.to/inclusive-culture
+
+# Empowering diverse entrepreneurs
+
+Through our technology, Amazon enables our sellers, creators, and builders from all backgrounds opportunities to follow their passion and find their best future. amzn.to/diverse-entrepreneurs
+
+# Employees and Communities
+
+# Workplace Safety
+
+Creating a culture of safety means listening to our associates as closely as we listen to our customers. amzn.to/fc-safety
+
+# Amazon’s commitment to workplace safety
+
+Ideas from every part of Amazon help us improve every day, and workplace safety is no exception. amzn.to/workplace-safety
+
+# Tour an Amazon fulfillment center
+
+Ever wonder how Amazon gets your packages to you so quickly? Come see the magic. Tour one of our fulfillment centers and see first-hand how we deliver to you. amzn.to/fc-tours
+
+# Amazon in the Community
+
+We are committed to ensuring all children and young adults, especially those from underrepresented and underserved communities who reside in communities where we have a physical presence, have the resources and skills they need to build their best and brightest futures. amzn.to/our-communities
+
+# Amazon Future Engineer
+
+This comprehensive childhood-to-career program aims to inspire, educate, and train children and young adults from underserved and low-income communities so they can pursue careers in computer science. amzn.to/future-engineer
+
+# Disaster Relief by Amazon
+
+Amazon helps coordinate relief efforts around the world, delivering aid to communities coping with natural disasters. amzn.to/delivering-relief
+
+# Investing in frontline organizations
+
+making a difference in our communities
+
+Amazon’s donations support housing and homelessness programs with partners like Mary’s Place.
+
+amzn.to/supporting-housing
+
+# Local Investment
+
+From Southern California to Chattanooga, Tennessee, Amazon is directly— and indirectly—helping local economies thrive.
+
+amzn.to/job-creation
+
+# Feeding a sense of community
+
+Amazon has helped spark a bustling food truck scene outside its fulfillment center in Tennessee, which keeps employees well-fed and local businesses booming.
+
+amzn.to/chattanooga
+
+# Helping communities thrive
+
+What a fulfillment center means to its community.
+
+amzn.to/the-amazon-effect
+
+# Sustainability in the Cloud
+
+AWS is committed to running our business in the most environmentally-friendly way possible. As part of Amazon’s commitment to achieving 100% renewable energy, AWS exceeded 50% renewable energy usage for 2018.
+
+53
+
+# Sustainability in the Cloud
+
+# Renewable Energy Map
+
+Amazon’s renewable energy projects are expected to generate more than 2,900,000 megawatt hours of renewable energy each year.
+
+|Location|Type|Capacity|Annual Energy Generation|
+|---|---|---|---|
+|Paulding County, Ohio|Wind Farm|100 megawatts|~320,000 megawatt hours of wind power annually|
+|Benton County, Indiana|Wind Farm|150 megawatts|~500,000 megawatt hours of wind power annually|
+|Kern County, California|Wind Farm|47 megawatts|~150,000 megawatt hours of wind power annually|
+|Pittsylvania County, Virginia|Solar Farm|45 megawatts|~100,000 megawatt hours of solar power annually|
+|Powhatan County, Virginia|Solar Farm|20 megawatts|Over 48,000 megawatt hours of solar power annually|
+|Southampton County, Virginia|Solar Farm|100 megawatts|~210,000 megawatt hours of solar power annually|
+
+# Bäckhammar, Sweden
+
+91 megawatt wind farm
+
+~280,000 megawatt hours of wind power annually
+
+# County Donegal, Ireland
+
+91.2 megawatt wind farm
+
+~240,000 megawatt hours of wind power annually
+
+# New Kent County, Virginia
+
+20 megawatt solar farm
+
+Over 48,000 megawatt hours of solar power annually
+
+# County Cork, Ireland
+
+23.2 megawatt wind farm
+
+~68,000 megawatt hours of wind power annually
+
+# Accomack County, VA
+
+80 megawatt solar farm
+
+~170,000 megawatt hours of solar power annually
+
+# Buckingham County, Virginia
+
+20 megawatt solar farm
+
+Over 48,000 megawatt hours of solar power annually
+
+# Sussex County, Virginia
+
+20 megawatt solar farm
+
+Over 48,000 megawatt hours of solar power annually
+
+# Desert Wind, Perquimans and Pasquotank Counties, North Carolina
+
+208 megawatt wind farm
+
+~670,000 megawatt hours of wind power annually
+
+# Sustainability in the Cloud
+
+# Timeline
+
+Learn how AWS is working to achieve its goal of 100% renewable energy.
+
+|August|2019|AWS announced two new renewable energy projects in Europe and the U.S. Amazon’s second renewable energy project in the Republic of Ireland and seventh in the Commonwealth of Virginia are expected to produce approximately 168,000 megawatt hours of clean energy annually.|
+|---|---|---|
+|April|2019|AWS announced three new wind farms—one in Ireland, one in Sweden, and one in the U.S. When complete, these projects are expected to generate 670,000 megawatt hours (MWh) of renewable energy annually.|
+|External press release: amzn.to/new-wind|External press release: amzn.to/new-wind|External press release: amzn.to/new-wind|
+|2018|AWS exceeded 50% renewable energy usage for 2018.|AWS exceeded 50% renewable energy usage for 2018.|
+|December|2017|Five solar farms that AWS previously announced are now in operation in the Commonwealth of Virginia. Together with Amazon Solar Farm U.S. East, the six solar farms bring 260 megawatts of renewable energy capacity onto the grid.|
+|November|2016|AWS announced five new solar farms across the Commonwealth of Virginia—these solar farms join the company’s existing project, Amazon Solar Farm U.S. East, which went into production in October 2016. Amazon worked with developers Virginia Solar LLC and Community Energy Solar on the projects and will further collaborate with an affiliate of Dominion Resources, Inc. to own and operate the solar farms.|
+|October|2016|Amazon Solar Farm U.S. East is now in production in Accomack County, Virginia. The 80 megawatt solar farm is expected to generate approximately 170,000 megawatt hours of solar power annually.|
+
+# June 2016
+
+AWS and Dominion Virginia Power join forces on a landmark renewable energy delivery deal. With this, Dominion Virginia Power will manage and integrate the energy produced from various Amazon wind and solar farm projects onto the grid that serves AWS datacenters.
+
+# April 2016
+
+Amazon joined Apple, Google, and Microsoft in filing an Amicus Brief that supports the continued implementation of the U.S. Environmental Protection Agency’s Clean Power Plan (CPP) and discusses the technology industry’s growing desire for affordable renewable energy across the U.S.
+
+Read the brief here: amzn.to/amicus-brief
+
+# January 2016
+
+Amazon Wind Farm Fowler Ridge launched, marking the first of our four announced renewable energy projects to move into full operation.
+
+# November 2015
+
+AWS announced that it has contracted with EDP Renewables to construct and operate Amazon Wind Farm U.S. Central.
+
+# September 2015
+
+Amazon joined The Buyers’ Principles to collaborate with more than 40 other companies on making clean energy solutions more affordable and accessible to all.
+
+Learn more about The Buyers’ Principles: amzn.to/buyers-principles
+
+# July 2015
+
+AWS announced that it has contracted with Iberdrola Renewables, LLC to construct and operate Amazon Wind Farm U.S. East.
+
+# June 2015
+
+AWS announced that it has teamed with Community Energy, Inc. to construct and operate Amazon Solar Farm U.S. East.
+
+Read the press release: amzn.to/aws-solar-virginia
+
+# Sustainability in the Cloud
+
+April 2015: Amazon announced that it has joined the American Council on Renewable Energy (ACORE) and will participate in the U.S. Partnership for Renewable Energy Finance (U.S. PREF) to increase its work with state and federal policymakers and other stakeholders to enable more renewable energy opportunities for cloud providers.
+
+January 2015: AWS announced it has teamed with Pattern Development to construct and operate Amazon Wind Farm Fowler Ridge.
+
+November 2014: AWS shared its long-term commitment to achieve 100% renewable energy usage for the global AWS infrastructure footprint.
+
+# Cloud Efficiency
+
+“Our results show that AWS’s infrastructure is 3.6 times more energy efficient than the median of the surveyed US enterprise data centers. More than two-thirds of this advantage is attributable to the combination of a more energy efficient server population and much higher server utilization. AWS data centers are also more energy efficient than enterprise sites due to comprehensive efficiency programs that touch every facet of the facility. When we factor in the carbon intensity of consumed electricity and renewable energy purchases, which reduce associated carbon emissions, AWS performs the same task with an 88% lower carbon footprint.”
+
+Source: 451 Research, 2019, All Rights Reserved.
+
+59
+
+# Sustainability in the Cloud
+
+# Water
+
+# Reducing Water Used for Cooling in AWS Data Centers
+
+AWS has always focused on efficiency and continuous innovation in our data centers to improve operational excellence and reduce our impact on the environment. In addition to our efforts on energy efficiency and our goal to achieve 100% renewable energy for our global infrastructure, AWS has multiple initiatives to improve our water use efficiency and reduce the use of potable (drinking) water for cooling data centers. AWS develops our water use strategy by evaluating climate patterns for each AWS Region, local water management and availability, and the opportunity to conserve drinking water sources. Taking a holistic approach, we assess both the water and energy usage of each potential cooling solution to select the most efficient method.
+
+# Evaporative Cooling
+
+When possible, AWS incorporates direct evaporative technology for cooling our data centers, significantly reducing energy and water consumption. During cooler months, outside air is directly supplied to the data center without using any water. During the hottest months of the year, outside air is cooled through an evaporative process using water before being pushed into the server rooms, and we have optimized our cooling systems to use minimal water. AWS is constantly innovating the design of our cooling systems to further reduce water use, and we utilize real-time sensor data to adapt to changing weather conditions.
+
+# Recycled Water
+
+AWS is expanding its use of non-potable water for cooling purposes to help conserve local drinking water sources. In Northern Virginia, AWS was the first data center operator to be approved to use recycled water with direct evaporative cooling technology. We partnered with Loudoun Water to demonstrate the benefits of recycled water for industrial cooling applications, and shared our operational best practices for utilizing recycled water in our data centers. In the AWS U.S. West (Oregon) Region, we have partnered with a local utility to use non-potable water for multiple data centers, and we are retrofitting AWS data centers in Northern California to use recycled water.
+
+# The process for utilizing recycled water
+
+The process for utilizing recycled water begins when wastewater from residential and industrial customers is treated at a local facility and redistributed through its own piping infrastructure. Recycled water has to meet stringent health standards and safe surface discharge standards.
+
+# AWS is working with local utilities
+
+AWS is working with local utilities to expand distribution infrastructure and drive faster implementation and adoption of recycled water for data center cooling applications, in order to reduce our usage of potable water.
+
+# Onsite Water Treatment
+
+AWS is implementing onsite modular water treatment systems in multiple regions. As water is cycled through evaporative cooling units, minerals build up as water evaporates, eventually reaching a level of concentration that requires replacement with fresh water. Onsite water treatment allows us to remove scale-forming minerals and reuse water for more cycles. Increasing our “cycles of concentration” allows us to continue to reduce water intake for cooling our data centers.
+
+# Water Efficiency Metrics
+
+In the infrastructure regions where we use water for cooling, AWS has developed water efficiency metrics to determine and monitor optimal water use for each AWS Region, and we employ a data-driven approach to select the most effective water reduction technologies. Water metrics from each of our Regions help AWS evaluate technologies and understand the long-term impacts on our water usage, in order to increase efficiency as our infrastructure grows and we expand to new regions.
+
+We are partnering with utilities to connect directly to utility water meters, and we are also installing our own meters to track real-time water usage to provide consistent data for our operations and sustainability teams. By analyzing this data, AWS can identify opportunities to reduce water usage and rapidly make operational changes, rather than waiting for bills or usage reports.
+
+AWS will continue to implement these strategies and test new technologies in order to reduce our water consumption and conserve potable water sources. Saving water is good for the environment and also benefits our customers as we increase our operational efficiency.
+
+# Tech for Good
+
+At Amazon we pride ourselves on building a culture of innovation, and using our technology resources to help customers, employees, and society. Our employees constantly think about how to invent for good—what products and services can we build that customers need today and in the future.
+
+63
+
+# Tech for Good
+
+# Amazon Sustainability Data Initiative
+
+Providing access to large datasets in the cloud helps researchers and innovators address a wide range of sustainability challenges. amzn.to/asdi
+
+# Alexa Skills Challenge: Tech for Good
+
+Developers competed to build Alexa Skills that have a positive effect on the environment, local communities, and the world. amzn.to/skills-challenge
+
+# DeepLens Sustainability Challenge
+
+Using the machine learning ability of AWS DeepLens, teams create projects that deal with ecological challenges like encouraging waste reduction, improving waste sorting, and more. amzn.to/deeplens-challenge
+
+# Disaster Relief by Amazon
+
+We leverage our expertise in logistics by mobilizing employees and customers to donate to the Red Cross and UNICEF through our homepage in countries around the world.
+
+# Delivering relief to communities impacted by natural disasters
+
+The Disaster Relief by Amazon team coordinates relief efforts around the world. amzn.to/delivering-relief
+
+# By the numbers
+
+From 2017 to 2019, millions of people around the world were impacted by natural disasters—from hurricanes in the United States and the Caribbean, to floods in India, and earthquakes in Mexico. Amazon was there to help. amzn.to/drba-numbers
+
+# Governance
+
+Our science-based, customer-centric approach involves a variety of mechanisms to integrate sustainability throughout Amazon’s business operations.
+
+67
+
+# Governance
+
+# Mechanisms for Prioritizing Our Work
+
+At Amazon, we take a science-based, customer-centric approach to sustainability. We use a structured lifecycle assessment model to measure and map environmental hotspots across our value chain. We also have conducted a sustainability materiality assessment to identify the most significant environmental and social topics across our business.
+
+We prioritize risks and opportunities by taking into account customer and stakeholder expectations, regulations, business risks, industry best practices, trends in financial and sustainability reporting, and emerging topics in news and social media.
+
+We integrate sustainability practices into our everyday operations through goal-setting, metrics, and quarterly business reviews.
+
+# Some of our current highest priority sustainability issues are:
+
+- Climate change, energy efficiency, renewable energy, and sustainable transportation
+- Responsible supply chain practices, including human rights and the safety and well-being of workers in our supply chain
+
+# Waste, recycling, and the circular economy
+
+# Sustainable products
+
+Amazon uses a variety of mechanisms to ensure that sustainability is embedded in our business operations. We integrate sustainability practices into our everyday operations through goal-setting, metrics, and quarterly business reviews.
+
+In the area of climate change in particular, we are developing the data and tools to address climate risks for both our business and our customers. The foundation of this work is the Amazon Sustainability Data Initiative (ASDI), a global and authoritative source for open-sourced weather, climate, and sustainability data. This data, together with AWS analytical tools, is enabling cutting-edge scientific work and helping us raise the bar for customers.
+
+For example, by using the NOAA weather data available in ASDI, Amazon transportation teams have been able to better predict how weather-related events (snowstorms, floods, heatwaves, etc.) impact customer package deliveries, and we have provided customers with more accurate delivery estimates as a result. The AWS Infrastructure team also leverages weather data from ASDI to better assess the impact of weather on AWS data centers.
+
+We are developing a robust tool for assessing and managing weather and climate-related risks for our assets, people, and operations. Our ultimate goal is to enable customers and suppliers to use the tools we are developing in-house to improve climate resilience.
+
+# Governance
+
+# UN Sustainable Development Goals
+
+The Sustainable Development Goals (SDGs) are a collection of 17 global goals the United Nations General Assembly (UN) set to provide a shared blueprint for peace and prosperity for people and the planet, now and into the future. At Amazon, there are multiple ways our sustainability work aligns with these global goals. The following shows how our programs correspond to the UN SDGs.
+
+# Sustainable operations
+
+# Packaging and products
+
+# Social responsibility
+
+# Employees and communities
+
+# Sustainability in the cloud
+
+# Tech for good
+
+# Partnerships
+
+# Sustainability Partnerships
+
+Many of the cross-cutting sustainability issues that we prioritize at Amazon are enhanced through partnerships and collaborative initiatives with credible, knowledgeable, and innovative industry partners. Examples of these groups include:
+
+# ADVANCED ENERGY BUYERS GROUP
+
+Amazon is a founding member of the Advanced Energy Buyers Group (AEBG). The mission of the business-led AEBG is to engage on policies that make it possible for non-residential energy users to meet their own energy needs with advanced energy through simple, flexible, market-based solutions; and to support policies that facilitate the transition to an electricity system that is secure, clean, resilient, smart, and affordable.
+
+To promote education, analysis and policy advocacy for clean energy, Amazon joined Advanced Energy Economy (AEE), a nonprofit association of clean energy businesses that is committed to promoting clean and affordable energy technologies. AEE publishes reports, brings together stakeholders and advocates for advanced energy policies with state and federal policymakers on issues related to electric vehicles, renewable energy, energy efficiency, and the smart grid.
+
+# NCORE
+
+To support our engagement on renewable energy, Amazon joined the American Council on Renewable Energy (ACORE), a nonprofit membership organization dedicated to building a secure and prosperous America with clean, renewable energy. ACORE convenes thought leadership forums and creates energy industry partnerships to communicate the economic, security, and environmental benefits of renewable energy.
+
+# amfori
+
+Amazon began working with amfori, a leading global business association for open and sustainable trade. They bring together over 2,000 retailers, importers, brands, and associations from over 40 countries, to drive social performance and improvements in their global supply chains.
+
+# Governance
+
+# Beauty and Personal Care Leadership Group
+
+Amazon joined the Beauty and Personal Care Leadership Group, a multi-stakeholder group of brands, retailers, and NGOs working to enhance beauty and personal care product sustainability by aligning and simplifying the assessment criteria for determining product sustainability.
+
+Amazon is a member of Business for Social Responsibility (BSR), a global nonprofit that works with partners across business, civil society, and government sectors to build a just and sustainable world. Amazon participates in working groups such as Future of Fuels (a collaboration with a mission to drive a sustainable transition to low-carbon commercial road freight), Clean Cargo Working Group (an initiative to reduce the environmental impacts of global goods transportation), and Tech Against Trafficking (a coalition of technology companies collaborating with global experts to help eradicate human trafficking using technology).
+
+# HERproject
+
+Amazon joined BSR’s HERproject™, a collaborative initiative that strives to empower low-income women working in global supply chains. Bringing together global brands, their suppliers, and local NGOs, HERproject™ drives impact for women and business via workplace-based interventions on health, financial inclusion, and gender equality. Since its inception in 2007, HERproject™ has worked in more than 700 workplaces across 14 countries and has increased the well-being, confidence, and economic potential of more than 800,000 women.
+
+Amazon joined the Business Environmental Leadership Council at the Center for Climate and Energy Solutions (C2ES) to work toward practical solutions to the world’s climate and energy challenges. C2ES is an independent, nonpartisan, nonprofit organization working to forge practical solutions to climate change. Through strong policy and action to reduce greenhouse gas emissions, promote clean energy, and strengthen resilience to climate impacts, C2ES works with Fortune 500 companies to coordinate business action and business support for effective climate policy.
+
+# Amazon's Commitment to Sustainability
+
+Amazon has committed $10 million to the Closed Loop Fund to increase the recycling of products and packaging. Through project finance, the fund provides cities and companies with access to capital necessary to increase recycling rates in communities across America and build circular supply chains.
+
+# Corporate Eco Forum (CEF)
+
+Amazon joined the Corporate Eco Forum (CEF), an invitation-only membership group for large companies that demonstrate a serious commitment to sustainability as a business strategy issue. CEF’s mission is to help accelerate sustainable business innovation by creating a neutral space for senior business leaders to strategize and exchange best-practice insights.
+
+# Green Chemistry and Commerce Council (GC3)
+
+Amazon joined the Green Chemistry and Commerce Council (GC3), a multi-stakeholder collaborative that drives the commercial adoption of green chemistry by catalyzing and guiding action across all industries, sectors, and supply chains.
+
+# International Safe Transit Association (ISTA)
+
+Amazon is a member of the International Safe Transit Association (ISTA), an organization focused on the specific concerns of transport packaging. ISTA is a nonprofit, member-driven association that sets the standards for optimizing the resources in packages that are designed to be survivable, sustainable, and successful.
+
+# Renewable Energy Buyers Alliance (REBA)
+
+To support a resilient clean energy system, Amazon joined the Renewable Energy Buyers Alliance (REBA). REBA is an alliance of large clean energy buyers, energy providers, and service providers that, together with NGO partners, is unlocking the marketplace for all nonresidential energy buyers to lead a rapid transition to a cleaner, prosperous, zero-carbon energy future.
+
+# Governance
+
+# RE-Source
+
+To advocate for issues related to clean energy purchasing, Amazon is a member of the RE-Source Platform. RE-Source is a European alliance of stakeholders representing clean energy buyers and suppliers for corporate renewable energy sourcing. It is the first and only multi-stakeholder platform in Europe bringing together the interests of both buyers and sellers in order to unlock the potential of new business models, accelerate the transition to affordable renewable energy sources, and help combat climate change.
+
+Amazon joined the Responsible Business Alliance (RBA), a nonprofit coalition of companies committed to supporting the rights and well-being of workers and communities worldwide affected by the global electronics supply chain. The RBA is the world’s largest industry coalition dedicated to electronics supply chain responsibility.
+
+Amazon joined the Supplier Ethical Data Exchange (Sedex), a global nonprofit organization that provides manufacturers and retailers a platform to manage responsible sourcing data and monitor continuous improvement across their supply chains.
+
+Amazon joined SolarPower Europe (SPE) to help advance solar energy development across Europe. SPE works to ensure solar-based energy solutions have access to financing and funding across Europe, positioning these solutions with policymakers at the European and national levels, effectively communicating the benefits of solar power and more.
+
+# Amazon's Sustainability Initiatives
+
+Amazon joined the Sustainable Apparel Coalition (SAC), an industry alliance on sustainable production for apparel, footwear, and textiles. The Coalition uses the Higg Index, a standardized value chain measurement suite of tools for all industry participants. These tools measure environmental and social labor impacts across the value chain. With this data, the industry can address inefficiencies, improve sustainability performance, and achieve the environmental and social transparency consumers are demanding.
+
+Amazon joined the Sustainable Packaging Coalition® (SPC), an industry working group dedicated to a more robust environmental vision for packaging. SPC uses strong member support, an informed and science-based approach, supply chain collaborations, and continuous outreach to build packaging systems that encourage economic prosperity and a sustainable flow of materials.
+
+Amazon joined The Recycling Partnership to increase access to and improve curbside recycling in the United States. The Recycling Partnership supports communities and local governments with education, infrastructure, and measurement related to curbside recycling.
+
+# U.S. Partnership for Renewable Energy Finance
+
+Amazon joined the U.S. Partnership for Renewable Energy Finance (U.S. PREF), a program of ACORE, to support our work with state and federal policymakers and other stakeholders to enable more renewable energy opportunities for cloud providers. U.S. PREF is an educational program that provides expert input on how the renewable energy finance market works.
+
+# Governance
+
+# Amazon Sustainability Policy Positions
+
+Increasing the deployment of renewable energy resources is valuable for the planet, good for business, and important for our customers. As part of our sustainability efforts, Amazon advocates in support of public policy that advances access to and the expansion of clean energy. We will continue to promote policies that support renewable energy to power our operations. Since 2016, we have taken the following actions in support of promoting clean energy and addressing climate change.
+
+|Month|Year|Action|
+|---|---|---|
+|April|2016|Amazon joined Apple, Google, and Microsoft in filing an amicus brief in support of the U.S. Environmental Protection Agency’s Clean Power Plan.|
+|February|2017|Amazon offered support for a Virginia bill to create a new community solar law in the Commonwealth.|
+|June|2017|Amazon joined the We Are Still In coalition to express support for remaining in the Paris Climate Agreement.|
+|October|2017|Amazon authored a letter to the Ohio State Legislature in support of a bill that would reduce restrictions on the siting of wind energy projects in the state.|
+|October|2017|Amazon provided support for the regulatory approval of a green energy program offering being created by the Florida electric utility that provides power to our facilities in the Jacksonville region.|
+|December|2017|Amazon wrote to the California Public Utilities Commission in support of an electric vehicle charging program for the San Diego region.|
+|December|2017|Amazon urged the European Union Commission to establish a goal of 35% renewable energy by 2030.|
+|September|2018|Amazon staff spoke at the Midwest Governor’s Association conference and highlighted our interest in access to renewable energy and the importance of states reducing barriers to renewable energy access.|
+
+# 2018
+
+November  Amazon authored a letter to the European Commission in support of the removal of regulatory barriers to corporate sourcing of renewable energy.
+
+November  Amazon signed on to a joint declaration calling for changes to European energy policy, that would allow for easier access to renewable energy. The declaration sought to reduce barriers that hinder renewable energy trading and tracking across borders between European Union member countries.
+
+December  Amazon wrote to the Georgia Public Service Commission advocating for a strong renewable energy offering from the Georgia electric utility.
+
+# 2019
+
+February  Amazon spoke to the National Association of State Energy Officials about the importance of energy efficiency and renewable energy for our business operations, and to encourage states to help support the deployment of electric vehicles.
+
+May  Amazon wrote to the Virginia State Corporation Commission encouraging that more renewable energy and clean energy technologies be included in a long-term plan by Virginia’s largest electric utility.
+
+June  Amazon signed a letter to the European Commission outlining the importance of corporate renewable energy procurement and encouraging that National Energy and Climate Plans remove barriers to renewable energy purchasing.
+
+June  Amazon supported legislation introduced in the United States Congress that would allow clean energy projects access to financing by forming master limited partnerships.
+
+August  Amazon leadership spoke at the National Conference of State Legislatures Energy Summit and implored state legislators to accelerate the deployment of renewable energy across the United States.
+
+78
+
+# Amazon Around the Globe
+
+Explore Amazon’s renewable energy projects around the globe.
+
+amzn.to/sustainability-map
+
+79
+
+NO_CONTENT_HERE
