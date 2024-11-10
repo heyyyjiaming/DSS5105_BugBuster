@@ -13,12 +13,12 @@ def get_ticker_symbol(company_name):
     # Use yahooquery's search function to get the ticker symbol
     result = search(company_name)
     print(result)
-    if 'quotes' in result and len(result['quotes']) > 0:
-        # Return the first matching ticker symbol
-        ticker_symbol = result['quotes'][0]['symbol']
-        return ticker_symbol
-    else:
-        return None
+    # if 'quotes' in result and len(result['quotes']) > 0:
+    #     # Return the first matching ticker symbol
+    #     ticker_symbol = result['quotes'][0]['symbol']
+    #     return ticker_symbol
+    # else:
+    #     return None
 
 def get_stock_data(company_name):
     # Map company name to ticker symbol

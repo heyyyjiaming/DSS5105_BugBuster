@@ -9,7 +9,7 @@ from uniflow.flow.config import OpenAIModelConfig
 from uniflow.op.prompt import PromptTemplate, Context
 from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, extract_esg_contents, convert_xlsx_to_summary
 # from models_test.scoring import ESGModel
-from utils.external import get_stock_data, get_esg_news
+from utils.external import get_stock_data, get_ticker_symbol, get_esg_news
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
@@ -121,9 +121,10 @@ else:
  
         
         st.header("Financial Analysis")
-        stock_price = get_stock_data(company_name)
-        fig = px.line(stock_price, x='Date', y='Adj Close', title=f"{company_name} Stock Price")
-        st.plotly_chart(fig)
+        get_ticker_symbol(company_name)
+        # stock_price = get_stock_data(company_name)
+        # fig = px.line(stock_price, x='Date', y='Adj Close', title=f"{company_name} Stock Price")
+        # st.plotly_chart(fig)
         
             
         
