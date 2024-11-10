@@ -301,6 +301,7 @@ exchange_rates = {
     'USD': 1  
 }
 
+## Change whole func
 def modify_units(row):
     if row['unit'] == 'GJ':
         row['unit'] = 'MWhs'
@@ -320,7 +321,7 @@ def modify_units(row):
 
     return row
 
-
+## change whole
 def fill_esg_data(df, new_df, column_name, label=None, metric=None, unit=None):
     condition = pd.Series([True] * len(df))
     if label is not None:
@@ -343,7 +344,7 @@ def fill_esg_data(df, new_df, column_name, label=None, metric=None, unit=None):
 
 
 
-
+## change whole
 def restructure(df,company_name):
     new_df = pd.DataFrame(columns=['year'])
     new_df.set_index('year', inplace=True)
