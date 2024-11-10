@@ -9,16 +9,41 @@ import json
 import requests
 
 
+# def get_ticker_symbol(company_name):
+#     # Use yahooquery's search function to get the ticker symbol
+#     result = search(company_name)
+#     print(result)
+#     # if 'quotes' in result and len(result['quotes']) > 0:
+#     #     # Return the first matching ticker symbol
+#     #     ticker_symbol = result['quotes'][0]['symbol']
+#     #     return ticker_symbol
+#     # else:
+#     #     return None
 def get_ticker_symbol(company_name):
-    # Use yahooquery's search function to get the ticker symbol
-    result = search(company_name)
-    print(result)
-    # if 'quotes' in result and len(result['quotes']) > 0:
-    #     # Return the first matching ticker symbol
-    #     ticker_symbol = result['quotes'][0]['symbol']
-    #     return ticker_symbol
-    # else:
-    #     return None
+    try:
+        # Perform search using yahooquery
+        result = search(company_name)
+        print(f"Raw response: {result}")  # Debug print to see response
+
+        # Check if response is in the expected format
+        if not isinstance(result, dict) or 'quotes' not in result:
+            print("Unexpected response format or empty response")
+            return None
+        
+        # Extract the ticker symbol from the result
+        quotes = result.get('quotes', [])
+        if quotes:
+            return quotes[0].get('symbol', None)
+        else:
+            print("No quotes found for the company name")
+            return None
+
+    except requests.exceptions.JSONDecodeError as e:
+        print("JSONDecodeError: Unable to parse JSON response")
+        return None
+    except requests.exceptions.RequestException as e:
+        print(f"Request Error: {e}")
+        return None
 
 def get_stock_data(company_name):
     # Map company name to ticker symbol
