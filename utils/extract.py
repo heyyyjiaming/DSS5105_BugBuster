@@ -335,6 +335,16 @@ def modify_units(row):
             row['year'] = None
     else:
         row['year'] = None
+        
+        
+    try:
+        # If value is not already a numeric type, convert it to float
+        row['value'] = float(row['value'])
+    except (ValueError, TypeError):
+        # If conversion fails, handle the exception 
+        # (e.g., log an error, set value to None, return row unchanged, etc.)
+        # For this example, let's return the row unchanged
+        return row
     
     # Existing unit modifications
     if row['unit'] == 'GJ':
