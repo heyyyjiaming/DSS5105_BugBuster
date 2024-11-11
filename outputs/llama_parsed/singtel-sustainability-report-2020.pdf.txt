@@ -1,0 +1,1764 @@
+# Singtel Group
+
+# Sustainability Report
+
+# 2020
+
+0749
+
+12 05
+
+# About this Report and Contents
+
+This is the sixth Group Sustainability Report by Singapore Telecommunications Limited (Singtel). It covers the sustainability performance of our operations in Singapore, where Singtel is headquartered, and Optus, our wholly-owned subsidiary in Australia, for the financial year 1 April 2019 to 31 March 2020 (FY2020).
+
+# Key Highlights FY2020
+
+# 01 Message from Chairman and Group CEO
+
+# 02 Sustainability at Singtel
+
+# 2020 Targets
+
+# UN Sustainable Development Goals
+
+# Singtel Group’s COVID-19 Response
+
+# Environment
+
+# 03 Environment
+
+# Climate Change and Carbon
+
+# Product Stewardship
+
+# Environmental Performance Indicators
+
+# Social
+
+# 04 People
+
+# Diversity and Inclusion
+
+# Human Capital Development
+
+# People Performance Indicators
+
+# 05 Community
+
+# Inclusion of Vulnerable Groups
+
+# Digital Citizenship and Online Safety
+
+# Governance
+
+# 06 Marketplace and Customers
+
+# Customer Experience
+
+# Ethical and Responsible Business Practices
+
+This Sustainability Report (SR2020) covers the company’s strategies, initiatives and performance in relation to Environmental, Social and Governance (ESG) issues. All data, statistics and improvement targets are in relation to the Group’s operations in Singapore and Australia unless stated otherwise. Group-level figures are in Singapore dollars, using the exchange rate of A$1 to S$0.9351. No restatements were made from the previous report. There were no significant changes to the organisation and our supply chain during the reporting cycle.
+
+This report captures the highlights and achievements of FY2020 and should be read together with Singtel Sustainability and Sustainability Report 2020 webpages, which contain our corporate sustainability information and additional annexes like GRI Index and EY assurance statement. Optus also produces a separate Sustainability Report.
+
+# GRI STANDARDS
+
+This report has been prepared in accordance with the GRI Standards: Core option. It also complies with SGX Listing Rule 711 (A) and (B).
+
+# EXTERNAL ASSURANCE
+
+We have engaged Ernst & Young to independently assure a selection of our key ESG disclosures. The assurance statement can be read here.
+
+# FEEDBACK
+
+We are fully committed to listening to our stakeholders and we welcome feedback on this report and any aspect of our sustainability performance. Please address all feedback to Vice President, Group Sustainability, at sustainability@singtel.com.
+
+# Key Highlights FY2020
+
+# OVERVIEW
+
+# Environment
+
+Only Southeast Asian company among a pioneer group of 28 global companies in July 2019 that committed to keeping global temperature increase within 1.5°C and net zero emissions by 2050.
+
+Signed our first solar Power Purchase Agreement in Singapore.
+
+Won Singapore’s highest environmental accolade, the President’s Award for the Environment 2019.
+
+Estimated carbon emissions avoidance of 3,498 tCO2e/year during the year and achieved improvement in electricity intensity of 105 kWh/TB from 125 kWh/TB last year.
+
+Achieved an A- score in CDP 2019, highest scoring telecommunications company in Hong Kong and Southeast Asia region.
+
+APCO Award for our Optus sustainable packaging achievements and efforts in the telecommunications sector for the third consecutive year.
+
+# People
+
+Training investment of S$21.9 million in Singapore and Australia, of which 42% was in future skills.
+
+Pledged S$45 million to boost the digital skills of our workforce over the next three years.
+
+Attained the SkillsFuture Employer Award 2019 for our commitment to lifelong learning and investment in employee training.
+
+Included in the 2020 Bloomberg Gender-Equality Index and Refinitiv Global Diversity & Inclusion Index 2019 and named as one of the top ten employers for Gender Diversity at The Leonie Awards 2019.
+
+Launched #CURIOUS, our Group-wide digital learning platform featuring 100,000 curated courses and videos covering topics from technology to leadership.
+
+Recognised by the Health Promotion Board with the 2019 Singapore HEALTH Award (Excellence) for our workplace health and wellness programmes.
+
+# Community
+
+Community investment of S$22.34 million and 28,226 staff volunteering hours clocked in Singapore and Australia.
+
+More than 100 staff volunteers from the Singtel Group of companies and vendor partners participated in Better Together, our overseas volunteering programme in Australia, India, the Philippines and Thailand.
+
+Supported DQ Institute’s inaugural Child Online Safety Index (COSI), the world’s first real-time analytic platform for children’s online safety.
+
+Our Digital Citizenship programme helped about 114,000 students to be digitally safe and responsible online.
+
+Scaled Donate Your Data in Australia to help disadvantaged young people bridge the digital divide.
+
+Supported 1,000 vulnerable seniors under CareLine 24-hour telephone befriending service with free mobile phone services to promote digital inclusion and well-being.
+
+# Marketplace and Customers
+
+Named the most well-governed and transparent company in Singapore for the fifth consecutive year in the Singapore Governance and Transparency Index 2019 and ranked as Australia’s strongest brand in Brand Finance’s Top 100 list.
+
+Total capital investment of S$2 billion in Singapore and Australia.
+
+Completed the construction of the 4,600-kilometre INDIGO West and INDIGO Central submarine cable systems linking Southeast Asia to Perth and Sydney in Australia and the US.
+
+5G rollout in Australia and industry collaboration to deploy targeted 5G use cases in Singapore.
+
+Singtel Group Future Makers 2019 held in Singapore with our associates to support ten regional start-ups to scale their impact with technology innovation.
+
+Launched UNBOXED, Singapore’s first next generation unmanned retail pop-up store with solar panels to complement our retail footprint.
+
+Singapore Telecommunications Limited | Sustainability Report 2020
+
+# Message from Chairman and Group CEO
+
+SIMON ISRAEL
+Chairman
+
+CHUA SOCK KOONG
+Group CEO
+
+These are extraordinary times for us at Singtel, as much as they have been for everyone else. The extensive global impact of the COVID-19 outbreak follows on the heels of an already challenging 2019 that was marked by trade tensions and climate events such as the devastating bushfires in Australia. A large part of this report was completed as we spent unprecedented weeks working from home amid heightened social distancing measures.
+
+During this challenging period, the Singtel Group has kept a steadfast focus on ensuring people and businesses stay connected. Many expect COVID-19 to accelerate digital transformation and permanent changes in the way we live and work, long after it ends. We believe the rollout of 5G globally will contribute further to this transition. Together with technologies such as the Internet of Things and AI, 5G will create new benefits and opportunities for businesses, society and our industry.
+
+# LEAVING THE SMALLEST ENVIRONMENTAL FOOTPRINT
+
+2019 marked the end of the hottest decade ever recorded. With the effects of climate change more dire than ever, urgent collective action is needed from all of us. A flagship UN report in March 2020 on the 17 Sustainable Development Goals, or SDGs in short, sounded an alarm that the Asia-Pacific region is not on track to achieve any of them by 2030, and is struggling the most with advancing responsible consumption and production, and climate action. These findings underscore the urgency of the situation and the need to accelerate progress even as the world deals with the upheaval caused by COVID-19.
+
+The Singtel Group has been working closely with the industry on climate action. We played a key role in supporting GSMA’s first science-based, sector-specific decarbonisation pathway to reduce greenhouse gas emissions across the telecommunications sector. In addition, we are committed to reducing our own environmental footprint in Singapore and Australia. In July 2019, we were the only Southeast Asian company in a pioneering group of 28 global companies to commit to keeping global temperature increase within 1.5°C above pre-industrial levels and achieve net zero emissions by 2050.
+
+In this sixth Singtel Group Sustainability Report 2020, we report our achievements against our five-year targets on various material topics identified through our last materiality review and formal stakeholder engagement in 2016. We highlight below some of our achievements and next steps.
+
+# OVERVIEW
+
+For our environmental sustainability efforts, we were awarded Singapore’s highest environmental accolade, the President’s Award for the Environment 2019.
+
+# ENABLING THE MOST CONNECTED COMMUNITIES
+
+While we develop our employees, we also recognise our role in driving positive and sustainable change in the communities where we operate. As a technology company at the forefront of communications, we also have a key role to play in promoting online safety and digital inclusion among the vulnerable.
+
+We intend to set our new five-year sustainability targets for 2021-2025 by the first half of FY2021, after assessing the results of our third materiality review and formal stakeholder engagement which we have embarked on. Insights from the review will be deliberated by the Singtel Board and Management Committee, and used in tandem with our sustainability strategy and programmes review. The high priority areas identified will also guide us in addressing the emerging trends, risks and opportunities that stakeholders are concerned with.
+
+# THE JOURNEY AHEAD
+
+Solving the world’s sustainability challenges requires the concerted and collective efforts of the Public-Private-People sectors. No individual or organisation can do it alone if we are to achieve scale and deliver a better and more sustainable future for all.
+
+Accelerating our shift towards renewable energy, we signed our first solar Power Purchase Agreement (PPA) in Singapore for the installation of a solar power system on one of our data centre rooftops in March 2020. This new 1.65 MWp installation generates more clean energy than our existing solar power projects combined.
+
+2019 was also a year where bushfires raged in Australia on an unprecedented scale. To help the small and medium sized businesses in regional Australia re-establish connectivity and get back on their feet, we introduced Green Shoots, a programme comprising 2,000 grants of financial assistance to business customers in extreme financial hardship, bill waivers and extended payment windows.
+
+# ENVIRONMENT
+
+In Singapore, we continue to support DQ Institute whose #DQEveryChild initiative to help children use digital technology and media safely and responsibly has gained global traction. DQ Institute’s inaugural Child Online Safety Index found that globally, 60% of eight to 12 year olds face cyber risks, including cyber bullying, reputational risks and risky content. The results show the need for urgent action to make the internet a safer place, which is where our cyber wellness efforts can play a part.
+
+In December last year, we scaled our digital inclusion initiative, Donate Your Data, to bridge the digital divide for young Australians living in poverty. Customers can donate their mobile data, which is pooled and shared with young Australians supported by our charity partners. We are touched by the generosity of our customers who have since donated several million GB of data. This proved even more critical as Australian students had to study from home as schools were shut down due to COVID-19 measures.
+
+# SOCIAL
+
+We will continue to strive and advance our sustainability goals across the Group’s businesses. We look forward to an exciting decade to drive and deliver value to all our stakeholders with those 2030 goals in sight.
+
+We continue to drive social innovation through Singtel Group Future Makers, our regional accelerator programme that aims to help solve social challenges by empowering social entrepreneurs who use technology. Last year, ten selected start-ups from the region had the opportunity to gain insights from our business experts, thought leaders and fellow participants. With a grant pool of S$120,000, we are pleased to have facilitated pilots with our business units and associates to help these start-ups commercialise their solutions and create greater community impact.
+
+# GOVERNANCE
+
+We take an equally proactive approach to diversity, which we believe is essential to staying relevant to our customers and stakeholders. Across Singapore and Australia, we formally launched our Gender Diversity Councils with the objective of enabling our female leaders, especially those new to their roles, to gain the necessary skills, networks and experiences required for career advancement.
+
+On behalf of the Board and Management of Singtel, we thank you for your strong support and we look forward to your continued partnership.
+
+SIMON ISRAEL
+Chairman
+
+CHUA SOCK KOONG
+Group CEO
+
+Singapore Telecommunications Limited | Sustainability Report 2020
+
+# Sustainability at Singtel
+
+The Singtel Group is committed to creating sustainable and long-term business growth, while leading and shaping positive change for our marketplace and customers, the communities we operate in, our people and the environment.
+
+|Digital Inclusion & Citizenship|Well-being|
+|---|---|
+|Climate Change & Carbon|The Most Connected Communities|
+|Product Stewardship|The Smallest Footprint|
+|Sustainability Framework|The Highest Quality|
+|The Best Experience|The Best Talent|
+|Our Greatest Asset|A Diverse & Inclusive Workplace|
+|Health & Safety|Always #1|
+|Responsible Ethical Practices|Y Products|
+
+# Sustainability Strategy
+
+As a leading communications company, we simplify lives for our customers, connect people, create jobs and opportunities while making a difference to the wider community through our network investments, innovations and the skills and passion of our people. We constantly review our sustainability strategy against the risks and opportunities we face today and foresee in the horizon. Our sustainability strategy focuses on four key Environmental, Social and Governance (ESG) pillars: Environment, People, Community, and Marketplace and Customers.
+
+# Governance Structure and ESG Accountability
+
+Sustainability is governed across various levels in the organisation – from the Board and Management to the business units and working groups. To embed sustainability across the organisation, we also review the performance of our management on various ESG KPIs which form part of their balanced scorecard. For example, the Singtel Group CEO has specific ESG KPIs tied to her performance-based compensation such as creating a bigger impact in the four areas of our community strategy: enabling innovation, digital citizenship, volunteerism and community involvement, and ensuring safety and health considerations in corporate processes and decision-making. Please see our website for further details on how we govern sustainability at Singtel.
+
+# Importance to Stakeholders
+
+Medium
+High
+Low
+
+# OVERVIEW
+
+# STAKEHOLDER ENGAGEMENT AND MATERIALITY REVIEW
+
+Regular engagement with our stakeholders provides a core input for determining our material focus areas. We engage our internal and external stakeholders to understand their concerns and emerging priorities. This enables us to initiate collaboration and be part of formulating or facilitating a solution.
+
+Our Group-wide materiality review was based on four key sources: our ongoing stakeholder engagement, an in-depth survey with management and external stakeholders, life-cycle assessment and peer review exercise. The assessment by an independent consultant was based on the GRI Standards’ materiality principle for defining report content and aimed to identify any shift in priorities and emerging areas of concern.
+
+# Singtel Group Materiality Matrix
+
+|ENVIRONMENT|SOCIAL|GOVERNANCE|
+|---|---|---|
+|Innovation|Diversity| |
+|Training and education|Digital citizenship and online safety| |
+|Talent attraction and retention|Inclusion of vulnerable groups| |
+|Fair marketing communications|Supply chain management| |
+|Customer health and safety|Climate change and carbon| |
+|Customer data privacy and protection|Waste management| |
+|Customer satisfaction| | |
+|Anti-corruption| | |
+|Product and service quality| | |
+|Employee health and safety| | |
+
+In the last quarter of FY2020, we conducted our third formal stakeholder engagement exercise and materiality review. This exercise was supplemented by a life-cycle analysis and a data-driven SDG prioritisation exercise. The results and findings will be published next year in our Singtel Group Sustainability Report 2021, together with a refreshed strategy and 2025 sustainability targets to help us focus on the areas where we can create the most impact as a leading communications provider.
+
+Singapore Telecommunications Limited | Sustainability Report 2020  5
+
+# 2020 Targets
+
+In 2015, we set the following five-year 2020 targets for the Singtel Group across our four sustainability pillars.
+
+# Environment
+
+|2020 TARGET|FY2020 ACHIEVEMENTS|5-YEAR SCORECARD|
+|---|---|---|
+|Climate Change and Carbon|Continued to improve our carbon efficiency on our networks by 70% carbon emissions intensity reduction from baseline year of 2015. Started on our renewable energy journey committing to net zero by 2050. (page 15, 19)|Achieved carbon emissions intensity reduction of 70% in 2020, well exceeding our 2030 target of 50%. We are also committed to achieving our 2030 SBTi absolute carbon reduction target of 42% for Scope 1 and 2 and 30% reduction for Scope 3 from 2015 baseline.|
+|Waste Management|Over 84% of waste generated within our operation disposed via reuse, recycling or incineration with energy recovered. (page 17, 19)|Exceeded original target by 4%.|
+
+# People
+
+|2020 TARGET|FY2020 ACHIEVEMENTS|5-YEAR SCORECARD|
+|---|---|---|
+|Diversity|28% of female employees in Middle and Top Management. Included in the 2020 Bloomberg Gender-Equality Index and the Refinitiv Global Diversity & Inclusion Index 2019 and named as one of the top ten employers for Gender Diversity at The Leonie Awards 2019. (page 22)|28% of female employees in Middle and Top Management.|
+|Talent Attraction and Retention|Built a strong pipeline of more than 800 Young Talent with 56% from technical background. (page 24)|Increased Group-wide pipeline and intake for management associates and cadets by 16% over five years. Improved talent pool gender mix by 3.5% and talent pool size by 9% since 2015.|
+|Training and Education|Total training investment of S$21.9 million. (page 25)|Cumulative S$125.9 million of training investment. Pledged S$45 million to boost the digital skills of our workforce through company-wide initiative ACT over three years. (page 20)|
+|Employee Health and Safety|Zero fatality rate across Singtel and Optus in FY2020. (page 27)|Zero fatality in the past five years. Committed to leading industry efforts to strengthen capabilities and build a progressive culture in WSH towards Vision Zero, our target for zero accidents and fatalities.|
+
+# Community
+
+|2020 TARGET|FY2020 ACHIEVEMENTS|5-YEAR SCORECARD|
+|---|---|---|
+|Inclusion of Vulnerable Groups|Continued to scale impact with our community programmes and community investment in FY2020 was S$22.34 million. (page 28)|Cumulative S$112.14 million of community investment.|
+|Digital Citizenship and Online Safety|Our digital citizenship programmes reached about 114,000 students in Singapore and Australia in FY2020. (page 33-34)|Our various digital citizenship programmes reached more than 540,000 students, parents and educators in Singapore and Australia over five years.|
+
+# Marketplace and Customers
+
+# 2020 TARGET
+
+# FY2020 ACHIEVEMENTS
+
+# 5-YEAR SCORECARD
+
+# OVERVIEW
+
+|Customer Satisfaction|Lead in ‘Customer Experience’ in major customer satisfaction measurement tools and indices over tier one telcos in Singapore and Australia|Maintained top spot on the Customer Satisfaction Index of Singapore (CSISG) and voted Best Mobile & Broadband Service Provider and the inaugural Best Mobile Data Roaming Service Provider award at HWM+HardwareZone Tech Awards 2020. (page 36)|
+|---|---|---|
+|Product and Service Quality|Invest in our networks to meet and exceed the quality of service standards set by the relevant local authorities while addressing the topic of long-term climate change adaptation|Total capital investment of S$2 billion in FY2020. (page 36)|
+| | |Cumulative S$10.26 billion of capital investment. Continued to invest and upgrade our network infrastructure and technology, such as 5G and climate adaptation and resilience measures. Completed the construction of the INDIGO West and Central submarine cable systems.|
+|Innovation|Continue to develop new digital business and services that take advantage of industry changes, leveraging our assets like customer knowledge and intelligent networks, as well as mobile data growth across our markets|5G rollout in Australia and industry collaboration in Singapore. Launched UNBOXED by Singtel, our 24x7 unmanned pop-up store, and our newest Trustwave Fusion Platform to support enterprise customers in handling cyber threats. (page 37, 41)|
+|Customer Health and Safety|Maintain 100% compliance with RF radiation levels and safety guidelines set by local regulators and ICNIRP|100% compliant in FY2020. (page 40)|
+| | |Beyond 100% compliance, we ensure that we stay current on new findings through local and international regulatory bodies and participation in industry initiatives like the GSMA 5G and Health committee. Engaged subject matter expert Dr Phill Knipe for a live 5G measurement whose findings established no health effect as a result of radio waves from 5G networks. (page 40)|
+|Customer Data Privacy and Protection|Uphold the highest standards of customer data privacy protection and ensure compliance by our supply chain|Ensured we uphold the highest standards of customer data privacy protection through internal governance, business risk assessment, training and communication. (page 40-41)|
+| | |There have been minor lapses due to IT, process and human errors. We continue to educate our staff and improve practices and processes to minimise the occurrence of data breaches.|
+|Fair Marketing Communications|Uphold the highest standards of professional values and integrity|Adhered to Singapore and Australia codes of advertising. (page 42)|
+| | |While we strive to uphold the highest standards of professional values and integrity, there have been lapses especially in our Australian operations. We are committed to continuously review our systems and processes to tighten the management of marketing communications, including approval of marketing and advertising copy.|
+|Anti-Corruption|Uphold and adhere to the Group’s zero tolerance policy towards fraud, corruption and unethical actions|Zero tolerance policy towards fraud, corruption and unethical actions. (page 42-43)|
+| | |Continuously manage the Group’s exposure to corruption risks by applying and emphasising good corporate governance, business ethics, and transparency while implementing robust internal controls in business processes as our core approach.|
+|Sustainable Supply Chain Management|To become an industry leader in this area by 2020:| |
+| |• 100% contracted procurement spend in line with Singtel Group sustainable procurement policy| |
+| |• Drive responsible business practices across our supply chain in the areas of human and labour rights as well as environment| |
+| | |Engaged an external industry leading expert to enhance our Supplier Risk Assessment and Management Framework aligned to industry best practices. The Singtel Group Master Supply Agreement was updated to include provisions to ensure that our suppliers comply with the requirements of the Modern Slavery Act. (page 43-44)|
+| | |Our Master Supply Agreement has been updated to incorporate the Modern Slavery Act 2018 (MSA). We will publish a Singtel Group Human Rights Policy and a Modern Slavery statement in second half of FY2021.|
+
+Singapore Telecommunications Limited | Sustainability Report 2020
+
+# UN Sustainable Development Goals
+
+We have earlier identified 11 SDGs which we believe we have the most impact as a business through our operations, initiatives and programmes. This year, we are undertaking a SDG prioritisation exercise and will be sharing our results next year.
+
+# Singtel Group Programmes and UN SDGs
+
+SDG
+SINGTEL GROUP’S POSITION
+
+# SINGTEL GROUP’S EFFORTS AND PROGRAMMES
+
+# Goal 3: Good Health and Well-being
+
+Ensure healthy lives and promote well-being for all at all ages
+
+The Singtel Group views any potential risk to the health and safety of our stakeholders seriously, and we actively promote health, safety and well-being at the workplace and in the broader community.
+
+# Workplace health and safety:
+
+The safety and security of our employees are our top priority, and we strive to ensure the physical and mental well-being of our people. We provide a safe work environment for our people and actively promote awareness of workplace occupational health and safety. (page 10-11, 25, 44)
+
+# Digital citizenship:
+
+We aim to play a proactive role in mitigating such risks through education and promotion of responsible digital citizenship among vulnerable groups of children, youths and customers alike. This is done through our Singtel Group Digital Thumbprint Programme and partnerships with global and local leading organisations like DQ Institute. (page 33-34)
+
+# Electromagnetic energy:
+
+We monitor research findings on EME, comply with standards set by local regulators, ICNIRP and ARPANSA, participate in GSMA 5G and Health committee and ensure that we stay current on new findings. (page 40)
+
+# Goal 4: Quality Education
+
+Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+
+The Singtel Group has an important role in enabling the progress, development and inclusion of vulnerable segments of the society through the support of education and skills development opportunities.
+
+# Staff training and development:
+
+We invest heavily in skills training, education and development of our people to support our Future of Work vision and strategy. (page 20-21, 24-25)
+
+# Vulnerable children and youth:
+
+We support the education of children with special needs, at-risk youth and young people transitioning to the workforce. (page 23, 29-30)
+
+# Digital citizenship:
+
+We are a strategic partner of DQ Institute and its global #DQEveryChild learning programme and Child Online Safety Index (COSI), the world’s first real-time analytic platform to help countries better monitor the status of their children’s online safety. (page 33-34)
+
+# Goal 5: Gender Equality
+
+Achieve gender equality and empower all women and girls
+
+The Singtel Group treats everyone with respect and consideration at all times, regardless of gender, age, ethnicity, language, cultural background, physical ability, religious belief and lifestyle choice.
+
+# Gender representation at work:
+
+Female employees are well represented across all levels of the organisation. We established Gender Diversity Councils with senior leadership representation to accelerate our progress towards gender balance. In Australia, we recognise that more female representation is needed in senior leadership and technical roles. The Singtel Group has an equitable remuneration structure based on work performance without gender bias. (page 22-23, 26-27)
+
+# Goal 7: Affordable and Clean Energy
+
+Increase substantially the share of renewable energy in the global energy mix
+
+The Singtel Group is committed to adopting cleaner energy to reduce our reliance on fossil fuels.
+
+# Sustainable energy sources:
+
+We started on our renewable energy journey in Singapore and Australia to support our aspiration to be net zero by 2050. (page 14)
+
+# Greening our networks:
+
+We invest in greening our networks and implement energy efficiency programmes. (page 15)
+
+# Goal 8: Decent Work and Economic Growth
+
+Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
+
+The Singtel Group is committed to growing with our people and making the company a vibrant workplace across our global operations.
+
+# Fair employment:
+
+We employ over 24,000 people worldwide and have been a signatory of the UN Global Compact since 2007. We have a sustainable supply chain management programme to promote and uphold human and labour rights practices among our suppliers, aligned to the Modern Slavery Act 2018 in Australia. (page 20, 44)
+
+# Economic growth:
+
+We contribute to economic growth and national GDP by supporting Singapore as a key ICT and innovation hub for businesses, and remain an essential service during the COVID-19 crisis. (page 10-11, 20-26, 36-37, 43)
+
+# OVERVIEW
+
+|SDG|SINGTEL GROUP’S POSITION|SINGTEL GROUP’S EFFORTS AND PROGRAMMES|
+|---|---|---|
+|Goal 9|Industry, Innovation and Infrastructure|Innovation: We innovate to bring the latest and the best services and experience to our customers. We intend to be at the forefront and bring 5G to life in Singapore and Australia to create even more benefits and opportunities for businesses, society and our industry. Our social innovation programme, the Singtel Group Future Makers, supports charities, social entrepreneurs and social enterprises that believe technological innovation plays a key role in addressing environmental and social causes in the markets where we operate. (page 38-39) Infrastructure: We invest in our fixed and mobile networks to offer a superior customer experience. We also invest in cyber security to protect the ICT infrastructure of our enterprise customers as well as in training cyber security and smart cities professionals. (page 36, 41)|
+|Goal 10:|Reduced Inequalities|Workplace diversity: We create an open and trusting workplace environment characterised by equal opportunity, as well as a diverse, inclusive, collaborative and learning culture. (page 22-23) Equal opportunity: We value the inclusion of persons with differing abilities as we aim to build an inclusive workplace and society. We partner national agency SG Enable and we are one of the eight founding companies of the Singapore Business Network on DisAbility. We work with the Australian Network on Disability and train our people on disability awareness and hiring. (page 23, 35)|
+|Goal 11:|Sustainable Cities and Communities|Inclusive smart cities: We actively support Smart City and Smart Nation visions and we are developing a suite of smart home solutions for our customers. We conduct workshops for senior citizens in Singapore on using smartphones and social media apps, as well as online safety tips like protecting their online privacy and against scams and support vulnerable seniors through CareLine. We are also a founding partner of the Australian Business Roundtable for Disaster Resilience and Safer Communities. (page 16, 29-30)|
+|Goal 12:|Responsible Consumption and Production|Going green: Electronic, packaging and corporate wastes are key sources of wastes generated across our operations and value chain. We focus on reducing and recycling our waste to minimise our environmental impact. We have a joint e-waste recycling programme in Singapore with SingPost and we continue to support the Mobile Muster programme in Australia. (page 17-18)|
+|Goal 13:|Climate Action|Environmental focus: We set a Science Based Target in 2017 to reduce our Scope 1 and 2 emissions by 42% and our Scope 3 emissions by 30% between 2015 and 2030. We have further deepened our commitment by becoming the only Southeast Asian company among a pioneer group of 28 global companies to commit to keeping global temperature increase within 1.5°C and net zero emissions by 2050. We supported GSMA’s landmark science-based, sector-specific decarbonisation pathway to reduce greenhouse gas emissions across the ICT sector to reach net zero emissions. (page 12-17)|
+|Goal 17:|Partnerships for the Goals|Key partnerships: We have formed strong relationships with key partners for our strategic programmes targeted at meeting our sustainability and community needs as well as environmental commitments. These partners include: ABCN, ABR, APCO, Carbon Management Institute, DQ Institute, Global Compact Network Singapore and Australia, GSMA, IMDA, Kari Foundation, National Council of Social Service, Mobile Muster, NVPC, raiSE, SG Enable, Singapore Business Network on DisAbility, Telco Together Foundation and The Smith Family. (page 16-18, 28-35)|
+
+Singapore Telecommunications Limited | Sustainability Report 2020
+
+Taking stringent measures to protect our field engineers by putting on Personal Protective Equipment (PPE) when installing services at quarantine centres. Attending online meetings from home was a daily affair for our employees.
+
+Our communications network services and solutions play a crucial role in times of crisis and pandemic like COVID-19. We help businesses, communities and people stay connected and have access to the latest news update wherever they are.
+
+# COVID-19: The Singtel Response
+
+EMPLOYEE HEALTH, SAFETY AND WELL-BEING
+
+As part of our business continuity plan, we assembled a management-led Pandemic Control Committee and appointed floor and health staff representatives across our various offices as early as January 2020. Standard operating procedures were drawn up in response to COVID-19 scenarios and disseminated. We had regular staff communications and advisories to keep them posted on the latest developments in Singapore and Australia and our work arrangement plans.
+
+We reviewed our business operations and implemented measures to ensure staff and customer safety and well-being. For example, we issued hand sanitisers and masks to our staff, installed thermal scanners at our offices and stepped up cleaning services of common office areas and our retail shops.
+
+# SUPPORTING BUSINESS CUSTOMERS
+
+We also wanted to help our small and medium sized enterprise (SME) customers whose sales were affected due to social distancing and lockdown measures. In Singapore, we gave free access to Singtel’s 99sme.sg e-marketplace and six months free usage of productivity, collaboration and security tools to these customers. Similarly, we provided a free trial SMB product, Loop Live, to help enterprise customers stay connected in Australia.
+
+Serving customers safely in our retail stores – disinfecting our shops every two hours and making hand sanitisers available to staff and customers. We provided our sales consultants with masks and thermometers to take their own temperature readings twice a day.
+
+# Singtel Sings Together with Singapore
+
+Optus CEO Kelly Bayer Rosmarin visiting our retail staff – thanking the team for their dedication to serve our customers and encouraging them to stay positive and safe.
+
+98 Singtel staff volunteers participated in the distribution of free hand sanitisers to every household in Singapore over six days, under the #BYOBclean project by Temasek Foundation that ran from 23 March to 3 April 2020.
+
+Connecting the migrant workers – supporting IMDA to provide data SIM to foreign workers staying in dormitories for their communication and information needs.
+
+# OVERVIEW
+
+# SOCIAL GOVERNANCE ENVIRONMENT
+
+Reliable network services and connectivity have never been more appreciated. This is where we worked very hard to help our residential and enterprise customers as well as our staff to mitigate the disruptions to their work and personal lives caused by COVID-19 and support the community in times of need. We responded to the outbreak with precision planning and agility for all our four sustainability pillars: Environment, People, Community and Marketplace and Customers.
+
+# Ensuring workforce health and well-being
+
+- Provided complimentary temporary accommodations for employees who wished to stay and continue working in Singapore while borders were closed
+- Adopted workforce separation and IT support arrangements for remote working
+- Strengthened health and sanitation measures at offices and retail shops
+- Distributed masks and hand sanitisers
+- Implemented stringent measures to protect our field and frontline staff with masks and PPE as well as gear training
+- Engaged staff with regular internal communication through COVID-19 advisory
+- Stepped up online learning of wide-ranging topics for staff to acquire new knowledge while working from home, including wellness webinars
+
+COVID-10 Employee Playbook covering staff actions required under different scenarios
+
+# A Singtel Survivor - Ben’s Story
+
+click to play
+
+# Connecting communities and supporting the disadvantaged
+
+- Fundraised S$2 million from staff donation matched by company for various funds, charities and the healthcare sector
+- Supported vulnerable seniors with mobile services due to reduced physical volunteer befriending and social agency care services
+- Supported migrant workers with free remittance service and their WiFi and mobile data needs
+- Expanded Donate Your Data to support disadvantaged students with free mobile data access to online learning
+- Provided emergency SIMs and tablets to agencies focusing on domestic violence and homelessness
+- Leveraged partnership with Kids Helpline to increase customer access to mental well-being resources through My Optus App
+- Provided refurbished laptops and data SIMs to disadvantaged students for their home-based learning
+- Encouraged employees to participate in online volunteering opportunities
+- Provided data-free WhatsApp and free access to our CAST streaming app and channels
+- Enabled free access to Singtel’s 99sme.sg e-marketplace and six months free usage of productivity, collaboration and security tools
+- Technical staff joined the taskforce at the Community Isolation Facility designated for patients to provide IT support for device installation, tele-consult platform and user training
+- Supplemented customers with additional mobile and unlimited broadband data, free Optus Sport
+- Offered bill waivers for healthcare workers in Australia
+- Free trial SMB product, Loop Live, to help enterprise customers stay connected
+- Engineering teams worked 24x7 to monitor our networks and strengthen capacity of our network due to increased data traffic from homes
+- Deployed additional network resources at key premises such as hospitals for their critical communication needs
+- Launched Singtel Group Future Makers COVID-19 pandemic innovation brief in Singapore and collaborated with alumni Virtual Psychologist for customers to access free mental health services in Australia
+
+# Singtel’s Frontline Heroes
+
+Supporting the communication needs of vulnerable seniors
+
+click to play
+
+# Leaving the smallest environmental footprint
+
+- Reduced staff carbon footprint from telecommuting arrangement
+- Remained committed to accelerate renewable energy adoption and energy efficiency initiatives despite weak global business outlook
+
+“We are grateful that one of our longstanding partners, Singtel, has stepped forward to help support the community. Their support through Community Chest and The Courage Fund will help augment what the government and social service agencies are doing for those affected by COVID-19. Singtel’s other contributions to special education schools, healthcare groups, social enterprises and seniors are also highly meaningful as they show a thoughtfulness for other segments of society. It is with many helping hands during this climate that we are able to overcome the challenges together.”
+
+MR PHILLIP TAN
+
+Chairman of Community Chest
+
+Singapore Telecommunications Limited | Sustainability Report 2020
+
+# 03 Environment
+
+# The Smallest Footprint
+
+We are committed to minimising our environmental impact and building operational resilience to the effects of climate change on our business and the communities we serve. As a leading communications group transforming and connecting people and communities, we are also a driver and enabler of positive environmental impact. The Singtel Group Environment Strategy guides our focus on climate action and product stewardship (see Figure 1). Please refer to our website for more details.
+
+# Figure 1:
+
+# Singtel Group’s Environment Strategy
+
+|The Smallest Footprint|The Smallest Footprint|
+|---|
+|Product Stewardship|Climate Change and Carbon Resilience|
+|Packaging|Reduce our impact and prepare for the future|
+|Close the loop on e-waste, packaging and products|Green ICT and Energy Efficiency|
+|4E-Waste|Renewables|
+
+# ADDRESSING CLIMATE CHANGE
+
+# CLIMATE CHANGE AND CARBON
+
+We adopt an active and holistic approach in addressing the threat of climate change through mitigation and adaptation efforts, focusing on improving our energy performance and efficiency measures, as well as building resilience across our operations. Both climate action and environmental sustainability are a journey towards our goals and the Singtel Group has taken progressive steps since FY2015 (see Figure 4 on page 17).
+
+In recognition of our environmental sustainability efforts, Singtel won Singapore’s highest environmental accolade, which is the President’s Award for the Environment 2019 organised by the Ministry of the Environment and Water Resources.
+
+Vice President of Group Sustainability Andrew Buay receiving on behalf of Singtel the President’s Award for the Environment 2019 from Singapore President Halimah Yacob and Minister for the Environment and Water Resources Masagos Zulkifli
+
+# OVERVIEW
+
+# THE TELECOMMUNICATIONS INDUSTRY AS AN ENABLER OF DECARBONISATION
+
+Singtel’s active participation in the GSM Association (GSMA) Board and its Climate Action Committee helps to chart the strategic direction of environmental sustainability for the ICT and mobile industry. GSMA is an industry organisation that represents the interests of over 750 mobile network operators worldwide.
+
+In February 2020, we supported the landmark science-based sector-specific decarbonisation pathway to reduce greenhouse gas (GHG) emissions across the ICT industry sector to reach net zero emissions, announced through a collaboration between Science Based Targets initiative (SBTi), GSMA, International Telecommunication Union and Global e-Sustainability Initiative. This includes emission reduction trajectories for mobile, fixed and data centre operators to meet the Paris Agreement goal of limiting global warming to 1.5°C, designed to substantially reduce the risks and mitigate the effects of climate change.
+
+# ENVIRONMENT
+
+Singtel Solar Monitoring Solution supports Singapore’s solar targets. During the year, we leveraged our ICT capabilities to help decarbonise HDB public housing flats and meet the national solar target commitment of 540 megawatt-peak (MWp) in Singapore by 2030.
+
+Our Solar Monitoring Solution provides an IoT and diagnostic platform which gives project owners end-to-end, real-time monitoring of the performance of their solar equipment, such as inverters and power meters, to ensure that the solar energy harnessed is fully optimised.
+
+# SOCIAL
+
+More aggressive climate targets. In July 2019, Singtel became the only Southeast Asian company among a pioneer group of 28 global companies to commit to keeping global temperature increase within 1.5°C and net zero emissions by 2050.
+
+This is an extension of our climate action commitment in 2017 when we became the first company in Asia outside of Japan to have our 2030 absolute carbon reduction targets approved by SBTi. Climate change is a global issue that requires urgent action from all of us, and governments and businesses must lead the charge.
+
+“This is a breakthrough and Singtel is pleased to have played a critical role in shaping this global collaboration for a sector pathway to net zero carbon in the ICT sector. We are glad this is now an industry movement which will enable collaboration in energy efficient technologies within the industry and with suppliers.”
+
+CHUA SOCK KOONG
+Singtel Group CEO and Deputy Chair of GSMA Board
+
+# GOVERNANCE
+
+Singtel has proactively implemented initiatives to make the transition to a clean energy future and build resilience in our operations. We have now deepened our commitment to meet the more aggressive 2050 target. We believe these efforts will drive efficiency, innovation and use of renewable energy within the business, and rally our partners and vendors in the ecosystem to work together to achieve a positive outcome.
+
+Singapore Telecommunications Limited | Sustainability Report 2020  13
+
+# 03 Environment
+
+# The Smallest Footprint
+
+NCS Bedok Data Centre, one of the largest single-roof solar-powered data centres in Southeast Asia
+
+We approach the topic of climate change from two perspectives: impact on climate change from the business’ growing carbon footprint and impact from climate change on our business resilience and continuity such as during climate disasters (see Figure 2). We continue to work on both areas to ensure that we increase our positive impact on climate change and reduce its negative impact on our business and the community we serve.
+
+# RENEWABLE ENERGY
+
+In October 2019, we signed our first solar Power Purchase Agreement (PPA) in Singapore which saw the installation of a 1.65 MWp solar power system on the rooftop of our NCS Bedok Data Centre. The system was commissioned in March 2020 and became one of the largest single-roof solar-powered data centres in Southeast Asia.
+
+The system is expected to produce about 2,059 MWh of clean energy per year, enough to power 462 four-room HDB flats for a month. Our carbon emissions are also expected to reduce by 864 tCO2 e annually. Please refer to our website for more details.
+
+Figure 2: How We Look at the Climate Change Issue
+
+|Our Impact on Climate Change|Our Impact from Climate Change|
+|---|---|
+|Carbon emissions leading to global warming|Global warming leading to national disasters impacting our business and infrastructure|
+|Our Response|Our Response|
+|Carbon Emissions Reduction|Climate Adaptation and Infrastructure Resilience|
+|Supply Chain Analysis| |
+
+# ENERGY PERFORMANCE AND EFFICIENCY
+
+Based on our FY2022 energy roadmap, we have been working on programmes targeting energy reduction across key energy intensive touch-points of our operations in Singapore and Australia, such as network infrastructure, data centres, satellite earth stations and office buildings. Please refer to Figure 3 and our website for more details.
+
+# BCA Green Mark Award
+
+NCS Hub was awarded the Green Mark Award (Platinum) by the Building and Construction Authority in 2020. The award rates a building on environmental criteria such as energy and water efficiency, and environmental protection.
+
+# Key building conservation features:
+
+- Chiller plant with &lt;0.60 kW/tonne efficiency
+- 24% improvement in air distribution
+- Energy saving T5 lightings/LEDs at offices and common areas
+- LEDs with motion and lux sensors in washrooms
+- PUB water efficient fittings
+
+# OVERVIEW
+
+# Figure 3: Examples of Energy Programmes and Achievements
+
+# Retrofitting M&E equipment and energy optimisation
+
+In Singapore, we continue to retrofit our Fan Coil Units to the type using solar thermal to absorb heat from the sun and improve efficiency of the compressor. 32 units were completed from 2017 to 2019. We also perform energy optimisation on our Heating, Ventilation and Air-Conditioning (HVAC) systems.
+
+# Estimated energy savings and emissions avoidance:
+
+- Kim Chuan 1 Data Centre: 1,058 MWh/year (3,809 GJ/year) or 444 tCO2e/year
+- NCS Bedok Data Centre: 113 MWh/year (407 GJ/year) or 47 tCO2e/year
+
+# Replacing Uninterruptible Power Supply (UPS)
+
+We replaced two conventional-type UPS to modular units at our data centres in Singapore.
+
+# Estimated energy savings and emissions avoidance:
+
+- NCS Bedok Data Centre: 126 MWh/year (454 GJ/year) or 53 tCO2e/year
+
+# Replacing, overhauling and optimising chillers and related equipment
+
+We regularly replace and overhaul chiller units and related Mechanical and Engineering (M&E) equipment which have been in operation for 15 years and more, at our exchanges and office buildings in Singapore. Eight out of 22 chillers have been replaced last year with another six to be upgraded by end-2021.
+
+In Australia, we have an ongoing multi-year Mobile Shelter Cooling Upgrade initiative to replace current fresh air fans with modern DC variable speed fans and larger intake units. This comes with the capability to double the air intake and reduce reliance on air conditioners. During the year, 270 sites were upgraded, bringing the total to 1,100 sites.
+
+# Estimated energy savings and emissions avoidance:
+
+- Potential reduction of 6,141 MWh (22,108 GJ) annually when all 22 chillers are replaced
+- Reduction of carbon footprint by 2,649 tCO2e per year in Singapore
+- 2,490 MWh/year (8,964 GJ/year) or 2,042 tCO2e per year in Australia
+
+# Switching to energy-saving lighting
+
+We have made progressive efforts in retrofitting physical architecture with LED lightings in Singapore.
+
+# Estimated energy savings and emissions avoidance:
+
+- Geylang Telephone Exchange: 120 MWh/year (431 GJ/year) or 50 tCO2e/year
+
+# ENVIRONMENT
+
+# GOVERNANCE
+
+# MAKING PROGRESS WITH TCFD
+
+In FY2021, we plan to work with a consultant on a more targeted and granular assessment of a pilot geographical network location in Australia to help us refine the internal preparatory work we have done in the past two years. We will undertake financial risk modelling aligned with climate scenarios and the associated impact, as well as interdependencies of climate risks for our business operations.
+
+Please refer to our website to see how Singtel applies the TCFD framework against where we believe are our key physical, transition and other climate risks.
+
+# Environment
+
+# Climate Change and Carbon
+
+# IMPACT FROM CLIMATE CHANGE
+
+We prepare our business for climate change impact and mitigate Singtel Group’s carbon footprint through renewable and ongoing organic energy efficiency initiatives.
+
+# CLIMATE CHANGE RESILIENCE
+
+Business resilience against climate change is a priority for the Singtel Group as we continue to integrate resilience and adaptation into our business and network operations. We constantly review current and new climate related risks and trends in countries that are prone to natural disasters, like Australia. We can then prepare ourselves and respond to such risks promptly to safeguard our network infrastructure while continuing to serve our customers’ communications needs.
+
+As part of the Australian Business Roundtable for Disaster Resilience and Safer Communities (ABR), we continue to work with businesses to build climate and disaster risk reduction knowledge and also influence decisions made by governments, businesses and communities. Through our active involvement in ABR, we help to shape the country’s first National Disaster Risk Reduction Framework.
+
+Optus SATCATS trucks provide communication coverage at disaster zones.
+
+We further enhanced our climate resilience adaptation during the year with an A$800,000 investment to buy new equipment and retrofit our power generators.
+
+We are currently exploring 4G-accessible small cells to complement our current disaster management fleet of four SATCATS trucks. If feasible, this will improve our deployment of mobile coverage solutions in affected disaster zones.
+
+|Retrofit|Purchases|
+|---|---|
+|Equip 37 power generators with:|• 9 trailer mounted diesel refuelling systems|
+|• Additional 3 phase 415v outlets|• 30 long run portable diesel fuel pods|
+|• Remote supervisory system|• 5 Tipper Trailers|
+|• Quick connect fuel inlets to allow connection to long run fuel pods| |
+|• Shelter interconnection lead| |
+
+# Bushfires recovery with Green Shoots programme
+
+We set up the Optus Green Shoots bushfire grants programme to support the rebuilding efforts of regional economies and small businesses adversely affected by the bushfires. Our assistance includes:
+
+The unprecedented devastating bushfires in late 2019 affected more than one billion wildlife, caused an estimated A$4.4 billion in economic losses, released 350 million tonnes of carbon emissions equivalent to Australia’s annual emissions, and destroyed homes, businesses and lives.
+
+- Covering the costs of volunteer firefighters’ mobile services for December 2019 and January 2020
+- A dedicated customer care hotline for volunteer firefighters and those affected by bushfires
+- Giving our people uncapped, paid emergency service and military leave for volunteering efforts related to the disaster
+- 2,000 grants, a complimentary tablet, A$100 monthly credit for 24 months, and technology support for eligible small businesses
+
+“With the Green Shoots grants, we are committed to working alongside small businesses hardest hit and helping them on the road to recovery.”
+
+ALLEN LEW
+CEO of Group Strategy and Business Development and former Optus CEO
+
+# Environment
+
+# Product Stewardship
+
+# OVERVIEW
+
+Figure 4: Singtel Group’s Climate Action Journey Towards 2050
+|FY2015|Climate Change identified in Group’s stakeholder engagement and materiality review|FY2018|Singtel Group’s science-based carbon targets approved in October 2017, first in Asia ex-Japan|
+|---|---|---|---|
+|FY2016|Life Cycle Assessment (LCA) performed to advise on material environmental issues in our extended value chain|FY2020|Explored renewable energy options and signed our first Power Purchase Agreement for our Singapore operations|
+|FY2017|Climate Change rose in impact and importance in stakeholder and materiality assessment|FY2030|SBTi target to reduce absolute Scope 1 and 2 carbon by 42%, and Scope 3 by 30% from 2015 baseline|
+|FY2018|Among first companies globally to endorse the TCFD Framework|FY2050|Towards net zero by 2050|
+
+Achieved A-rating for CDP 2017, 2018 and 2019
+
+Achieved carbon emissions intensity reduction of 70% in FY2020 since FY2015
+
+Progressive granular understanding, tracking and reporting of carbon footprint
+
+Internal energy efficiency initiatives to level carbon growth
+
+Ongoing design and implementation of infrastructure adaptation and resilience, including research for public policy advocacy
+
+- Group climate scenario (<2°C and 4°C) and adaptation exercise conducted
+- TCFD drivers identified
+- TCFD data collection, assessment, stakeholder discussions and disclosures
+
+# WASTE MANAGEMENT
+
+E-waste is the most material waste stream in our sector, due to the potential pollutive nature of metal, plastic and battery from mobile phones. Our focus is on increasing the recovery and recycling of mobile phones from our customers.
+
+In May 2019, the Australian government committed A$3 million to support four new recycling education and resource recovery projects to increase recycling rates and reduce waste to support its 2025 National Packaging Targets.
+
+As part of Singapore’s Zero Waste Masterplan, the government passed the Resource Sustainability Act in September 2019. The Mandatory Packaging Reporting and Extended Producer Responsibility (EPR) e-waste frameworks will become effective on 1 January 2021 and 1 July 2021 respectively.
+
+ReCYCLE, our e-waste recycling programme with SingPost, saw a 580% compounded growth in collection rates since its launch on World Environment Day in 2017. Our effort has recovered over 46,300 kg of mobile phones, batteries and accessories to date.
+
+In Australia, we recycle over 98% of our own e-waste and continue to support the Mobile Muster programme, a national industry-wide collaboration stewardship scheme that allows customers to recycle their old mobile phones at any Optus store. We diverted 3,728 kg of e-waste or 50,182 handsets and batteries from landfills in Australia in 2019, saving 8.3 tonnes of carbon emissions and conserved 42.2 tonnes of mineral resources.
+
+# E-WASTE
+
+The Singapore Government is tackling e-waste with the Extended Producer Responsibility (EPR) scheme to be implemented in July 2021 and Singtel is committed to playing our part and contributing towards this national environmental effort.
+
+# PAPER WASTE
+
+We encourage our customers in Singapore to go paperless by promoting e-billing services. We have also switched to FSC-certified photocopying paper at our offices in Singapore since September 2012. With our paperless strategy, we reduced paper use by 49% during the year compared to FY2016 usage levels.
+
+Singapore Telecommunications Limited | Sustainability Report 2020
+
+17
+
+# Environment
+
+# Product Stewardship
+
+# SUSTAINABLE PACKAGING
+
+Sustainable packaging has both direct and indirect contributions to our carbon footprint and environmental impact on our value chain, from resource utilisation to product packaging and all the way to their waste streams.
+
+APCO Award Winner 2019
+
+# TELECOMMUNICATIONS SECTOR
+
+We have been committed to the principles of the Australian Packaging Covenant Organisation (APCO) since 2007. In FY2020, we received an APCO Award for our sustainable packaging achievements and efforts in the telecommunications sector, making significant improvements in the areas of Consumer Engagement, Packaging Design, Packaging Material Efficiency and Business to Business Packaging, improving our points by 17 to 72. This is the third consecutive year we have been awarded by APCO as a high performing member.
+
+# Our commitment to sustainability packaging
+
+In Australia, we updated and consolidated our Sustainable Packaging Strategy into ten targets for 2019-2021 and aligned to the National Packaging Waste targets to make all packaging 100% reusable, recyclable or compostable by 2025. As part of this journey, all foils, celloglaze, spot UV and finishes that make packaging unrecyclable, have been removed from our products. We have also included the FSC and recycling logos on the reverse side of our prepaid SIM packaging.
+
+APC
+
+APCO
+
+# Optus team receiving the APCO Award for the Telecommunications category last year
+
+Receiving the accolade of ‘Leading’ Australian company for our sustainable packaging efforts and best practices.
+
+# Singtel and Optus Celebrate World Environment Day with Project LESS (Little EcoStepS)
+
+In 2019, we ran Project LESS across Singtel and Optus, which aims to promote a culture of LESS – Little EcoStepS – to engage our staff in playing an active part in environment conservation. By inculcating an environment friendly ethos, we hope to reduce our carbon footprint through little acts that can collectively make a big difference.
+
+2019 was designated as the Year Towards Zero Waste in Singapore. Singtel supported this national campaign with a year-long Project LESS consisting of lunchtime talks, workshops, roadshows and eco-trips for staff. We launched ‘The Last Straw’ campaign that encouraged our 12,000-plus employees in Singapore to reduce the use of disposables at our staff cafeterias. In celebration of World Environment Day and in support of the Say YES to Waste Less campaign by the National Environment Agency, we gave each employee a special lunchbox and a set of utensils for their takeaway food purchase. Through such initiatives, we hope to empower them in embracing a sustainable lifestyle.
+
+# Reusable lunchbox for every employee in Singapore
+
+# In Australia, we organised a panel session ‘Our role as stewards of Planet Earth’
+
+Consisting of keynote speaker Karina May Reyes-Antonio, National Geographic Explorer 2018, Rebecca Gilling, Deputy CEO of Planet Ark and staff advocates. We also hosted an environment-themed marketplace with participation from eco-friendly retailers and non-profit partners like Mobile Muster.
+
+# Engaging panel discussion on everyone’s role as stewards of planet earth
+
+18
+
+# Environment
+
+# Environmental Performance Indicators
+
+# OVERVIEW
+
+|Environment|SINGTEL 2020|SINGTEL 2019|SINGTEL 2018|OPTUS 2020|OPTUS 2019|OPTUS 2018|SINGTEL GROUP 2020|SINGTEL GROUP 2019|SINGTEL GROUP 2018|
+|---|---|---|---|---|---|---|---|---|---|
+|Total energy use (GJ)|1,466,802|1,347,094|1,395,100|1,834,722|1,749,622|1,724,106|3,301,524|3,096,716|3,119,206|
+|Energy intensity (GJ/S$million revenue)|180|161|169|219|194|191|200|178|181|
+|Energy intensity (GJ/TB*)|0.30|0.35|0.43|0.49|0.59|0.71|0.38|0.46|0.55|
+|(i) Electricity Use (GJ)|1,448,584|1,323,825|1,372,809|1,805,476|1,719,144|1,692,773|3,254,060|3,042,969|3,065,582|
+|Electricity Use (MWh)|402,384|367,729|381,336|501,521|477,540|470,215|903,905|845,269|851,551|
+|Electricity Intensity (GJ/S$million revenue)|177|158|167|216|191|187|197|175|178|
+|Electricity Intensity (GJ/TB)|0.30|0.35|0.42|0.48|0.58|0.70|0.38|0.45|0.54|
+|Electricity Intensity (kWh/TB)|83|97|118|133|160|195|105|125|151|
+|(ii) Fuel use from non-renewable sources (GJ)|16,748|22,877|21,935|28,782|30,014|30,869|45,530|52,891|52,804|
+|(iii) Fuel use from renewable sources (GJ)|1,470|392|356|464|464|464|1,934|856|820|
+|Solar energy (MWh)|408|109|99|129|129|129|537|238|228|
+|Total carbon emissions (tonnes CO2 equivalent)1|162,566|164,629|174,391|427,706|418,060|418,760|590,272|582,689|593,151|
+|(i) Scope 1|3,741|4,085|3,367|2,140|2,567|2,725|5,881|6,652|6,092|
+|Refrigerants|2,545|2,455|1,828|1,342|4,702|5,892|2,679|2,925|2,417|
+|Fuel combustion|484|733|587|304|291|329|788|1,024|916|
+|Company fleet|712|897|952|1,702|1,806|1,807|2,414|2,703|2,759|
+|(ii) Scope 2|153,650|154,152|164,470|412,932|402,290|399,257|566,582|556,442|563,727|
+|(iii) Scope 3|5,175|6,392|6,554|12,634|13,203|16,778|17,809|19,595|23,332|
+|Contractor fleet|254|411|687|1,138|1,264|1,168|1,392|1,675|1,855|
+|Air travel|3,040|4,000|3,845|4,853|5,738|8,004|7,893|9,738|11,849|
+|Employee commute|1,7313|1,821|1,821|6,6433|6,201|7,606|8,374|8,022|9,427|
+|Retail franchisees|150|160|201|N.A.|N.A.|N.A.|150|160|201|
+|Carbon Intensity (tCO2e/S$ million revenue)2|20|20|21|51|46|46|36|34|34|
+|Carbon Intensity (tCO2e/TB) 42|0.03|0.04|0.05|0.11|0.14|0.17|0.07|0.08|0.10|
+|Total Water Use (m3)|864,6465|753,238|752,207|68,7376|78,774|74,235|933,383|832,012|826,442|
+|Water Intensity (m3/S$million revenue)|106|91|90|N.A.|N.A.|N.A.|56|48|47|
+|Total Waste: hazardous and non-hazardous (tonnes)|7,658|7,538|6,289|8,837|2,2947|2,1977|8,541|9,832|8,486|
+|Total Non-Hazardous Waste by disposal method (tonnes)|1,567|2,130|2,227|6907|1,6837|1,9727|2,257|3,813|4,199|
+|Incineration with energy recovered|1,376|1,972|1,968|N.A.|N.A.|N.A.|1,376|1,972|1,968|
+|Landfill|0|0|0|568|1,476|1,720|568|1,476|1,720|
+|Recycle / Reuse|191|158|259|122|207|252|313|365|511|
+|Total Hazardous Waste by disposal method (tonnes)|6,091|5,408|4,062|1,937|6117|2257|6,284|6,019|4,287|
+|Incineration with energy recovered|324|282|388|N.A.|N.A.|N.A.|324|282|388|
+|Landfill|777|776|593|6|8|3|783|784|596|
+|Recycle / Reuse|4,990|4,350|3,081|187|603|222|5,177|4,953|3,303|
+|Customer E-waste Recycling (tonnes)|66|63|36|4|4|4|70|67|40|
+
+# Footnotes:
+
+1. TB refers to terabyte of data transported across our network.
+2. The carbon emissions reported in the table are based on the reporting requirements of the WRI and WBCSD ‘GHG Protocol Corporate Accounting and Reporting Standard’. The equivalent CO2 emissions for electricity use are calculated based on the updated simple operating margin grid emission factors from the National Environment Agency and electricity supplier emission factor in Singapore for the relevant time period and from corresponding states in Australia. Scope 1 direct emissions and Scope 3 indirect emissions are calculated using BEIS (Department for Business, Energy & Industrial Strategy) Greenhouse gas reporting: conversion factors 2019, NGERS and WRI.
+3. Optus uses a combination of air, water and refrigerant cooling systems. Refrigerants tracked from FY2018.
+4. Employee commute carbon emissions data updated with FY2020 employees numbers. Optus data updated with new survey conducted in 2019 and applies to Optus Sydney campus.
+5. Covers Scope 1 and 2 only.
+6. Total volume withdrawn from municipal water supplies and includes use of 180,799 m3 NEWater instead of potable water. Water stress areas are not applicable.
+7. Total volume withdrawn from municipal water supplies and includes rainwater harvesting of 10,876 m3 instead of potable water. Water use covers Optus Sydney campus and Optus Melbourne office only.
+8. Data covers waste directly managed by Optus’ contracted waste vendor.
+
+Singapore Telecommunications Limited | Sustainability Report 2020
+
+# 04 People
+
+# Our Greatest Asset
+
+Our people are key to the Group’s long-term growth and success. We strive to be a company where talented and self-driven people continue to do great work.
+
+# A PLACE WHERE OUR PEOPLE DO GREAT WORK
+
+The Singtel Group employs over 24,000 people, with about 12,100 in Singapore and 7,700 in Australia. We empower and invest in equipping our employees with the necessary skills and knowledge to stay relevant in our highly competitive and disruptive industry. We want to be a company where our employees can do great work. Hence we aim to create a diverse, welcoming culture that allows people to add value and grow as individuals in a safe working environment.
+
+In Singapore, we abide by the Ministry of Manpower’s (MOM) Employment Act and ensure that practices are aligned with the tripartite guidelines set by MOM, National Trades Union Congress (NTUC) and Singapore National Employers Federation (SNEF). In Australia, we adopt the fair employment framework that is approved by Fair Work Australia and governed by our Employment Partnership Agreement (EPA).
+
+We have fostered a very strong and collaborative partnership with the Union of Telecom Employees (UTES) in Singapore since its inception in 1982. As at 31 March 2020, we had 4,804 bargainable employees (39.6%) in Singapore and 2,683 employees (35%) covered by the Employment Partnership Agreement in Australia.
+
+We support NTUC’s U Care Fund with an annual donation of S$100,000. During the year, we disbursed S$61,000 to 83 schooling children of our staff under the joint Singtel-UTES Bursary Awards scheme.
+
+# ACT NOW FOR DIGITAL TRANSFORMATION
+
+In September 2019, Singtel pledged S$45 million for the next three years to boost the digital skills of our workforce. The initiative, dubbed ACT, aims to:
+
+- Accelerate employees learning and skills development
+- Empower employees to Co-create their skills pathways
+- Transform employee roles to ensure they stay relevant in the focus on higher value activities (see Figure 1). This ultimately improves customer and employee experience.
+
+Singtel and UTES also inked a three-year Memorandum of Understanding (MoU) on the formation of a Company Training Committee (CTC) to implement the ACT initiative.
+
+We continue to roll out our Robotic Process Automation (RPA) programme to free employees from manual transactional tasks. Through the Bot for Every Employee Programme, our people are trained to create bots to enhance work efficiency. To date, over 300 bots have been deployed in Singtel and Optus. Of these, 35 bots are used to manage various HR processes, including streamlining onboarding process, answering employee queries and helping employees apply for leave.
+
+“Technology, media and telecommunications companies are driving digital innovation and transformation, but they are not immune to the challenges brought about by Industry 4.0. I’m encouraged that Singtel is the first telco to partner the Labour Movement in setting up a CTC to help their workers be future-ready with new or different skillsets.”
+
+NG CHEE MENG
+Secretary-General of NTUC
+
+# OVERVIEW
+
+# Figure 1: Singtel Group’s RPA Journey
+
+- 2016 First RPA robot deployed as start of our automation journey
+- 2017 Increase in number of RPA robots deployed across the Group, freeing employees’ time spent on repetitive tasks
+- 2018 Number of RPA robots deployed across the Group grew by four times
+- 2019 Bot for Every Employee Programme introduced to enable thousands of employees to leverage bots for their work by 2019
+- First ever Botmaker hackathon organised
+- Began developing new automation capabilities in Artificial Intelligence (AI)/Machine Learning (ML)
+- Set-up an automation factory model to scale RPA adoption - with reusable components, source codes and robots
+
+# FUTURE OF WORK
+
+Job roles within the organisation are rapidly evolving due to emerging technology and business needs. We adopt a proactive approach in reskilling our people to take on new or enhanced roles. Our development programmes across Singapore and Australia support employees’ development aspirations and aim to develop future-ready organisational capabilities and talent.
+
+# Examples of Singtel Group’s digital transformation programmes
+
+|Programme|Description|Impact|
+|---|---|---|
+|Singapore|Professional Conversion Programme and Company-Led Training|Our systems engineers have been transformed into cyber security consultants, and customer service officers upskilled into customer operations analysts.|
+|Australia|Career Agility platform|200 employees joined the platform with 80% of participants surveyed feeling better equipped to self-manage their career in the future.|
+
+# GOVERNANCE
+
+Wilson Yan - 30, Senior RPA Associate, Singtel
+
+Challenging but possible. Wilson was an Operations Executive who performed qualitative and quantitative analysis on operation metrics when Singtel offered him an RPA role. Seeing this move from a non-technical to a technical role as an opportunity to upgrade himself, Wilson also took on the Singtel Education Scholarship to pursue a Bachelor’s Degree in Computer Science to deepen his technical skillsets.
+
+He is now an RPA Associate who develops technical support design specifications, provides programming guidelines and coaches our software engineers.
+
+# People
+
+# Diversity and Inclusion
+
+Supporting a gender balanced workforce and ensuring an equitable remuneration structure that has no gender bias.
+
+Recognising that there are valuable and productive abilities in everyone; and aspiring to build long-term opportunities for persons with disabilities.
+
+Figure 2: Diversity and Inclusion Framework
+
+The Singtel Group believes in the inherent strength of a vibrant, diverse and inclusive workforce where the perspectives, backgrounds and life experiences of our people help us to forge strong connections with all our customers, engage confidently within an increasingly globalised marketplace, inspirationally lead and creatively innovate, thereby making better decisions for our business and the world in which we live.
+
+# Celebrating our uniquely global workforce
+
+Leveraging the diversity and cultural experiences of our people and leaders to forge strong connections with our customers and communities across the region, driving innovation and engaging confidently in an increasingly globalised marketplace.
+
+# Multi-generational Workplaces
+
+Recognising that different workforce generations have different workplace, family support, engagement, learning and career needs.
+
+# GENDER DIVERSITY
+
+We continue to increase the representation of women in senior leadership and key technical roles across the Singtel Group. We were recognised for our gender diversity efforts by the 2020 Bloomberg Gender Equality Index for the second consecutive year. We were also named as one of the top ten employers for Gender Diversity at The Leonie Awards 2019 and included in the Refinitiv Global Diversity & Inclusion Index 2019.
+
+As at 31 March 2020, female employees accounted for 34% of our total workforce, comprising 35% in Singapore and 31% in Australia. They represented 26% of top management and 28% of middle management positions in the Group.
+
+# Female Executives in the Singtel Group
+
+|Category|FY2020|FY2019|
+|---|---|---|
+|Singtel Top Management|32%|33%|
+|Optus Top Management|10%|9%|
+|Singtel Group Top Management|26%|24%|
+|Singtel Middle Management|34%|33%|
+|Optus Middle Management|22%|21%|
+|Singtel Group Middle Management|28%|26%|
+
+During the year, we established Gender Diversity Councils in Singapore and Australia with senior leadership representation to accelerate our progress towards gender balance. The councils equip up-and-coming female leaders with skills, networks and experiences, as well as cultivates an environment that empowers women to progress as influential leaders in communities, sectors and areas of interest.
+
+We became a Workplace Gender Equality Agency (WGEA) Pay Equity Ambassador, committing to the pay equity pledge to promote and improve gender equality in Australia. This is in addition to four other key areas in leadership education and capability, recruitment, and return-to-work practices.
+
+Optus CEO, Kelly Bayer Rosmarin (seated 2nd from left), a panellist at our Women in Leadership Series.
+
+# OVERVIEW
+
+# MULTIGENERATIONAL WORKPLACE
+
+We continue to support our employees across all generations to stay relevant and resilient in this digital age. To raise their digital literacy, we actively promote courses by SkillsFuture for Digital Workplace (SFDW) and through #CURIOUS, Singtel Group’s newest digital learning platform.
+
+|New Hires by Age Group|New Hires by Gender|
+|---|---|
+|&lt; 30 years old: 753 30-49 years old: 895 &gt;= 50 years old: 57 Total: 1,638|Total: 3,482 Singtel: 1,147 Optus: 558|
+|Total: 1,678 Male: 2,339 Female: 1,143|Total: 1,192 Male: 1,288 Female: 585|
+
+# Voluntary and Involuntary Turnover
+
+# by Age Group
+
+| |Voluntary|Involuntary|
+|---|---|---|
+|&lt; 30 years old|484|1,151|
+|30-49 years old|618|270|
+|&gt;= 50 years old|69|216|
+
+# by Gender
+
+| |Voluntary|Involuntary|
+|---|---|---|
+|Male|716|812|
+|Female|1,171|248|
+
+# DIFFERING ABILITIES
+
+We value the inclusion of persons with differing abilities in our company, in line with our aim to build an inclusive workplace and society. We work with Singapore agency SG Enable to provide training, internship and employment opportunities for persons with disabilities (PwD). Singtel is one of the eight founding companies of the Singapore Business Network on DisAbility (SBNoD), an organisation that advances equitable employment opportunities for PwD through awareness, shared expertise, network and resources.
+
+# MULTICULTURAL AWARENESS
+
+With more than 24,000 employees covering different nationalities across our global business operations, we are proud of our cultural diversity.
+
+# Transformation Journey
+
+Never too old to learn. A Senior Learning & Development Executive who handles course administration and training budget reporting, Valerie has now taken on the additional role of a Bot Builder – building bots to automate course admin processes. Her transformation journey occurred in 2019 when she participated in our RPA Hackathon. She was curious to know what RPA was and how a bot could help her automate processes. She initially had a hard time understanding the technical terms, but soon gained new knowledge and the confidence and ability to build her very own bot!
+
+Valerie Yeong-Tan - 65, Senior L&D Executive, Singtel
+
+Singapore Telecommunications Limited | Sustainability Report 2020  23
+
+# People
+
+# Human Capital Development
+
+At the core of our business strategy is the commitment to enable employees to be the best they can be. We place a strong emphasis on attracting and nurturing our talent, as well as looking after their professional growth and personal well-being during their career with us. Every employee is empowered to reach their full potential through regular, formal and informal performance and career development reviews with managers and mentors.
+
+# CREATING FIRSTS
+
+Singtel leaders and scholars at the Singtel Scholarship Award Ceremony 2019
+
+# TALENT ATTRACTION AND RETENTION
+
+Developing young talent is crucial to build Singtel’s future capabilities amid the global competition for talent. Over the years, we have built a robust talent pool comprising interns, cadets, apprentices, scholars and management associates. We have established numerous strategic partnerships with tertiary institutions and launched our Talent Ambassador Programmes #SingtelLife and #OptusLife, where our people share their enriching work experience and advocate a fulfilling career with the Singtel Group.
+
+During the year, we engaged 724 students - 71 scholars, 4 apprentices and 649 interns. We also hired 70 young talents for our Management Associate and Optus Graduate programmes. With the increased demand for technology talent, we made a concerted effort to increase the proportion of aspiring talent specialising in technology-related fields, with 285 Young Tech Talent and 69 Young Tech Leaders.
+
+# TRAINING AND EDUCATION
+
+We offer our people a rich and diverse range of training and educational programmes under four key learning pillars: Compliance, Company, Business and Future.
+
+# Singtel Group’s Talent Management and Development Programmes
+
+|Aspiring Talent|Early Career|Mid-Career|
+|---|---|---|
+|• Cadet Scholarship • Singtel Group Undergraduate Scholarship • SHINE Internship • Internship|• Cyber Security Associates and Technologists • Singtel Management Associate and Optus Graduate Programmes • NEST (New Engineering Structured Training Programme) • Nucleus (NCS UniCentre of Learning & UpSkilling)|• Digital Leadership Experience programme • IM Talent | TechSkills Accelerator (TeSA) - TeSA • Mid Career Advance • Professional Conversion Programme • Leadership Development • Regional Leadership in Action • Game for Global Growth • SCORE+ Leadership • Management Mentoring and Coaching|
+
+# INDIGENOUS TALENT PIPELINE IN AUSTRALIA
+
+To support Australia’s vulnerable communities including Indigenous Australians while enhancing our talent pipeline, we partnered CareerTrackers, a national non-profit organisation that supports the long-term.
+
+# OVERVIEW
+
+# Training and Development Investment Breakdown by Learning Pillars
+
+|(S$ million)|Compliance|Company|Business|Future|Training and Development Investment| | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Singtel Group|3.4|3.8|5.5|9.2|Singtel| | | | | | | | |
+| | | | | |Optus|1|2.4|1.5|2.3|3.4|2.1|8.7|0.5|
+
+# Average Training Hours
+
+|(hours)|Singtel|Optus|Singtel Group|
+|---|---|---|---|
+|FY2020|40.2|19.6|32.7|
+|FY2019|34.8|18.4|28.9|
+
+‘Learn, Disrupt, Win’ was the theme of our annual Singtel Group Learning Fiesta 2019, where a total of 26,843 learning places (face-to-face and digital learning) were completed between October and November.
+
+Our commitment to lifelong learning and investment in employee training were recognised by the SkillsFuture Employer Award 2019, which was presented to organisations that champion employees’ skills development and build a lifelong learning culture at the workplace.
+
+# EMPLOYEE HEALTH, SAFETY AND WELL-BEING
+
+The safety and security of our employees are our top priority, and we strive to ensure the physical and mental well-being of our people.
+
+During the year, we successfully re-certified OHSAS18001 and bizSAFE Star in Singapore and the AS4801 Australian Standard for Safety Management in Australia. This includes a proactive and comprehensive risk assessment to enhance workplace resilience, productivity, effectiveness and quality of life of all workers.
+
+As workplace safety is everyone’s responsibility, we have regular communication with employees and partners so that everyone is aware and knows how to handle workplace risks. We also promoted mutual respect to support our frontline staff from facing customer abuse and intimidation in Australia.
+
+For our efforts, we were recognised by the Health Promotion Board with the 2019 Singapore HEALTH Award (Excellence) for our workplace health and wellness programmes.
+
+# Staff Injury Types by Number and Gender
+
+| |SLIP, TRIP AND FALL|TRAFFIC RELATED ACCIDENT|FALL FROM HEIGHT|KNOCK ON A MOVING/ STATIONARY OBJECT|OTHERS|
+|---|---|---|---|---|---|
+|Singtel|7 cases M: 1 F: 6|2 cases M: 2 F: 0|0 case M: 0 F: 0|0 case M: 0 F: 0|1 case M: 1 F: 0|
+|Optus|5 cases M: 4 F: 1|1 case M: 1 F: 0|4 cases M: 4 F: 0|4 cases M: 3 F: 1|2 cases M: 1 F: 1|
+
+Singapore Telecommunications Limited | Sustainability Report 2020
+
+# People Performance Indicators
+
+|People|SINGTEL|OPTUS|SINGTEL GROUP|2020|2019|2018|2020|2019|2018|2020|2019|2018|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Total employees by gender|7,842|8,136|8,455|5,307|5,298|6,021|13,149|13,434|14,476| | | |
+| |4,303|4,453|4,640|2,356|2,459|2,847|6,659|6,912|7,487| | | |
+| |12,145|12,589|13,095|7,663|7,757|8,868|19,808|20,346|21,963| | | |
+|Total employees by employment contract and gender|Regular employees (Male)|6,650|6,630|7,136|5,236|5,224|5,929|11,886|11,854|13,065| | |
+| |Contract employees (Male)|1,192|1,506|1,319|71|74|92|1,263|1,580|1,411| | |
+| |Regular employees (Female)|3,743|3,855|4,148|2,307|2,413|2,799|6,050|6,268|6,947| | |
+| |Contract employees (Female)|560|598|492|49|46|48|609|644|540| | |
+|Total regular employees by employment type and gender|Full time (Male)|6,643|8,112|8,449|4,675|4,612|5,307|11,318|12,724|13,756| | |
+| |Part time (Male)|7|24|6|632|686|714|639|710|720| | |
+| |Full time (Female)|3,734|4,432|4,623|1,779|1,788|2,058|5,513|6,220|6,681| | |
+| |Part time (Female)|9|21|17|577|671|789|586|692|806| | |
+|Total employees by age group|&lt;30 years old|20%|20%|21%|23%|24%|23%|21%|21%|22%| | |
+| |30-49 years old|61%|61%|59%|59%|59%|60%|60%|60%|59%| | |
+| |&gt;= 50 years old|19%|19%|20%|18%|17%|17%|19%|19%|19%| | |
+|Gender mix by employee category (% female)|Operations and Support|41%|41%|41%|39%|40%|42%|41%|40%|41%| | |
+| |Professional|32%|32%|31%|29%|29%|29%|30%|31%|30%| | |
+| |Middle and Top Management|34%|34%|33%|22%|22%|21%|28%|27%|26%| | |
+| |• Middle Management|34%|34%|33%|22%|22%|21%|28%|28%|26%| | |
+| |• Top Management|33%|31%|29%|10%|9%|9%|26%|24%|22%| | |
+|Salary ratio (female:male)|Operations and Support|0.99 : 1|1 : 0.98|1 : 0.99|1 : 0.95|1 : 0.96|1 : 0.96|1 : 0.97|1 : 0.98|1 : 0.97| | |
+| |Professional|0.96 : 1|0.97 : 1|0.98 : 1|0.95 : 1|0.95 : 1|0.96 : 1|0.95 : 1|0.95 : 1|0.97 : 1| | |
+| |Middle Management|0.96 : 1|0.97 : 1|0.98 : 1|0.97 : 1|0.97 : 1|0.94 : 1|0.97 : 1|0.97 : 1|0.98 : 1| | |
+|Bonus ratio (female:male)|Operations and Support|1 : 0.96|1 : 0.98|–|0.99 : 1|0.91 : 1|–|1 : 0.98|0.97 : 1|–| | |
+| |Professional|0.99 : 1|0.99 : 1|–|0.93 : 1|0.91 : 1|–|0.96 : 1|0.95 : 1|–| | |
+| |Middle Management|1 : 0.87|1 : 0.85|–|0.88 : 1|0.90 : 1|–|1 : 0.98|1 : 0.96|–| | |
+|New employee hires|14.1%|15.7%|17.4%|23.1%|18.6%|19.7%|17.6%|16.8%|18.3%| | | |
+|New employee hires by age|&lt;30 years old|6.2%|7.5%|8.0%|11.5%|10.1%|10.8%|8.3%|8.5%|9.1%| | |
+| |30-49 years old|7.4%|7.6%|8.7%|10.2%|7.3%|7.9%|8.5%|7.5%|8.4%| | |
+| |&gt;= 50 years old|0.5%|0.6%|0.7%|1.4%|1.2%|1.0%|0.8%|0.8%|0.8%| | |
+|New employee hires by gender|Male|9.5%|10.7%|12.2%|15.5%|11.8%|12.9%|11.8%|11.2%|12.5%| | |
+| |Female|4.6%|5.0%|5.2%|7.6%|6.8%|6.8%|5.8%|5.6%|5.8%| | |
+
+# OVERVIEW
+
+|People|2020|2019|2018|2020|2019|2018|2020|2019|2018|
+|---|---|---|---|---|---|---|---|---|---|
+|Employee voluntary turnover|15.7%|18.3%|17.1%|15.3%|17.0%|15.4%|15.5%|17.8%|16.4%|
+
+# Employee turnover by age
+
+# &lt;30 years old
+
+| |Voluntary|Involuntary|
+|---|---|---|
+|2020|4.0%|0.6%|
+|2019|5.4%|0.6%|
+|2018|5.5%|-|
+
+# 30-49 years old
+
+| |Voluntary|Involuntary|
+|---|---|---|
+|2020|9.5%|0.9%|
+|2019|10.6%|0.6%|
+|2018|10.0%|-|
+
+# &gt;= 50 years old
+
+| |Voluntary|Involuntary|
+|---|---|---|
+|2020|2.2%|0.6%|
+|2019|2.3%|0.3%|
+|2018|1.6%|-|
+
+# Employee turnover by gender
+
+# Male
+
+| |Voluntary|Involuntary|
+|---|---|---|
+|2020|10.6%|1.4%|
+|2019|12.4%|0.9%|
+|2018|11.1%|-|
+
+# Female
+
+| |Voluntary|Involuntary|
+|---|---|---|
+|2020|5.1%|0.7%|
+|2019|5.9%|0.6%|
+|2018|6.0%|-|
+
+# Training Investment
+
+|Total training investment ($million)|2020|2019|2018|
+|---|---|---|---|
+|S$|14.6|15.6|17.7|
+|A$|7.8|10.7|12.4|
+|S$|21.9|26.1|30.7|
+
+# Average training hours per employee
+
+| |2020|2019|2018|
+|---|---|---|---|
+|Overall|40.2|34.8|30.6|
+|Male|44.2|37.0|31.6|
+|Female|33.1|31.0|28.9|
+
+# Employee health and safety
+
+|Workplace injury incidence rate|2020|2019|2018|
+|---|---|---|---|
+|Overall|0.8|1.5|2.1|
+|Male|0.2|0.6|0.6|
+|Female|0.6|0.9|1.6|
+
+# Footnotes
+
+1. Based on average monthly salary of regular employees.
+2. Based on average annual bonus of regular employees.
+3. Workplace health and safety metrics are based on the International Labour Organization (ILO) definitions, subject to country definition of lost work shifts e.g. Optus excludes weekends from medical leave when calculating these rates.
+
+Singapore Telecommunications Limited | Sustainability Report 2020
+
+# 05 Community
+
+# The Most Connected Communities
+
+The Singtel Group is committed to being a responsible corporate citizen in all the markets where we operate, driving positive and sustainable change for our communities.
+
+# Figure 1:
+
+# Singtel Group’s Strategic Community Investment Framework
+
+|Digital Citizenship|Inclusion and|Partners and|Well-being|
+|---|---|---|---|
+|Capability|and|Associates| |
+|Competence|To enable the|inclusion and well-|being of people, and|
+| |help them realise their|potential through our|digital technologies|
+| |and innovative|programmes| |
+|Staff|Engagement|Corporate|Philanthropy|
+| | | |Education and|
+| | | |Employability|
+
+# OUR APPROACH
+
+The Singtel Group supports the advancement of the communities we operate, guided by our community strategy and investment framework (see Figure 1). We can play a significant role in enabling the progress, development and inclusion of vulnerable segments of society. We aim to make a positive and sustainable impact in society through the skills and core competencies in our collective resources of partnerships, programmes and staff engagement initiatives.
+
+In Singapore, our community programmes and approach are aligned with the National Council of Social Service (NCSS) Strategic Thrusts 2017-2021, which have been co-developed with the people, private and public (3P) sectors, to work towards a shared vision where every person is empowered to live with dignity in a caring and inclusive society. We are one of the few key private sector representatives on the NCSS strategic review committee which aims to foster collaboration and knowledge sharing across sectors.
+
+We adopt a similar people-centred approach in Australia. We connect groups and individuals to opportunities, empower them and drive impactful change with emphasis on youth and disadvantaged groups. Our community strategy contributes towards the various UN SDGs: 3, 4, 8, 9, 10 and 11.
+
+# Singtel Group’s Community Investment*
+
+|($ million)|Singtel|Optus|Singtel Group|
+|---|---|---|---|
+|S$22.34|S$8.62| |S$20.31|
+| | | |S$11.68|
+|FY2020| | |FY2019|
+| |A$14.67| |A$8.72|
+
+*Our community investment figure, which includes direct financial support, in-kind charitable sponsorships and staff volunteering hours, has been verified by the London Benchmarking Group (LBG).
+
+# OVERVIEW
+
+# INCLUSION OF VULNERABLE GROUPS
+
+Singtel Touching Lives Fund (STLF) is our flagship corporate philanthropy programme supporting the education of children and youth with special needs in Singapore. Our six beneficiary schools are: APSN Chaoyang School, APSN Tanglin School, APSN Delta Senior School, Cerebral Palsy Alliance Singapore School, Eden School and MINDS Lee Kong Chian Gardens School.
+
+The schools offer each student a customised curriculum based on their abilities and needs, with the aim of maximising their potential towards independent living and integration into the community. We also support these students in areas such as open and sheltered employment, internships, vocational training and day activity centres.
+
+We engage our employees, business partners, customers and members of the public through various activities to raise funds for the six schools. The company pays for the fundraising costs of these activities so that every dollar raised goes to the beneficiary schools. With an additional top-up donation from Singtel, we raised S$3 million in 2019, bringing our total funds raised for STLF to S$45 million since its inception in 2002.
+
+During the year, we also donated S$3.67 million to non-STLF charitable organisations and contributed about S$600,000 of in-kind sponsorships that include telecommunications and media services to charities, social enterprises and nation-building activities in Singapore.
+
+# TOUCHING ENVIRONMENT
+
+Chua Sock Koong, Group CEO, and Yuen Kuan Moon, Chairman of Singtel Touching Lives Fund and CEO Consumer Singapore presenting a S$1.2 million cheque to Phillip Tan, Chairman of ComChest at the Singtel Charity Golf 2019.
+
+# SOCIAL
+
+Fighting cancer continues to be a cause close to the hearts of many. Singtel Group provides support for significant fundraising events for this cause in both Singapore and Australia. We continued to be the title sponsor of Singtel-Singapore Cancer Society Race Against Cancer 2019 for the 11th year, a run that raises funds for cancer patients and their families. We also donated S$250,000 to support the Society’s Help the Children and Youth Programme that was set up to improve the lives of children affected by cancer.
+
+Minister of Education Ong Ye Kung flagging off with Singapore Cancer Society and Singtel management members at the Singtel-Singapore Cancer Society Race Against Cancer 2019.
+
+Singapore Telecommunications Limited | Sustainability Report 2020
+
+# Community
+
+# The Most Connected Communities
+
+2019 also marked our tenth year as the major sponsor of Tour de Cure, a charity that hosts a cycle, ride and walk to raise funds for cancer research, support and prevention programmes in Australia. Optus staff raised A$94,000 for Tour de Cure.
+
+# Bridging the digital divide in Australia
+
+To help Singapore’s ageing population, we look for new ways to leverage our strengths in info-communications technology. During the year, we supported Changi General Hospital’s CareLine, a 24-hour telephone befriending service for the elderly. The programme serves over 5,000 seniors today, checking on their well-being and reminding them of medical appointments and medication regularly. We supported 1,000 vulnerable seniors under CareLine with free mobile phone services as part of Singtel’s efforts to promote digital inclusion and well-being.
+
+We scaled Donate Your Data in December 2019 to help disadvantaged young people bridge the digital divide. We want to enable them to stay connected online and have equal access to the same resources and opportunities as the rest of Australia. This initiative allows our mobile customers to donate data to the disadvantaged youths. This is on top of the free SIM card, unlimited national talktime and text with 10GB data that we provide to each young beneficiary of our charity partners.
+
+Our customers have since donated several million GB of data. More than 13,000 students in The Smith Family’s Learning for Life programme and the KARI Foundation will benefit from Donate Your Data. Click here to find out more.
+
+“We believe all Australians should be able to stay connected and not feel disadvantaged. By giving a mobile service to participants of the programme and inviting our customers to donate their unused data, we are providing much needed internet access to young people who need it most.”
+
+KELLY BAYER ROSMARIN, Optus CEO
+
+# Digital inclusion programme for the vulnerable seniors
+
+We continue to work closely with the Australian Business and Community Network (ABCN), of which we are a founding member, to improve opportunities and outcomes for vulnerable youth in high-needs schools across Australia. During the year, 399 Optus employees mentored 720 students across 39 programmes, contributing 2,515 volunteering hours. One of our staff mentors even received the ABCN ‘Super Mentor’ award!
+
+|ABCN|FY2016|FY2017|FY2018|FY2019|FY2020|
+|---|---|---|---|---|---|
+|Number of mentor roles|516|480|540|438|399|
+|Volunteering hours|3,706|3,496|3,537|2,847|2,515|
+|Number of programmes|16|35|41|36|39|
+|Students|420|1,126|1,160|1,118|720|
+
+Optus mentor sharing interviewing tips with high school students
+
+# OVERVIEW
+
+# ENGAGING OUR PEOPLE
+
+The way we engage the community and involve our people through general and skilled volunteering is a key driver of our staff engagement.
+
+We encourage our people to volunteer on an individual or team basis. We believe that active employee volunteerism not only helps the community, but also contributes to the holistic development of our people in terms of empathy, perspective and character building.
+
+In addition to giving our employees paid volunteer leave, we encourage business units to adopt VolunTeaming, our concept of teambuilding with a volunteering element, to support the vulnerable segments of the community.
+
+In Australia, we encourage staff volunteerism through our staff portal yes4good, where they can make donations, sign up for volunteering opportunities and raise funds for the community or environmental causes they are passionate about. We are proud that Optus was recognised by the Good Company in 2019 for being one of the best workplaces in Australia to give back.
+
+# Staff Volunteering Hours
+
+| |Singtel|Optus|Singtel Group|
+|---|---|---|---|
+|FY2020|11,487|16,739|28,226|
+|FY2019|13,503|13,206|26,709|
+
+# SOCIAL
+
+Singtel Carnival 2019
+
+Students with special needs enjoying themselves at our annual Singtel Carnival.
+
+The annual Singtel Carnival is a mass volunteering platform for our staff. It is Singapore’s largest carnival that is designed for children with special needs to have fun. In its seventh year, Singtel Carnival 2019 was organised by 1,800 staff volunteers and attended by more than 1,600 students with special needs from 14 Special Education schools. We were also joined by 200 staff volunteers from the Singapore Business Network on DisAbility (SBNoD) who chaperoned the students.
+
+| |Singtel Carnival| | | | | | | |
+|---|---|---|---|---|---|---|---|---|
+|Number of students with special needs| |800|1,000|1,500|1,400|1,600|6,300| |
+|Number of staff volunteers| |1,500|1,700|2,000|1,700|1,800|8,700| |
+
+# GOVERNANCE
+
+# Community
+
+# The Most Connected Communities
+
+# BETTER TOGETHER 2019
+
+The Singtel Group believes in contributing back to the communities in markets where we operate. We have been extending our general and skilled volunteering outreach efforts to support the regional communities in collaboration with our associates. In its ninth year, our annual overseas volunteering programme Better Together saw about 100 staff volunteers from Singtel, Optus, Airtel, AIS and Globe participate in four expeditions to Australia, India, the Philippines and Thailand.
+
+# Philippines since 2011
+
+Better Together in the Philippines 2019 saw six volunteers from Singtel and 20 from Globe carry out classroom clean-ups and conduct a sport clinic in Brigada Eskwela, ADBSA Aeta Elementary School located at Iba Botanicals, Zambales in the Philippines.
+
+They also learnt pioneering reforestation techniques through the nursery activities as part of this community and environment volunteering programme.
+
+# Thailand since 2015
+
+Better Together in Thailand is our skilled volunteering programme. In 2019, 24 volunteers from Singtel, Globe and AIS mentored 40 Thai undergraduates and high school students from AIS’ Good Kids Great Hearts programme held at Suan Sampran Rose Garden, Thailand to help them improve their competence in conversational English while improving their overall confidence.
+
+# India since 2017
+
+Our regional associate Bharti Airtel and its philanthropy arm Bharti Foundation hosted a team of 29 Better Together in India volunteers from Singtel, Optus and Optus’ partners, [24]7 and Concentrix, to bring education to girls in rural communities in Amritsar, India.
+
+These schools are part of Bharti Foundation’s flagship rural education initiative - the Satya Bharti School Programme, which provides quality and free education at elementary and secondary levels in rural India, with an emphasis on keeping girls in school.
+
+# Australia since 2019
+
+The inaugural Better Together in Australia 2019 had a team of nine people from Optus and Singtel who visited the Northern Territory to participate in an immersion experience for our people in Indigenous Australian communities. This included providing opportunities to build cultural awareness and understanding of Aboriginal and Torres Strait Islander cultures, histories and achievements.
+
+Over A$6,000 was donated to the Balunu Foundation, which aims to provide hope for Indigenous Australian youth and families by breaking the cycle of disadvantage through good health, education, life skills, opportunity, training and employment.
+
+# OVERVIEW
+
+# DIGITAL CITIZENSHIP AND ONLINE SAFETY
+
+Our increasingly digital lifestyles and the prevalence of digital devices have inevitably given rise to unintended consequences as children and youth are becoming vulnerable to device and gaming addiction, inappropriate online content and cyber bullying.
+
+The Singtel Group aims to play a proactive role in mitigating such risks through education and promotion of responsible digital citizenship among vulnerable groups of children, youths and customers.
+
+Since FY2014, the Singtel Group Digital Thumbprint Programme has formed strategic partnerships with leading organisations in this field like DQ Institute, Kids Helpline and TOUCH Cyber Wellness. We supported more than 114,000 students during the year and more than 540,000 students, parents and educators in Singapore and Australia in the last five years to be safe, responsible and positive in the digital world.
+
+Digital Intelligence or DQ is a comprehensive set of digital competencies required to thrive in the fourth industrial revolution, which is entrenched in digital citizenship that enables individuals to use technology safely and responsibly. Visit www.dqinstitute.org for more information.
+
+# Key findings from COSI
+
+# ENVIRONMENT
+
+| |2020|CHILD ONLINE SAFETY INDEX|
+|---|---|---|
+| | |Singtel|
+|• 60% of children aged 8-12 face cyber risks, which include cyber bullying, reputational risks and risky content| | |
+|• 52% of Singaporean and 59% of Australian teenagers are likely to be at risk of cyber bullying| | |
+
+# ALERT
+
+# SOCIAL
+
+Optus teaches thousands of high school students to be online safety champions.
+
+As a key player in Australia’s digital community, we are committed to nurturing a safe and positive online environment through digital education programmes targeted at youth.
+
+We deliver our government accredited Digital Thumbprint programme in classrooms with trained facilitators to over 38,000 high school students annually across Australia, including regional communities. Our programme equips them with simple and effective tools to support positive online behaviours.
+
+Digital Thumbprint with Kids Helpline is an early intervention programme delivered free to primary schools that brings counsellors into classrooms, creating a safe environment where students discuss positive online behaviours and interactions. Each year, we engage with more than 13,000 primary school students through this programme.
+
+Former Optus CEO Allen Lew addressing secondary school students and teachers during a Digital Thumbprint workshop in regional NSW, Australia.
+
+Singapore Telecommunications Limited | Sustainability Report 2020 33
+
+# Community
+
+# The Most Connected Communities
+
+# Inaugural Child Online Safety roundtable
+
+“Everyone in society has a role to play. Businesses, from social media and telecommunications to hardware and gaming companies, should make child online safety a core business principle.
+
+A healthy discussion by various stakeholders on tackling child online safety issues. Singtel co-hosted with DQ Institute a Child Online Safety roundtable at Singtel@8George with more than 40 key stakeholders from 17 corporations, community partners and government agencies. The roundtable shared findings from the COSI Index and fostered conversations on how the data can equip policymakers, parents and like-minded partners to work collaboratively to tackle child online safety issues.
+
+Companies should also partner with schools to help tackle cyber bullying. Governments must back stronger online safety for children and families. Most importantly, parents must be aware that they can make changes and reduce online harm. Just like a regular health-check, parents can monitor and improve their child online safety and their digital parenting. Helping children better manage their digital use from an early age is a necessary starting point for mitigating cyber risks.”
+
+DR PARK YUHYUN
+Founder, DQ Institute
+
+The results showed the need for urgent collective action to make the internet a safer place for our children, especially with the prevalence of digital media and devices. Cyber wellness has been a key thrust of Singtel’s community sustainability efforts. Through our Digital Thumbprint programme and work with partners such as the DQ Institute, we seek to equip children with the knowledge and digital skills to be safe, responsible and positive online from an early age.
+
+With the launch of COSI, stakeholders can more effectively identify areas for improvement, and work on coordinated responses on a community, national and global level to minimise the risks and maximise the benefits of the digital world for children. We are working with TOUCH to revamp Help123, Singapore’s first one-stop cyber wellness helpline for youth. It started as a strategic pilot partnership with the National Council of Social Service in July 2017 that offered counselling services to children and youth. We found that parents and educators were more likely than children and youth to use the cyber wellness helpline.
+
+Help123’s next stage of development is to incorporate our notAnoobie parenting and cyber wellness resource which Singtel co-created with TOUCH in 2013. Help123 will be an integrated and comprehensive platform to meet the growing needs of parents and educators to handle cyber wellness issues faced by their young in this digital era.
+
+# OVERVIEW
+
+# EDUCATION AND EMPLOYABILITY
+
+A key community focus for the Singtel Group is to support persons with disabilities (PwD) and empower them to lead independent lives, by improving their current employability to be future-ready for the jobs of tomorrow.
+
+We play an active role in connecting with the broader ecosystem of partners to advance the disability employment agenda. Together with like-minded companies, Singtel was one of the eight companies that founded the Singapore Business Network on DisAbility (SBNoD) to advance equitable employment opportunities for PwD. As the co-chair of SBNoD, we continued to support SG Enable’s mentorship and internship programmes for tertiary students with disabilities, as well as university career fairs and CV clinics. During the year, we worked with Autism Resource Centre of Singapore to conduct an autism awareness talk for our staff.
+
+Singtel Future Makers alumni sharing their assistive technology solutions with SBNoD members: XCLR8 on remote rehabilitation and Embodied Sensing on smart-inclusive sensing technologies.
+
+# Pathways 2
+
+| |FY2017|FY2018|FY2019|FY2020| |
+|---|---|---|---|---|---|
+|Employment|Number of students|60|160|149|172|
+| |Number of mentors|24|67|68|75|
+| |Number of jobs offered|6|10|22|20|
+
+# SOCIAL
+
+Our Indigenous Australian talent pipeline
+
+To achieve the best outcomes for Australia’s vulnerable communities including Indigenous Australians and also enhance our talent pipeline, we partnered CareerTrackers, a national non-profit organisation supporting the long-term career aspirations of Aboriginal and Torres Strait Islander university students.
+
+CareerTrackers links students with employers to prepare students for success at university, their chosen profession and in their respective communities. During the year, we took on three Indigenous Australian interns for a 12-week paid internship.
+
+# GOVERNANCE
+
+Our staff mentors guiding KARI’s Optus Scholarship holders in a series of interactive career and interview workshops.
+
+We also support Indigenous Australian youth through our partnership with the KARI Foundation. Through our Optus Scholarship programme, staff mentors coached 20 KARI Indigenous scholarship students in New South Wales to provide one-on-one support with study and job seeking needs. Students also have access to other programmes such as Digital Thumbprint.
+
+# 06 Marketplace and Customers
+
+# The Best Experience
+
+The Singtel Group is committed to being a responsible and innovative leader in the markets where we operate. Our strategy is underpinned by delivering an unparalleled customer experience while embracing responsible business practices across our operations and supply chain.
+
+# CUSTOMER SATISFACTION
+
+Our customer experience strategy focuses on giving the best value and experience to our customers and continuously deepening our engagement and relationship with them.
+
+In Singapore, for every 10 customer complaints via the media, our website and management, we received 75 compliments in FY2020, up from 29 last year.
+
+In Australia, the monthly average for Telecommunications Industry Ombudsman (TIO) complaints for phone and internet users about Optus was 2,389 complaints, a 13% decrease from a year ago.
+
+During the year, we completed the construction of the 4,600-kilometre INDIGO West and 4,600-kilometre INDIGO Central submarine cable systems linking Southeast Asia to Perth and Sydney in Australia respectively. We also enhanced our network in the Southern Hemisphere with the construction of Southern Cross NEXT, a new cable system connecting Australia, New Zealand and the United States.
+
+# PRODUCT AND SERVICE QUALITY
+
+These submarine cable systems will boost our communications infrastructure with high-speed capacity and network diversity, accelerating the rollout of next generation technologies across the Asia Pacific region to benefit all our consumers and corporate customers.
+
+# ENHANCING NETWORK RELIABILITY
+
+Ensuring consistency in network and service performance is critical. We therefore continue to invest in new mobile base stations and upgrade our technologies, systems and infrastructure. Our total capital investment was S$2 billion in FY2020 (Singtel S$682 million, Optus A$1.4 billion). Of this investment, S$181 million and A$895 million were invested in our mobile networks in Singapore and Australia.
+
+Since 2013, we have been recognised for our commitment to customer satisfaction as we retained our number one position on the Customer Satisfaction Index of Singapore (CSISG). We also continue to improve our customer journey through annual tracking of our Group Consumer Transactional Overall Experience scores, from 76% in 2015 to an all-time high of 91% in 2019.
+
+We were ranked as Australia’s strongest brand in Brand Finance’s Top 100 list for excellent customer service and value. Our brand strength score increased 4% due to improved brand reputation, familiarity and recommendation. During the year, a cross-functional team was set up across the business to resolve about 50 pain points to improve customer service and satisfaction, such as voice-to-text service for our hearing impaired customers.
+
+# Southern Cross NEXT connects Australia, New Zealand and the United States
+
+|Australia|New Zealand|United States|
+|---|---|---|
+|Fiji|Tokelau|Kiribati|
+
+# OVERVIEW
+
+# Singtel UNBOXED
+
+Singapore’s first, next generation unmanned retail pop-up store
+
+# INTELLIGENT DESIGN
+
+- 24x7 accessibility allows customer to make transactions at their convenience
+- Pop-up and portable store concept engages our customers where they live, work and play
+
+# MOVEME!
+
+Flexible and modular with extendable module; measuring 35m2 in compact mode and 45m2 when expanded
+
+Hybrid powered with two solar panels on the roof for a more environmentally friendly store
+
+Convenience, experience, ambience and sustainability are key customer offerings of UNBOXED
+
+We launched Singtel UNBOXED in June 2019 to complement our retail footprint. Its unique design, including solar panels, allows customers to buy handsets, replace SIM cards and sign up for plans 24x7 easily. Measuring 45 square metres, UNBOXED is built with a modular structure to enable easy transportation to different locations.
+
+For store security in an unmanned environment, we adopted the Sentinel Security Solution provided by our wholly-owned subsidiary NCS for 24x7 remote surveillance and automated security control. The system has numerous IoT sensors and surveillance cameras that trigger alerts to our central security office when misdeeds are detected.
+
+# SOCIAL
+
+Customers can purchase products by scanning QR codes or using the Video-Assisted Self-Serve Kiosks. Upon successful payment, they simply head to the in-store POPStation to collect their purchases immediately.
+
+In partnership with SingPost, this POPStation is the first of its kind with dynamic prefilling capabilities, enabling accurate forecast and replenishment of best-selling models based on demand.
+
+# GOVERNANCE
+
+Singtel UNBOXED utilises technology such as facial recognition and bots at each stage of the in-store journey for a seamless customer experience.
+
+Singtel UNBOXED has received numerous awards and recognitions such as:
+
+- Global Telecoms Transformation Project Best Digital (Highly commended)
+- Asia eCommerce Awards Best eCommerce Innovation (Silver)
+- Retail in Asia Best Retail Experience
+
+Singapore Telecommunications Limited | Sustainability Report 2020
+
+# Marketplace and Customers
+
+# The Best Experience
+
+# ENSURING QUALITY STANDARDS
+
+We ensure that services offered adhere to the Quality of Service standards set by the Infocomm Media Development Authority of Singapore (IMDA). The regulator publishes periodic performance reports on the various operators in Singapore covering broadband, mobile and fixed telephone services. We continue to exceed or meet the quality of service standards for service coverage, network availability, network latency, installation and fault repair time. These reports can be found at www.imda.gov.sg.
+
+We deliver Australia’s first 5G tele-operated drone that was controlled over a live 5G network in November 2019. We will continue to focus on expanding the 5G network rollout and building our customer base with the aim of meeting customer demand for better streaming and data experience.
+
+Singtel
+
+In FY2020, there was no legal action regarding anti-competitive behaviour or violation of anti-trust legislation against the Singtel Group. During the year, we paid five fines totalling S$298,000 imposed by IMDA and there was no non-monetary sanction against Singtel. This included a S$130,000 fine for a mobile network disruption in October 2018 which affected our voice, data and SMS services for some customers and a S$75,000 fine for a fixed-line service disruption in March 2018 that affected about 2,000 customers.
+
+# INNOVATION
+
+The Singtel Group innovates continuously and keeps abreast of technology advancement and changing customer needs to offer unparalleled services and experiences to our customers.
+
+5G will be a huge enabling force in the coming years, transforming our way of life and creating more opportunities to benefit businesses and the community. The Singtel Group intends to be at the forefront of this revolution, bringing 5G to life across Singtel in Singapore, Optus in Australia, as well as our regional associates.
+
+In Singapore, we have forged industry collaborations with strategic partners like Nokia and Ericsson to trial 5G network capabilities through test beds and ideation labs. In June 2019, we signed an MoU with A*STAR and JTC to integrate 5G with technology such as IoT and Artificial Intelligence to develop next generation manufacturing solutions for businesses and were awarded the 5G Technology Call by PSA and IMDA to develop 5G use cases at the Pasir Panjang Terminal to transform Singapore’s future maritime operations. We successfully made an end-to-end 5G international video call between Singapore and Australia while simultaneously streaming video content on a 4G device.
+
+Singtel, Advanced Remanufacturing Technology Centre and JTC collaboration at Innovfest 2019 for a 5G usage trial
+
+(L to R) Ng Jin Yang, Manager, National Instruments, Andrew Lim, MD, Government and Large Enterprise, Group Enterprise, Alvin Tan, Assistant CEO, JTC, Yuen Kuan Moon, CEO, Consumer Singapore and Group Chief Digital Officer, Lim Boon Choon, President, APAC, Hexagon, David Low, CEO, Advanced Remanufacturing Technology Centre
+
+With the launch of our 5G Home product, we are taking the lead in rolling out 5G services across Australia, becoming one of the first carriers globally and the first in Australia to provide a 5G Fixed Wireless broadband solution to consumers. We also worked with Ericsson to
+
+An Optus 5G advertisement
+
+# OVERVIEW
+
+# SINGTEL GROUP FUTURE MAKERS
+
+Tech innovation for good: reach52 and Virtual Psychologist 2019
+
+Launched in 2016, Singtel Group Future Makers is our social innovation accelerator and regional capacity building programme. We provide mentorship, coaching, business pilots and funding support to empower impact start-ups leveraging technology to address social and environmental issues in the community.
+
+Singtel Group Future Makers 2019 was held in collaboration with the Asia Venture Philanthropy Network Conference 2019 in Singapore.
+
+# reach52
+
+Reach52 aided by connectivity support from Globe to better understand the healthcare needs of the rural community in central Philippines.
+
+Ten shortlisted start-ups from the respective programmes of Singtel, Optus, AIS, Globe and Telkomsel came together to participate in our regional programme. They had the opportunity to pitch to our business units, learn from thought leaders, collaborate with fellow participants and scale their solutions in the region with a total grant pool of S$120,000 from Singtel.
+
+Reach52, our 2017 Singapore programme alumni and Singtel Group Future Makers 2019 regional finalist, wants to give vulnerable communities in the Philippines access to affordable healthcare. To engage and understand the needs and challenges faced by disconnected communities in central Philippines, we provided reach52 with over S$60,000 worth of funds and SIM cards for their mobile devices to conduct research and interviews.
+
+Within eight months, they collected 42,000 records of healthcare data from community residents through their reach52 access app. That soon led to a trial programme with the local government healthcare providers for Vitamin A distribution to improve maternal and child health in the community.
+
+Since 2016, we have invested more than S$5 million in our local and regional Future Makers programmes.
+
+# FUTURE MAKERS
+
+Arthur Lang, CEO, International Group, Singtel sharing with our 10 regional finalists of the Singtel Group Future Makers 2019.
+
+# VIRTUAL PSYCHOLOGIST
+
+With the COVID-19 lockdown in Australia and its associated impact on the workforce, Virtual Psychologist experienced a 44% increase in client management and saw a rise in domestic violence.
+
+Virtual Psychologist is our 2017 Australia programme alumni and Singtel Group Future Makers 2019 regional finalist. As Australia’s first text counselling service delivered by qualified mental health professionals, Virtual Psychologist offers a range of text-based psychological and counselling support services to individuals and corporates.
+
+We have been working with Virtual Psychologist to expand the reach of their services, especially with many Australian communities facing stress from increased hardships and intensity of climate disasters.
+
+To find out more about our work with them and their impact, click here.
+
+Group photo after completion of the programme held at Singtel@8George
+
+# Marketplace and Customers
+
+# Ethical and Responsible Business Practices
+
+The Singtel Group strives to mitigate the unintended negative impact of our products and services for our stakeholders in the marketplace. Our responsibility also encompasses governance and anti-corruption, safety, data privacy and fair communications.
+
+# CUSTOMER HEALTH AND SAFETY
+
+As a communications company, the perceived health risks associated with the emission of Electromagnetic Energy (EME) from mobile devices, base stations and tower infrastructure remain a concern for our customers, community and regulators. Despite the lack of conclusive evidence on adverse health effects caused by device usage, we have put in place efforts to comply with both local and global EME standards. We also participate in the GSMA 5G and Health committee and ensure that we remain current on new findings from the International Commission on Non-Ionizing Radiation Protection (ICNIRP) and international health agencies. There were no incidents of non-compliance concerning the health and safety impact of our products and services in FY2020.
+
+We continued to engage the National Environment Agency (NEA) in Singapore and conducted nine radiation measurements island-wide and at locations of concern during the year. The results showed that our mobile base stations comply with the radio frequency radiation levels and safety guidelines set by ICNIRP. We also ensure that the Effective Isotropic Radiated Power or transmission power of newly commissioned base stations are within IMDA’s guidelines.
+
+In Australia, we conduct audits of base stations and undertake predictive EME modelling and testing to ensure that all sites comply with the regulatory standards. These EME reports are published on www.rfnsa.com.au. We work with industry groups such as the Australian Mobile Telecommunications Association and Mobile Carriers Forum to develop public education materials on 5G safety.
+
+# CUSTOMER DATA PRIVACY AND PROTECTION
+
+Customer data privacy and protection is the most important topic identified by our stakeholders and through our materiality review. We take a serious view of such matters and ensure that we conduct our business in strict adherence to data protection laws – the Personal Data Protection Act (PDPA) in Singapore and the Privacy Act and Telecommunications Act in Australia. These cover areas such as collection, use, disclosure and care of personal data.
+
+During the year, we recorded 17 incidents in Singapore, eight of which were referred to us by the Personal Data Protection Commission (PDPC). These incidents were mainly due to IT or human error, resulting in personal data being disclosed to the wrong party. We terminated the service of three employees for abusing their access to customer information.
+
+In Australia, we continue to proactively probe our internal complaint online tracker database to check if any complaint should have been directed to our Data Protection Office. This will help us with analytics and spot systemic issues. From our active search, we picked up 250 customer data related incidents caused mainly due to staff error and negligence and mostly affecting individuals. We reported one data breach to the Office of the Australian Information Commissioner (OAIC) where some of our customer details were published online or in print by the directory services provider when our customers had requested not to. We also corrected these records with the directory services provider.
+
+# EME measurement and modelling from our 5G base station
+
+In January 2020, we engaged Dr Phill Knipe, a physicist with a PhD (Physics) specialising in ionising and non-ionising radiation measurement. He carried out a live demonstration using a spectrum radio analyser to measure the radio signals from our 5G base station at our Optus Campus in Sydney.
+
+The readings were well within the safety limits defined by Australian Radiation Protection and Nuclear Safety Agency (ARPANSA). Based on his findings, there is also no established health effect as a result of radio waves from 5G networks.
+
+More information can be found at our website.
+
+Dr Phill Knipe (right), did a live demonstration of 5G radio signal measurement at our Optus Campus in Sydney
+
+# OVERVIEW
+
+We continue to educate our staff and improve practices and processes to reduce the recurrence of data breaches. Each employee must complete an online privacy training annually and we have also conducted targeted training with the customer service teams both onshore and offshore through formal face-to-face sessions or informal meetings.
+
+PDPC did not impose non-monetary sanctions against Singtel over these incidents. However, the regulator imposed two fines totalling S$34,000 for not putting in place reasonable security measures to protect customers’ personal data which led to unauthorised disclosure of some of our customer information on MySingtel app.
+
+# Figure 1:
+
+Managing customer data privacy and protection
+
+# ENVIRONMENT
+
+# Governance
+
+Group Chief Information Officer is our Data Protection Officer and reports to the Board Risk Committee on this topic.
+
+# Business Risk Assessment
+
+We conduct data protection impact assessments on projects to identify any potential data risks and recommend measures to mitigate the risks.
+
+We carry out regular compliance checks to ensure that our business processes adhere to the local data privacy and protection laws.
+
+# Training
+
+Since FY2018, every employee in Singapore and Australia must complete an annual mandatory online privacy training. We continue to raise awareness of the importance of privacy security through training and shared learning.
+
+# SOCIAL
+
+# Communication
+
+All line managers must place emphasis on data protection and share case studies and learnings with their teams to drive awareness and behavioural changes so that everyone is vigilant when handling customer data.
+
+We also implement additional safeguards against mishandling of information by staff.
+
+We issue regular e-newsletters to help our staff understand and comply with the data privacy and protection laws.
+
+# GOVERNANCE
+
+Trustwave Fusion Platform supports customers on handling cyber threats.
+
+The Trustwave Fusion Centre coordinates rapid response and offers enterprises real-time cyber security insights.
+
+With cyber threats increasing in frequency and sophistication, businesses are turning to Singtel to protect themselves against cyber risks. Our newest Trustwave Fusion Platform features a ‘mobile Security Operations Centre’ that offers enterprises real-time insights into their security status, allowing them to respond very quickly within minutes, to any cyber incident thus reducing the cyber attacker’s potential window of opportunity and damage caused.
+
+Singapore Telecommunications Limited | Sustainability Report 2020 41
+
+# FAIR MARKETING COMMUNICATIONS
+
+Fair marketing practices and transparent communications are critical to build trust and loyalty with our customers. Our marketing code is based on various laws and guidelines such as the Singapore Code of Advertising Practice, which sets marketing communications guidelines for Singtel organisations and representatives.
+
+There were no cases of non-compliance with regulations and voluntary codes concerning marketing communications in Singapore during the year. The Advertising Standards Authority of Singapore (ASAS) clarified with us on four cases from customers who felt that our promotions and advertisements were not clear or could be misleading. We reviewed the feedback and made text changes to two of our promotions accordingly.
+
+In December 2019, the Australian Competition and Consumer Commission (ACCC) fined Optus A$6.4 million for misleading claims about home internet disconnections to consumers. We offered customers a cost-free exit from contracts signed due to such claims. Optus was fined A$504,000 in January 2020 by the Australian Communications and Media Authority (ACMA) for breaching spam laws. We apologised to our customers and took prompt action to address the issues. We will also undertake an independent review of our systems and processes in our Australian operations to tighten the management of marketing communications, including approval of marketing and advertising copy.
+
+Every year, all employees must go through mandatory online refresher courses, including Code of Conduct, Fraud Awareness and Anti-Bribery and Corruption Policy. We review these mandatory courses periodically to ensure that the content remains up to date.
+
+We received 151 cases via our whistleblower channels during the year. Upon investigation, 46 cases were substantiated and 72 cases were not. 33 cases remain under investigation as at 31 March 2020. Six of the substantiated cases took place outside Singapore and Australia. In addition, we closed 35 matters received in the prior year that were still under investigation as at 31 March 2019, of which 14 were substantiated.
+
+# Highlights of the 60 substantiated cases:
+
+- 35 cases of employee misconduct, undeclared conflict of interest and inappropriate behaviour
+- 9 cases of staff fraud
+- 12 cases involving breach of policy including IT security policies
+- 4 cases of identity theft
+
+# ANTI-CORRUPTION
+
+We continue to manage the Group’s exposure to corruption risks by applying and emphasising good corporate governance, business ethics and transparency while applying robust internal controls in business processes as our core approach.
+
+We ensure that the Group’s zero tolerance policy towards fraud, corruption and unethical actions is strictly adhered to. Our Group policies on Fraud Investigation and the Whistleblower Programme underpin our fraud risk management framework and processes. The Singtel Group Anti-Bribery and Corruption Policy reinforces our long-standing zero tolerance approach to bribery and corruption of any form that is set out in our Code of Conduct. All Singtel Board members, employees and third parties who represent us such as suppliers, contractors and business partners, must comply with this policy at all times. Please refer to our website for more information on this topic under Corporate Governance.
+
+Independent investigations were immediately conducted by our Internal Audit or teams led by subject matter experts when such cases were brought to our attention. When an alleged corrupt or other criminal act involving an employee is found to be substantiated, we will terminate the employment of the employee and report the matter to relevant law enforcement authority.
+
+During the year, there were no incidents of staff dismissal or disciplinary action nor termination or non-renewal of business partners due to corruption.
+
+# MOST WELL-GOVERNED AND TRANSPARENT COMPANY
+
+Singtel was named the most well-governed and transparent company in Singapore for the fifth consecutive year in the Singapore Governance and Transparency Index 2019 by CPA Australia, NUS Business School’s Centre for Governance, Institutions and Organisations, and Singapore Institute of Directors. We scored 129 out of 143 points, topping the list of about 600 listed companies.
+
+# SUSTAINABLE SUPPLY CHAIN MANAGEMENT
+
+The Singtel Group has an extensive supply chain ranging from mobile and network equipment and infrastructure suppliers, to content providers, security and managing agents. Given the complex nature and the widespread geographical presence of our supply chain, we believe that by collaborating with socially and environmentally conscious suppliers, we can mitigate a significant proportion of our sustainability risks and impact. Results from our Life Cycle Assessment (LCA) and Social Hotspot Analysis are testament to the need for responsible procurement practices in our business. Please refer to our website for more details.
+
+All new suppliers are assessed against ESG criteria through our sustainability questionnaire as part of their on-boarding process. This applies to tenders above $200,000 across the Singtel Group. 100% of such new suppliers completed the assessment against the criteria during the year.
+
+In Australia, we have formed an Optus Indigenous committee to improve our engagement with Indigenous organisations such as Supply Nation and identify partnership opportunities. The committee will plan the Indigenous strategy across both Optus Business and Consumer Australia, which includes raising awareness, creating a robust procurement plan and volunteering opportunities, and boosting participation in education programmes for Indigenous Youth.
+
+| |SINGTEL|OPTUS|SINGTEL GROUP|
+|---|---|---|---|
+|Number of cases received in FY2020 via whistleblower channels|43|108|151|
+|Substantiated|17|29|46|
+|Not substantiated|13|59|72|
+|Under investigation|13|20|33|
+
+Number of cases under investigation as at 31 March 2019: 6,469 suppliers worldwide in FY2020
+
+| |SINGTEL|OPTUS|SINGTEL GROUP|
+|---|---|---|---|
+|Opening balance|8|27|35|
+|Substantiated|4|10|14|
+|Not substantiated|4|17|21|
+
+Singapore Telecommunications Limited | Sustainability Report 2020  43
+
+# OVERVIEW
+
+We have a Third Party Service Provider security risk governance programme that targets third party vendors outside of offshore vendors. During the year, we undertook a Security Compliance Assessment and visited 17 offshore secure locations to ensure that they were set up according to the agreed regulatory security architecture and controls.
+
+71 of our contractors categorised under the high-risk group have also attained the bizSAFE Star status which is the highest achievement under the bizSAFE programme by the WSH Council in Singapore. To recognise contractors for their dedication and good WSH practices, we launched the inaugural Singtel Safety Forum & Contractor Recognition Award Ceremony in January 2020. Seven contractors who completed their three-year cycle of the SCA programme were recognised by our management.
+
+# ENVIRONMENT
+
+During the year, we engaged supply chain expert ELEVATE to assess the state of our sustainable supply chain management, programmes and initiatives. The engagement included risk assessment and supplier mapping, where our suppliers were assessed according to inherent geographic and product risks. It will also include the enhancement of our sustainable supply chain management framework in the new year.
+
+# RESPECTING HUMAN RIGHTS
+
+We respect and support the human rights of individuals regardless of who they are, and where they live. We need to prevent breaches in our supply chain and tackle the growing global concern on modern slavery.
+
+# SOCIAL
+
+As a signatory of the UN Global Compact since 2007, we are committed to upholding its ten principles, including human rights and labour issues. We use the UN Universal Declaration of Human Rights and UN Guiding Principles on Business and Human Rights to guide policy development to help us better assess, mitigate and combat the impact of modern slavery in our operations and supply chain.
+
+With the Modern Slavery Act passed in Australia in late 2018 and enforced in January 2019, we have reviewed and updated the Singtel Group Master Supply Agreement to incorporate its requirements. We have updated our Supplier Code of Conduct to incorporate measures addressing labour and human rights. We communicate this to suppliers at the commencement of the tender process so that they understand the expectations of working with us. We expect to publish a new Singtel Group Human Rights Policy and a Modern Slavery statement later this year.
+
+# GOVERNANCE
+
+Workplace Safety and Health (WSH) is of paramount importance to the Singtel Group. We therefore want our employees, suppliers and contractors to have good safety habits and practices.
+
+We introduced in 2016 the Singtel Safe Contractor Accreditation (SCA) scheme, a set of Singtel’s WSH standards for contractors who perform high-risk technical or physical work. During the year, we worked closely with 98 SCA accredited contractors, who underwent their first year of surveillance audit to maintain the validity of their accreditation. Those who failed to do so were barred from obtaining future contracts with Singtel.
+
+# SAFETY OF OUR CONTRACTORS
+
+Seven contractors who excelled in WSH practices were recognised at the inaugural Singtel Safety Forum & Contractor Recognition Award Ceremony.
+
+|FY|2016|2017|2018|2019|2020|
+|---|---|---|---|---|---|
+|Number of contractors accredited|8|48|62|68|98|
+
+Since the implementation of the Critical Permit to Work system, we assessed more than 1,600 high-risk work (e.g. confined space, work at height, hot work) that were carried out on our premises with no incident reported. We were able to achieve this through stringent safety checks and documentation, site enforcement and sharing of best practices incorporated into our operations.
+
+In Australia, we are certified under the AS4801, the Australian Standard for Safety Management, which demonstrates that we continue to meet a high standard of safety management systems. We also successfully passed the audit by the Office of the Federal Safety Commissioner in November 2019.
+
+We have established an HSE Critical Incident Hotline for immediate reporting of serious incidents by contractors and staff. This enables prompt and accurate reporting of incidents that may need to be communicated to our Australian safety regulator immediately to meet legislative timeframes.
+
+# Singapore Telecommunications Limited
+
+(CRN:199201624D)
+
+31 Exeter Road, Comcentre
+
+Singapore 239732
+
+T +65 6838 3388
+
+www.singtel.com
+
+Copyright © 2020
+
+# Back Cover

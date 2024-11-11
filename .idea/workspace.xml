@@ -5,16 +5,144 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4671600c-0f77-4d6b-b21b-48e719ef8cb2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/Summary_table.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/Summary_table.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/extracted_data/output.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/extracted_data/test.pdf.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/llama_parsed/lazada-2024.pdf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/llama_parsed/llama_parsed.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/llama_parsed/singtel-sustainability-report-2021.pdf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/llama_parsed/test.pdf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/llama_parsed/test2.pdf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/FinancialData/StockPrice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tests/FinancialData/StockPrice.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/07_Synagie-Sustainability-Report-Final.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/13_Synagie_Annual_Report_2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/179-press-release.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/194-press-release.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/200-press-release.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/2018-sustainability-report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/20180410_170551_AWV_G500CE82YSO99ZOS.1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/2019-sustainability-report-english-uk (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/2019-sustainability-report-english-uk.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/20190409_170827_AWV_5Q7MFZWZQW3MQ202.1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/2020-sustainability-report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/20200408_181618_AWV_W37KHRDWWYJX699G.1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/2021 Environmental Sustainability_Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/2021-sustainability-report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/20210407_171749_AWV_IYU7ATYEKIIK12YT.1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/2022 Microsoft Environmental Sustainability Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/2022-sustainability-report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/20220407_171716_AWV_L5ACWYFIBNOQACYN.1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/2023-amazon-sustainability-report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/20230405_171924_AWV_BAGK8JPLKGMK2SQI.1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/20230410_Audience_AR_2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/AAL AR FY2023_Final.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/AEM-Annual-Report-2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/AEM-SR2022-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/AEM-Sustainability-Report-2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ASA_Sustainability_Report_FY2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ASA_Sustainability_Report_FY2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ASA_Sustainability_Report_FY2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ASA_Sustainability_Report_FY2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ASA_Sustainability_Report_FY2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ASA_Sustainability_Report_FY2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ASA_Sustainability_Report_FY2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ASTI_Sustainability_Report_FY2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ASTI_Sustainability_Report_FY2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ASTI_Sustainability_Report_FY2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ASTI_Sustainability_Report_FY2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ASTI_Sustainability_Report_FY2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/AVH-Sustainability-Report-FY2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/AVH-Sustainability-Report-FY2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Addvalue-Sustainability_Report_2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Addvalue-Sustainability_Report_2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Addvalue_AR2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Addvalue_AR2024.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Addvalue_SR_FY2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Addvalue_SR_FY2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Addvalue_Sustainability_Report_2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Apple_Environmental_Progress_Report_2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Apple_Environmental_Progress_Report_2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Apple_Environmental_Progress_Report_2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Apple_Environmental_Progress_Report_2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Apple_Environmental_Progress_Report_2024.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Apple_Environmental_Responsibility_Report_2014.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Apple_Environmental_Responsibility_Report_2015.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Apple_Environmental_Responsibility_Report_2016.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Apple_Environmental_Responsibility_Report_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Apple_Environmental_Responsibility_Report_2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Apple_Environmental_Responsibility_Report_2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Asia-Vets-Holdings-Ltd-Sustainability-Report-2019-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Asia-Vets-Holdings-Ltd-Sustainability-Report-FY2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Asia-Vets-Holdings-Ltd.-Sustainability-Report-2023-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Carousell-Group-Circular-Economy-Impact-Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/English ESG Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/GSSEL-AR21.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/GSSEL-AR22.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/GSSEL-AR23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/GSS_Energy_AR2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Grab-ESG-Report-2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Grab-ESG-Report-2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Grab-ESG-Report-2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Grab-ESG-Report-2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Grab-Social-Impact-Report-2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Lazada-2024-chart1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Lazada-2024.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/M1 Sustainability Report 2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/M1_Sustainability_Report_2018_Midres.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/M1_Sustainability_Report_2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/M1_Sustainability_Report_2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/M1_Sustainability_Report_2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/M1_Sustainability_Report_2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Microsoft_2024_Environmental_Sustainability_Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Microsoft_Environmental_Sustainability_Report_2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Nanofilm-Annual-Report-FY2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Nanofilm-FY2022-Annual-Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Nanofilm-FY2023-Sustainability-Report-reduced.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Razer_ESG_FY2022_EN.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/SR2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/SR2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/SR2022 (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/SR2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ST Engineering Annual Report 2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ST-Engineering-Annual-Report-2018-final.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ST-Engineering-Annual-Report-2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ST-Engineering-FY2019-Annual-Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Sea Sustainability Report 2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Sea Sustainability Report 2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Sea Sustainability Report 2022_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/SinoCloud SR FY2021 Final.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/SinoCloud SR FY2022 Final.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/SinoCloud SR FY2023 Final.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Sustainability Report FY2020.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/Sustainability Reporting 2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/UMS - Sustainability Report (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/UMS - Sustainability Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/V2Y-CORPORATION-LTD.-ANNUAL-REPORT-2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/V2Y-Sustainability-Report-FY2020-Final.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/V2Y_Corporation_Ltd.-FY2022-AR.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/V2Y_Corporation_Ltd_AR-FY-2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/VentureCorporation2023SustainabilityReport.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/VentureSR2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/VentureSustainabilityReport2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ar2013.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ar2014.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ar2015.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ar2016.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/b-AEM-Sustainability-Report-2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/ocbc-sustainability-report-2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/singtel-sustainability-report-2015.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/singtel-sustainability-report-2016.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/singtel-sustainability-report-2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/singtel-sustainability-report-2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/sr2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/sr2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/sr2020 (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/sr2021 (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/sr2022 (2).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/sr2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/st-engineering-annual-report-2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/st-engineering-annual-report-2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/test.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/test2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Reports/thecarousellrecommerceindex_en.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finance/scr/Stock Price - LSTM-360.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/finance/scr/Stock Price - LSTM-360.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finance/scr/Stock Price - LSTM-90.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/finance/scr/Stock Price - LSTM-90.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finance/scr/Stock Price.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/finance/scr/Stock Price.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/ExtractPDF/local_extract.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/ExtractPDF/local_extract.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/extract.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/extract.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +190,15 @@
       <workItem from="1731251670938" duration="1000" />
       <workItem from="1731258541814" duration="1000" />
       <workItem from="1731259095314" duration="1000" />
+      <workItem from="1731306936720" duration="1000" />
+      <workItem from="1731307674523" duration="198000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DSS5105_BugBuster_py$DSS5105_BugBuster.coverage" NAME="DSS5105_BugBuster👾 Coverage Results" MODIFIED="1731307700207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
