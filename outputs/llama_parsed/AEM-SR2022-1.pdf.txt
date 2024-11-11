@@ -1,0 +1,1505 @@
+# AEM Holdings Ltd.
+
+# Sustainability Report 2022
+
+# GLOBAL FOOTPRINT
+
+We partner closely with our customers across the innovation process to set the standards and pace for innovation and to ensure their success.
+
+# Locations
+
+|FINLAND|SUZHOU|
+|---|---|
+|FRANCE|CHENGDU|
+|ISRAEL|KOREA|
+|SHANGHAI|HSINCHU|
+|VIETNAM|KULIM|
+|BATAM|PENANG|
+|SINGAPORE|[GLOBAL HQ]|
+
+# Direct Engineering/Sales Support
+
+|ASIA|EUROPE|AMERICAS|
+|---|---|---|
+|CHENGDU|FRANCE|AUSTIN|
+|HSINCHU|FINLAND|CHANDLER|
+|SHANGHAI| |OREGON|
+|SINGAPORE|MIDDLE EAST|SAN DIEGO|
+|KOREA| |SAN JOSE|
+|KULIM|ISRAEL|COSTA RICA|
+|VIETNAM| | |
+
+2 Sustainability Report 2022
+
+Sustainability Report 2022 www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+# Locations
+
+|OREGON|SAN JOSE|AUSTIN|SAN DIEGO|
+|---|---|---|---|
+|CHANDLER [US HQ]|COSTA RICA|HEADQUARTERS|MANUFACTURING PLANTS|
+|SINGAPORE|BATAM|GLOBAL HEADQUARTERS|FINLAND|
+|PENANG|CHANDLER, ARIZONA|US HEADQUARTERS|SUZHOU|
+|VIETNAM| | | |
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+# GLOBAL FOOTPRINT
+
+# VISION & MISSION
+
+# CEO MESSAGE
+
+# SUSTAINABILITY
+
+# PERFORMANCE HIGHLIGHTS
+
+# AT A GLANCE
+
+# Corporate Profile
+
+# Accolades
+
+# ABOUT THIS REPORT
+
+# Reporting Period and Scope
+
+# Sustainability Reporting Framework
+
+# Assurance
+
+# Feedback
+
+# BOARD STATEMENT
+
+# SUSTAINABILITY AT AEM
+
+# Sustainability Governance
+
+# Stakeholder Engagement
+
+# Materiality Assessment
+
+# SUSTAINABLE GROWTH
+
+# Corporate Governance & Anti-Corruption
+
+# Economic Performance
+
+# ENVIRONMENTAL CONSCIENTIOUSNESS
+
+# Sustainable Supplier Management
+
+# Minimising Our Environmental Footprint
+
+# SOLIDIFYING RELATIONSHIPS WITH OUR STAKEHOLDERS
+
+# Managing Our Human Capital
+
+# Giving Back To The Community
+
+# Protecting Our Customers
+
+# APPENDIX - PEOPLE INDICATORS
+
+# GRI CONTENT INDEX
+
+Sustainability Report 2022
+
+www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+www.aem.com.sg
+
+# Sustainability Report 2022
+
+5
+
+# VISION & MISSION
+
+# Our Vision for the Future
+
+Sustainability Report 2022
+
+www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+As technology rapidly progresses and integrates with every aspect of how the world works, testing becomes crucial to mitigate the exponential risk created and to fully realise the possibilities of technological advancement.
+
+# Mission Statement
+
+To provide the most comprehensive semiconductor and electronics test solutions based on the best-in-class technologies, processes, and customer support.
+
+# Our Values
+
+- An Innovative organisation is a Resilient one.
+- Customer & Employee Intimacy for a unified organisation.
+- Agility and Operational Excellence for a strong execution.
+- Ethical & Trustworthy.
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+# C E O M E S S A G E
+
+Dear Shareholders & Readers,
+
+I am pleased to present the second edition of our standalone Sustainability Report. Over the past year, we remained committed to ensuring that our business operations align with sustainable practices. We identify actions that will contribute to a sustainable future by implementing measures to minimise our carbon footprint, reduce waste, conserve resources, and foster a culture of diversity and inclusion within our company and where we operate.
+
+As we all know, the semiconductor industry plays a vital role in driving technological innovation and economic growth. However, we are also aware of the environmental and social challenges that come with this responsibility. Today, the semiconductor industry and the world are dealing with unusual levels of volatility and uncertainty. Even in challenging times, it's important we remain focused on our RISE (Resilience, Innovation, Sustainability, and Entrepreneurship) principles and lead where we can.
+
+AEM is deeply committed to upholding the highest ethical and legal standards in all the jurisdictions where we operate. In our fiscal year 2022, we proudly recorded zero significant instances of non-compliance. We firmly believe that compliance is an essential element of our sustainability journey, and we remain steadfast in ensuring that all our operations are compliant with the relevant regulatory requirements.
+
+We have taken concrete steps to transition towards renewable energy sources. To this end, in the fiscal year 2022, we purchased 10,000 Renewable Energy Certificates ("RECs"), accounting for a remarkable 56% of our total electricity consumption, marking a notable increase from the 6,000 RECs we procured in the fiscal year 2021. Additionally, we installed solar panels at CEI Pte. Ltd.'s ("CEI") Singapore plant, which is estimated to generate close to 240,000 kWh of electricity annually, equivalent to approximately 45% of CEI Singapore plant's average annual electricity consumption. This move signifies a significant stride in our journey towards reducing our carbon footprint and embracing sustainable energy sources.
+
+Our commitment to sustainability can only be achieved by first ensuring that our employees are safe and healthy. We continue to make great strides in improving our safety measures, but we must remain vigilant and continuously work to identify and mitigate potential hazards. The Workplace Safety and Health Group leads our efforts in this by conducting regular safety training programmes, drills, monthly safety inspections, orientation, and briefings, and more.
+
+AEM's commitment to integrating Environmental, Social, and Governance (ESG) considerations into our business strategy has been recognised with a BBB rating (on a scale of AAA - CCC) in the MSCI ESG Ratings assessment in 2022. This rating underscores our resilience to long-term, financially relevant ESG risks, highlighting our unwavering dedication to sustainable practices. We are proud that our efforts have been acknowledged, and this rating serves as a testament to our commitment to achieving sustainable growth while upholding ESG best practices.
+
+# Sustainability Commitments for a better future
+
+Our sustainability journey is an ongoing process, and we recognise that there is still more work to be done and accomplished. Our focus goes beyond delivering high-quality products and services to our customers; it extends to ensuring that we do so in a socially equitable and environmentally responsible manner. In our product design strategy and development, we ensure that each product delivers and achieves a maximum positive environmental impact for our customers.
+
+Another core ESG programme that we continue to focus on is to create a workplace culture that is inclusive and empowering. This includes programmes to build and nurture talents to groom to bring additional diversity to AEM’s management.
+
+As we accelerate our growth to be the leader in Test 2.0, we uphold our RISE principles to align our decision-making. Thank you for your continued support as we work towards building a more sustainable future.
+
+Chandran Nair
+Chief Executive Officer
+
+8
+8 Sustainability Report 2022
+Sustainability Report 2022 www.aem.com.sg
+www.aem.com.sg
+
+# HIGHLIGHTS
+
+# Sustainability Performance Highlights
+
+# Corporate Governance & Anti-Corruption
+
+Purchased 10,000 Renewable Energy Certificates (“RECs”) in FY2022 (FY2021: 6,000 RECs), accounting for 56% of our total electricity consumption0 substantiated cases of corruption0 significant legal and regulatory non-compliance incidents in the jurisdictions where we operate
+
+# Minimising our Environmental Footprint
+
+Installed solar panels at CEI’s Singapore plant, with an estimated output of close to 240,000 kWh of electricity a year, which is equivalent to approximately 45% of CEI Singapore plant’s average annual electricity consumption
+
+# Training
+
+30.0 hours of training provided to each employee on average
+
+# Gender Diversity
+
+51% Continual improvement in workforce gender diversity ratio, with female employees representing 51% in FY2022, up from 22% in FY2020
+
+# Economic Performance
+
+|100% of new key suppliers internally screened for significant negative social and environmental impacts, in material compliance with the AEM Code of Business Conduct (the “AEM Code”) and/or industry standards| | | | |
+|---|---|---|---|---|
+| | |MSCI ESG Ratings|AEM received a rating of BBB (on a scale of AAA – CCC) in the MSCI ESG Ratings assessment in 2022| |
+|S$127.3 million in economic value generated & distributed, marking a 43% year-on-year increase| | | | |
+|ZERO substantiated complaints concerning breaches of customer privacy and/or loss of customer data| | | | |
+|ZERO significant incidents of non-compliance with regulation and/or voluntary codes concerning the health and safety impacts of our products and services| | | | |
+
+# AEM at a Glance
+
+AEM is a global leader in the fast-growing Test 2.0 market, delivering application-specific intelligent system test and handling solutions for semiconductor and electronics companies serving the advanced computing, 5G, and AI markets.
+
+|Leader in Fast Growing Test 2.0 Market|Full Stack Technology|Deploy at Scale|Listed on SGX|
+|---|---|---|---|
+|Test 2.0 growth is driven by advanced packaging & integrated logic.|Delivering composable technologies and solutions for advanced, integrated semiconductor test needs.|Critical delivery capabilities giving our customers a reduced time to market.|Market Cap: ~S$1.05B*|
+|AEM has over 1,000 Test 2.0 tools in production.| | |AEM Holdings Ltd. (SGD: AWX) (USD: XWA)|
+|* As at 24 Feb 2023|* As at 24 Feb 2023|* As at 24 Feb 2023|* As at 24 Feb 2023|
+
+# Corporate Profile
+
+AEM is a global leader in test innovation. We provide the most comprehensive semiconductor and electronics test solutions based on the best-in-class technologies, processes, and customer support.
+
+We deliver customised, and application-specific solutions to meet our customers' needs. With full-stack test capabilities for advanced engineering to high-volume manufacturing, we provide innovative test solutions to drive successful customer outcomes in innovation. We set ourselves to redefine test through our Test Cell Solutions Business and Instrumentation Business.
+
+We innovate test to test innovation, providing leading-edge engineering solutions to meet the demands of fast-moving industries. With customer intimacy at our core, we build strong partnerships with our customers through our global network, tailoring solutions and delivering services that meet their needs. Beyond our leading-edge test innovation, we take pride in building strong partnerships with our customers and catering to the demands of an ever-evolving advanced manufacturing landscape.
+
+AEM has a global presence across Asia, Europe, and the Americas. Our R&D centers are crucial in innovating and advancing our in-house engineering capabilities to deliver technologies and solutions for the next generation of semiconductor testing needs. AEM's R&D centers are situated in Singapore, Malaysia, Finland, France, and the US.
+
+With manufacturing plants located in Singapore, Malaysia (Penang), Indonesia (Batam), Vietnam (Ho Chi Minh City), China (Suzhou), and Finland (Lieto), and a global network of engineering support, sales offices, associates, and distributors, we offer our customers a robust and resilient ecosystem of test innovation and support.
+
+AEM Holdings Ltd. is listed on the Mainboard of the Singapore Exchange (Reuters: AEM. SI; Bloomberg: AEM: SP).
+
+10 Sustainability Report 2022 www.aem.com.sg
+
+# A C C O L A D E S
+
+# Designed in Singapore Awards 2022
+
+# Electronics
+
+# CMOS Image Sensor Test Cell
+
+# FMCG
+
+# Business
+
+# #ManufacturingAsiaAwards
+
+# Asian 2022
+
+# #FMCGAsiaAward
+
+# #SBRManagementExcellenceAwards
+
+# Management Excellence Awards 2022
+
+# CMOS Image Sensor (CIS) Team
+
+# Team of the Year
+
+# Best Investor Relations Campaign
+
+# Nominated for Best Annual Report (mid-cap), IR Magazine Awards South East Asia 2022
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+# ABOUT THIS REPORT
+
+AEM Holdings Ltd. (“AEM” or the “Company”) is pleased to present the Company’s annual Sustainability Report (the “Report”).
+
+# Reporting Period and Scope
+
+The Report provides a comprehensive summary of AEM’s key sustainability issues, our management approach, and our Environmental, Social and Governance (“ESG”) policies, practices, and performance over the period 1 January 2022 to 31 December 2022 (“FY2022”). As part of AEM’s ongoing objective to maintain operational excellence in sustainability, we have also established short-, long-term and perpetual targets for each of the ESG factors assessed to be material to the Group’s internal and external stakeholders.
+
+In line with SGX Listing Rules 711A and 711B, we have also incorporated the six primary components in our annual sustainability report, on a ‘comply or explain’ basis. We plan to work on developing a more comprehensive climate action strategy that is consistent with the recommendations by the Task Force on Climate-related Financial Disclosures (“TCFD”) in the near future, after building our in-house capabilities for climate reporting.
+
+# Assurance
+
+This Report has not been externally assured, but an internal review of AEM’s FY2022 sustainability reporting processes has been completed. We have relied on our internal verification mechanisms to ensure the accuracy of the data presented in this Report, all of which has been disclosed voluntarily and in good faith.
+
+# Sustainability Reporting Framework
+
+This Report has been prepared with reference to the Global Reporting Initiative (“GRI”) Standards, an internationally recognised sustainability reporting framework that offers comprehensive guidance on how businesses can communicate their impacts on people and planet in a global common language. From this Report, we have updated the content to be in line with the GRI Universal Standards 2021. The GRI Content Index is contained on pages 45 to 47, indicating the location of all applicable disclosures within the Report.
+
+# Feedback
+
+We welcome your feedback, views, and suggestions on our sustainability report and related initiatives at: https://www.aem.com.sg/contact
+
+We will continue to provide updates on the latest developments at AEM, and remain open to receiving feedback from our stakeholder groups, via digital platforms like LinkedIn and our Corporate Website, at: https://www.aem.com.sg
+
+12 Sustainability Report 2022 www.aem.com.sg
+
+# Board Statement
+
+The Board of Directors (the "Board") is pleased to present AEM’s Sustainability Report for FY2022, demonstrating our continued commitment to clearly and accurately communicating our ESG impact to our stakeholders. Our sustainability report provides a comprehensive overview of our progress, challenges, and goals, and we are committed to continuously improving our practices to meet the evolving needs of our stakeholders.
+
+As we continue to grow our operations, we keep ourselves conscious of our business’ impact on the environment and the communities in which we operate, and cognisant of how sustainability issues may affect our strategy and operations in the long run. The Board works closely with the management to ensure that our business practices are aligned with the RISE principles (Resilience, Innovation, Sustainability, and Entrepreneurship).
+
+We do so by considering ESG issues as part of our strategy formulation, with a specific focus on the following three areas:
+
+1. Conducting and operating our business lawfully and ethically
+2. Reducing the adverse environmental impact of our business activities within the communities we work and live in
+3. Fulfilling our social responsibilities to our employees, customers, and local communities
+
+We are proud of the progress AEM has made in addressing the ESG factors we have determined to be material to the Group’s stakeholders. In addition to purchasing 10,000 Renewable Energy Certificates in Singapore, we have installed solar panels at CEI’s Singapore plant, doing our part in helping Singapore achieve its climate ambitions. AEM also continues to do our part in promoting a culture of diversity and inclusion within the semiconductor industry, sponsoring the second edition of the Semiconductor Women's Forum held by the Singapore Semiconductor Industry Association (“SSIA”) and organising a panel discussion on ‘Empowering Women in STEM’ at SEMICON SEA 2022 in Penang. We recognise, however, that there is more work to be done, and the Board will continue to play a key role in overseeing the management and monitoring of AEM’s material ESG factors, as we continue to progress in our sustainability journey.
+
+In line with our corporate vision and mission, the Board is dedicated to promoting sustainable growth and responsible business practices, and we encourage our employees, business partners, and other stakeholders to join us in this important mission.
+
+Sincerely,
+
+Board of Directors
+
+AEM Holdings Ltd.
+
+www.aem.com.sg
+
+Sustainability Report 2022  13
+
+# Sustainability at AEM
+
+# Solidifying Relationships with Our Stakeholders
+
+We recognise that the success of our business is inextricably linked to the sustainable development of the communities and the world we live and work in, and the environment.
+
+As such, our commitment to sustainability focuses on the following three key pillars:
+
+|Sustainable|Environmental|
+|---|---|
+|Growth|Conscientiousness|
+
+# Sustainable Growth
+
+We abide by the highest standards of ethical conduct, corporate governance, financial discipline, and risk management to improve decision-making and create long-term value for our stakeholders.
+
+# Economic Performance
+
+(GRI 201)
+
+# Corporate Governance & Anti-Corruption
+
+(GRI 205)
+
+14 Sustainability Report 2022
+
+Sustainability Report 2022
+
+www.aem.com.sg
+
+# A EM Holdings Ltd.
+
+# Environmental Conscientiousness
+
+We are committed to doing our part in tackling climate change by minimising our operational footprint and engaging in sustainable supplier management across our value chain.
+
+# Energy
+
+# Emissions (GRI 302)
+
+# Waste Management (GRI 306)
+
+# Water Management (GRI 303)
+
+# Supplier Social Assessment (GRI 414)
+
+# Supplier Environmental Assessment (GRI 308)
+
+# Solidifying Relationships with Our Stakeholders
+
+# Employment (GRI 401)
+
+# Occupational Health and Safety (GRI 403)
+
+A unified business organisation means investing in our people and cultivating positive, long-lasting relationships with our other stakeholders and the local community.
+
+# Market Presence and Contribution (GRI 202)
+
+# Diversity and Equal Opportunity (GRI 405)
+
+# Training and Education (GRI 404)
+
+# Customer Health and Safety (GRI 416)
+
+# Giving back to the Community (GRI 413)
+
+# Customer Privacy (GRI 418)
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+# Sustainability at AEM
+
+# Sustainability Governance
+
+The ARC to incorporate sustainability issues as part of the Group’s strategic formulation and to approve, manage, and monitor ESG factors material to the business.
+
+# Senior Management Team
+
+to develop sustainability objectives and strategy, manage, and monitor overall sustainability performance, reports to the Board via the ARC.
+
+# Sustainability Team
+
+is responsible for implementing and formalising sustainability policies and procedures, management processes, and sustainability development standards. It supports and provides adequate resources to functional units to perform the established sustainability processes and practices.
+
+# All Staff
+
+AEM’s sustainability governance structure
+
+The Board of Directors determines the overall direction of the Company’s sustainability strategies. The Audit and Risk Management Committee (“ARC”) under the stewardship of the Board evaluates and incorporates sustainability issues within the Group’s strategic formulation and maintaining oversight over the processes by which material ESG factors are determined, managed, and monitored. In line with the enhanced SGX sustainability reporting rules, AEM’s Board of Directors has also attended the mandatory sustainability training courses to equip themselves with basic knowledge on sustainability matters. Management members, to take the lead in developing AEM’s sustainability objectives and strategy, managing and monitoring the Group’s overall sustainability performance throughout the year, and providing periodic updates to the Board and the ARC on AEM’s sustainability progress. Working closely with the Sustainability Team, the SSC supports the ARC and the Board in determining the Company’s material ESG topics, identifying quantitative key performance indicators to monitor, and setting short-, long-term or perpetual targets for each material topic.
+
+# Our Sustainability Team
+
+(the “Team”) forms the core of our sustainability structure, consisting of employees from various departments hosting a diversity of experiences and backgrounds. The Team is responsible for driving organisation-wide sustainability initiatives, by formalising sustainability management policies and procedures that are aligned with industry best practices. The Team is also actively involved in providing guidance and resources for AEM’s various functional units to effectively implement the established sustainability processes and practices.
+
+We have identified a total of seven (7) key stakeholder groups, whom either 1) impact our business, 2) are impacted by our business, or 3) provide subject-matter expertise on specific material ESG factors. To facilitate the open exchange of ideas and suggestions, we regularly engage our stakeholders through various platforms and channels, as outlined below.
+
+16 Sustainability Report 2022
+
+Sustainability Report 2022 www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+# Employees
+
+|Engagement Methods|Focus Areas|AEM's Response|
+|---|---|---|
+|Regular staff communication sessions|Benefits and remuneration|To encourage greater workplace diversity by taking a merit-based approach to hiring and retaining staff|
+|Annual performance evaluation|Career advancement|To provide all staff with equal opportunities for professional development and capability building|
+|Perception surveys|Health and safety|To promote a safe and inclusive working environment by engaging employees at all levels and facilitating two-way internal communication|
+|Social and team-building activities| | |
+
+# Customers
+
+|Engagement Methods|Focus Areas|AEM's Response|
+|---|---|---|
+|Scheduled and ad-hoc site visits, calls, and reviews|Engineering and development capability|To invest in our talent resources and engineering capability|
+|Customer satisfaction surveys|Operational and financial performance|To maintain excellent operational and financial performance|
+|Exhibitions and trade shows| |To ensure the transparent and timely dissemination of information about material developments|
+|Annual reports| | |
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+17
+
+# Sustainability at AEM
+
+# Suppliers
+
+|Engagement Methods|Focus Areas|AEM's Response|
+|---|---|---|
+|Scheduled and ad-hoc site visits, calls, and reviews|Quality and reliability of suppliers|To assess suppliers based on their track record and their ability to complement AEM's commitment to delivering high-quality products and services|
+|Supplier review|Social and environmental impact| |
+
+# Community
+
+|Engagement Methods|Focus Areas|AEM's Response|
+|---|---|---|
+|Participation in community service initiatives|Social-economic development|To support meaningful causes by making donations to local community organisations|
+
+# Government and Regulatory Bodies
+
+|Engagement Methods|Focus Areas|AEM's Response|
+|---|---|---|
+|Keeping abreast with regulatory changes|Regulatory compliance|To comply with all relevant laws and regulations in the jurisdictions we operate in|
+|Scheduled and ad-hoc site visits and training sessions|Environmental impact|Created over 300 new jobs in FY2022|
+| |Job creation|Continually invest in skills upgrading to improve talent resources and engineering capability|
+
+18 Sustainability Report 2022
+
+www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+# Investors and Shareholders
+
+|Engagement Methods|Focus Areas|AEM's Response|
+|---|---|---|
+|Quarterly business outlook updates|Business continuity|To maintain excellent operational and financial performances|
+|Half-yearly SGX results announcements and briefings|Investor relations management|To ensure the transparent and timely dissemination of information about material developments|
+|Ad-hoc press releases| | |
+|Annual General Meetings (AGM)| | |
+
+# Industry Bodies
+
+|Engagement Methods|Focus Areas|AEM's Response|
+|---|---|---|
+|Presentation at industry seminars and trade shows|Challenges affecting the semiconductor industry|Active membership and participation in industry forums and events|
+|Industry networking events| | |
+
+# Materiality Assessment
+
+Informed by background research on our peers and industry trends, AEM’s materiality assessment process follows the four-step approach outlined in GRI 3: Material Topics 2021.
+
+|Step|Description|
+|---|---|
+|Step 1|Identify all identified issues and prioritise them based on the impact and importance to stakeholders. Research on a universe of ESG issues, considering feedback from both internal and external stakeholders.|
+|Step 2|Board and Management will endorse and validate the identified material issues.|
+|Step 3|Validation|
+|Step 4|Review. These material issues will be reviewed and reassessed for its relevance to the Group.|
+
+www.aem.com.sg
+
+Sustainability Report 2022 19
+
+# SUSTAINABILITY AT AEM
+
+The Board and Management have reviewed the material topics for this year’s reporting and determined that the following sixteen (16) material topics that were identified last year remain relevant to AEM’s business and stakeholders.
+
+| |Sustainability Pillars|Material Topics|GRI Standard|
+|---|---|---|---|
+|Sustainable Growth|Corporate Governance and Anti-Corruption| |GRI 205|
+|Economic Performance| | |GRI 201|
+|Supplier Environmental Assessment| | |GRI 308|
+|Environmental Conscientiousness|Supplier Social Assessment| |GRI 414|
+| | |Energy|GRI 302|
+| | |Emissions|GRI 305|
+| | |Waste Management|GRI 306|
+| | |Water Management|GRI 303|
+| | |Employment|GRI 401|
+|Solidifying Relationships with Our Stakeholders|Occupational Health and Safety| |GRI 403|
+| | |Training and Education|GRI 404|
+|Diversity and Equal Opportunity| | |GRI 405|
+|Market Presence and Contribution| | |GRI 202|
+|Giving back to the Community| | |GRI 413|
+|Customer Health and Safety|Customer Health and Safety| |GRI 416|
+| | |Customer Privacy|GRI 418|
+
+Given the recent update to the GRI Universal Standards and the withdrawal of GRI 307: Environmental Compliance 2016 and GRI 419: Socioeconomic Compliance 2016, we will be merging the relevant disclosures under the ‘Corporate Governance and Anti-Corruption’ section.
+
+20 Sustainability Report 2022
+
+www.aem.com.sg
+
+# Sustainable Growth
+
+We abide by the highest standards of ethical conduct, corporate governance, financial discipline, and risk management to improve decision-making and create long-term value for our stakeholders.
+
+# Economic Performance (GRI 201)
+
+# Corporate Governance & Anti-Corruption (GRI 205)
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+# Sustainable Growth
+
+Firm leadership, a robust corporate governance framework, and an ethical organisational culture, supported by sound policies and processes, are vital for AEM to sustain our standing as a world-class technological equipment manufacturer and service provider.
+
+AEM is committed to upholding the highest standards of corporate governance. To this end, it has established an effective and holistic enterprise risk management system to bolster the resilience and agility of its businesses. AEM’s strategy and decision-making is informed by business ethics, financial discipline, and risk management, as the Group strives to create long-term value for our stakeholders.
+
+| |FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Total number of key operations assessed for risks related to corruption|7|10|10|
+|Total number of key operations in the corresponding year|7|10|10|
+|Percentage of key operations assessed for risks related to corruption|100%|100%|100%|
+
+# Corporate Governance and Anti-Corruption (GRI 205-1)
+
+As testimony of the Company’s staunch commitment to conducting and operating our businesses in a lawful and ethical manner, we have rolled out the AEM Code across AEM and AEM’s global subsidiaries. Every employee, including the management team and the Board, is required to read, understand, and comply with the provisions of the AEM Code, which sets forth the high standards of professionalism, integrity, and ethics we expect our employees and business partners to uphold. Besides our employees, the AEM Code has been communicated to our customers, suppliers and/or other third parties, and is publicly available on our corporate website. We also conduct compliance trainings for our employees as and when required to increase general compliance knowledge and awareness. In FY2022, we engaged a law firm to provide sanctions and export controls training for relevant employees.
+
+AEM has a zero-tolerance policy for all forms of bribery, corruption, extortion and embezzlement. To maintain the highest standards of integrity and accountability, the Group has developed and circulated our internal policies and procedures on anti-bribery and anti-corruption to all our employees. Our Whistle-Blowing Policy, also available on our corporate website, provides a channel for employees and third parties to voice their concerns about possible improprieties in financial reporting, workplace safety, or other matters to the Audit and Risk Management Committee (“ARC”), in confidence and without fear of reprisal.
+
+All operations at AEM, including our manufacturing and production sites in Singapore, Malaysia, China, U.S.A, Finland, France, Vietnam, and Indonesia, have
+
+|Material Topic|FY2022 Performance|Perpetual Targets|
+|---|---|---|
+| |Zero significant incidents of non-compliance with governmental laws and regulations in environmental, social, and economic areas|To have zero substantiated cases of corruption or other improprieties|
+|Corporate Governance and Anti-Corruption| |To maintain our overall compliance record and have zero significant public legal cases brought against the Group|
+
+22
+
+Sustainability Report 2022
+
+www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+been assessed for risks related to corruption, and zero significant incidents of corruption were identified in FY2022.
+
+For the long-term financial stability and profitability of the Company, it is vital that AEM invests heavily in its research and development (“R&D”) efforts to stay ahead of the competition. With the expansion of our manufacturing sites in Singapore, Malaysia, and the U.S.A, we are expecting a corresponding increase in our R&D capabilities that would allow us to bolster the efficiency, manageability, safety, and security of AEM’s next-generation manufacturing systems and test capabilities.
+
+Employees who encounter any conflict of interest(s) are required to report the matter to the Group via the annual conflict of interest declaration exercise. All transactions with interested persons are to be promptly reported to the ARC as well. Subsequently, internal controls will be established to ensure that all transactions are carried out on an arm’s length basis, without prejudice to the interests of any shareholders. In compliance with SGX Listing Rule 1207(19), the Group has also devised and adopted our own internal compliance code to provide guidance to our employees, with regards to dealing in AEM’s securities.
+
+To date, there has been no reports of significant improprieties concerning AEM’s business practices and operations, and zero significant legal and regulatory non-compliance incidents in FY2022. The Group will continue to be vigilant in ensuring that our employees uphold the highest standards of integrity when dealing with customers, vendors, government agencies, and within the Group.
+
+# Economic Performance
+
+The Group’s revenue has reached a record high of S$870.5 million in FY2022. The growth in top and bottom line were achieved on the back of strong demand from customers. Driven by strong revenue growth, our net profit (after tax) has also increased from S$92.1 million in FY2021 to S$127.3 million in FY2022.
+
+AEM is firmly committed to generating positive economic value for our stakeholders, by delivering best-in-class technologies and solutions for advanced, integrated semiconductor test needs and providing the best service to our customers. In this way, the Company will be able to stay at the forefront of technological innovation within the semiconductor and electronic testing space in the long run.
+
+| | | | |FY2020|FY2021|FY2022|
+|---|---|---|---|---|---|---|
+|Economic Value Generated & Distributed (S<br/>Please refer to the financial statements in our Annual Report for more information on AEM’s economic performance in FY2022.<br/># Material Topic<br/><br/>FY2022 Performance|Perpetual Targets|
+|Published quarterly business updates and half-yearly results release on SGXNet in a timely manner|To provide innovative solutions and product improvements to better serve our customers|
+|Exceeded AEM's FY2022 revenue guidance (between S$820 million and S$850 million)|To continue cost reduction engineering initiatives and "lean" operations to drive productivity improvements|
+| |To incentivise employees to develop innovative ideas that can be patented|
+| |To increase economic value generation for our shareholders|
+
+www.aem.com.sg
+
+www.aem.com.sg
+
+M)86.289.2127.3
+
+Please refer to the financial statements in our Annual Report for more information on AEM’s economic performance in FY2022.
+
+# Material Topic
+
+|FY2022 Performance|Perpetual Targets|
+|---|---|
+|Published quarterly business updates and half-yearly results release on SGXNet in a timely manner|To provide innovative solutions and product improvements to better serve our customers|
+|Exceeded AEM's FY2022 revenue guidance (between S$820 million and S$850 million)|To continue cost reduction engineering initiatives and "lean" operations to drive productivity improvements|
+| |To incentivise employees to develop innovative ideas that can be patented|
+| |To increase economic value generation for our shareholders|
+
+www.aem.com.sg
+
+www.aem.com.sg
+
+# Environmental Conscientiousness
+
+We are committed to doing our part in tackling climate change by minimising our operational footprint and engaging in sustainable supplier management across our value chain.
+
+|Energy Emissions|(GRI 302)|
+|---|---|
+| |(GRI 305)|
+
+|Waste Management|(GRI 306)|
+|---|---|
+|Water Management|(GRI 303)|
+
+|Supplier Environmental Assessment|(GRI 414)|
+|---|---|
+|Supplier Social Assessment|(GRI 308)|
+
+24 Sustainability Report 2022
+
+www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+# Environmental Conscientiousness
+
+It is our belief that sustainable environmental practices can go hand in hand with corporate growth. Our goal is thus to align our operational practices with international standards and industry best practices for environmental management systems. We strive to minimise the adverse environmental impact of our business activities by improving the resource efficiency of our daily operations and developing a sustainable supply chain.
+
+# Sustainable Supplier Management (GRI 308-1, 414-1)
+
+Effective two-way communication with our suppliers throughout the entire procurement process, is key to promoting trust, improving risk management, and supporting AEM’s long-term goals. As part of our stringent supplier selection process, all new key suppliers will be screened for significant negative environmental and social impacts resulting from their business operations before they become an approved AEM vendor. As outlined in our supplier screening guide, this includes incidents of child labour, non-discrimination, pollution (land, air, water, and noise), energy consumption, greenhouse gas emissions and non-compliance with laws and regulations in the social and environmental area. By assessing their track record in these various aspects, we are thus able to ensure that all AEM-approved vendors will complement our commitment to delivering high-quality products and services.
+
+# Supplier Environmental Assessment (GRI 308-1)
+
+Our new key supplier is screened using our supplier screening guide which lists out relevant environmental criteria to meet our Environmental Management System requirements for the products and services they supply. Our existing key suppliers are either compliant with industry standards such as ISO14001 or have published their environmental policy and/or sustainability report, in addition to having had zero significant incidents of non-compliance with local environmental laws.
+
+# Supplier Social Assessment (GRI 414-1)
+
+Similarly, a social assessment of our new key supplier was conducted using our supplier screening guide, through which we have determined that our new key supplier is compliant with social industry standards, in line with AEM requirements.
+
+# Material Topic
+
+# FY2022 Performance
+
+The majority of AEM’s key suppliers entered into contractual commitments with AEM to conduct their business in accordance with applicable ESG laws, regulations, industry codes, practices and standards; and minimise or eliminate any negative ESG impacts from their business operations. All key suppliers also participated in AEM Sustainability declarations to provide updates with regards to their continuous alignment with AEM’s environmental and social requirements, having either aligned their business practices with industry standards such as the ISO14001 or published their environmental policy or sustainability report in the public domain.
+
+# Perpetual Targets
+
+- Screen 100% of new key suppliers using environmental and social criteria
+- Enhance our supply chain management assessment processes to strengthen our evaluation of suppliers’ environmental and social practices
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+# ENVIRONMENTAL CONSCIOUSNESS
+
+# Minimising Our Environmental Footprint
+
+# Energy
+
+(GRI 302-1, 302-3, 302-4)
+
+Energy is crucial to AEM’s business activities. Though the use of energy-intensive equipment results in higher utility costs, our manufacturing operations would be disrupted without them, owing to the specialised nature of our business.
+
+Our subsidiary, CEI, has installed solar panels on its Singapore plant during the year, which will be able to generate close to 240,000 kWh of electricity a year, for our own consumption, equivalent to approximately 45% of CEI Singapore plant’s average annual electricity consumption.
+
+As part of our commitment to further reducing our environmental footprint, AEM purchased 10,000 Renewable Energy Certificates (“RECs”) in FY2022 (FY2021: 6,000 RECs). This is equivalent to approximately 56% of our total electricity consumption from conventional sources in FY2022.
+
+Nevertheless, we recognise the importance of adopting cost-effective methods to improve energy efficiency and minimise energy consumption and wastage, to contribute to environmental sustainability efforts. On this front, we have implemented several continuous energy-saving initiatives across our Singapore headquarters and main global manufacturing entities, which include:
+
+- replacing fluorescent lighting with LED energy-saving lighting,
+- programming air-conditioner and lights to switch off automatically after office hours,
+- switching the air-conditioning ducting from ceiling cassettes to inverters,
+- replacing old, inefficient equipment with energy-efficient ones, and
+- introducing usage discipline through posters and briefings to promote greater awareness on energy conservation among our employees.
+
+AEM strives to adopt renewable energy as an integral part of our energy portfolio.
+
+| |FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Energy Consumed (kWh)|5,570,000|12,200,000*|17,710,000|
+|Revenue (S$M)|519.0|565.5|870.5|
+|Energy Intensity Ratio (kWh/S$)|0.011|0.021|0.020|
+
+*Note: Increase in total direct and indirect CO2 or carbon equivalent emissions in FY2021 due to inclusion of emissions from CEI, which the Group acquired in 1H2021.
+
+# AEM Holdings Ltd.
+
+# Emissions (GRI 305-1, 305-2, 305-4)
+
+Climate change poses a growing threat to the communities we work and live in. As part of a global effort to cut down on greenhouse gas (“GHG”) emissions, AEM has been monitoring our emission levels at every stage of our manufacturing process through data collection to identify areas with potential for significant reduction of GHG emissions. Given that indirect emissions from the generation of purchased energy accounts for much of AEM’s carbon footprint, the efficient use of energy is essential to reducing AEM’s GHG emissions.
+
+# The following table shows the emission intensity ratio for AEM.
+
+| |FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Direct GHG Emissions (MT CO2e)|N.A|15|35|
+|Indirect GHG Emissions (MT CO2e)|3,938|8,082*|11,532|
+|Revenue (S$M)|519.0|565.5|870.5|
+|Emission Intensity Ratio (MT/S$'000)|0.007588|0.014318|0.013248|
+
+* Note: Increase in total direct and indirect CO2 or carbon equivalent emissions in FY2021 due to inclusion of emissions from CEI, which the Group acquired in 1H2021.
+
+One of the initiatives where we use technology to reduce emissions include using virtual reality tools to perform training offsite for our global engineering team, which has reduced the need for travel, contributing to lower emissions.
+
+# Material Topic
+
+# FY2022 Performance
+
+|Energy and Emissions|Perpetual Targets|
+|---|---|
+|Purchase of 10,000 Renewable Energy Certificates (“RECs”) in FY2022, equivalent to 10,000 megawatt-hours of green energy consumption|Pursue energy reduction measures in our business activities by increasing energy efficiency and minimising wastage|
+|Installed solar panels at CEI to generate close to 240,000 kWh of electricity each year|Promote heightened conservation awareness and usage discipline amongst our employees|
+| |Track and document energy consumption and all relevant Scopes 1 and 2 GHG emissions at the facility and/or corporate level|
+
+www.aem.com.sg
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+# ENVIRONMENTAL CONSCIENTIOUSNESS
+
+# Waste Management (GRI 306-1, 306-2, 306-3)
+
+AEM is conscious of the waste we have generated across the organisation, as input from our suppliers and output from our operations and manufacturing processes.
+
+# Waste Generated
+
+|Input (from Suppliers)|Activities (Manufacturing Processes)|Output|
+|---|---|---|
+|• Paper • Carton boxes • Chemical substances (Loctite, oil, etc.)|• Paper • Chemicals for cleaning, adhesion, lubrication|• Paper • Carton boxes • Used chemicals (Loctite, oil, coolant, etc.) • Soldering waste • Solder dross • Metal leftover|
+
+In support of Singapore’s ambition of becoming a Zero Waste Nation, we have accelerated our efforts to reduce waste and promote sustainable waste management by:
+
+- Converting several of our internal processes from paper-based records to electronic records;
+- Engaging a third-party recycler to recycle waste generated from our manufacturing process and operations (e.g., metal leftovers generated from our manufacturing process);
+- Reusing carton boxes and plastic pallets, and not using hydrofluoroether (HFE) in our new equipment.
+
+We take a systematic approach to identify, manage, reduce, and responsibly dispose of or recycle the waste we generate. Overall, there are three main categories of waste at AEM: hazardous waste (which includes chemical waste), recycled waste (which includes leftover metals, paper, and plastic), and general waste, which accounts for the majority of the waste we generate.
+
+# Total weight of waste generated (in metric tons)
+
+|Category|FY2021|FY2022|
+|---|---|---|
+|Hazardous waste|121.6 (63%)|193.6*|
+|Recycled waste|49.5 (25%)|286.2|
+|General waste|78.6 (27%)|0.00034 (MT/S$'000)|
+
+*First year of monitoring and reporting on waste generation
+
+# Material Topic
+
+# FY2022 Performance
+
+Improved accuracy of reported waste data
+
+# Perpetual Targets
+
+To further reduce the use of paper documentation and consumption
+
+Refine measurement and reporting methods to manage other significant waste-related impacts from our manufacturing processes (e.g., chemical waste, used coolant, etc.)
+
+Sustainability Report 2022
+
+www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+# Water Management (GRI 303-5)
+
+Given the growing scarcity of water as a natural resource, AEM is committed to doing our part as responsible stewards of the global water supply.
+
+In line with various national initiatives advocating for greater water reduction and conservation efforts, AEM has introduced the following measures at all our operating and manufacturing sites:
+
+- Promote water conservation awareness among employees by displaying education posters and holding informative briefings on usage discipline;
+- Replacing conventional water taps to motion sensor taps and spring faucets, to reduce water wastage and improve water efficiency.
+
+Over the years, AEM has also been carefully monitoring and managing our water consumption levels. While there has been a significant increase in the Group’s total water consumption over the years, this can largely be attributed to an increase in the Group’s manufacturing and production activities, with our acquisition of CEI in FY2021 and our recent shift to a larger manufacturing space at AEM Penang. However, the amount of water consumed per monetary unit of sales has been relatively constant.
+
+| |FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Total Water Consumption from All Areas (m3)|16,328|49,967*|74,076|
+|Water Consumed per Monetary Unit of Sales (m3/S$’000)|0.031|0.088|0.085|
+
+*Significant increase in water consumption in FY2021 due to inclusion of water consumption by CEI, which the Group acquired in 1H2021.
+
+# Material Topic
+
+# FY2022 Performance
+
+Maintained water efficiency, despite the overall increase in water consumption that can be attributed to our increased production activities and the acquisition of CEI.
+
+# Perpetual Targets
+
+- To continue promoting water conservation awareness among our employees.
+- To take measures to reduce water consumption, e.g., by using reclaimed water, motion sensor taps, and spring faucets.
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+# Solidifying Relationships with Our Stakeholders
+
+A unified business organisation means investing in our people and cultivating positive, long-lasting relationships with our other stakeholders and the local community.
+
+# Employment (GRI 401)
+
+# Occupational Health and Safety (GRI 403)
+
+# Training and Education (GRI 404)
+
+# Giving back to the Community (GRI 413)
+
+# Market Presence and Contribution (GRI 202)
+
+# Diversity and Equal Opportunity (GRI 405)
+
+# Customer Health and Safety (GRI 416)
+
+# Customer Privacy (GRI 418)
+
+30 Sustainability Report 2022
+
+www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+# Solidifying Relationships with Our Stakeholders
+
+# Managing Our Human Capital
+
+In FY2022, AEM reviewed and further enhanced employee benefits for all our employees, to ensure adequate life and medical insurance coverage for all our employees and allow them a peace of mind in the event of a major illness.
+
+AEM acknowledges that a good work-life balance is key to promoting staff wellbeing and satisfaction.
+
+# Employment (GRI 401-1, 401-2)
+
+The COVID-19 pandemic has pushed us to accelerate our digital transformation, changing the way we work. Our HR team has stepped up to lead this transformation by adapting the latest technologies to AEM’s advantage – helping to centralise processes, reinforce workforce abilities, improve candidate and employee experiences, and more.
+
+As outlined in the AEM Code, we are committed to upholding our employees’ and prospective employees’ human rights, by adhering with strict labour standards on freely chosen employment, avoidance of child labour, non-discrimination, freedom of association, and human treatment, in accordance with local laws. Engaging in ethical and responsible labour practices is key to attracting – and retaining - a diverse pool of talent that can bring AEM into our next stage of sustainable growth.
+
+To build and encourage employee loyalty, we provide employees with competitive compensation packages that comprise a base salary, and may also include allowance, cash bonuses, and/or a share equity plan. By including a strong variable component in employee remuneration, we can incentivise better performance, as employees’ total compensation will be determined by considering their individual expertise, job responsibility, and their long-term contributions to the Company’s growth. We have also presented long service awards to our long serving staffs as a recognition of their contribution and dedication.
+
+To encourage employees to engage in health promoting activities on top of creating a positive and inclusive work culture, our team in AEM Penang and CEI Singapore have organised offsite teambuilding events, such as bowling tournaments and our team in Costa Rica have organised a family day in a wildlife rescue centre.
+
+www.aem.com.sg
+
+Sustainability Report 2022 31
+
+# SOLIDIFYING RELATIONSHIPS WITH OUR STAKEHOLDERS
+
+As of 31 December 2022, AEM’s workforce consists of 2,883 employees, an increase of 386 employees compared to the previous year due to our business expansion plans. We welcomed 592 new hires throughout the year, which represented a 49% increase from the total number of new hires in FY2021. AEM Penang has also partnered with InvestPenang, a set-up of the Penang State Government to assist in the recruitment of talent from the local community.
+
+|Employee New Hires by gender|Male|Female|
+|---|---|---|
+|AEM Penang|37 (24%)|116 (76%)|
+|FY2020|135 (34%)|263 (66%)|
+|FY2021|225 (38%)|367 (62%)|
+|FY2022|*Note: Higher numbers in FY2021 due to inclusion of numbers from CEI, which the Group acquired in 1H2021|*Note: Higher numbers in FY2021 due to inclusion of numbers from CEI, which the Group acquired in 1H2021|
+
+AEM aims to further improve the gender ratio of our workforce by providing equal opportunities for all genders and hiring more females in the engineering field, particularly in regions with low female representation. This is evidenced by how the ratio of male to female new hires is steadily becoming more balanced over the years, decreasing from 3.14 in FY2020 to 1.63 in FY2022.
+
+# Occupational Health & Safety
+
+(GRI 403-1, 403-2, 403-4, 403-6, 403-9, 403-10)
+
+Our top priority is for our employees to feel safe at work and confident in executing their responsibilities. We have a designated Workplace Safety and Health (“WSH”) Group to provide oversight over the Company’s occupational health and safety (“OH&S”) procedures and system. The WSH Group plays a key role in building a strong and positive safety culture in AEM, by conducting monthly safety inspections, scheduling safety trainings and drills, and filing emergency and accident reports with the relevant authorities, when necessary. They also reconvene each month to address any matters pertaining to occupational health and safety, including that of workers’ participation and communication.
+
+We routinely monitor all work-related hazards and risks to ensure the safety of our team members, contractors, and other stakeholders who are working in our facilities. Guided by the hierarchy of controls, we have developed a safety manual that sets out the work safety procedures in place to control or eliminate potential safety hazards. In addition, we have also put in place a safety policy. We conduct routine safety orientations and toolbox briefings as well as internal risk assessment trainings for all AEM staff. In line with Singapore’s Ministry of Manpower (“MOM”) Code of Practice, we also periodically review our risk assessment processes, using a 5x5 risk assessment matrix, to evaluate AEM’s occupational health and safety management practices.
+
+# Material Topic
+
+|FY2022 Performance|Perpetual Targets|
+|---|---|
+|Achieved a monthly turnover rate of below 2.2%, signifying positive results from our efforts to build employee loyalty|Achieve a low turnover rate of below 2.2% per month|
+|The total number of employees increased by 15%|To attract and retain talent with competitive remuneration and welfare packages|
+
+32
+
+Sustainability Report 2022
+
+www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+Employees are encouraged to raise their concerns about any work-related hazards and hazardous situations directly to their superiors and/or safety committee members, or through an on-site suggestion box. Meetings are held with all staff, to encourage them to speak up by reporting hazardous situations and empower them to initiate improvements. The respective supervisors will monitor all feedback closely and take all necessary corrective measures.
+
+We investigate the root cause and determine the appropriate corrective actions. We implement the necessary measures to prevent the recurrence of the issue and ensure that our safety management system is updated accordingly.
+
+We also conduct regular safety audits and reviews to identify potential hazards and address any safety concerns before they result in incidents. We encourage open communication and feedback from employees to identify areas for improvement in our safety practices and procedures.
+
+Smart cameras are being used in monitoring our equipment motion testing to reduce risks to test personnel.
+
+In addition, we provide ongoing training and education to employees to ensure they have the necessary skills and knowledge to work safely and prevent incidents from occurring. We also recognise and reward safe behaviours to encourage a culture of safety throughout the organisation.
+
+With these measures in place, we maintained our record of having reported zero cases of recordable work-related ill health, zero cases of high-consequence work-related injuries, and zero cases of fatalities resulting from work-related injuries or ill health, for all employees and workers. There were four recordable work-related injuries that occurred in FY2022, which were minor injuries such as minor cuts and falls that do not cause significant harm. The affected workers have received all necessary medical attention.
+
+We believe that a strong commitment to preventing the recurrence of safety issues is essential to the success of our organisation. By prioritising safety in all aspects of our business and continuously improving our safety management system, we can protect our employees, customers, and stakeholders, and create a safer and healthier workplace.
+
+# Occupational Health and Safety
+
+AEM is committed to preventing the recurrence of safety issues and continuously improving our safety performance. We believe that every incident, no matter how minor, provides an opportunity for learning and improvement. When a safety issue occurs, we take immediate action to investigate the root cause and determine the appropriate corrective actions.
+
+|Material Topic|FY2022 Performance|Perpetual Targets|
+|---|---|---|
+|Occupational Health and Safety|Zero cases of recordable work-related ill health, high-consequence work-related injuries, and fatalities resulting from work-related injuries or ill health|Ensure that our practices at AEM are in line with internationally agreed best practices for OH&S management systems, for the prevention of harm and promotion of health at work|
+| |Completed external/ MOM audits on AEM’s OH&S management system|Complete external/ MOM audits on AEM’s OH&S management system, to certify AEM’s safety manual and procedures|
+| | |Establish a comprehensive occupational accident/ work injury compensation insurance plan for our employees|
+
+www.aem.com.sg
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+# SOLIDIFYING RELATIONSHIPS WITH OUR STAKEHOLDERS
+
+# Total Training Hours by gender
+
+|Male|Female| | |
+|---|---|---|---|
+|1,003 (20%)| | |17,976 (21%)|
+|4,013 (80%)| |14,293 (52%)|68,516 (79%)|
+|FY2020| | | |
+| |FY2021| | |
+| | | |FY2022|
+
+# Training and Education (GRI 404-1, 404-2, 404-3)
+
+Our staff’s technological and engineering skills and knowledge lie at the core of AEM’s success. Therefore, it is crucial that we invest in employee training and development programmes to encourage lifelong learning and expand our staff competencies. We also continued two employee communication programmes in FY2022, “Coffee with CEO” and “Sharper Insights”, where our CEO shares about career advancement, leadership direction, AEM business strategies, and other topics.
+
+To help employees achieve personal and professional growth during their careers at AEM, we have prepared a wide range of training programmes that employees can attend physically and remotely, via the Learning Management System (“LMS”) we launched in June 2021. Employees are encouraged to take ownership of their professional development by enrolling themselves for e-learning courses and on-site classroom training. Throughout FY2022, each employee received an average of 30.0 training hours (FY2021: 11.0 hours).
+
+Since beginning AEM’s Employee Educational Assistance scheme in FY2021, we are pleased to share that a total of two employees have been awarded the Continuing Education Sponsorship in support of their pursuit of further studies. Across the Group, we have established guidelines for training identification, monitoring, and review. Accordingly, we have organised courses on business leadership, finance, operational management, enterprise resource planning, and technical skills development for our management and staff. We will support our employees in their career development goals and ensure that they are well equipped for the current and future needs of the industry.
+
+We also encourage regular performance and career development reviews between employees and their managers, and we are pleased to announce that 100% of AEM’s employees have undergone such reviews in FY2022.
+
+# Material Topic
+
+# FY2022 Performance
+
+Achieved an average of 30.0 training hours per employee, through our physical and virtual training programmes via LMSAwarded two Continuing Education Sponsorships to a Supervisor and a Senior Director from Manufacturing100% of employees underwent annual performance appraisal
+
+# Perpetual Targets
+
+Maintain our commitment to training and skills upgrading for all employeesEmpower employees to meet their personal and professional development goalsTo achieve 100% of employees receiving regular performance and career development reviews
+
+34
+
+Sustainability Report 2022
+
+www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+# Employees Receiving Regular Performance and Career Development Reviews by gender
+
+| |Male|Female|
+|---|---|---|
+|FY2020|156 (100%)|1,293 (100%)|
+|FY2021|549 (100%)|1,204 (100%)|
+|FY2022| |1,464 (100%)|
+| | |1,419 (100%)|
+
+# Diversity and Equal Opportunities (GRI 405-1)
+
+We are a workplace that values and encourages diversity, inclusion, and equality.
+
+Our ability to tap on a diverse talent pool across the many regions we operate in remains one of AEM’s key strengths, and we are committed to enriching our workforce with representatives of different genders, races, and nationalities.
+
+In line with fair employment practices, we hire, train, and evaluate our employees based on their skills and competencies, without discrimination or bias. All employees are to treat each other with respect and dignity, and we have zero tolerance for harassment and unlawful discrimination in any form.
+
+While the age diversity of our workforce has remained relatively stable over the years, there has been a significant improvement in AEM’s gender ratio over the years. Our female employees now represent 51% of the workforce, up from 22% in FY2020.
+
+As testament to our commitment towards promoting a culture of diversity and inclusion at AEM, we have established a Global Women Empowerment and Leadership Council which aims to bring together the AEM women workforce to share experiences and create an inspiring learning environment.
+
+# Material Topic
+
+|Diversity and Equal Opportunity|FY2022 Performance|Perpetual Targets|
+|---|---|---|
+| |Zero reported instances of discrimination in the workplace|Ensure equal opportunities and career progression are made available and accessible to all employees regardless of gender, race, or age|
+| |Maintaining a relatively balanced gender diversity ratio of AEM’s workforce|Encourage greater diversity in our workforce and achieve a fair representation of various diversity categories within AEM’s governing body and senior management team|
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+# SOLIDIFYING RELATIONSHIPS WITH OUR STAKEHOLDERS
+
+# Diversity and Equal Opportunities
+
+| |FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Diversity within AEM's Management|1 (7%)|1 (8%)|1 (6%)|
+|Male|11 (92%)|14 (93%)|16 (94%)|
+|Female| | | |
+|Diversity of AEM's Exempt Employees|94 (22%)|222 (30%)|363 (35%)|
+|Male|337 (78%)|521 (70%)|672 (65%)|
+|Female| | | |
+|Diversity of AEM's Non-Exempt Employees|44 (39%)|154 (41%)|193 (45%)|
+|Male|69 (61%)|219 (59%)|235 (55%)|
+|Female| | | |
+|Diversity of AEM's Direct Employees|17 (11%)|450 (33%)|496 (35%)|
+|Male|132 (89%)|916 (67%)|907 (65%)|
+|Female| | | |
+
+# Market Presence and Contribution
+
+# Employee Entry Wages (GRI 202-1)
+
+AEM strictly adheres to all applicable minimum wage laws in the countries we have direct operations in. In FY2022, all entry-level employees in countries with minimum wage laws, i.e., Malaysia, China, Vietnam, Indonesia, U.S.A, and France, were paid the minimum wage as prescribed by the local government. There is no difference in pay between male and female entry-level employees across all countries with minimum wage laws. In countries without minimum wage laws, i.e., Singapore and Finland, AEM provides its employees with competitive compensation and benefits packages.
+
+36
+
+Sustainability Report 2022
+
+www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+# Diversity and Equal Opportunities
+
+| |FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Diversity within AEM's Management|2 (13%)|2 (17%)|6 (35%)|
+|Under 30|10 (83%)|13 (87%)|11 (65%)|
+|30-50| | | |
+|Over 50| | | |
+
+| |FY2020| |FY2021| |FY2022| |
+|---|---|---|---|---|---|---|
+|Diversity of AEM's Exempt Employees|72 (17%)|124 (29%)|170 (23%)|181 (24%)|205 (20%)|256 (25%)|
+|Under 30|235 (54%)| |392 (53%)| |574 (55%)| |
+|30-50| | | | | | |
+|Over 50| | | | | | |
+
+| |FY2020| |FY2021|FY2022| |
+|---|---|---|---|---|---|
+|Diversity of AEM's Non-Exempt Employees|13 (12%)| | |40 (9%)| |
+|Under 30| |154 (41%)|197 (53%)|160 (38%)|228 (53%)|
+|30-50| | | | | |
+|Over 50| | | | | |
+
+| |FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Diversity of AEM's Direct Employees|3 (2%)|302 (22%)|385 (27%)|
+|Under 30|95 (64%)|1,039 (76%)|993 (71%)|
+|30-50| | | |
+|Over 50| | | |
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+# SOLIDIFYING RELATIONSHIPS WITH OUR STAKEHOLDERS
+
+# Local Representation in AEM’s Leadership (GRI 202-2)
+
+At AEM, we believe that it is our ability to understand local needs that has allowed us to maintain our position as a global leader in test innovation. Accordingly, it is important that we maintain a high proportion of local representation within AEM’s senior management team, as this helps demonstrate our positive market presence and increases the economic benefit to the local community. Comprising people from various nationalities, more than 80% of AEM’s senior management team (general managers and above) has been hired from the local community.
+
+|By Region|FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Singapore|5 (100%)|6 (100%)|5 (83%)|
+|Malaysia (Penang)|1 (100%)|1 (100%)|1 (100%)|
+|China (Suzhou)|1 (100%)|1 (100%)|1 (100%)|
+|Vietnam (Ho Chi Minh City)|1 (100%)|2 (100%)|1 (50%)|
+|Indonesia (Batam)|N.A.|1 (100%)|0 (0%)|
+|North and Central America (the US and Costa Rica)|2 (100%)|2 (100%)|2 (100%)|
+|Finland|1 (100%)|1 (100%)|1 (100%)|
+|France|1 (100%)|1 (100%)|1 (100%)|
+|South Korea|N.A.|N.A.|2 (100%)|
+
+*N.A. as the subsidiaries in these countries have not been acquired or incorporated
+
+# Material Topic
+
+# FY2022 Performance
+
+Zero significant incidents of non-compliance with all applicable labour laws
+
+# Perpetual Targets
+
+Continue to adhere to minimum wage laws in countries we operate in
+
+# Market Presence and Contribution
+
+More than 80% of our senior management across the Group were hired from local communities
+
+38 Sustainability Report 2022
+
+Sustainability Report 2022 www.aem.com.sg
+
+Dear kind-hearted donors,
+
+Kindly leave the goods and meals on the table. Thank you for your cooperation.
+
+# AEM Holdings Ltd.
+
+# AEM: Then & Now first-hand Impression
+
+# Giving Back To The Community
+
+AEM strives to be a socially responsible company that uplifts local communities by mobilising our global workforce to have a positive social impact. We strongly encourage all our employees to actively give back to the community by participating in community service projects, joining fundraisers, or making charitable donations.
+
+# Local Communities (GRI 413-1)
+
+AEM has actively been doing our part in promoting a culture of diversity and inclusiveness within the semiconductor industry. In 2022, AEM was proud to be one of the Gold Sponsors at the second edition of the SSIA Semiconductor Women's Forum. The forum aims to highlight the achievements of female talents within the semiconductor industry and to inspire more women to enter the industry.
+
+AEM is also a steadfast member of SEMICON Southeast Asia, a global industry association serving the local manufacturing supply chains for the microelectronic, display and photovoltaic industries. As part of our continual efforts to support local workforce development in Penang, Malaysia, we are pleased to also have been a sponsor of the SEMI University Programme – an initiative by SEMI that aims to spark interest to embark on careers in the semiconductor industry and attract more young talents to the industry.
+
+# FY2022 Performance
+
+|Material Topic|FY2022 Performance|Perpetual Targets|
+|---|---|---|
+|Local Communities|Made charitable donations to uplift local communities|To partner with charity organisations in improving the local communities’ welfare|
+| |Sponsored programmes by SSIA and SEMICON to drive greater diversity and inclusivity within the semiconductor industry|Pursue other means of giving back to our community, in addition to cash donations and sponsorships|
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+# SOLIDIFYING RELATIONSHIPS WITH OUR STAKEHOLDERS
+
+# Protecting Our Customers
+
+At AEM, we are focused on helping our customers achieve a time-to-market advantage for their next generation product launches. Our goal is to become a trusted partner to our customers, by assessing the health and safety impacts of our products and services, safeguarding customer confidentiality, and fulfilling customer demands. As highlighted in our Quality Policy Statement on our website, we are committed to continuous improvement and excellence in all that we do.
+
+# Customer Health and Safety (GRI 416-1)
+
+AEM’s key products and services include handling solutions, test solutions for Automated Testing Equipment and Precision Cables, as well as contract manufacturing services.
+
+Across the Group, we have a standardised process for introducing new products into the market. All products are to undergo validation compliance checks against customer- and region-specific health and safety requirements, such as the SEMI-S2/S8 standard and CE compliance, before they will be qualified for shipment.
+
+The health and safety impact of all products and services has been assessed. Since FY2019, there are no significant incidents of non-compliance with regulatory and/or voluntary codes concerning the health and safety impacts of our products and services.
+
+# Customer Privacy (GRI 418-1)
+
+AEM is committed to protecting the personal information of the people with whom we do business, including our suppliers, customers, colleagues, and other stakeholders. We comply with all privacy and information security laws and regulatory requirements in the jurisdictions where we operate, and we maintain strict adherence to non-disclosure agreements with our business partners.
+
+We closely monitor complaints concerning breaches of customer privacy and losses of customer data, and we have not received any substantiated complaints on the matter since FY2019. We will ensure that the measures we have taken to protect our customer’s privacy and data continue to be compliant with the laws and regulatory requirements in the jurisdictions where we operate, and uphold our firm commitment to safeguarding our customer’s privacy and data.
+
+|Material Topic|FY2022 Performance|Perpetual Targets|
+|---|---|---|
+|Customer Health and Safety|Zero significant incidents of non-compliance with regulations and/or voluntary codes concerning the health and safety impacts of our products and services|Deliver quality products and services that fulfil statutory and regulatory requirements and satisfy customers’ needs|
+|Customer Privacy|Zero substantiated complaints concerning breaches of customer privacy and loss of customer data|Maintain zero substantiated complaints and sustain our efforts to safeguard customer privacy|
+
+40
+
+Sustainability Report 2022
+
+www.aem.com.sg
+
+# APPENDIX - PEOPLE INDICATORS
+
+# Social Performance : Employees1
+
+|Category|FY2020|FY20212|FY2022|
+|---|---|---|---|
+|Total Number of Employees|3000|2,883|2,497|
+|By Employee Category| | | |
+|Direct|149 (21%)|1,366 (54%)|1,403 (48%)|
+|Non-Exempt|113 (16%)|373 (15%)|428 (15%)|
+|Exempt|431 (61%)|743 (30%)|1,035 (36%)|
+|Management|12 (2%)|15 (1%)|17 (1%)|
+
+# By Gender
+
+|Gender|FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Male|549 (78%)|1,204 (48%)|1,419 (49%)|
+|Female|156 (22%)|1,293 (52%)|1,464 (51%)|
+
+# By Age Group
+
+|Age Group|FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Under 30|210 (30%)|1,417 (57%)|1,477 (51%)|
+|30-50|397 (56%)|850 (34%)|1,130 (39%)|
+|Over 50|98 (14%)|230 (9%)|276 (10%)|
+
+# Employee New Hires
+
+|Category|FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Total|705|2,497|2,883|
+|By Gender| | | |
+|Male|116 (76%)|263 (66%)|367 (62%)|
+|Female|37 (24%)|135 (34%)|225 (38%)|
+
+# By Age Group
+
+|Age Group|FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Under 30|74 (48%)|190 (48%)|361 (61%)|
+|30-50|67 (44%)|177 (44%)|188 (32%)|
+|Over 50|12 (8%)|31 (8%)|43 (7%)|
+
+# Employee Turnover
+
+|Category|FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Total|63 (9%)|340 (14%)|492 (17%)|
+|By Gender| | | |
+|Male|53 (84%)|194 (57%)|307 (62%)|
+|Female|10 (16%)|146 (43%)|185 (38%)|
+
+# By Age Group
+
+|Age Group|FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Under 30|22 (35%)|181 (53%)|230 (47%)|
+|30-50|33 (52%)|130 (38%)|212 (43%)|
+|Over 50|8 (13%)|29 (9%)|50 (10%)|
+
+1 We have restated social performance data from FY2020 and FY2021, following a change in our employee categorisation
+
+2 Significant changes in employment figures in FY2021 due to acquisition of CEI in 1H2021.
+
+www.aem.com.sg
+
+Sustainability Report 2022 41
+
+# A P P E N D I X - P E O P L E I N D I C A T O R S
+
+# Social Performance : Occupational Health and Safety (GRI 403-9, 403-10)
+
+| |FY2021*|FY2022|
+|---|---|---|
+|Work-related injuries for all employees and workers| | |
+|Number of fatalities|0|0|
+|Number of high-consequence work-related injuries|0|0|
+|Number of recordable work-related injuries|0|4|
+|Rate of recordable work-related injuries^|0|1.0|
+|Work-related ill health for all employees and workers| | |
+|Number of fatalities|0|0|
+|Number of cases of recordable work-related ill health|0|0|
+
+* First year of monitoring and tracking work-related hazards that could potentially cause injury or ill health
+
+^ Rate of recordable work-related injury = Number of injuries per million hours worked
+
+# Social Performance : Diversity and Equal Opportunities (GRI 405-1)
+
+| |FY2020|FY2021|FY2022|
+|---|---|---|---|
+|Diversity within AEM's Board of Directors| | | |
+|By Gender| | | |
+|Male|7 (100%)|6 (86%)|6 (86%)|
+|Female|0 (0%)|1 (14%)|1 (14%)|
+|By Age Group| | | |
+|Under 60|4 (57%)|5 (71%)|5 (71%)|
+|60 or over|3 (43%)|2 (29%)|2 (29%)|
+|Diversity within AEM's Management| | | |
+|By Gender| | | |
+|Male|11 (92%)|14 (93%)|16 (94%)|
+|Female|1 (8%)|1 (7%)|1 (6%)|
+|By Age Group| | | |
+|Under 30|0 (0%)|0 (0%)|0 (0%)|
+|30-50|2 (17%)|2 (13%)|11 (65%)|
+|Over 50|10 (83%)|13 (87%)|6 (35%)|
+
+42  Sustainability Report 2022 www.aem.com.sg
+
+# AEM Holdings Ltd.
+
+# Social Performance: Diversity and Equal Opportunities (GRI 405-1)
+
+|Diversity within AEM's Exempt Employees|FY2020|FY2021|FY2022|
+|---|---|---|---|
+|By Gender|Male: 337 (78%)|Male: 521 (70%)|Male: 672 (65%)|
+| |Female: 94 (22%)|Female: 222 (30%)|Female: 363 (35%)|
+|By Age Group|Under 30: 124 (29%)|Under 30: 181 (24%)|Under 30: 256 (25%)|
+| |30-50: 235 (54%)|30-50: 392 (53%)|30-50: 574 (55%)|
+| |Over 50: 72 (17%)|Over 50: 170 (23%)|Over 50: 205 (20%)|
+
+|Diversity within AEM's Non-Exempt Employees|FY2020|FY2021|FY2022|
+|---|---|---|---|
+|By Gender|Male: 69 (61%)|Male: 219 (59%)|Male: 235 (55%)|
+| |Female: 44 (39%)|Female: 154 (41%)|Female: 193 (45%)|
+|By Age Group|Under 30: 35 (31%)|Under 30: 197 (53%)|Under 30: 228 (53%)|
+| |30-50: 65 (57%)|30-50: 154 (41%)|30-50: 160 (38%)|
+| |Over 50: 13 (12%)|Over 50: 22 (6%)|Over 50: 40 (9%)|
+
+|Diversity within AEM's Direct Employees|FY2020|FY2021|FY2022|
+|---|---|---|---|
+|By Gender|Male: 132 (89%)|Male: 450 (33%)|Male: 496 (35%)|
+| |Female: 17 (11%)|Female: 916 (67%)|Female: 907 (65%)|
+|By Age Group|Under 30: 51 (34%)|Under 30: 1,039 (76%)|Under 30: 993 (71%)|
+| |30-50: 95 (64%)|30-50: 302 (22%)|30-50: 385 (27%)|
+| |Over 50: 3 (2%)|Over 50: 25 (2%)|Over 50: 25 (2%)|
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+43
+
+# APPENDIX - PEOPLE INDICATORS
+
+# Social Performance: Training and Education (GRI 404-1)
+
+|Total Training Hours| | |FY2020|FY2021|FY2022|
+|---|---|---|---|---|---|
+|By Gender|Male|4,013 (80%)|14,293 (52%)|17,976 (21%)| |
+| |Female|1,003 (20%)|13,176 (48%)|68,516 (79%)| |
+|By Employee Category|Direct|1,542 (31%)|19,628 (71%)|71,677 (83%)| |
+| |Non-Exempt|491 (10%)|2,684 (10%)|4,081 (5%)| |
+| |Exempt|2,983 (59%)|5,157 (19%)|10,461 (12%)| |
+| |Management|0 (0%)|0 (0%)|273 (0%)| |
+| | |Total Hours|5,016|27,469|86,492|
+
+# Average Training Hours per Employee
+
+| | | | | |FY2020|FY2021|FY2022|
+|---|---|---|---|---|---|---|---|
+|By Gender| | | |Male|7.3|11.9|12.7|
+| | | | |Female|6.4|10.2|46.8|
+|By Employee Category| | | |Direct|10.3|14.4|51.1|
+| | | | |Non-Exempt|4.3|7.2|9.5|
+| | | | |Exempt|6.9|6.9|10.1|
+| | | | |Management|0|0|16.1|
+| | | | |Overall Average|7.1|11.0|30.0|
+
+# Employees Receiving Regular Performance and Career Development Reviews (GRI 404-3)
+
+| | | | |FY2020|FY2021|FY2022|
+|---|---|---|---|---|---|---|
+|By Gender| | |Male|549 (100%)|1,204 (100%)|1,419 (100%)|
+| | | |Female|156 (100%)|1,293 (100%)|1,464 (100%)|
+|By Employee Category| | |Direct|149 (100%)|1,366 (100%)|1,403 (100%)|
+| | | |Non-Exempt|113 (100%)|373 (100%)|428 (100%)|
+| | | |Exempt|431 (100%)|743 (100%)|1,035 (100%)|
+| | | |Management|12 (100%)|15 (100%)|17 (100%)|
+| | | |Total Employees|705 (100%)|2,497 (100%)|2,883 (100%)|
+
+# G R I C O N T E N T I N D E X
+
+Statement of Use AEM Holdings Ltd. has reported the information cited in this GRI content index for the period 1 January 2022 to 31 December 2022 with reference to the GRI standards.
+
+# GRI 1 used
+
+GRI 1 : Foundation 2021
+
+# GRI Standards
+
+|Disclosure Title|Page Reference|
+|---|---|
+|General Disclosures| |
+|2-1 Organisational details|10|
+|2-2 Entities included in the organisation's sustainability reporting|12|
+|2-3 Reporting period, frequency and contact point|12|
+|2-4 Restatements of information|41|
+|2-5 External assurance|12|
+|2-6 Activities, value chain and other business relationships|10|
+|2-7 Employees|41|
+|2-9 Governance structure and composition|16|
+|2-10 Nomination and selection of the highest governance body|Annual Report: 55-57|
+|2-11 Chair of the highest governance body|Annual Report: 54-55|
+|2-12 Role of the highest governance body in overseeing the management of impacts|16|
+|GRI 2 : General Disclosures 2021| |
+|2-13 Delegation of responsibility for managing impacts|16|
+|2-14 Role of the highest governance body in sustainability reporting|16|
+|2-15 Conflicts of Interest|Annual Report: 50-52|
+|2-16 Communication of critical concerns|Annual Report: 64-66|
+|2-17 Collective knowledge of the highest governance body|16|
+|2-18 Evaluation of the performance of the highest governance body|Annual Report: 57|
+|2-19 Remuneration policies|Annual Report: 58-62|
+|2-20 Process to determine remuneration|Annual Report: 58-62|
+|2-22 Statement on sustainable development strategy|13|
+|2-27 Compliance with laws and regulations|19-20, 22|
+|2-28 Membership associations|10|
+|2-29 Approach to stakeholder engagement|16-19|
+|Material Topics| |
+|GRI 3 : Material Topics 2021| |
+|3-1 Process to determine material topics|19|
+|3-2 List of material topics|20|
+|Corporate Governance and Anti-Corruption| |
+|GRI 3 : Material Topics 2021| |
+|3-3 Management of material topics|22-23|
+|GRI 205 : Anti-Corruption 2016| |
+|205-1 Operations assessed for risks related to corruption|22-23|
+
+www.aem.com.sg
+
+Sustainability Report 2022 45
+
+# G R I C O N T E N T I N D E X
+
+|GRI Standards|Disclosure Title| |Page Reference|
+|---|---|---|---|
+|Economic Performance|GRI 3 :|3-3 Management of material topics|23|
+|GRI 201 :|Economic Performance|201-1 Direct economic value generated and distributed|23|
+|Sustainable Supplier Management|GRI 3 :|3-1 Process to determine material topics|25|
+|GRI 308 :|Supplier Environmental Assessment|308-1 New suppliers that were screened using environmental criteria|25|
+|GRI 414 :|Supplier Social Assessment|414-1 New suppliers that were screened using social criteria|25|
+|Energy and Emissions|GRI 3 :|3-3 Management of material topics|26-27|
+|GRI 302 :|Energy 2016|302-1 Energy consumption within the organisation|26|
+| | |302-3 Energy intensity|26|
+| | |302-4 Reduction of energy consumption|26|
+|GRI 305 :|Emissions 2016|305-1 Direct (Scope 1) GHG emissions|27|
+| | |305-2 Energy indirect (Scope 2) GHG emissions|27|
+| | |305-4 GHG emissions intensity|27|
+|Waste Management|GRI 3 :|3-3 Management of material topics|28|
+|GRI 306 :|Waste 2020|306-1 Waste generation and significant waste-related impacts|28|
+| | |306-2 Management of significant waste-related impacts|28|
+| | |306-3 Waste generated|28|
+|Water Management|GRI 3 :|3-3 Management of material topics|29|
+|GRI 303 :|Water and Effluents 2018|303-5 Water consumption|29|
+|Employment|GRI 3 :|3-3 Management of material topics|31-32|
+|GRI 401 :|Employment 2016|401-1 New employee hires and employee turnover|32,41|
+| | |401-2 Benefits provided to full-time employees that are not provided to temporary or part-time employees|31|
+|Occupational Health and Safety|GRI 3 :|3-3 Management of material topics|32-33|
+|GRI 403:|Occupational Health and Safety 2018|403-1 Occupational health and safety management system|32-33|
+| | |403-2 Hazard identification, risk assessment, and incident investigation|32-33|
+| | |403-4 Worker participation, consultation, and communication on occupational health and safety|32-33|
+| | |403-6 Promotion of worker health|32-33|
+| | |403-9 Work-related injuries|32-33, 42|
+| | |403-10 Work-related ill health|32-33, 42|
+
+46  Sustainability Report 2022
+
+www.aem.com.sg
+
+# A EM Holdings Ltd.
+
+# GRI Standards
+
+| |Disclosure Title| | | |Page Reference|
+|---|---|---|---|---|---|
+|Training and Education| | | | | |
+|GRI 3 :|3-3 Management of material topics| | |34| |
+|Material Topics 2021|404-1 Average hours of training per year per employee|34, 44| | | |
+|GRI 404 :|404-2 Programs for upgrading employee skills and transition assistance| | |34| |
+|Training and Education programs|404-3 Percentage of employees receiving regular performance and career development reviews| | |34, 44| |
+|Diversity and Reduced Inequality| | | | | |
+|GRI 3 :|3-3 Management of material topics| | |35| |
+|Material Topics 2021|GRI 405 : Diversity and Equal Opportunity|405-1 Diversity of governance bodies and employees|35-37, 42-43| | |
+|Market Presence and Contribution| | | | | |
+|GRI 3 :|3-3 Management of material topics| | |36, 38| |
+|Material Topics 2021|202-1 Ratios of standard entry level wage by gender compared to local minimum wage|36| | | |
+|GRI 202 :|Market Presence|202-2 Proportion of senior management hired from the local community| |38| |
+|Giving Back to the Community| | | | | |
+|GRI 3 :|3-3 Management of material topics| | |39| |
+|Material Topics 2021|GRI 413 : Local Communities|413-1 Operations with local community engagement, impact assessments, and development programs|39| | |
+|Customer Health and Safety| | | | | |
+|GRI 3 :|3-3 Management of material topics| | |40| |
+|Material Topics 2021|GRI 416 : Customer Health and Safety|416-1 Assessment of the health and safety impacts of product and service categories|40| | |
+|Customer Privacy| | | | | |
+|GRI 3 :|3-3 Management of material topics| | |40| |
+|Material Topics 2021|GRI 418 :|418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data| |40| |
+
+www.aem.com.sg
+
+Sustainability Report 2022
+
+47
+
+# Sustainability Report 2022
+
+Published by AEM Holdings Ltd.
+
+For additional information about AEM, visit www.aem.com.sg
+
+# A Zero Failure World
+
+# AEM Holdings Ltd.
+
+52 Serangoon North Avenue 4
+
+Singapore 555853
+
+www.aem.com.sg
+
+Tel: +65 6483 1811
+
+Fax: +65 6483 1822
+
+www.aem.com.sg

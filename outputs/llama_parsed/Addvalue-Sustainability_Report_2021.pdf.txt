@@ -1,0 +1,812 @@
+E
+
+# TABLE OF CONTENTS
+
+# ABOUT THIS REPORT
+
+......................................................................................................1
+
+# BOARD’S STATEMENT
+
+.....................................................................................................2
+
+# ABOUT US
+
+........................................................................................................................3
+
+# OUR VISION
+
+........................................................................................................................................................4
+
+# OUR CORE PURPOSE
+
+.........................................................................................................................................................4
+
+# OUR CORE VALUES
+
+.........................................................................................................................................................4
+
+# SUSTAINABILITY APPROACH
+
+.........................................................................................5
+
+# STAKEHOLDERS
+
+...............................................................................................................6
+
+# MATERIAL EESG FACTORS
+
+..............................................................................................7
+
+# BUSINESS ETHICS AND EXCELLENCE
+
+.............................................................................8
+
+# ENTERPRISE RISK MANAGEMENT
+
+....................................................................................................................8
+
+# CONFLICT OF INTEREST
+
+....................................................................................................................................8
+
+# BRIBERY AND ANTI-CORRUPTION
+
+...................................................................................................................8
+
+# COMMUNICATION TO EMPLOYEES
+
+.................................................................................................................9
+
+# COMMUNICATION TO GOVERNANCE BODY MEMBERS
+
+...............................................................................9
+
+# ECONOMIC FACTORS
+
+....................................................................................................10
+
+# FINANCIAL ASSISTANCE
+
+..................................................................................................................................10
+
+# SUPPLY CHAIN
+
+........................................................................................................................................10
+
+# ENVIRONMENTAL FACTORS
+
+........................................................................................11
+
+# PRODUCT DEVELOPMENT AND PRODUCTION
+
+........................................................................................11
+
+# WASTE MANAGEMENT AND RECYCLING
+
+......................................................................................................12
+
+# SOCIAL FACTORS
+
+...........................................................................................................13
+
+# SUSTAINABLE LABOUR PRACTICES
+
+...............................................................................................................13
+
+# WORK LIFE BALANCE
+
+.......................................................................................................................................13
+
+# DIVERSITY AND EQUAL OPPORTUNITY
+
+.........................................................................................................................14
+
+# NON-DISCRIMINATION POLICY AND EFFECTIVE COMMUNICATION
+
+........................................................................................................................16
+
+# WORKFORCE RETENTION RATE
+
+.....................................................................................................................17
+
+# EMPLOYEE HEALTH AND SAFETY
+
+..................................................................................................................18
+
+# TRAINING AND PROFESSIONAL DEVELOPMENT
+
+.........................................................................................................................19
+
+# CAREER DEVELOPMENT
+
+..................................................................................................................................20
+
+# PRODUCT RESPONSIBILITY
+
+............................................................................................................................21
+
+# SUPPLIER SOCIAL ASSESSMENT
+
+....................................................................................................................21
+
+# GRI CONTENT INDEX
+
+....................................................................................................22
+
+# ABOUT THIS REPORT
+
+GRI 102-1, 102-50, 102-53 to 54
+
+This year, we continue to address the Economic, Environmental, Social and Governance (“EESG”) aspects deemed material to Addvalue Technologies Ltd and our subsidiaries (“Addvalue” or the “Group”).
+
+As a world recognised ‘one-stop shop’ communications technology products developer, we provide state-of-the-art satellite-based communication and other innovative digital broadband products and solutions for a variety of connectivity for applications at seas, on land, in sky and in space.
+
+The Group also specializes in offering customised design services, tailored to the unique needs of each customer in availing total satellite communication solutions from anywhere and at any time. In order to promote long-term value creation in the pursuit of our commercial objectives and attainment of sustainable value for our key stakeholders, comprising the shareholders, employees, customers, vendors and regulators, the Group adopts various practices, to be carried out through sustainable efforts, concerning EESG matters.
+
+This Sustainability Report 2021 (“Report”), covers the reporting period from 1 April 2020 to 31 March 2021 (“FY2021”).
+
+The Global Reporting Initiative (“GRI”) Standards is the independent, international organization that helps businesses and other organizations take responsibility for their impacts, by providing them with the global common language to communicate those impacts. GRI provides the world’s most widely used standards for sustainability reporting – the GRI Standards, as such, we have adopted the GRI Standards for our reporting purposes. This report has been prepared in accordance with the GRI Standards: Core option.
+
+As we progress and grow, the Group values any feedback on how we can improve on our sustainability reporting. Please send your feedback to sustainability@addvalue.com.sg.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# BOARD’S STATEMENT
+
+Dear Stakeholders,
+
+At Addvalue, we always strive to promote long-term value creation in the pursuit of our commercial objectives and attain sustainable value for our stakeholders. Sustainability is an integral part and embedded in our business success. We engage with our stakeholders in identifying business imperatives to drive improvements in sustainability.
+
+First, we believe that the sustainability of our business is entwined with the global movement on environmental sustainability. Through our deliberate effort in our business transformation over the years, we have scored successes in pivoting our connectivity technologies towards fisheries sustainability and a wide array of autonomous IoT-based environmental surveillance applications, including weather monitoring, utilities efficiency and animal tracking.
+
+Second, we make sustainability priority in our partnerships and climate protection a joint task. As the curation of the materials is an integral part of our product development programs, we aspire to nurture a supply ecosystem with our vendors who have the shared principle. Indeed, it takes the collective actions to build sustainability throughout the whole value chain of supply.
+
+With the global business environment still impacted by the COVID-19 pandemic, we continue to meet our corporate social responsibility goals by embracing our core values and adapting to challenges. As always, sustainable digital transformation for our clients will continue to drive our resilience.
+
+The Board and Management are committed to further enhance stakeholders’ value through our robust corporate governance framework, where we manage EESG related risks and opportunities. The Board maintains oversight of the identification and assessment of EESG issues that are material to operations and stakeholders. We remain focused and have taken steps to ensure a diverse and inclusive workforce; a wide breadth of opinions and backgrounds play a large part in our success.
+
+In this report, we are pleased to share with you our progress for FY2021 and our compass towards sustainable development. We look forward to building on our commitment for a sustainable future. We thank you for your patience and support during these difficult times. Together, we will navigate Addvalue through today’s challenging phase.
+
+On behalf of Board,
+
+Dr Chan Kum Lok Colin
+
+Chairman & CEO
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# ABOUT US
+
+GRI 102-2 to 7, 102-12, 102-16
+
+Addvalue Technologies Ltd was founded in 1996 and was listed on the mainboard of Singapore Stock Exchange in 2000. Addvalue’s technical competencies include Radio and Antenna Design, Embedded System Design, Software Defined Radio platform. Addvalue’s products and solutions revolve around "Connectivity". In particular, Addvalue knows best to leverage satellite communications technologies for reliable, resilient and smart connection, be it between people, between machines or between people and machines. These products and solutions, including the Internet-of-Things (“IoT”), are ideal choices for communications in areas around the world where terrestrial networks are non-existent or ineffective.
+
+Over the years, Addvalue has not only established itself as a key partner to many major players in the satellite communication industry, but also extended its track record into the emerging and exciting industries of new space, remote monitoring, tracking and smart computing through IoT and Artificial Intelligence (“AI”) technologies.
+
+Addvalue markets and sells its products and solutions to government users and commercial enterprises through partners and business consultants operating in North and Latin America, Asia Pacific, Europe, Middle East and Africa. Headquartered in Singapore, where all its product development activities and manufacturing support are planned and undertaken, it also has a team in Beijing China to manage the product sales and technical support to clients in the China market.
+
+Addvalue maintains ISO 9001:2015 Quality Management certification, where our quality management system consistently provides products and services that meet statutory and regulatory requirements, facilitates opportunities to enhance customer satisfaction, and addresses risk and opportunities effectively. Additionally, Addvalue adopts a business continuity management (‘BCM’) program since 2013 and continue to operate and maintain processes, capabilities, and response structures ensuring that Addvalue will survive disruptions and meets the business continuity needs and obligations.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# ABOUT US
+
+# GRI 102-2 to 7, 102-12, 102-16
+
+# OUR VISION
+
+To be universally recognized as a trusted and preferred partner in the business of connecting the world.
+
+# OUR CORE PURPOSE
+
+We enable companies to unleash their real business potentials by harnessing the products and services offered by us.
+
+# OUR CORE VALUES
+
+Always remains Dynamic to look out for new opportunities and emerging threats. It is the drive to seek continuous improvement in all that we do no matter how trivial it may seem to be.
+
+Enterprising is our second nature. We are used to taking calculated risks to do things differently in search of breakthroughs. It is this enterprising spirit that urges us to think and act innovatively, away from convention.
+
+Fortitude is the hallmark of our character. Throughout the history of our company, it is this nerve of steel that enable us to preserve and overcome all crisis that confront us.
+
+Being Trusted is the single most important asset that everyone of us should have. It is foundation for our teamwork. Without trust, we don’t earn true respect from others.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# SUSTAINABILITY APPROACH
+
+# GRI 102-18, 102-46
+
+Our materiality assessment performed involved our employee representatives of the different groups of stakeholders in identifying sustainability factors deemed material to the Group’s businesses and our stakeholders so as to allow us to channel our resources to create sustainable value for our stakeholders. This is reviewed annually to reflect changes in business operations, environment, stakeholders’ feedback and sustainability trends.
+
+We have adopted the 4-step approach as follows in deriving our material sustainability factors.
+
+|Identification|Through our focus group discussions with the relevant representatives of the different groups of stakeholders, we have identified the various EESG factors.|
+|---|---|
+|Prioritisation|The EESG factors will be prioritised based on its importance to the stakeholders and the importance to the Group. The material factors will be shortlisted for reporting.|
+|Validation|The shortlisted material EESG factors will then be internally validated by the Group’s senior management and Board. This promotes the alignment of sustainability factors to the Group’s corporate objective.|
+|Review|The material EESG factors will be reviewed on an annual basis and will be subject to amendments should there be any changes in the business operations or market conditions. The Report is also open to feedback from our stakeholders for our continual improvement.|
+
+In considering Addvalue’s activities, impacts, and the substantive expectations and interest of our stakeholders, we have applied the four reporting principles in the above 4-step approach.
+
+1. Stakeholder Inclusiveness
+- ✓ Identification
+- ✓ Review
+2. Sustainability Context
+- ✓ Identification
+- ✓ Prioritisation
+- ✓ Validation
+- ✓ Review
+3. Materiality
+- ✓ Prioritisation
+- ✓ Validation
+4. Completeness
+- ✓ Prioritisation
+- ✓ Validation
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# 6
+
+# STAKEHOLDERS
+
+# GRI 102-40, 101-42 to 44
+
+The Group recognizes the importance of effective engagement with our major stakeholders for the benefit to sustain a healthy relationship with them. We strive to create an environment in which our stakeholders are welcome to voice out their concerns for us to better understand their expectations and continue to add value for all our stakeholders. We are committed to continue to work closely with stakeholders to address their concerns through our engagements with them.
+
+|Stakeholders|Basis for Determining Stakeholders|Engagement Method|Frequency of Engagement|
+|---|---|---|---|
+|Investors|Influence on Addvalue’s future strategies and management’s decisions|Annual General Meeting|Annually|
+| | |Website|As and when necessary|
+| | |Announcements|As and when necessary|
+|Customers|Customers’ needs and preferences shapes the direction of the Group|Trade shows|As and when necessary|
+| | |Conference|As and when necessary|
+| | |Phone call|As and when necessary|
+| | |Site visits and meetings|As and when necessary|
+| | |E-mail|As and when necessary|
+| | |Website|As and when necessary|
+| | |Training and workshop|As and when necessary|
+| | |Collaboration meetings|As and when necessary|
+|Business Partners and Vendors|Influence on Addvalue’s delivery of high-quality products and services|Trade shows|As and when necessary|
+| | |Conference|As and when necessary|
+| | |Phone call|As and when necessary|
+| | |E-mail|As and when necessary|
+| | |Factory visits|As and when necessary|
+| | |Face to face communication|As and when necessary|
+|Employees|Executes the direction of the Group|Annual performance review|As and when necessary|
+| | |Company-wide meetings/training|Annually|
+| | |Email announcements|Annually|
+| | |Social functions|As and when necessary|
+|Regulators|Compliance with local laws and regulation|Reporting platforms|As and when necessary|
+| | | |Annually|
+
+# Area of Concerns
+
+- Financial performance
+- Governance and transparency
+- Anti-corruption
+- Quality of products
+- Meeting of deadlines
+- Meeting technical needs and requirements
+- Prompt payment
+- Fair business dealings
+- Quality of components
+- Delivery schedule
+- Fair benefits and compensation
+- Equal employment opportunities
+- Adequate training provided
+- Career advancement
+- Compliance with regulatory requirements
+
+# Significant topics:
+
+- Employment
+- Diversity and Equal Opportunity
+- Health and Safety
+- Training Education
+- Anti-corruption
+- Financial Performance
+
+# Moderate topics:
+
+Topics that are relatively less significant but are still incorporated in Addvalue’s sustainable and responsible business practices.
+
+# LEVEL OF CONCERN TO EXTERNAL
+
+POTENTIAL OR CURRENT IMPACT ON OUR BUSINESS
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# MATERIAL EESG FACTORS
+
+# GRI 102-46 to 47, 49
+
+There have been no major changes to our business operations this year. The key factors identified under the EESG framework remain the same as the year before.
+
+|Material Topic|Reason for Disclosure|GRI Standard|Boundary|
+|---|---|---|---|
+|ECONOMIC|Poses significant effects towards investors|201-1|√|
+| | |201-4| |
+|Anti-corruption|Poses significant effects towards stakeholders|205-2|√|
+| | |205-3| |
+|ENVIRONMENTAL|Poses significant effects towards sustainability|307-1|√|
+|Supplier Environmental Assessment| |308-1|√|
+|SOCIAL|Poses significant effects towards employees|401-1|√|
+|Training and Education| |404-1|√|
+| | |404-3| |
+|Diversity and Equal Opportunity| |405-1|√|
+|Non-discrimination| |406-1|√|
+|Supplier Social Assessment| |414-1|√|
+|Customer Health and Safety|Poses significant effects towards customers|416-2|√|
+|Socioeconomic Compliance|Compliance towards local laws and regulations|419-1|√|
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# BUSINESS ETHICS AND EXCELLENCE
+
+GRI 102-11, 102-16, 205-3
+
+Acting responsibly and ethically is crucial to maintaining the trust and confidence of our stakeholders. We strive to maintain high ethical standards and continually ensure that we comply with the relevant laws and regulations. Our efforts include fostering an ethical working environment by requiring our employees to follow the Addvalue Corporate Policies and Business Conduct Guidelines, which is regularly reviewed and updated. Apart from maintaining our high ethical standards, Addvalue is committed to building a culture of risk awareness that promotes good corporate governance and a sound system of internal controls.
+
+# ENTERPRISE RISK MANAGEMENT
+
+The Group has put in place an Enterprise Risk Management (“ERM”) Framework which assists Addvalue in managing inherent risks arising across the Group’s business, at a macro level.
+
+The framework is a structured and discipline approach to identifying and assessing key risks and their potential impact on the achievement of the Group’s key objectives. Control measures are put in place to mitigate the risks with Addvalue’s risk appetite at a holistic level rather than in silos or isolation within areas or functions.
+
+All employees are required to complete a Conflict of Interest Declaration Form upon joining and update Human Resources as and when circumstances change. Since FY2021, all employees are required to declare their Conflict of Interest on an annual basis.
+
+This ensures that employees’ decision making and professional judgement are not influenced by undue personal interests that creates a conflict of interest to the Group.
+
+# BRIBERY AND ANTI-CORRUPTION
+
+Addvalue has zero tolerance policy on bribery and corruption. As such, the Group has put in place a whistle-blowing policy for employees to raise concerns on any possible misconduct or improprieties within the Group. Details of our whistle-blowing policy have been made available to all employees of the Group through our internal website. This platform encourages employees to raise concerns in confidence and in good faith, without the fear of reprisals.
+
+In order to protect the identity of the whistle blower, all reports will be submitted to the Audit Committee directly for their appropriate actions, which may include independent investigations and any appropriate follow-up actions. We have achieved our target of sustaining our zero-corruption record. There was no bribery or corruption incident reported this year (2020: Nil). We strive to sustain our zero-corruption record in the long run through relevant actions to ensure that our employees, governance body members, and business partners are aware of our anti-corruption and whistle-blowing policies and comply with all applicable laws and regulations. This is in line with our overall strategy to increase investor confidence and attain business excellence.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# BUSINESS ETHICS AND EXCELLENCE
+
+# GRI 102-11, 102-16, 205-2
+
+# COMMUNICATION TO EMPLOYEES
+
+Addvalue’s Human Resource department has achieved 100% (2020: 92%) communication of our anti-corruption policies to all our employees this year. This target is linked to management’s KPI and we will continue to ensure that these policies are communicated to all our employees on a regular basis. Details of the whistleblowing policies, code of conduct, and anti-corruption policies are made available to all Singapore employees on the intranet. For all newly joined staff (local and overseas), Addvalue’s clear stance against corruption is communicated through a detailed briefing of the corporate policies and the consequences of violation of any policies, which may include harsh penalties, disciplinary actions, or even dismissal. This serves to aid their personal responsibility for demonstrating the highest standards of trust in all of our actions and relationships.
+
+# COMMUNICATION TO GOVERNANCE BODY MEMBERS
+
+All newly appointed Directors will be sent the details of our anti-corruption policies. They are required to read them thoroughly to familiarize themselves with the policies and understand the key principles of fairness, honesty, openness, decency, integrity, and respect. Addvalue expects the governance body members to hold their integrity, and act in the best interest of Addvalue on behalf of their stakeholders.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# 10
+
+# ECONOMIC FACTORS
+
+GRI 102-9 to 10, 201-4
+
+# FINANCIAL ASSISTANCE
+
+The Group receives a relatively substantial amount of financial assistance from the Singapore Government. In FY2021, we received US$1,198,102 (2020: US$1,297,373) from the Singapore Government, of which none were present in the shareholding structure of Addvalue. These grants include subsidies for development activities to build our base of propriety products as well as applications and processes to improve our operations and productivity. With the government’s support, Addvalue is on track for the further expansion of our capabilities and our technological innovation.
+
+# SUPPLY CHAIN
+
+The Group strives to establish a diverse and sustainable supply chain to support Addvalue’s value creation in the long term. The management of our supply chain is an integral part of our operations to reduce risk of disruptions, increase efficiency, and protect our brand reputation. Our supply chain consists of vendors based in stable countries such as Singapore, Malaysia, United States, Denmark, China, and Hong Kong, where risks of operational disruption is minimal.
+
+Due to the COVID-19 situation, operational and shipment delays are unavoidable. We have communicated to our customers that there will be a longer delivery lead time due to worldwide components shortages. We seek to tackle the supply chain disruptions by diversifying our sources and securing the supply early. In the short term, we aim to reduce lead times by ensuring that all our inventory is within reach and outside of impacted areas. Addvalue will continue to maintain our local sourcing activities to minimize the risk of shipment disruptions and we will continue to look into diversifying our supply chain by further securing alternative suppliers in case of severe shortages. As a long-term measure, we will implement supply chain risk management practices to mitigate potential risks and improve our resilience and responsiveness to disruptions.
+
+As part of our supply chain operations, we strive to maintain the quality of materials used for production. Our vendors must meet the prerequisites set out in Addvalue’s product quality requirements. We conduct our Vendor evaluation and Qualification procedure annually to determine whether they have met our minimum requirements set. We aim to continue this annual assessment to ensure that quality is maintained.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# 11
+
+# ENVIRONMENTAL FACTORS
+
+GRI 307-1, 308-1
+
+The need for environmental preservation has been increasing in prominence among businesses and communities as environmental issues continue to threaten our sustainability in the future. As a committed organization, we recognize our responsibility to manage the climate change challenge and we seek to minimize our negative impact on our environment with our conservation efforts. During the reporting period (2020: Nil), the Group did not identify any non-compliance with environmental laws and/or regulations. We seek to continue our strong compliance record and maintain our efforts to preserve the environment. We believe that our strong compliance record aligns with our business strategy and will attract like-minded vendors who also uphold high sustainability standards.
+
+# PRODUCT DEVELOPMENT AND PRODUCTION
+
+As a company deeply engaged in electronic products development and the determination of materials and processes used in the manufacturing of such products for commercial purposes, we take a holistic commitment to our product development sustainability by building into our product life cycle process every opportunity to review the types and quantities of materials used and processes applied. Where possible environmentally friendly materials are adopted and material waste and obsolescence are minimized.
+
+We believe the sustainability of our supply chain is a crucial part of our sustainability performance. Our existing vendors and contract manufacturers are evaluated on their environmental impact through our annual Vendor evaluation and Qualification procedure. Factors we consider include their efforts towards recycling, incorporation of environmentally friendly materials, energy conservation, environmental certifications, and their use of toxic or hazardous substance materials. From the feedback of such assessment, 91% (2020: 75%) of our selected key suppliers has met with our minimum requirements set. We will continue this effort to evaluate our suppliers on their environmental preservation to ensure minimum adverse impact on the environment in FY2022.
+
+For all our new vendors and contract manufacturers, we conduct a review assessment which includes an onsite assessment of their factory premises and a quality assurance audit. Currently, the screening procedure does not include any environmental criteria.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# ENVIRONMENTAL FACTORS
+
+# GRI 307-1, 308-1
+
+Addvalue recognizes the importance of assessing any negative environmental impacts caused by our supply chain. Thus, moving forward, we will be incorporating the environmental criteria as part of our screening procedures for all new suppliers1 commencing 1 September 2021 and aim to maintain such assessment once established. This further reinforces our stance towards environmental sustainability, playing our part in making sure that all our engagements are environmentally friendly.
+
+# WASTE MANAGEMENT AND RECYCLING
+
+In the Group’s day to day operations, we aim to build a paperless culture whereby our employees practice the 3Rs – Reduce, Reuse, Recycle in the office. The 3Rs play a crucial role by preventing waste generation at its source. Addvalue contributes by reducing our paper usage through double-sided printing, reusing single sided prints for internal documents, and recycling used paper.
+
+The Group is committed to dispose of hazardous waste responsibly and in compliance with relevant local and international environmental, safety, and health regulations, as well as in line with industry standards.
+
+We work closely with our landlord, Panasonic on its Waste and Resource Management System (“WRMS”) Program which is in line with the National Environment Agency’s (“NEA”) mandatory reporting procedures. We consolidate our general waste in centralized waste bins which will be collected by Panasonic’s appointed waste collector. Recyclable waste items such as paper and cartons are collected in a similar fashion through the centralized bins. Addvalue’s paper and cartons waste is not considered material, as such, we are exempted from the reporting requirements. Being a registered producer under the Resource Sustainability Act (“RSA”), we directly report to NEA on an annual basis our Electrical and Electronic Equipment (“EEE”) Supply Declaration. This is mandated by NEA where Addvalue is required to declare the amount (i.e. weight) of regulated products supplied in Singapore for electronic-waste management.
+
+Apart from the above, our employees are also encouraged to conserve energy through the switching off of power for equipment that are not in use, and the switching off of lights during lunch hours and when not in use.
+
+1 Suppliers refer to Electronic Manufacturing Services (“EMS”) providers, vendors, and manufacturers.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# SOCIAL FACTORS
+
+# GRI 419-1
+
+As a technology developer and innovator, we place importance on our workforce capabilities, resourcefulness, experience, skills and knowhow. We recognise the key role our employees play in contributing to our business success and growth. To value and show appreciation for our employees’ effort, we awarded 74,300,000 new ordinary shares to 37 employees in February 2021 as the Group had met certain key performance indicators within a limited period prescribed by the Remuneration Committee of the Company, which, among others, include the successful commissioning of the Inter-Satellite Data Relay System (“IDRS”) service of the Group on a commercial Low Earth Orbit (“LEO”) satellite in space. We wish to continually align our employee goals with our organization goals. This is imperative to our continued success.
+
+Another important sustainability focus will be the development and social well-being of every community in which we operate in, especially to our very own employees, with emphasis on providing them with sustainable and inclusive labour practices. There were no incidents of non-compliance with socioeconomic laws this year (2020: Nil), and we seek to maintain Addvalue’s strong compliance record through relevant policies and initiatives.
+
+# SUSTAINABLE LABOUR PRACTICES
+
+Our sustainable labour practices include providing equal opportunity, non-discrimination policy, effective communications between management and employees, providing work life balance, and sufficient attention to occupational health and safety hazards. The Group believes in having a diverse and inclusive culture, where all employees are welcomed and treated equitably. Having these policies will help to ensure employees to not only lead a well-balanced work life, but also to inculcate a sustained positive attitude for continuous improvement towards their work, customers and business partners of the Group.
+
+# WORK LIFE BALANCE
+
+Addvalue always wants to support its employees in striking a balance between their career goals, own objectives and personal lifestyle. We opted for a work life balance policy to enable flexible work hours arrangements with employees. All employees are allowed to adopt a flexi-time arrangement while the managers and above are additionally permitted to practice flexi-place arrangement outside the office.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# 14
+
+# SOCIAL FACTORS
+
+# GRI 405-1
+
+# DIVERSITY AND EQUAL OPPORTUNITY
+
+The Group believes in respecting and valuing diversity in race, cultures, religion, gender identity, sexual orientation, nationality, genetics, disability, age or any other factors unrelated to Addvalue’s legitimate business interest. We are convinced that mixed teams often produce better results, and appreciation of individuality is beneficial for the work climate. Our equal opportunity practices are necessary to create an open mindedness, productive and creative community that the Group needs to drive its growth and sustainability. We seek to create an inclusive and fair working environment by providing our people with equal opportunities and adopting merit-based practices for recruitment, selection, and promotion. It is very important to us that - irrespective of gender, age, background or any other aspects – all employees are valued and can devote their individual strengths, experience and potential to the Group.
+
+We value inclusiveness not only in our employees but also in our board composition. Although there is currently no female director or director from a younger age group appointed in the Board, the Board does not rule out the possibility of appointing such director if a suitable candidate is nominated for the Board’s consideration.
+
+|Nationality|Singapore|Britain|Australia|USA|
+|---|---|---|---|---|
+| |2|1|1|1|
+|Age Group|Above 50|Above 50|Above 50|Above 50|
+| |5|5|5|5|
+|Gender|Male|Male|Male|Male|
+| |5|5|5|5|
+
+|Nationality|Singapore|Britain|Australia|
+|---|---|---|---|
+| |2|1|1|
+|Age Group|Above 50|Above 50|Above 50|
+| |4|4|4|
+|Gender|Male|Male|Male|
+| |4|4|4|
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# SOCIAL FACTORS
+
+GRI 102-7 to 8, 405-1
+
+Our workforce comprises of employees from different age groups and background. We have a total work force of 83 (2020: 77) full time employees as at 31 March 2021. 5 of the employees are temporary trainees while the rest of the employees are permanent where 76 (2020: 72) of them are stationed in Singapore and 7 (2020: 5) in our Beijing office. The diversity of the Group by gender, age and nationality are presented as follows:
+
+|Gender Diversity|Age Diversity|Nationality Diversity|
+|---|---|---|
+|Female 36%|30 to 50 47%|Myanmar 1%|
+|Male 64%|Below 30 31%|Republic of China 13%|
+| |Over 50 22%|Philippines 4%|
+| | |India 2%|
+| | |Singapore 59%|
+| | |Malaysia 21%|
+
+|Gender Diversity|Age Diversity|Nationality Diversity|
+|---|---|---|
+|Female 36%|30 to 50 49%|Myanmar 1%|
+|Male 64%|Below 30 33%|Republic of China 12%|
+| |Over 50 18%|Philippines 4%|
+| | |India 2%|
+| | |Malaysia 25%|
+| | |Singapore 56%|
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# SOCIAL FACTORS
+
+# GRI 401-1, 406-1
+
+# NON-DISCRIMINATION POLICY AND EFFECTIVE COMMUNICATION
+
+The Group promotes freedom of expression and open communication. The Group conducts regular company-wide meetings to discuss openly the Group’s visions and goals. It also conducts team building and team bonding activities biennially, if not annually. During these meetings, all employees are encouraged to have open discussion with management and provide feedback. Our Group also conducts regular gatherings for festive lunches and occasional team bonding sessions.
+
+During the reporting period, due to the COVID-19 situation, adjustments have been made to hold company meetings virtually. Festive gatherings and celebrations have been replaced with distribution of gifts and mini giveaways to promote bonding and to show appreciation to staff working in office during the COVID-19 period.
+
+The Group provides monthly internal sharing sessions with employees on product updates and knowledge; regular meetings with management on updates of relevant key matters; and monthly in-house newsletters to update our employees on key happenings, be it business-related or otherwise. Our Group practices an open-door policy, and all employees are welcomed to approach the head of their respective departments or the Human Resource department or the CEO Office for any grievances and/or issue that they may encounter, whether it is work-related or otherwise. We also provide feedback boxes for employees who would like to feedback or suggest to management for any improvement measure concerning our work office environment or on any staff matter. There were no incidents of discrimination reported this year (2020: Nil). In the long run, we aim to maintain zero discrimination and foster an inclusive culture where all employees are treated with respect. We respect and protect the personal dignity of each individual, tolerating neither discrimination nor harassment of our employees.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# SOCIAL FACTORS
+
+# GRI 401-1
+
+# WORKFORCE RETENTION RATE
+
+The Group strives to keep our employee turnover rate low by prioritizing the well-being of our employees and having in place certain employee benefits to increase employee happiness and job satisfaction.
+
+Our hiring and turnover rates during the reporting period are as follows:
+
+|Area of Focus|FY2020 Performance|FY2021 Performance|Target for FY2022|Long term Target|
+|---|---|---|---|---|
+|Hiring rate|36.4%|14.5%|&lt; 15%|&lt; 15%|
+|Turnover rate|23.4%|6.0%|&lt; 15%|&lt; 15%|
+
+# Employee turnover (2021)
+
+|Region|Singapore|
+|---|---|
+|Employee Turnover|5|
+
+# Employee Hires (2021)
+
+|Region|Singapore|
+|---|---|
+|Employee Hires|12|
+
+# Age Group
+
+| |Below 30|30 to 50|Over 50|
+|---|---|---|---|
+|Employee Turnover|2|1|2|
+|Employee Hires|5|4|3|
+
+# Gender
+
+| |Male|Female|
+|---|---|---|
+|Employee Turnover|2|3|
+|Employee Hires|7|5|
+
+# Employee Turnover (2020)
+
+|Region|Singapore|Beijing|
+|---|---|---|
+|Employee Turnover|16|2|
+
+# Employee Hires (2020)
+
+|Region|Singapore|Beijing|
+|---|---|---|
+|Employee Hires|27|1|
+
+# Age Group
+
+| |Below 30|30 to 50|Over 50|
+|---|---|---|---|
+|Employee Turnover|3|14|1|
+|Employee Hires|14|11|3|
+
+# Gender
+
+| |Male|Female|
+|---|---|---|
+|Employee Turnover|14|4|
+|Employee Hires|17|11|
+
+The Group recognizes the importance of keeping our employee turnover rate low and allowing us to retain key skills and knowledge without affecting our recruitment budget, team balance, and employees’ morale. In 2020, the Ministry of Manpower reported a recruitment rate and resignation rate of 2.2% (2019: 2.4%) and 1.5% (2019: 1.6%) respectively in the Information and Communications industry. Comparing to the sector average, our rates are relatively high. While we acknowledged there is a room for improvement, given our lean structure, we believe that our rates are within the reasonable range. Considering that we managed to achieve our target for both hiring and turnover rate to be under 15% in FY2021, we are optimistic and hope to maintain the hiring and turnover rate below 15% in the future.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# SOCIAL FACTORS
+
+# EMPLOYEE HEALTH AND SAFETY
+
+Our Group regards workplace safety as an essential part of office admin operation. We comply with Workplace Safety and Health regulatory procedures. Safety committee is put in place and safety inspections are performed regularly. Our Group sends employees to first-aid courses on a regular basis to ensure that our team is equipped to provide first-aid help promptly when there is a need. We target to have at least one certified first-aid employee to be allocated at each department. In addition, safety manuals are made accessible through the intranet and communicated to our staff via email and orientation program. There was one (FY2020: two) health and safety incident occurring during FY2021. We have investigated the nature of these incidents and noted that they are did not arise from exposure to any hazards at work and therefore they are not work-related. Nonetheless, we will continue to promote safety in the workplace and have emphasized the importance of vigilance to our employees.
+
+As the well-being of our staff is critical to the Group, we strive to actively promote healthy work practices. Accordingly, employees above 40 years of age, who are provided with additional relevant allowance, are encouraged to do a yearly health check. Regular health talks and annual health screening programs are organised for our employees. In order to inculcate healthy eating habits, the Group also organised a ‘Fruit Day’ once a month, whereby each employee will be given a healthy fruit on ‘Fruit Day’.
+
+The Group have also placed additional health and safety measures to safeguard our staff in light of the COVID-19 situation. This includes allowing our staff to telecommute where possible, especially for our vulnerable staff such as those who are pregnant or those who fall under the older age group. For our staff working in office, masks are provided and disinfectant agents are placed at high touchpoint areas. We promote and encourage good personal hygiene and workplace cleanliness. We comply with the social distancing requirements of at least 1 meter apart to minimize the spread of the virus as well as daily temperature taking in the morning and after lunch for staff who need to work in office. As the health of our staffs are of utmost priority, we require visitors to fill in a declaration form to ensure that they are not at risk of COVID-19 and to wear a mask within our work premises to protect our staff, family and close contacts.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# SOCIAL FACTORS
+
+# GRI 404-1
+
+# TRAINING AND PROFESSIONAL DEVELOPMENT
+
+Addvalue believes that our people are our greatest assets. In order to adapt to the rapid changes in the environment and ride the waves of technological advancements smoothly, it is important to ensure that our employees keep abreast with technology trends and are well equipped with the necessary skills and knowledge. Hence, the Group provides in-house training on product and technology competency and sends the relevant staff for external courses to upgrade their skills as and when necessary. The professional courses cover both technical skills such as design technologies and aviation product design, as well as business skills such as corporate branding and strategic training. The trainees are required to conduct a sharing session to their team members to share the knowledge and insights gained. This boosts the productivity level and performance at both individual and organizational levels.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# SOCIAL FACTORS
+
+GRI 404-1, 404-3
+
+The average hours of training that our employees have undertaken in 2021 is 5.7 hours (2020: 21.2 hours). This was a decrease of 15.5 hours which is an approximate drop of 73%. The average training hours per employee category is as follows:
+
+| |Administrative|Production|Technical| | | | |
+|---|---|---|---|---|---|---|---|
+|Average Training Hours|6.38 hours (2020: 14.01)|0 hours (2020: 12.83)|5.05 hours (2020: 27.41)| | | | |
+|Senior Management|7.70 hours (2020: 33.39)| | | | | | |
+|Middle Management|7.28 hours (2020: 46.78)| | | | | | |
+| | | | |Staff|4.49 hours (2020: 9.58)| | |
+| | |Male|Female| | | | |
+|Average Training Hours|6.41 hours (2020: 27.64)|5.20 hours (2020: 9.54)| | | | | |
+
+The disparity between the average training hours for Production Staff and Administrative or Technical Staff is due to the restrictions in providing onsite trainings for the Production Staff, as a result of the COVID-19 pandemic.
+
+Due to the COVID-19 pandemic, employees had to attend webinars with shorter training hours instead. We expect greater work productivity and efficiency from employees working remotely since they are more familiar with it. Employees should expect webinars to be the default mode for trainings in the years to come, except certain skill-based practical trainings.
+
+Although we did not manage to meet our training target this year, we would like to continue to target an achievement of an average of 20 hours per staff in the short term, and 40 hours per staff in the long term. Addvalue’s training requirements are as per ISO’s requirement which is also linked to management’s KPI.
+
+# CAREER DEVELOPMENT
+
+In addition, the Group review our employees’ performance regularly to recognize their achievements at work, identify their training needs, and set personal targets for the next review period to further stretch their potential. This aids our employees’ personal development and enhances employee satisfaction, which correlates with improved organizational performance. In FY2021, all of our employees, including the senior management, received their annual performance and career development reviews (2020: 100%). We will continue our regular career development reviews for all our employees in the future.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# SOCIAL FACTORS
+
+“We shall develop products and solutions that fit the aspirations of every conceivable end user. Our products and solutions will be so pervasive in the market that we become the de facto brand synonymous with innovation, user experience and performance.”
+
+# PRODUCT RESPONSIBILITY
+
+Our vision is to be widely recognized as a world leading global mobile satellite service (“MSS”) player in the satellite communications industry. While we have been successful in adopting new technological advancements for new product development, we are also scaling up our compliance for product safety and reliability. During the Design and Development Phase, our experienced engineers design and maintain test plans based on the product requirements. The testing conducted include Regulatory Compliance test and Product Reliability test, and the test reports are used to follow up with the design team to resolve any issues faced before embarking onto mass production and commercialization of the product. With the test plans in place, we aim to verify and evaluate the product performance, stability, functionality, and application and mobility of our technology. We also ensure that our products are delivered in a responsible manner through a framework designed to manage issues relating to heat and radiation emissions of product when operating. Our products, bearing the “Addvalue enabled” label, are certified for compliance with relevant safety standards. Our customers’ experience as well as their health and safety are of utmost importance to us. Our products and services are regularly assessed based on the requirements for Regulatory Compliance and Country Type Approval. This may include compliance necessary for certification to CE, FCC, IC, and Safety (IEC 60950) regulations. Our reliability and quality control engineers conduct visual and functional inspections to identify areas of improvement to be made or replacements required. With our strong commitment to maintaining high quality and reliability of our solutions, there has been no incidents of non-compliance with regulations or voluntary codes concerning the health and safety impacts of our products this year (2020: Nil).
+
+# SUPPLIER SOCIAL ASSESSMENT
+
+Being a committed and responsible business requires us to integrate sustainable and socially responsible practices into our supply chain management as well. We understand the importance of considering social factors in the choice of our suppliers, such as ISO 45001 - Occupation Health and Safety certification, promotion of safe and cohesive working environment, compliance with safety regulations and the supplier’s efforts to respect the human rights. Hence, we plan to incorporate social criteria in our screening procedure for new suppliers2 commencing 1 September 2021, and we aim to maintain such assessment once established. This allows us to mitigate or prevent any negative impacts to the society at the early stage of structuring contracts of other agreements.
+
+2Suppliers refer to Electronic Manufacturing Services (“EMS”) providers, vendors, and manufacturers.
+
+Addvalue Technologies Ltd Sustainability Report 2021
+
+# GRI CONTENT INDEX
+
+# GRI 102-55
+
+|Disclosure Number|Disclosure Title|
+|---|---|
+|GRI 102: Organisational profile| |
+|102-1|Name of organisation|
+|102-2|Activities, brands, products, and services|
+|102-3|Location of headquarters|
+|102-4|Location of operations|
+|102-5|Ownership and legal form|
+|102-6|Markets served|
+|102-7|Scale of the organisation|
+|102-8|Information on employees and other workers|
+|102-9|Supply chain|
+|102-10|Significant changes to the organisation and its supply chain|
+|102-11|Precautionary principle or approach|
+|102-12|External initiatives|
+|102-13|Membership of associations|
+|GRI 102: Strategy| |
+|102-14|Statement from senior decision-maker|
+|GRI 102: Ethics and integrity| |
+|102-16|Values, principles, standards, and norms of behaviour|
+|GRI 102: Governance| |
+|102-18|Governance structure|
+|GRI 102: Stakeholder engagement| |
+|102-40|List of stakeholder groups|
+
+# Page References
+
+|Comments|AR: Annual Report 2021|Section References|
+|---|---|---|
+|-|SR 1|About This ReportAbout Us|
+|-|SR 1|About This Report|
+|-|SR 3|About Us|
+|-|SR 3|About Us|
+|-|SR 3|About Us|
+|-|SR 3|About Us|
+|-|SR 15|Social Factors|
+|-|AR 55-56| |
+|-|SR 10|Economic Factors|
+|-|SR 10|Economic Factors|
+|-|SR 8 - 9|Business Ethics and Excellence|
+|-|SR 21|Social Factors|
+|-|SR 2|Board’s Statement|
+|-|SR 3|About Us|
+|-|SR 21|Social Factors|
+|Association of Aerospace Industries (Singapore)|-|-|
+|Singapore Space and Technology Associations|-|-|
+|-|SR 2|Board’s Statement|
+|-|SR 3 - 4|About Us|
+|-|SR 8 - 9|Business Ethics and Excellence|
+|-|SR 5|Sustainability Approach|
+|-|SR 6|Stakeholders|
+
+# Addvalue Technologies Ltd Sustainability Report 2021
+
+# Disclosure
+
+|Number|Disclosure Title|Comments|AR: Annual Report 2021|Section References|
+|---|---|---|---|---|
+|102-41|Collective bargaining agreements|covered under collective bargaining agreements|-|-|
+|102-42|Identifying and selecting stakeholders|-|SR 6|Stakeholders|
+|102-43|Approach to stakeholder engagement|-|SR 6|Stakeholders|
+|102-44|Key topics and concerns raised|-|SR 6|Stakeholders|
+|102-45|Entities included in the consolidated financial statements|-|AR 93|-|
+|102-46|Defining report content and topic Boundaries|-|SR 5|Sustainability Approach|
+|102-47|List of material topics|-|SR 7|Material EESG Factors|
+|102-48|Restatements of information|None|-|-|
+|102-49|Changes in reporting|-|SR 7|Material EESG Factors|
+|102-50|Reporting period|-|SR 1|About This Report|
+|102-51|Date of most recent report|28 October 2020|-|-|
+|102-52|Reporting cycle|Annual|-|-|
+|102-53|Contact point for questions regarding the report|-|SR 1|About This Report|
+|102-54|Claims of reporting in accordance with the GRI standards|-|SR 1|About This Report|
+|102-55|GRI content index|-|SR 22 - 25|GRI Content Index|
+|102-56|External assurance|No external assurance|-|-|
+|103-1|Explanation of the material topic and its Boundary|-|SR 10|Economic Factors|
+|103-2|The management approach and its components|-|SR 10|Economic Factors|
+|103-3|Evaluation of the management approach|-|SR 10|Economic Factors|
+|201-1|Direct economic value generated and distributed|-|AR 117-119|-|
+|201-4|Financial assistance received from government|-|SR 10|Economic Factors|
+|103-1|Explanation of the material topic and its Boundary|-|SR 8 – 9|Business Ethics and Excellence|
+|103-2|The management approach and its components|-|SR 8 – 9|Business Ethics and Excellence|
+
+# Addvalue Technologies Ltd Sustainability Report 2021
+
+# Disclosure
+
+|Number|Disclosure Title|Comments|AR: Annual Report 2021|Section References|
+|---|---|---|---|---|
+|103-3|Evaluation of the management approach|-| |SR 8 – 9|
+|205-2|Communication and training about anti-corruption policies and procedures|-| |SR 9|
+|205-3|Confirmed incidents of corruption and actions taken|-| |SR 8|
+|GRI 307: Environmental compliance| | | | |
+|103-1|Explanation of the material topic and its Boundary|-| |SR 11 - 12|
+|103-2|The management approach and its components|-| |SR 11 - 12|
+|103-3|Evaluation of the management approach|-| |SR 11 - 12|
+|307-1|Non-compliance with environmental laws and regulations|-| |SR 11|
+|GRI 308: Supplier environmental assessment| | | | |
+|103-1|Explanation of the material topic and its Boundary|-| |SR 11 - 12|
+|103-2|The management approach and its components|-| |SR 11 - 12|
+|103-3|Evaluation of the management approach|-| |SR 11 - 12|
+|308-1|New suppliers that were screened using environmental criteria|-| |SR 11|
+|GRI 401: Employment| | | | |
+|103-1|Explanation of the material topic and its Boundary|-| |SR 16 - 17|
+|103-2|The management approach and its components|-| |SR 16 - 17|
+|103-3|Evaluation of the management approach|-| |SR 16 - 17|
+|401-1|New employee hires and employee turnover|-| |SR 16 - 17|
+|GRI 404: Training and education| | | | |
+|103-1|Explanation of the material topic and its Boundary|-| |SR 19 - 20|
+|103-2|The management approach and its components|-| |SR 19 - 20|
+|103-3|Evaluation of the management approach|-| |SR 19 - 20|
+|404-1|Average hours of training per year per employee| | |SR 20|
+|404-3|Percentage of employees receiving regular performance and career development reviews|-| |SR 20|
+
+# Addvalue Technologies Ltd Sustainability Report 2021
+
+# Disclosure
+
+|Number|Disclosure Title|Comments|AR: Annual Report 2021|Section References|
+|---|---|---|---|---|
+|GRI 405: Diversity and equal opportunity|103-1 Explanation of the material topic and its Boundary|-|SR 14 – 15|Social Factors|
+| |103-2 The management approach and its components|-|SR 14 – 15|Social Factors|
+| |103-3 Evaluation of the management approach|-|SR 14 – 15|Social Factors|
+| |405-1 Diversity of governance bodies and employees|-|SR 14 – 15|Social Factors|
+|GRI 406: Non-discrimination|103-1 Explanation of the material topic and its Boundary|-|SR 16|Social Factors|
+| |103-2 The management approach and its components|-|SR 16|Social Factors|
+| |103-3 Evaluation of the management approach|-|SR 16|Social Factors|
+| |406-1 Incidents of discrimination and corrective actions taken|-|SR 16|Social Factors|
+|GRI 414: Supplier social assessment|103-1 Explanation of the material topic and its Boundary|-|SR 21|Social Factors|
+| |103-2 The management approach and its components|-|SR 21|Social Factors|
+| |103-3 Evaluation of the management approach|-|SR 21|Social Factors|
+| |414-1 New suppliers that were screened using social criteria|-|SR 21|Social Factors|
+|GRI 416: Customer health and safety|103-1 Explanation of the material topic and its Boundary|-|SR 21|Social Factors|
+| |103-2 The management approach and its components|-|SR 21|Social Factors|
+| |103-3 Evaluation of the management approach|-|SR 21|Social Factors|
+| |416-2 Incidents of non-compliance concerning the health and safety impacts of products and services|-|SR 21|Social Factors|
+|GRI 419: Socioeconomic compliance|103-1 Explanation of the material topic and its Boundary|-|SR 13|Social Factors|
+| |103-2 The management approach and its components|-|SR 13|Social Factors|
+| |103-3 Evaluation of the management approach|-|SR 13|Social Factors|
+| |419-1 Non-compliance with laws and regulations in the social and economic area|-|SR 13|Social Factors|
+
+# Addvalue Technologies Ltd Sustainability Report 2021
+
+ADDVALUETECH.COM
