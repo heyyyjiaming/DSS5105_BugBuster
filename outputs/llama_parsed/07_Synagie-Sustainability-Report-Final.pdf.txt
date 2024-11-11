@@ -1,0 +1,846 @@
+# SYNAGIE CORPORATION LTD
+
+# SUSTAINABILITY REPORT
+
+# 2019
+
+# CONTENTS
+
+- ABOUT THIS REPORT 02
+- OUR SUSTAINABILITY STATEMENT 03
+- OUR SUSTAINABILITY MANAGEMENT 03
+- FEEDBACK LOOP 04
+- STAKEHOLDER ENGAGEMENT 04
+- MATERIALITY ASSESSMENT 06
+- MATERIAL TOPICS 07
+- ECONOMIC 11
+- ENVIRONMENTAL 15
+- SOCIAL 19
+- GOVERNANCE 25
+- GRI CONTENT INDEX 28
+
+# Board’s Statement
+
+Dear Stakeholders,
+
+FY2019 was a dynamic and eventful year for Synagie Corporation Ltd. (“Synagie” or “Company”, and together with its subsidiaries, the “Group”). In FY2019, we embarked on numerous initiatives that continue to benefit the Group and our stakeholders today. Among others, we were appointed as a partner by Enterprise Singapore to work on a developmental project to help SMEs internationalise through E-Commerce. We have also successfully expanded our operations into Thailand and Vietnam.
+
+Our goal is to achieve a sustainable business in the long term and focusing solely on financial performance is not sufficient. Sustainability considerations are important to our long-term business strategy, especially in this phase of growth that we are in. We are committed to working closely with our stakeholders to better understand their concerns and ensure that their interests are protected.
+
+On that note, we are pleased to present our second Sustainability Report – a testament to our commitment in upholding good governance. With assistance from our Sustainability Committee, the board of directors (“Board”) had considered sustainability issues as part of its strategic formulation and determined the material Environmental, Social and Governance (“ESG”) factors that are material to the continuity of our Group’s business. The Board is overall responsible for the oversight of the management and monitoring of the material ESG factors.
+
+Ensuring sustainability in our business requires a collective effort and we wish to invite our stakeholders to join us in our sustainability journey. Together as one, we can continue to achieve greater heights and create more value for our stakeholders.
+
+Our achievements to date would not have been possible without our team of dedicated staff and the continuous support of our business partners. We would like to express our appreciation to our staff and all our stakeholders for contributing to this Sustainability Report.
+
+For and on behalf of the Board of Directors
+
+Lee Shieh-Peen Clement
+
+Executive Director and Chief Executive Officer
+
+Synagie Corporation Ltd.
+
+30 May 2020
+
+1
+
+# About This Report
+
+# Scope of the report
+
+This is the second year Synagie is issuing its Sustainability Report. Sustainability is a concept that considers shareholder value in the long-term and not just focusing on short-term financial performance. Achieving a sustainable business considers the material ESG factors during the course of operations and corporate decision-making. This Sustainability Report covers our sustainability performance and initiatives undertaken that had impacted the material ESG factors.
+
+All data and activities reported herein were collated from the period commencing 1 January 2019 to 31 December 2019, unless otherwise stated.
+
+# Reporting Framework
+
+This Sustainability Report has been prepared in compliance with Rule 711B of the Singapore Exchange Securities Trading Limited (“SGX-ST”) Catalist Rules and in accordance with the Global Reporting Initiative (“GRI”) Standards – Core Option, which is the international standard for sustainability reporting established by GRI in 2016. Unless otherwise stated, this Sustainability Report covers the ESG performance of the Group across its core operations.
+
+# Report Content and Quality
+
+This Sustainability Report aims to provide stakeholders with an overview of our Group’s initiatives and strategies in relation to sustainability issues. Through this, we aim to address the key concerns and issues of our stakeholders. To ensure the quality of the content in this Sustainability Report, we have applied GRI’s principles of accuracy, balance, clarity, comparability, reliability and timeliness. All the data presented in this Sustainability Report are presented in internationally accepted measurement units. Financial figures are presented in Singapore Dollars unless otherwise stated.
+
+# Availability
+
+This Sustainability Report is only available in PDF format and can be downloaded from the SGXNet.
+
+As part of our ongoing efforts in improving the coverage of our sustainability practices, we welcome stakeholders to submit their questions or feedback on any aspect of our sustainability performance to SRFY2019@synagie.com.
+
+# Our Sustainability Statement
+
+# Our Vision
+
+To create sustainable commerce and champion positive change.
+
+# Our Mission
+
+We are committed in making the world a better place to live in. Our mission is to:
+
+- Enhance stakeholders’ value through sustainable business practices.
+- Offer our employees competitive benefits and a safe work environment and honouring the rights of our employees.
+- Empower our communities to advance and prosper.
+- Protect limited resources and actively seek ways to reduce our environmental footprint.
+
+# Our Sustainability Management
+
+Our Sustainability Committee is led by our Chief Executive Officer, and driven by the respective Department Heads and middle management team, as set out below.
+
+|Chief Executive Officer|Chief Executive Officer|
+|---|
+|Customer Engagement Specialist|Customer Business Development|
+|Business Analytics Solutions|Strategic Marketing Solutions|
+|Supply Chain Management|Corporate Finance|
+|Human Resources|Information Technology|
+
+# Responsibilities of the Sustainability Committee:
+
+- The Sustainability Committee shall oversee and provide input to management on the Company’s policies, strategies and programmes related to matters of sustainability and corporate social responsibility. This includes, but is not limited to, matters related to environment, local community, human rights, supply chains, customer feedback and philanthropy.
+- The Sustainability Committee shall set and review the goals established with respect to matters of sustainability and corporate social responsibility and monitor the Company’s performance and progress.
+- The Sustainability Committee shall receive periodic feedback from the Company’s management regarding relationships with key external stakeholders that may have a significant impact on the Company's business activities and performance.
+
+# Feedback Loop
+
+A feedback loop system is established to facilitate effective communication of our sustainability goals and performances and the expectations of our stakeholders.
+
+# Sustainability Committee
+
+# Feedback
+
+# Goals Setting
+
+Setting our sustainability goals and feedback loop
+
+# Employees
+
+# Stakeholders
+
+# Actual End Results
+
+# Stakeholder Engagement
+
+Engagement with key stakeholders through various platforms allows us to obtain valuable and relevant inputs that are critical in leading us towards improving our business performance while achieving our mission and vision towards sustainability. Our key stakeholders include our customers, employees, suppliers, shareholders, regulators and the community at large.
+
+We have collated and summarised the key concerns and interests raised by our stakeholders as follows:
+
+|Stakeholder|Engagement channels|Frequency|Key areas of concern|
+|---|---|---|---|
+|Employees|Code of Conduct and Group’s policies|Perpetual|Work environment safety and welfare|
+| |Performance appraisal|Annual|▪ Areas of improvement; ▪ Good merit-based compensation system; and ▪ Creation of effective development plan|
+| |Training and development|Ad-hoc|▪ Career progression; and ▪ Learning and growth opportunities|
+|Distribution channel partners|Distribution support|Perpetual|▪ Establishing and maintaining strong relationship|
+|Suppliers / Brand Partners|Synagie’s platform|Perpetual|▪ Establishing and maintaining strong business relationships; and ▪ Prompt payment cycles|
+| |Real-time Big Data Analytics|Perpetual|▪ Performance tracking and understanding customer behaviour|
+
+|Stakeholder|Engagement channels|Frequency|Key areas of concern|
+|---|---|---|---|
+|End users|Synagie’s platform|Perpetual|▪ Easy navigation and pleasant shopping experience; ▪ Security of personal data; ▪ Product safety; ▪ Competitive pricing; and ▪ Timely delivery of goods|
+|Feedback|Annual|Timely and quality customer service| |
+|Shareholders|Annual report and sustainability report|Annual|▪ Financial performance and position; ▪ Business strategy and outlook; and ▪ Sustainability of business|
+|Announcements on SGXNet|Ad-hoc|Timeliness, completeness and accuracy of announcements| |
+|Media releases|Ad-hoc|Timeliness, completeness and accuracy of media releases| |
+|Regulators|Correspondence|Ad-hoc|Regulatory compliance|
+|Community|Sustainability report|Annual|▪ Corporate social conduct; and ▪ Safe and sustainable environment|
+
+# Materiality Assessment
+
+Through various channels of communication and feedback received, materiality analysis is performed to identify sustainability issues that are important to our business and stakeholders. The analysis allows us to assess and prioritise stakeholders’ needs, and assists us to allocate our resources more efficiently to achieve long-term sustainable business.
+
+The materiality analysis has considered the GRI guidelines and the topics are prioritised based on a materiality matrix. The matrix considers the potential impact and significance of each topic to our business and its importance to stakeholders.
+
+Our review focuses on 4 key aspects with 9 identified material topics. For each material topic, we report on its relevance to our business and stakeholders, and the measures put in place to address it. There are no newly added material topics as compared to the materiality assessment conducted in FY2018 as there is no change in our business and operations as well as the environment that we operate in.
+
+|Ethics and business conduct|Product and service quality|Create economic value|
+|---|---|---|
+|Occupational health and safety|Risk management|Training and development|
+|Talent attraction and retention|Energy and water efficiency|Waste management|
+
+|Importance to our stakeholders|Significance to our business| | | |
+|---|---|---|---|---|
+| |Economic|Governance|Social|Environmental|
+
+# Material Topics
+
+|Topic|Why is this material for us and stakeholders|How we are addressing the issue|
+|---|---|---|
+|Economic Aspect|A sustainable business is not one that solely focuses on profits. Building a business with sustainable growth prospects ensures continuous creation of economic value for stakeholders.|We seek to create long-term economic value for our stakeholders through building a sustainable business and brand through expansion of our geographical influence. Moreover, we are constantly looking to improve our product range and increase the number of our business partners.|
+|It is our duty and obligation to ensure that our business is economically viable and growing. Moreover, we have to ensure that our financial position is healthy.| | |
+|Product and service quality|Offering products and services that exceed customer’s expectation helps to maintain customer satisfaction and brand loyalty.|We actively monitor and follow up on customers’ feedback. Their feedback is a resource for enhancing customer experience and adjusting our actions to meet their expectations.|
+|It has been our goal to build a reputation for our quality and to always exceed our customer’s expectations. We want to build a sustainable business relationship with our customers through our reputation for delivering quality products and services.|Data analytics is conducted through the use of real time big data analytics to better understand customers’ behaviour and demands. With our cross-border expansion to countries such as Malaysia, Philippines as well as Thailand and Vietnam, we are constantly enhancing our data analytics capabilities to cater to the different customer database.| |
+|Environmental Aspect|With waste production in Singapore increasing every year while land continues to be scarce, it is everyone’s responsibility to minimise waste. The increased waste production could be worsened as commerce and e-commerce continue to grow.|We are committed to integrate waste management into our operations to ensure the sustainability of our business.|
+|For goods packaging, we seek to minimise usage of resources and reduce waste production through our constant effort to reuse packaging and pallets.|In response to our national vision towards becoming a Zero Waste Nation and a Leading Green Economy, we also inculcate the 3R (Reduce, Reuse and Recycle) value in our office through the placement of 2 recycling bins in office.| |
+
+# Environmental Aspect
+
+# Energy and water efficiency
+
+As Singapore is working towards reducing its carbon footprint by encouraging lower energy consumption, we are committed towards energy conservation.
+
+Our commitment to energy efficiency is evident through our constant effort to minimise energy consumption in daily office operation with the use of motion-triggered lightings, maintaining air-conditioner temperature at 25 degrees Celsius and the use of energy-efficient light bulbs such as LED lights.
+
+We are taking reasonable measures to minimise energy consumption through improving overall energy efficiency of the Group. In return, this can create cost savings for the Group.
+
+In addition, we actively monitor our energy usage in office to ascertain the effectiveness of our energy conservation measures.
+
+# Social Aspect
+
+# Talent attraction and retention
+
+According to a study conducted by McKinsey, high performers are 400 percent more productive than average performers. High productivity of employees has a positive correlation with business performance. However, great talents are scarce and it has been a challenge to attract talents that fit into our Group’s culture and structure. Retaining talents is another challenge faced by our management.
+
+Nevertheless, we are committed to attract and retain the right talent that fits into our dynamic corporate culture.
+
+We are committed to recruit employees based on merit and valuable industry experience. Attractive remuneration, staff benefit and welfare, as well as the opportunity to develop are put in place to attract and retain talents.
+
+Furthermore, employees are granted with flexible working hours as we recognise the benefits of flexible working hours, such as reduced costs, increased productivity and innovation, staff retention, and talent attraction. As the Group’s operations expand across the region, we are also considering to extend the same benefits to employees in our overseas offices.
+
+# Occupational health and safety
+
+Maintaining good records for occupational health and safety benefit the Group in terms of upholding corporate image, greater staff retention, regulatory compliance, lower level of absenteeism and better cognitive performance. Further, employees also benefit from improved quality of life and sense of well-being. We are committed to taking care of our employees’ health, safety and well-being and this forms the foundation of our warehouse and supply chain process design.
+
+As our warehouse and logistics employees may be exposed to health and safety risks, we are committed to create a safe working environment for our employees. Occupational health and safety measures are integrated into our daily operations. Employees exposed to health and safety risks are constantly reminded to put on the necessary protective equipment. This is aligned with our mission to providing a safe working environment. Health supplements are also made available for employees to maintain good health and well-being.
+
+Furthermore, we are exploring the possibilities of extending insurance coverage to employees in our overseas operations.
+
+# Training and development
+
+With an increasingly competitive business landscape, rising complexity and digital revolution, constant reskilling and upskilling of employees have become ever important. As the value of human capital declines when knowledge becomes obsolete, we are committed to invest in training and development to sustain the value of our human capital.
+
+Opportunities for training and development have also increasingly formed the top criteria to attract and retain talent. The lack of training and development opportunities is also one of the key reasons for high employee turnover. This further strengthened our desire to provide our employees with training and development opportunity. Apart from benefiting the Group, training and development also equip our employees with the current knowledge and skillsets that would further benefit them in their career.
+
+In 2019, we sent our management team to attend an overseas training conducted by Alibaba Group. Upon their return, they shared their knowledge, skills and experience gained during that visit.
+
+# Governance Aspect
+
+# Ethics and business conduct
+
+Good corporate governance refers to having the appropriate people, processes and structures to direct and manage the business and affairs of the Group to maximise long-term shareholder value, while taking into account the interests of other stakeholders. Good corporate governance strengthens investors’ and shareholders’ confidence in the Group.
+
+We are committed to establish our corporate image based on the foundation of good ethics and business conduct.
+
+We have zero tolerance towards corruption and fraud as this is evident in our formalised Code of Business Ethics and Conduct policy, which is made available to all employees. This applies to all employees, including those who are located in foreign jurisdictions. Our key management in Singapore oversees the overseas operations, which mitigates agency risks as a result of the remoteness of such operations.
+
+Accessible and independent whistleblowing channels, including direct contact with the Audit Committee Chairman, allow our employees to report any suspected wrongdoings without the fear of reprisal. Furthermore, our open-door policy culture also provides employees with channels to escalate any suspected wrongdoings to the management.
+
+In addition, we have also established a privacy policy on our corporate website to provide transparency on our handling of confidential customer data.
+
+# Governance Aspect
+
+# Risk
+
+Risk management is the process of identifying, assessing and controlling threats to an organisation’s capital and earnings. Management of risks and threats is one of our top priority as our operations involve collection of large volume of customer’s personal data through our big data analytics. Data protection of confidential customer’s personal data is also a great concern to stakeholders.
+
+Hence, we also engage in an iterative risk management process that involves feedback gathered from all stakeholders. This enables us to provide greater assurance to stakeholders in our pursuit of growth for the Group.
+
+# Economic Objective
+
+Our aim is to revolutionise commerce through our ecosystem and create long-term sustainable value for our stakeholders.
+
+# Approach
+
+# (a) Creating Economic Value
+
+A sustainable business is not one that solely focuses on profits. Building a business with sustainable growth prospects ensures continuous creation of economic value for stakeholders. We seek to create long-term economic value for our stakeholders through:
+
+# Initiative to provide E-Commerce solution and training for SMEs
+
+In December 2019, we launched our initiative to help local small and medium-sized enterprises (SMEs) adopt cross border E-Commerce. As we are an appointed partner by Enterprise Singapore to work on a developmental project, to help SMEs internationalise through E-Commerce, qualifying SMEs who adopt our Multichannel Cross-border E-commerce Platform Solutions (MICES) to sell online in regional and international marketplaces via the cloud-based E-Commerce platform will receive 70% of subsidies for their subscription of the Solutions Package through Enterprise Singapore’s grant, commencing from 1 November 2019. This will help SMEs to kick start their cross-border E-Commerce business and make cross-border E-Commerce more accessible to SMEs. Furthermore, SMEs have the opportunity to scale up their online businesses overseas and to increase their digital marketing activities on these overseas platforms with minimal capital outlay.
+
+# A partnership with Nanyang Polytechnic’s Singapore Institute of Retail Studies (NYP-SIRS)
+
+A partnership with Nanyang Polytechnic’s Singapore Institute of Retail Studies (NYP-SIRS) was also established to provide certified E-Commerce training for employees of SMEs who adopted the Group’s cross border solutions. Employees of qualifying SMEs will need to complete three training courses which include a one-day mandatory course “Connect Your Business to Online World with Synagie” which is exclusively developed by NYP-SIRS for Synagie to guide users to use Synagie’s self-served cloud platform to manage their online businesses. Users are also required to select and complete two additional modules from a list of approved training programmes which include the “Alibaba CEO Programme”, a 6D5N Study Trip to the Alibaba University in Hangzhou, the “Alibaba Managerial Elite Programme” and the “Alibaba New Retail Content Marketing Programme”. This comprehensive training programme will equip users with valuable knowledge and provide sufficient guidance to effectively benefit from the use of MICES to kick start their E-Commerce business.
+
+# Increase number of Brand Partners and optimise product mix
+
+Our continuous effort to strengthen our existing Brand Partners base has been rewarding as we have established partnerships with more than 280 Brand Partners as at the end of FY2019. Our Brand Partners include well-known brands such as Johnson & Johnson, Kimberly-Clark, Shiseido, Suunto, Salomon, Schwarzkopf and Chef Nic packed food products. We have also constantly sought to optimise our product catalogue mix to enhance the attractiveness and competitiveness of our products offer. In June 2019, our wholly owned subsidiary secured the management of online sales for Samsonite International’s brands including Samsonite, Samsonite Red, American Tourister, Lipault and Kamiliant across E-Commerce platforms such as Lazada, Shopee and Zalora in Malaysia.
+
+This marks our Group’s diversification into Travel & Lifestyle E-Commerce sector and we wish to continuously seek more opportunity to further diversify the Group’s potential revenue stream in the region and create sustainable growth prospect.
+
+Apart from that, we were also appointed as KOSÉ exclusive solutions enabler to facilitate end-to-end online commerce process in Lazada including management and operations of KOSÉ flagship stores on Lazmall (official flagship store on Lazada). Our existing product range of beauty products is broadened as shoppers will now be able to shop for Sekkisei range of beauty products carried by KOSÉ. The result of this partnership was pleasing as we achieved record sales for the beauty brand launch on Lazmall in Singapore and Malaysia as well as surpassing sales target after 12 minutes of launch in Malaysia.
+
+Through our continuous effort to increase the number of Brand Partners and optimising our product mix in FY2019, we have achieved great growth in Gross Merchandise Value (GMV) in events such as Lazada birthday event, 9.9 and 11.11 Singles day shopping event.
+
+# Expansion to new geographical market
+
+We have established our market presence in Singapore, Malaysia and Philippines and further expanded our Southeast Asia regional presence into Thailand and Vietnam through the platform of Lazada and Shopee as of the end of FY2019. We are committed to continue expanding our connectivity with new Brand Partners in the region and strengthen our market presence.
+
+# Expansion through strategic partnerships
+
+We entered into several strategic partnerships with established corporations in FY2019. In May 2019, we collaborated with SingPost to provide on-demand warehousing and fulfilment solutions to SMEs in Singapore and Southeast Asia. That collaboration allows SMEs in Southeast Asia to utilise state-of-the-art warehousing and fulfilment services provided by SingPost’s subsidiary and powered by our cloud commerce platform. This would benefit the SMEs through greater operational efficiency and faster turnaround time as well as allow brands and SMEs to save on heavy upfront capital expenditure to setup or operate their own warehouse by acquiring integrated warehousing services on a pay-as-you-use basis without long-term commitments. The partnership would also enhance our fulfilment solution to customers and creates competitive advantage against our competitors.
+
+In June 2019, a deal was sealed with a wholly-owned subsidiary of Weimob Inc. The deal would allow us to leverage on Weimob’s E-Commerce enablement solutions and deep domain expertise in the China1 E-Commerce market to offer an end-to-end solution via our cloud commerce platform. This would offer integrated cross border E-Commerce and advertising solutions to help SMEs in Southeast Asia to penetrate into China E-Commerce market. The partnership would also allow Synagie’s end-to-end solution to cover the entire commerce value chain from setting up SME's store account to digital store management, content translation,
+
+1 Refers to People’s Republic of China
+
+# Digital Marketing and Smart Supply Chain
+
+Digital marketing and smart supply chain for fulfilling cross-border orders to consumers in China. This would greatly increase the efficiency of our business partners and reduce the cost required to penetrate into the China market. Furthermore, the partnership creates an opportunity for us to expand into new geographical market and to extend our market presence.
+
+# Strategic Partnership with Weimob Inc
+
+Apart from establishing a strategic partnership with Weimob Inc, our wholly owned subsidiary was also appointed by Malaysia Digital Economy Corporation (MDEC), a government agency under Ministry of Communications and Multimedia, to be the cross-border E-Commerce Initiative Partner for its National E-Commerce Strategic Roadmap Seller Adoption Programme 2019 to 2020. The programme is a government initiative developed to accelerate the adoption of E-Commerce amongst Malaysian businesses with the goals of doubling Malaysia's e-Commerce growth rate and reaching a targeted GDP contribution by 2020. This partnership enables us to leverage on MDEC's nationwide network in Malaysia to offer our E-Commerce enablement solutions to businesses in Malaysia. This would speed up the E-Commerce adoption by local businesses and seamlessly sell their products in E-Commerce markets in Southeast Asia and China through our established network. Moreover, it ultimately benefits local businesses in areas such as reduced operation costs, improves image, streamline operational processes and more.
+
+# Partnership with Lazada Services
+
+In August 2019, our wholly owned subsidiary had also established a Memorandum of Understanding (MOU) with Lazada Services South East Asia Pte Ltd to provide services for or on behalf of Lazada in relation to management and operation of assigned selected brand store on Lazada’s online market places in Southeast Asia. As Lazada has a big presence in Southeast countries such as Indonesia, Vietnam, Philippines, Malaysia, Singapore and Thailand, the partnership is strategic for us to further strengthen our market presence in the region as well as opportunity to expand our presence to a country like Indonesia. Ultimately, long-term economic value and growth prospects are created, which will aid us in achieving our vision to create sustainable commerce.
+
+# Innovative Insurtech Business Model
+
+In March 2019, we launched an on-demand mobile application (app) called Kiasu.me, powered by Artificial Intelligence (AI). The new on-demand lifestyle insurance app, which is usable on both IOS and Android devices, focuses on delivering instant pay-as-you-use lifestyle insurance policies tailored to protect consumers from threats and hazards in their digital lifestyle at an affordable premium. It is a breakthrough from traditional insurance policies as it provides custom-fit protection for users through partnership with our A-rated insurance partners. Furthermore, users have the freedom to add on protection or cancel anytime. This creates a differentiation between our insurance products as compared to other competitors.
+
+Kiasu.me offered its first innovative product – Device Shield, which was launched in the form of a scratch card available at leading mobile phone retail outlets in Singapore. Device Shield is a 12-month accidental screen damage protection for brand new mobile phones that covers the cost of one screen repair for all major brands with coverage activation and automated claims powered by Kiasu.me. This innovative insurance coverage includes an app-based concierge service that picks up the damaged phone for repair and send it back to the consumer after repairing, free of charge.
+
+# Product and Customer Service Quality
+
+It has been our goal to build a reputation for quality and to exceed our customer’s expectations. We want to build a sustainable business relationship with our customers through our reputation for delivering quality products and services. We value customers’ feedback on their purchase experience. Our Customer Engagement Specialists have undergone customer service training to address customers’ queries and feedback. The type of concerns raised during the interaction are also collected and categorised into the relevant markets and brands before assessment begins. The results of our analysis are shared with the relevant departments for their follow-up action with our Brand Partners and logistics partners. We also monitor our response rate to customers’ feedback on the various platforms and have established key performance indicators for our customer service staff.
+
+Data analytics is also employed to better understand customer behaviour and demands. With our cross-border expansion to countries such as Malaysia, Philippines as well as Thailand and Vietnam in 2019, we are enhancing our data analytics capabilities to cater to different customer database setup.
+
+The use of real time big data analytics helps us to better understand customer behaviour and demands to offer the optimal products and services mix and E-Commerce shopping experience to our customers.
+
+# Our performance
+
+|Economic Value|Total Assets|Total Equity|
+|---|---|---|
+|Generated by Synagie|$14.9m|$4.6m|
+|$19.4m|Value of Synagie’s total assets as at 31 December 2019|Value of Synagie’s total equity as at 31 December 2019|
+
+# Economic Performance in FY2019
+
+|FY2019 Target|Performance Update|
+|---|---|
+|Increase the number of Brand Partners and optimise product mix|- Achieved an increase in the number of Brand Partners from a total of 270 in FY2018 to more than 280 as of the end of FY2019.
+- Increased our product mix and diversify into the Travel & Lifestyle E-Commerce sector.
+|
+|Expand our Big Data analytics capabilities and geographical influence|- Still in progress of enhancing our Big Data analytics capabilities to cater to different customer database setup. We target to implement the upgraded Big Data analytics system in 2021.
+- Achieved expansion of geographical market presence into Vietnam and Thailand.
+|
+
+# Enhance Insurtech business model
+
+Introduced an on-demand mobile application (app) called Kiasu.me to deliver instant pay-as-you-use lifestyle insurance policies, tailored to protect consumers from threats and hazards in their digital lifestyle at an affordable premium.
+
+# Customer Response Rate
+
+Attain an average customer response rate of more than 80% across all online distribution channels. Our response rate is 100% across all platforms in FY2019.
+
+# Economic Target for FY2020
+
+|FY2020 Target|Action plan|
+|---|---|
+|Increase the number of Brand Partners and optimise product mix|- Continuously seek to increase the number of Brand Partners and range of products offer to customer.
+- Explore the possibility of diversifying our product mix and our product category.
+|
+|Expand our Big Data analytics capabilities and geographical influence|- Research and improve our existing Big Data analytics capabilities to cater to different customer database setup with an aim to launch the upgraded system by 2021.
+- Establish our market presence in Indonesia and explore opportunity to extend our geographical influence to other new markets through strategic partnership established.
+|
+|Launch more innovative insurance products|Through our extensive market research, we wish to launch more innovative and custom-fit insurance products at affordable premium to cater to the needs of consumers.|
+
+# Environmental Objective
+
+We seek to be an environmentally aware and socially responsible corporation through integration of eco-friendly practices in our corporate strategies and decisions to minimise our ecological footprint.
+
+# Approach
+
+We provide dynamic conversion, analytics and fulfilment solutions to our Brand Partners through our cloud commerce platform and real-time big data analytics. The environmental impact of our operation comprises of electrical usage to power our offices and warehouses, disposal of leftover materials through packaging our deliveries at warehouses and general waste created during daily operations. Despite our direct ecological footprint being relatively small, we are committed to mitigate climate change and conserve resources.
+
+# (a) Waste Management
+
+Majority of the waste created by our operations are leftover packaging materials, which include cartons, plastic wraps, strings, wooden pallets and paper. In response to our national vision towards becoming a Zero Waste Nation and a Leading Green Economy, we are continuously exploring ways to integrate the value of 3R (Reduce, Reuse and Recycle) in our daily operations.
+
+In FY2019, we have extended our corporate effort towards waste management through the placement of 2 recycling bins in our office, apart from the recycling bins placed in the warehouses. We are also exploring ways to extend our commitment to create a paper-less operating environment.
+
+# At our warehouses, reusable packaging materials such as wooden pallets and carton boxes for goods packaging are continuously being reused at the warehouse, whenever possible. Similarly, recyclable materials such as paper boxes are sold to waste recycling vendors for recycling.
+
+# However, our efforts in overall waste management would not be possible without the corporate-wide efforts to comply to our waste management policies and procedures to ensure waste is properly segregated.
+
+# Reusing of product boxes for packing of customer orders
+
+# (b) Energy and Water Efficiency
+
+# Our commitment to improve energy and water efficiency is evident through our constant effort to minimise consumption in daily office operation. Our effort includes the use of motion-triggered lightings, maintaining air-conditioner temperature at 25 degrees Celsius and the use of energy-efficient Light-emitting diode (LED) light bulbs. To measure the effectiveness of our effort towards minimising energy consumption, we actively monitor our energy usage at our office. Energy-saving culture is also cultivated in the office as employees are encouraged to switch off lights and air-conditioners in office when not in use.
+
+# Our Performance
+
+# In FY2019, all environmental laws and regulations in the jurisdictions we operate in were adhered to and there were no fines or penalties incurred for non-compliance.
+
+# Electricity usage monitoring has been our continuous practice since relocation to our new office in mid-2017. Through continuous monitoring and new conservation initiatives, we are committed and continuously exploring ways to improve our energy efficiency in the long term to ensure the environmental sustainability of the Group.
+
+# We have extended our utilities tracking to all our Singapore and Malaysia offices. However, we are unable to track our electricity and water usage by our employees in Philippines, Thailand and Vietnam offices as they use co-working spaces in the respective countries.
+
+# Electricity and Water Consumption
+
+# Electricity Consumption
+
+Our electricity consumption for Singapore and Malaysia offices are as follows:
+
+Electricity usage at our Singapore and Malaysia offices in 2019 (kWh)8,0006,0004,0002,0000
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+Singapore       Malaysia
+
+# Water Consumption
+
+Our water consumption for Singapore and Malaysia offices are as follows:
+
+Water usage at our Singapore and Malaysia offices in 2019 (Cu M)40.030.020.010.00.0
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+Singapore       Malaysia
+
+# Water and Electricity Usage per Employee
+
+|Water usage per employee (Cu M)|Electricity usage per employee (kWh)|
+|---|---|
+|6|1400|
+|5|1200|
+|4|1000|
+|3|800|
+|2|600|
+|1|400|
+|0|200|
+
+2018                     2019                                      2018                     2019
+
+# Based on total number of 85 employees in Singapore and Malaysia as at 31 December 2019
+
+# Comparison to FY2018 Environmental Performance
+
+In comparison to our FY2018 environmental performance, our electricity usage for Singapore office increased from 18,827 kWh to 27,914 kWh, mainly due to the increase in our headcount and we had leased another new office space in March 2019. The increased office capacity is partly to house our employees from the Insurtech segment after their lease expired in April 2020. Notwithstanding, our water usage for Singapore office decreased from 331 Cu M to 276 Cu M.
+
+# Environmental Performance in FY2019
+
+|FY2019 Target|Performance Update|
+|---|---|
+|Set up recycling bins in offices and warehouses|Achieved through placement of recycling bins in office and warehouses.|
+|Monitor and track amount of packaging material and paper used and seek ways to reduce amount of waste by 5% by 2021|Not achieved as we have yet to find an optimal, cost-effective and feasible way to monitor and track the amount of packaging material and paper reduced. Nevertheless, we are committed towards our national vision of becoming a Zero Waste Nation and a Leading Green Economy by exploring new ways to minimise waste generation.|
+|Improve energy and water efficiency by 2%|Partly achieved. We have included data from our Insurtech subsidiary this year, accounting for the surge in electricity usage per employee. However, we managed to achieve our water efficiency target this year. Notwithstanding the above, we still endeavour to improve our electricity and water efficiency by 2% in FY2020.|
+
+# Environmental Target for FY2020
+
+|FY2020 Target|Action plan|
+|---|---|
+|Find an optimal, cost-effective and feasible way to monitor and track amount of packaging material and paper used and seek ways to reduce amount of waste by 5% by 2021|Potential collaboration with recycling company to find an optimal, cost-effective and feasible way to monitor and track amount of packaging material and paper used.|
+|Improve electricity and water efficiency by 2%|Explore new ways to improve energy efficiency such as encouraging employees to turn off their computers instead of leaving them on screensaver mode, and unplug idle electronic devices etc.|
+
+# Social
+
+# Objective
+
+Corporate citizenship is a core component of our corporate responsibility strategy and we commit to conduct our business in a way that is ethical, friendly and beneficial to community as well as upholding ethically-oriented practices.
+
+# Approach
+
+Our business cannot thrive without the resources from the society. Understanding and embracing the importance of our social capital ensures the sustainability of our business in the long term. This includes putting in place ethical labour practices, appreciating and rewarding our employee’s contribution to the Group as well as prioritising their health and safety above all.
+
+# (a) Talent Attraction and Retention
+
+# Competitive and equitable remuneration
+
+We are committed to recruit employees based on merit and valuable industry experience, and attract talents with competitive and equitable remuneration, staff benefit and welfare, as well as the opportunity to grow and develop. However, we understand that finding the right talent that fits into our Group’s culture and structure can be a challenge. Hence, we are also committed to retain existing talent as we highly value their contribution and we recognise other benefits of retaining existing employees.
+
+This is achieved through providing all employees with equal opportunities for compensation, promotion and training on a meritocratic basis. Systematic review and evaluation of employee’s work performance is conducted annually, and results of the evaluation is taken into account in their annual salary review. This motivates our employees as their performance are rewarded based on our fair merit-based compensation system. The annual performance review and evaluation also provides a platform for open communication between employees and their direct superior to discuss and potentially create a developmental (training) plan to harness their skills.
+
+Our employee benefits and human resource policies are also reviewed annually to ensure our competitiveness in the social aspect as well as aligned with manpower regulations in the jurisdictions we operate in.
+
+# Employee benefits and welfare
+
+Recognising the benefits of flexible working hours which include reduced operating costs, increased productivity and innovation, staff retention and talent attraction especially for working parents, etc, we have implemented a flexible working schedule. Our flexi-time work arrangement gives employees the flexibility to vary daily work start and end times to suit their work and personal commitments.
+
+We also adopt all benefits and welfare practices which conforms to the manpower legislations of the various jurisdictions which we operate in.
+
+# Other employee benefits and welfare provided include outpatient/dental expenses reimbursement, travel expenses claim and entertainment expenses reimbursement for management level.
+
+# Christmas Event
+
+# Bootcamp Fitness Class
+
+# Human rights and freedom of association
+
+We respect the principles of freedom of association, the right to collective bargaining, non-discrimination and harassment, meritocratic and progressive human resource practices, and advocates the elimination of forced or child labour. All employees under the Group are entitled to practise freedom of association, within regulatory limits of each jurisdiction which we operate in.
+
+# Diversity
+
+# Our diversified workforce
+
+We see great strength in the diversity of our workforce and the potential in each and every one of our employees. Diversity inspires creativity and drive innovation to enhance our strategic competitiveness and derive solutions to overcome business challenges. Our Employee Code of Conduct guides us towards this aspiration.
+
+We recruit talents of various backgrounds and our dynamic human capital cover people of various age groups, races and genders as we highly value the experiences and knowledge that different individuals bring to the Group. We adopt a firm stance against human rights infringement and discrimination to ensure a conducive work environment for our employees. Overall, this is in line with one of our commitments to our human capital which is to give equal opportunity and ensure no discrimination of employees based on gender, race and religion.
+
+# (b) Operational Health and Safety
+
+Maintaining good records for occupational health and safety benefit the Group in terms of upholding corporate image, greater staff retention, regulatory compliance, lower level of absenteeism and better cognitive performance. Further, employees also benefit from improved quality of life and sense of well-being. Our commitment to ensuring our employees’ health, safety and well-being forms the foundation of our warehouse and supply chain process design.
+
+We are committed to create an accident-free environment for our employees at the warehouse and logistics operations. For instance, employees exposed to health and safety risks are constantly reminded to put on the necessary protective equipment, such as safety vest and boots. This is aligned with our mission to providing a safe work environment. A safe work environment also provides greater assurance to our employees and customers. All employees operating Mechanised Handling Equipment (“MHE”) are also sent for courses to be certified before operating the MHE.
+
+According to Elaine Lau, Chief Corporate Solutions Officer at AIA Hong Kong and Macau, an unhealthy workforce translates to lower engagement, higher staff turnover, lower productivity and inefficient benefit utilisation. Recognising the importance of having a group of healthy human capital, we provide our warehouses’ employees health supplements, such as fish oil, glucosamine and vitamins, on a daily basis.
+
+All our employees in Singapore are covered under basic medical insurance and benefits programme, which insures them against any injury or illness that requires medical, surgical or hospital treatment, sustained in the course of employment. In addition, we provide travel insurance to employees who are required to travel regularly overseas for business.
+
+# (c) Training and Development
+
+With an increasingly competitive business landscape, rising complexity and digital revolution, constant reskilling and upskilling of our employees have become ever important. As the value of human capital declines when knowledge becomes obsolete, we are committed to invest and provide the necessary opportunities to sustain the value of our human capital. In October 2019, we sent 4 of our top management to attend the “Alibaba CEO Programme” held by Alibaba Global Business School in Hangzhou. The Alibaba CEO Programme is an immersive study trip that would equip our top management with better understanding of the latest developments in internet and e-commerce, analyse New Retail, Big Data, New Marketing, Cross-border and transcend Digital Thought Leadership with new retail strategy, operation and branding.
+
+Apart from investing in our top management, we also sent 41 employees to attend the following training and development programmes held by reputable training organisations throughout FY2019.
+
+|Course Programme|Training service provider|Number of employees|
+|---|---|---|
+|Driving Sales Performance on Qoo10 (Marketing)| |14|
+|Getting started on Qoo10 (onboarding)| |9|
+|How Does Retail Affect You| |7|
+|Alibaba Entrepreneur Start-up Programme| |2|
+|Alibaba Managerial Elite Programme|NYP- SIRS|2|
+|Alibaba Boost Sales through Effective Content Marketing (Mandarin)| |2|
+|Digital Commerce Operations| |1|
+|Digital Commerce Visual Training| |1|
+|Alibaba: Managerial Elite Program (English)| |1|
+|Facebook Marketing Programme|Jacky Hooi|2|
+
+With our effort to reskill and upskill our employees, we have clocked a total of 784 training and development hours in FY2019.
+
+Understanding that opportunities for training and development have increasingly formed the top criteria to attract and retain talent, we will continue to source and invest in training and development to equip our employees with the skills and knowledge required to discharge their roles and responsibilities as well as contribute towards our goal to maintain a long-term sustainable business.
+
+Through our current annual performance appraisal, we are able to identify gaps in knowledge and gather feedback from employees. It also allows us to communicate with our employees to better understand their needs and work out effective solutions to bridge the knowledge gaps through specialised training and development plans specially designed for them. Furthermore, it allows us to invest in the right training and development programmes.
+
+# Our Performance
+
+In FY2019, there were no incidents of severe or fatal workplace injuries. We complied with all manpower regulations in the jurisdictions we operate in and there were no reported incidents of child labour, forced or compulsory labour and discrimination in the reporting year.
+
+# Our employee statistics are as follow:
+
+|Employees per gender|Employees per age group|
+|---|---|
+|Male 55%|30 and below 4%|
+|Female 45%|31 to 50 29%|
+| |50 and above 67%|
+
+In 2019, 91 employees joined us and 71 employees resigned. We increased our new hires due to the set-up of our overseas offices in Philippines, Vietnam and Thailand.
+
+# Social Performance in FY2019
+
+|FY2019 Target|Performance Update|
+|---|---|
+|Provide more learning and development opportunities for employees by involving employees in industry conventions and seminars|Achieved as we sent 45 employees in total to various training and developments programmes and clocked a total of 784 training and development hours.|
+|Partner with academic institutions and governmental organisations to structure training programmes for fresh and mid-level professionals|We have achieved through our appointment by Enterprise Singapore to work on developmental project to help SMEs internationalise through E-Commerce. Furthermore, we have established a partnership with NYP-SIRS to provide certified E-Commerce training for employees of SMEs who adopted our cross-border solutions.|
+|Zero workplace incident|Achieved zero workplace incident.|
+
+# Social Performance in FY2019
+
+|FY2019 Target|Performance Update|
+|---|---|
+|Embark on community service projects with at least 50% employee participation for each event|Not achieved as we were reconsolidating our resources and effort for the uncertainties in the global economy during FY2019. Nevertheless, we will continue to strive to embark on community service projects with at least 50% employee participation for each event in FY2020.|
+
+# Social Target for FY2020
+
+|FY2020 Target|Action plan|
+|---|---|
+|Extend certain staff benefits that were exclusive to Singapore’s operation to employees in overseas operations.|Conduct relevant feasibility study, cost and benefit analysis to explore the possibility to extend certain staff benefits to employees in overseas operations.|
+|Extending insurance coverage to employees in overseas operations.|Conduct feasibility study and engage local insurance providers to explore the possibility to extend insurance coverage to employees in overseas operations.|
+|Provide more learning and development opportunities for employees by involving employees in industry conventions and seminars|Identify and source for better training and development programmes.|
+
+# Governance
+
+# Objective
+
+We seek to establish our corporate image based on the foundation for good ethics and business conduct and our commitment to transparency and accountability to stakeholders.
+
+# Approach
+
+(a) Corporate Governance, Business Ethics and Anti-Corruption
+
+Achieving good corporate governance requires the appropriate people, processes and structures to direct and manage the business and affairs of the Group to maximise long-term shareholder value, while taking into account of the interests of other stakeholders. Acknowledging that good corporate governance strengthens investors’ confidence and ensures long-term sustainable business performance, we conduct our business with good ethics and business conduct by adhering to the principles and guidelines of the Singapore Code of Corporate Governance 2018 and other applicable laws and regulations.
+
+Our Board and board committees comprise of directors, who are qualified professionals equipped with core competencies such as accounting or finance, business or management experience, industry knowledge, legal and strategic planning experience. Our Board and board committees have an appropriate balance diversity of skills, experience, gender and knowledge of the industry. Diversity provides the Board with a wider range of perceptions and experience, which can improve the quality of its collective decision-making.
+
+Sustainability matters are incorporated into the Group’s strategy formulations. Our Board meets at least four times a year to review and evaluate the key activities and business strategies of the Group.
+
+Key information of our Directors are available on pages 10 to 12 of the Annual Report respectively.
+
+We conduct our business through the application of ethical business practices that is critical in fostering trust and building confidence in our stakeholders and investors. The formulated Code of Conduct (Code) sets out the guidelines and practices which management and all employees are expected to understand, internalise and abide. The Code is found in the Staff Handbook, which is provided to all new employees during their orientation.
+
+# Anti-corruption
+
+We have established zero tolerance towards corruption and fraud and this is evident in our formalised Code of Business Ethics and Conduct policy, which is made available to all employees. This applies to all employees, including those who are located in foreign jurisdictions. Our key management in Singapore oversees the overseas operations, which mitigates agency risks as a result of the remoteness of such operations. We are dedicated in conducting ourselves with utmost integrity. Our firm stance is communicated to all employees.
+
+# Whistleblowing
+
+A whistleblowing policy has been in place to help employees who have major concerns over any wrong-doing within our Group relating to unlawful conduct, financial malpractice or dangers to our Group, the public or the environment. Our accessible and independent whistleblowing channels, including direct access to the Audit Committee Chairman, allow employees to report any suspected wrongdoings without fear of reprisal. We view any harassment or victimisation (including informal pressures) towards the whistle-blower seriously, and will take appropriate action to protect those who raise a concern in good faith. Furthermore, our open-door policy culture also provides employees with channels to escalate any suspected wrongdoings to the management.
+
+# Data protection and information confidentiality
+
+Data protection is the process of safeguarding confidential information from compromise or loss. To better serve our users and customers, we collect personal data and anonymised data through several channels. This include upon access or use of our Site, sign up for an account with us, purchase any of the products or services, etc. As we understand that earning and keeping users’ and customer trust is critical in the sustainability of our business, we have established our privacy policy on our Site to show our transparency and accountability to our stakeholders. Our privacy policy covers the following aspect of data protection.
+
+- Explains the types of data we collect;
+- When do we collect the data;
+- When was the consent given for our collection of personal data;
+- When do we retain and use personal data;
+- When do we disclose personal data;
+- When do we need to transfer personal data out of Singapore;
+- Importance of providing us accurate and complete personal data;
+- Do-Not-Call (DNC) Registries;
+- Opt-out procedure;
+
+# Privacy Policy
+
+- Access and correct personal data with the Group;
+- Queries or complaints in relation to our privacy policy;
+- Security measures put in place to protect personal data;
+- Third party sites and social network sites made available through our Site;
+- Law and jurisdiction govern our privacy policy.
+
+Apart from making our privacy policy available to public through our Site, we have put in place reasonable security measures to protect personal data such as password protection, encryption, locked and restricted access to only our authorised personnel on a need-to-know basis, and retaining personal data not longer than the necessary to fulfil the purposes of collection.
+
+We are committed to protect our stakeholders’ personal data and respecting their privacy through our compliance with the Personal Data Protection Act 2012.
+
+# (b) Enterprise Risk Management
+
+Risk management is the process of identifying, assessing and controlling threats to an organisation’s capital and earnings. Management of risks and threats is one of our top priority as our operations involve collection of large volume of customer’s personal data through our big data analytics. Furthermore, the constant flux of the business environment has fuelled a heighten need for organisations to identify, measure, prioritise and respond to the risks that threaten business objectives and operations. At our organisation, we are prudent in managing our risk-reward relationship. Annually, we carry out enterprise risk review to ensure that we account for new risks that arise as we seek new business opportunities. There is no major change in the business environment we operate in and the Company’s operations. Hence, no new risks were identified in FY2019. We will continue to monitor to ensure that the risks are kept within our risk appetite and mitigated to our best ability.
+
+# Our Performance
+
+Through our corporate governance and anti-corruption programmes, we have established a good corporate culture within the Group. For the reporting period, there is no incident of employee dismissal or disciplinary case for corruption and fraud. There is also no instance where contracts with Brand Partners were terminated or not renewed due to violations related to corruption. We have also not received any whistleblowing reports during the reporting period.
+
+For the reporting period, we have complied with all listing requirements and legal regulations. There were no fines or penalties incurred for regulatory non-compliance.
+
+# Governance Performance in FY2019
+
+|FY2019 Target|Performance Update|
+|---|---|
+|Zero incidents of bribery or corruptions|Achieved as zero incidents of bribery or corruptions.|
+|Zero non-compliance breaches|Achieved zero non-compliance breaches.|
+|Zero complaints received relating to breaches of customer privacy|Achieved zero complaints received relating to breaches of customer privacy.|
+
+# Governance Target for FY2020
+
+|FY2020 Target|Action plan|
+|---|---|
+|Zero incidents of bribery or corruptions|Continue our zero tolerance towards corruption and fraud.|
+|Zero non-compliance breaches|Continue our zero tolerance towards non-compliance breaches. Furthermore, to conduct our business with good ethics and business conduct.|
+|Zero complaints received relating to breaches of customer privacy|Continue our effort and commitment towards protecting our customer personal data and compliance with the Personal Data Protection Act 2012.|
+
+# GRI Content Index
+
+|GRI Standards|Disclosure No.|Disclosure Title|Cross-Referenced Sections|Page|
+|---|---|---|---|---|
+|1. Organisational profile|Disclosure 102-1|Name of the organization|AR - Corporate Profile|Cover Page|
+|Disclosure 102-2|Activities, brands, products, and services|AR - Corporate Profile|01| |
+|Disclosure 102-3|Location of headquarters|AR - Corporate Profile|16| |
+|Disclosure 102-4|Location of operations|AR - Corporate Profile|15 & 16| |
+|Disclosure 102-5|Ownership and legal form|AR - Corporate Structure|15| |
+|Disclosure 102-6|Markets served|AR - Corporate Profile|01| |
+|Disclosure 102-7|Scale of the organization|AR - Financial Review|111 – 114| |
+|Disclosure 102-8|Information on employees and other workers|SR - Social|19 - 24| |
+|Disclosure 102-9|Supply chain|AR - Chairman’s Message|04 - 07| |
+|Disclosure 102-10|Significant changes to the organization and its supply chain|AR - Chairman’s Message|04 – 07| |
+|Disclosure 102-11|Precautionary Principle or approach|SR - Governance|04 – 09| |
+|Disclosure 102-12|External initiatives|AR – Corporate Highlights|02| |
+|Disclosure 102-13|Membership of associations|None.|-| |
+|2. Strategy|Disclosure 102-14|Statement from senior decision-maker|AR - Chairman’s Message|04 – 07|
+|Disclosure 102-15|Key impacts, risks and opportunities|SR- Materiality assessment|06| |
+|3. Ethics and integrity|Disclosure 102-16|Values, principles, standards, and norms of behaviour|SR - Managing Sustainability at Synagie|03 – 05|
+|Disclosure 102-17|Mechanisms for advice and concerns about ethics|SR - Stakeholder engagement|04 - 05| |
+|4. Governance|Disclosure 102-18|Governance structure|AR - Board of directors, Key Executives|10 - 16|
+|Disclosure 102-19|Delegating authority|SR - Sustainability Committee|03| |
+|Disclosure 102-20|Executive-level responsibility for economic, environmental, and social topics|SR - Sustainability Committee|11| |
+|Disclosure 102-21|Consulting stakeholders on economic, environmental, and social topics|SR - Stakeholder engagement|11 - 24| |
+|Disclosure 102-22|Composition of the highest governance body and its committees|AR - Board of directors, Key Executives|10 - 14| |
+|Disclosure 102-23|Chair of the highest governance body|AR - Board of directors, Key Executives|10 -12| |
+|Disclosure 102-24|Nominating and selecting the highest governance body|AR - Corporate Governance|10 – 12| |
+|Disclosure 102-25|Conflicts of interest|AR - Corporate Governance|17 -41| |
+|Disclosure 102-26|Role of highest governance body in setting purpose, values, and strategy|SR - Sustainability Committee|03| |
+|Disclosure 102-27|Collective knowledge of highest governance body|AR - Corporate Governance|17 – 41| |
+|Disclosure 102-28|Evaluating the highest governance body’s performance|SR - Sustainability Committee|03| |
+|Disclosure 102-29|Identifying and managing economic, environmental, and social impacts|SR - Materiality assessment|06| |
+|Disclosure 102-30|Effectiveness of risk management processes|AR - Board of directors, Key Executives|10 - 14| |
+|Disclosure 102-31|Review of economic, environmental, and social topics|Annually|11 - 24| |
+|Disclosure 102-32|Highest governance body’s role in sustainability reporting|SR - Sustainability Committee|03| |
+|Disclosure 102-33|Communicating critical concerns|SR - Stakeholder engagement|04| |
+|Disclosure 102-34|Nature and total number of critical concerns|NIL|-| |
+|Disclosure 102-35|Remuneration policies|AR - Corporate Governance (Remuneration Matters)|27 - 31| |
+|Disclosure 102-36|Process for determining remuneration| | | |
+|Disclosure 102-37|Stakeholders’ involvement in remuneration| | | |
+|Disclosure 102-38|Annual total compensation ratio| | | |
+|Disclosure 102-39|Percentage increase in annual total compensation ratio| | | |
+|5. Stakeholder engagement|Disclosure 102-40|List of stakeholder groups|SR - Stakeholder engagement|04|
+|Disclosure 102-41|Collective bargaining agreements| | | |
+|Disclosure 102-42|Identifying and selecting stakeholders| | | |
+|Disclosure 102-43|Approach to stakeholder engagement| | | |
+|Disclosure 102-44|Key topics and concerns raised| | | |
+|6. Reporting practice|Disclosure 102-45|Entities included in the consolidated financial statements|AR - Corporate Structure|15|
+| | |AR - Notes to FS: Investments in subsidiaries|100| |
+|Disclosure 102-46|Defining report content and topic Boundaries|SR - About this report|02| |
+|Disclosure 102-47|List of material topics|Materiality Table|06| |
+|Disclosure 102-48|Restatements of information|None.|-| |
+|Disclosure 102-49|Changes in reporting|None.|-| |
+|Disclosure 102-50|Reporting period|FY2019|02| |
+|Disclosure 102-51|Date of most recent report|28 March 2019| | |
+|Disclosure 102-52|Reporting cycle|Annual| | |
+|Disclosure 102-53|Contact point for questions regarding the report|SR - About this report|02| |
+
+# GRI Standards
+
+|Disclosure No.|Disclosure Title|Cross-Referenced Sections|Page|
+|---|---|---|---|
+|Disclosure 102-54|Claims of reporting in accordance with the GRI Standards|This report has been prepared in accordance with the GRI Standards: Core option|02|
+|Disclosure 102-55|GRI content index|SR - GRI content index|02|
+|Disclosure 102-56|External assurance|AR – Independent Auditor’s Report|47 - 51|
+
+# Topic-specific disclosures
+
+# GRI201: Economic Performance
+
+|Disclosure 201-1|Direct economic value generated and distributed|AR- Financial Review|08|
+|---|---|---|---|
+|Disclosure 201-2|Financial implications and other risks and opportunities due to climate change|N/A, Impact of business on environment and climate is insignificant.|-|
+|Disclosure 201-3|Defined benefit plan obligations and other retirement plans|AR- Financial Review|08|
+|Disclosure 201-4|Financial assistance received from government| |106|
+
+# GRI 202: Market Presence
+
+|Disclosure 202-1|Ratios of standard entry level wage by gender compared to local minimum wage|N/A, no minimum wage law.|-|
+|---|---|---|---|
+|Disclosure 202-2|Proportion of senior management hired from the local community|AR – Key Executives|10 – 15|
+
+# GRI 203: Indirect Economic Impacts
+
+|Disclosure 203-1|Infrastructure investments and services supported|SR - Economic|11 – 15|
+|---|---|---|---|
+|Disclosure 203-2|Significant indirect economic impacts| | |
+
+# GRI 204: Procurement Practices
+
+Disclosure 204-1
+Proportion of spending on local suppliers
+N/A, suppliers are mostly determined by our Brand Partners.
+-
+
+# GRI 205: Anti-Corruption
+
+|Disclosure 205-1|Operations assessed for risks related to corruption|SR - Governance|25|
+|---|---|---|---|
+|Disclosure 205-2|Communication and training about anti-corruption policies and procedures| | |
+|Disclosure 205-3|Confirmed incidents of corruption and actions taken| | |
+
+# GRI 206: Anti-Competitive Behaviour
+
+Disclosure 206-1
+Legal actions for anti-competitive behaviour, anti-trust, and monopoly practices
+No reported cases during reported period.
+-
+
+# GRI 301: Materials
+
+|Disclosure 301-1|Materials used by weight or volume|SR - Environment|15– 18|
+|---|---|---|---|
+|Disclosure 301-2|Recycled input materials used| | |
+|Disclosure 301-3|Reclaimed products and their packaging materials| | |
+
+# GRI 302: Energy
+
+|Disclosure 302-1|Energy consumption within the organisation|SR - Environment|15– 18|
+|---|---|---|---|
+|Disclosure 302-2|Energy consumption outside of the organization| | |
+|Disclosure 302-3|Energy intensity| | |
+|Disclosure 302-4|Reduction of energy consumption| | |
+|Disclosure 302-5|Reductions in energy requirements of products and services| | |
+
+# GRI 303: Water
+
+|Disclosure 303-1|Water withdrawal by source|SR - Environment|17|
+|---|---|---|---|
+|Disclosure 303-2|Water sources significantly affected by withdrawal of water| | |
+|Disclosure 303-3|Water recycled and reused| | |
+|Disclosure 303-4|Water discharge| | |
+|Disclosure 303-5|Water consumption| | |
+
+# GRI 304: Biodiversity
+
+|Disclosure 304-1|Operational sites owned, leased, managed in, or adjacent to, protected areas and areas of high biodiversity value|N/A, our offices and operations are not carried out in protected areas and areas of high biodiversity.|-|
+|---|---|---|---|
+|Disclosure 304-2|Significant impacts of activities, products, and services on biodiversity| | |
+|Disclosure 304-3|Habitats protected or restored| | |
+|Disclosure 304-4|IUCN Red List species and national conservation list species with habitats in areas affected by operations| | |
+
+# GRI 305: Emissions
+
+|Disclosure 305-1|Direct (Scope 1) GHG emissions|N/A, our offices and operations do not produce significant levels of GHG.|-|
+|---|---|---|---|
+|Disclosure 305-2|Energy indirect (Scope 2) GHG emissions| | |
+|Disclosure 305-3|Other indirect (Scope 3) GHG emissions| | |
+|Disclosure 305-4|GHG emissions intensity| | |
+|Disclosure 305-5|Reduction of GHG emissions| | |
+|Disclosure 305-6|Emissions of ozone-depleting substances (ODS)| | |
+|Disclosure 305-7|Nitrogen oxides (NOX), sulfur oxides (SOX), and other significant air emissions| | |
+
+# GRI 306: Effluents and Waste
+
+|Disclosure 306-1|Water discharge by quality and destination|N/A, our offices and operations do not discharge significant level of water.|-|
+|---|---|---|---|
+|Disclosure 306-2|Waste by type and disposal method| | |
+|Disclosure 306-3|Significant spills|We do not produce hazardous waste during our operations.| |
+|Disclosure 306-4|Transport of hazardous waste| | |
+|Disclosure 306-5|Water bodies affected by water discharges and/or runoff| | |
+
+# GRI 307: Environmental Compliance
+
+Disclosure 307-1
+Non-compliance with environmental laws and regulations
+SR - Environment
+15– 18
+
+# GRI 308: Supplier Environmental Assessment
+
+|Disclosure 308-1|New suppliers that were screened using environmental criteria|SR - Environment|15– 18|
+|---|---|---|---|
+|Disclosure 308-2|Negative environmental impacts in the supply chain and actions taken| | |
+
+# GRI 401: Employment
+
+Disclosure 401-1
+New employee hires and employee turnover
+SR - Social
+19 – 24
+
+# GRI Standards
+
+|Disclosure No.|Disclosure Title|Cross-Referenced Sections|Page|
+|---|---|---|---|
+|Disclosure 401-2|Benefits provided to full-time employees that are not provided to temporary or part-time employees| | |
+|Disclosure 401-3|Parental leave| | |
+|Disclosure 402-1|Minimum notice periods regarding operational changes|N/A, no collective bargaining agreements.|-|
+|Disclosure 403-1|Workers representation in formal joint management–worker health and safety committees|SR - Social|19 – 24|
+|Disclosure 403-2|Types of injury and rates of injury, occupational diseases, lost days, and absenteeism, and number of work-related fatalities| | |
+|Disclosure 403-3|Workers with high incidence or high risk of diseases related to their occupation| | |
+|Disclosure 403-4|Health and safety topics covered in formal agreements with trade unions| | |
+|Disclosure 403-5|Worker training on occupational health and safety| | |
+|Disclosure 403-6|Promotion of worker health| | |
+|Disclosure 403-7|Prevention and mitigation of occupational health and safety impacts directly linked by business relationships| | |
+|Disclosure 403-8|Workers covered by an occupational health and safety management system| | |
+|Disclosure 403-9|Work-related injuries| | |
+|Disclosure 403-10|Work-related ill health| | |
+|Disclosure 404-1|Average hours of training per year per employee|SR – Social|19 – 24|
+|Disclosure 404-2|Programs for upgrading employee skills and transition assistance programs| | |
+|Disclosure 404-3|Percentage of employees receiving regular performance and career development reviews| | |
+|Disclosure 405-1|Diversity of governance bodies and employees|AR- Board of Directors, Key Executives|10 – 15|
+|Disclosure 405-2|Ratio of basic salary and remuneration of women to men|SR - Social|19 – 24|
+|Disclosure 406-1|Incidents of discrimination and corrective actions taken|No reported cases during reported period.|-|
+|Disclosure 407-1|Operations and suppliers in which the right to freedom of association and collective bargaining may be at risk|N/A, no collective bargaining agreements.|-|
+|Disclosure 408-1|Operations and suppliers at significant risk for incidents of child labour|We have not identified this risk in our course of normal operations.|-|
+|Disclosure 409-1|Operations and suppliers at significant risk for incidents of forced or compulsory labor|We have not identified this risk in our course of normal operations.|-|
+|Disclosure 410-1|Security personnel trained in human rights policies or procedures|N/A, security is outsourced and not relevant to operations.|-|
+|Disclosure 411-1|Incidents of violations involving rights of indigenous peoples|N/A, operations do not involve interactions with indigenous people|-|
+|Disclosure 412-1|Operations that have been subject to human rights reviews or impact assessments|SR - Social|19 – 24|
+|Disclosure 412-2|Employee training on human rights policies or procedures| | |
+|Disclosure 412-3|Significant investment agreements and contracts that include human rights clauses or that underwent human rights screening| | |
+|Disclosure 413-1|Operations with local community engagement, impact assessments, and development programs|SR - Social|19 – 24|
+|Disclosure 413-2|Operations with significant actual and potential negative impacts on local communities| | |
+|Disclosure 414-1|New suppliers that were screened using social criteria|N/A, suppliers are mostly determined by Brand Partners.| |
+|Disclosure 414-2|Negative social impacts in the supply chain and actions taken| | |
+|Disclosure 415-1|Political contributions|N/A, no contributions made to political parties.| |
+|Disclosure 416-1|Assessment of the health and safety impacts of product and service categories|No incident of non-compliance.|-|
+|Disclosure 416-2|Incidents of non-compliance concerning the health and safety impacts of products and services| | |
+|Disclosure 417-1|Requirements for product and service information and labelling|No reported cases during reported period.|-|
+|Disclosure 417-2|Incidents of non-compliance concerning product and service information and labelling| | |
+|Disclosure 417-3|Incidents of non-compliance concerning marketing communications| | |
+|Disclosure 418-1|Substantiated complaints concerning breaches of customer privacy and losses of customer data|No reported cases during reported period.|-|
+|Disclosure 419-1|Non-compliance with laws and regulations in the social and economic area|No reported cases during reported period.|-|

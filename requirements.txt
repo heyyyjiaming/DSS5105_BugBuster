@@ -1,4 +1,4 @@
-python_version >= "3.7"
+# python_version >= "3.7"
 pip>=24.3.1
 streamlit
 # streamlit-scrollable-textbox
@@ -13,3 +13,7 @@ beautifulsoup4
 PyPDF2
 scikit-learn
 plotly
+matplotlib
+yfinance==0.2.48
+yahooquery
+beautifulsoup4

@@ -3,6 +3,7 @@ import os
 import pandas as pd
 import nest_asyncio
 import sys
+import glob
 from llama_parse import LlamaParse
 from uniflow.flow.client import TransformClient
 from uniflow.flow.config import TransformOpenAIConfig
@@ -326,14 +327,41 @@ exchange_rates = {
     'USD': 1  
 }
 
+
+
 def modify_units(row):
-    # Cleaning the Year column
-    if pd.notnull(row['year']): 
-        year_str = ''.join(filter(str.isdigit, str(row['year'])))
-        if year_str:  
-            row['year'] = int(year_str)
-        else:
-            row['year'] = None  
+        # Check if the 'year' field is not null
+    if pd.notnull(row['year']):
+        year_str = str(row['year'])
+        
+        # Initialize variables for finding the year sequence
+        potential_year = ''
+        year_found = False
+        
+        for char in year_str:
+            if char.isdigit():
+                potential_year += char
+            else:
+                # Reset if the sequence goes beyond four digits
+                potential_year = ''
+
+            # Once four consecutive digits are found, validate
+            if len(potential_year) == 4:
+                year_int = int(potential_year)
+                # Define the valid year range
+                min_year, max_year = 2015, 2025
+                if min_year <= year_int <= max_year:
+                    row['year'] = year_int
+                    year_found = True
+                    break
+                else:
+                    # Reset and continue searching if invalid
+                    potential_year = ''
+
+        if not year_found:
+            row['year'] = None
+    else:
+        row['year'] = None
     
     # Existing unit modifications
     if row['unit'] == 'GJ':
@@ -406,16 +434,16 @@ def restructure(df,company_name):
     # fill_esg_data(df, new_df, 'New Hires and Turnover by Age Groups (Millennials %)', label='Age-Based Diversity', metric='New hires and turnover by age groups', unit='Millennials (%)')
     fill_esg_data(df, new_df, 'Total Turnover (%)', label='Employment', metric='Total employee turnover')
     fill_esg_data(df, new_df, 'Total Number of Employees', label='Employment', metric='Total number of employees')
-    fill_esg_data(df, new_df, 'Average Training Hours per Employee', label='Development & Training', metric='Average training hours per employee')
+    fill_esg_data(df, new_df, 'Average Training Hours per Employee', label='Development & Training', metric='Average training hours per employee', unit='Hour')
     fill_esg_data(df, new_df, 'Fatalities', metric='Fatalities')
-    fill_esg_data(df, new_df, 'High-consequence injuries', metric='High-consequence injuries')
-    fill_esg_data(df, new_df, 'Recordable injuries', metric='Recordable injuries')
-    fill_esg_data(df, new_df, 'Recordable work-related ill health cases', metric='Number of recordable work-related illnesses or health conditions')
+    fill_esg_data(df, new_df, 'High-consequence injuries', metric='High-consequence injuries', unit='Number')
+    fill_esg_data(df, new_df, 'Recordable injuries', metric='Recordable injuries', unit='Number')
+    fill_esg_data(df, new_df, 'Recordable work-related ill health cases', metric='Number of recordable work-related illnesses or health conditions', unit='Number')
     fill_esg_data(df, new_df, 'Board Independence (%)', label='Board Composition', metric='Board independence')
     fill_esg_data(df, new_df, 'Women on the Board (%)', label='Board Composition', metric='Women on the board')
     fill_esg_data(df, new_df, 'Women in Management Team (%)', label='Management Diversity', metric='Women in the management team')
-    fill_esg_data(df, new_df, 'Anti-Corruption Disclosures', metric='Anti-corruption disclosures')
-    fill_esg_data(df, new_df, 'Anti-Corruption Training for Employees (%)', label='Ethical Behaviour', metric='Anti-corruption training for employees')
+    # fill_esg_data(df, new_df, 'Anti-Corruption Disclosures', metric='Anti-corruption disclosures')
+    fill_esg_data(df, new_df, 'Anti-Corruption Training for Employees (%)', label='Ethical Behaviour', metric='Anti-corruption training for employees',unit='Number')
     # fill_esg_data(df, new_df, 'List of Relevant Certifications', label='Certifications', metric='List of relevant certifications')
     # fill_esg_data(df, new_df, 'Alignment with Frameworks and Disclosure Practices', label='Alignment with Frameworks', metric='Alignment with frameworks and disclosure practices')
     # fill_esg_data(df, new_df, 'Assurance of Sustainability Report', label='Assurance', metric='Assurance of sustainability report')
@@ -450,9 +478,12 @@ def append_to_summary(summary_table_path, new_df):
                 if pd.isna(existing_value):
                     existing_df.loc[match, col] = new_value
                 else:
-                    # If the existing value is not empty, keep the larger one
+                    # Check if both values are numeric or strings before comparing
                     if pd.notna(new_value):  # Only compare if new_value is not NaN
-                        existing_df.loc[match, col] = max(existing_value, new_value)
+                        if isinstance(existing_value, (int, float)) and isinstance(new_value, (int, float)):
+                            existing_df.loc[match, col] = max(existing_value, new_value)
+                        else:
+                            existing_df.loc[match, col] = existing_value  # Keep existing value if types differ
 
     # Write the updated dataframe back to the same Excel file
     existing_df.to_excel(summary_table_path, sheet_name='E', index=False)
@@ -485,25 +516,37 @@ input_openai_api = ''
 sys.path.append(".")
 sys.path.append("..")
 
-thisfile_dir = os.path.dirname(os.path.abspath(__file__))#if put this file in tests/ExtractPDF
-dir_cur = os.path.join(thisfile_dir, '..', '..')
-print("Target Directory:", dir_cur)
-
-# Put the name of PDF file and company name here #
-pdf_file = "singtel-sustainability-report-2021.pdf"
-company_name = 'Singtel'
-# Put the name of PDF file and company name here #
-
-input_file = os.path.join(f"{dir_cur}\data\Reports", pdf_file)
-base_name = os.path.basename(input_file)
-txt_path = os.path.join(dir_cur, 'outputs\llama_parsed', f'{base_name}.txt')
-xlsx_path = os.path.join(dir_cur, 'outputs\extracted_data', f'{base_name}.xlsx')
-summary_path = os.path.join(f"{dir_cur}", "outputs\Summary_table.xlsx")
 
 # %%
-###############################
 
-documents = convert_pdf_to_text(input_file, txt_path, input_llama_api)
-convert_text_to_xlsx(documents, xlsx_path, input_openai_api)
-convert_xlsx_to_summary(xlsx_path, summary_path, company_name)
+# This block retrieves the directory where this script is located and the parent directory
+thisfile_dir = os.path.dirname(os.path.abspath(__file__))
+dir_cur = os.path.join(thisfile_dir, '..', '..')
+reports_dir = os.path.join(dir_cur, 'data', 'Reports')
+summary_path = os.path.join(dir_cur, 'outputs', 'Summary_table.xlsx')
 
+print("Target Directory:", dir_cur)
+
+# Iterate over all PDF files in the Reports directory
+for pdf_file in glob.glob(os.path.join(reports_dir, '*.pdf')):
+    base_name = os.path.basename(pdf_file)
+    
+    # Define paths for the output files
+    txt_path = os.path.join(dir_cur, 'outputs', 'llama_parsed', f'{base_name}.txt')
+    xlsx_path = os.path.join(dir_cur, 'outputs', 'extracted_data', f'{base_name}.xlsx')
+    
+    # Check if the PDF is already processed by checking if the output files exist
+    if os.path.exists(txt_path) and os.path.exists(xlsx_path):
+        print(f"Skipping {base_name}, already processed.")
+        continue
+    
+    # Put the company name here, assuming it is derived from the PDF file name
+    company_name = base_name
+
+    # Process the PDF
+    print(f"Processing {base_name}...")
+    documents = convert_pdf_to_text(pdf_file, txt_path, input_llama_api)
+    convert_text_to_xlsx(documents, xlsx_path, input_openai_api)
+    convert_xlsx_to_summary(xlsx_path, summary_path, company_name)
+
+print("Processing complete.")

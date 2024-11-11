@@ -6,48 +6,96 @@ Bi Ying, Chen Zhujun, Ding Jiaming, Huang Yuxin, Li Jingming, Niu Muyuan, Wang H
 ## Project Description
 This an automatic system that extracts ESG information from unstructured reports and provides a comprehensive analysis of ESG performance within selected industries. By incorporating advanced natural language processing (NLP) techniques and data analysis, the tool helps streamline the ESG data extraction process, improve data quality, and offer valuable insights into corporate sustainability practices.
 
-We're evaluating on the basis of SGX Metrics below.
-### Environmental Metrics
+## :computer: Installation (For running code locally)
 
-| Topic                    | Metric                                          | Unit                      | Framework Alignment                                      | Description                                                                                                                                             |
-|--------------------------|-------------------------------------------------|---------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Greenhouse Gas Emissions** | Absolute emissions by: Total, Scope 1, Scope 2, Scope 3 (if appropriate) | tCO2e                     | GRI 305-1, 305-2, 305-3, TCFD, SASB 110, WEF core          | Metric tons of carbon dioxide equivalent (tCO2e) of GHG emissions.                                                                                     |
-|                          | Emission intensities                           | tCO2e/organization-specific metrics | GRI 305-4, TCFD, SASB 110                                  | Emission intensity ratios per unit of organization-specific metrics.                                                                                   |
-| **Energy Consumption**   | Total energy consumption                        | MWhs or GJ                | GRI 302-1, TCFD, SASB 130                                  | Total energy consumption within the organization in MWhs or GJ.                                                                                        |
-|                          | Energy consumption intensity                    | MWhs or GJ/organization-specific metrics | GRI 302-3, TCFD                                           | Energy intensity ratios per unit of organization-specific metrics.                                                                                     |
-| **Water Consumption**    | Total water consumption                         | ML or m³                  | GRI 303-5, SASB 140, TCFD, WEF core metrics                 | Total water consumption in megalitres or cubic metres across all operations.                                                                           |
-|                          | Water consumption intensity                     | ML or m³/organization-specific metrics | TCFD, SASB IF-RE-140a.1                               | Water intensity ratios per unit of organization-specific metrics.                                                                                     |
-| **Waste Generation**     | Total waste generated                           | t                         | GRI 306-3, SASB 150, TCFD, WEF expanded metrics             | Total weight of waste generated in metric tons, with relevant waste composition information.                                                           |
+1. Create a conda environment on your terminal using:
+    ```
+    conda create -n extractESG python=3.10 -y
+    conda activate extractESG  # some OS requires `source activate extractESG`
+    ```
+
+2. Install the compatible pytorch based on your OS.
+    - If you are on a GPU, install [pytorch based on your cuda version](https://pytorch.org/get-started/locally/). You can find your CUDA version via `nvcc -V`.
+        ```
+        pip3 install --pre torch --index-url https://download.pytorch.org/whl/nightly/cu121  # cu121 means cuda 12.1
+        ```
+    - If you are on a CPU instance,
+        ```
+        pip3 install torch
+        ```
+
+3. Install `uniflow`:
+    ```
+    pip install uniflow
+    ```
+4. Install `llama-parse`:
+    ```
+    pip install llama-parse
+    ```
+5. Get API keys:
+ - Login and get a Llama model api-key from [**https://cloud.llamaindex.ai/api-key ↗**](https://cloud.llamaindex.ai/api-key). (For converting PDF to text)
+ - Login and get an Open AI api-key from [**https://platform.openai.com/settings/organization/api-keys ↗**](https://platform.openai.com/settings/organization/api-keys). (For extracting and standarding data)
+ - Login and get a Serper api-key from [**https://serper.dev/login ↗**](https://serper.dev/login). (For collecting reports)
+   
+- (Optional) If you are running on your computer, you can set up your OpenAI API key first. To do so, create a `.env` file in `D:/apikeys/.env` Then add the following line to the `.env` file:
+     ```
+     OPENAI_API_KEY = sk-.....
+     LLAMA_API_KEY = llx-....
+     ```
+## Data Extraction Process
+By following our structured approach to ESG information extraction, we ensure that our data is not only accurate but also organized in a way that supports comprehensive analysis and reporting. Below are the main components of our ESG information extraction process:
+
+![](https://github.com/heyyyjiaming/DSS5105_BugBuster/blob/main/image/5105.jpg)
 
 
-### Social Metrics
+## Output Examples
 
-| Topic                        | Metric                                      | Unit                      | Framework Alignment                                      | Description                                                                                                                                             |
-|------------------------------|---------------------------------------------|---------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Gender Diversity**         | Current employees by gender                 | Percentage (%)            | GRI 405-1, SASB 330, WEF core metrics                     | Percentage of existing employees by gender.                                                                                                             |
-|                              | New hires and turnover by gender            | Percentage (%)            | GRI 401-1, WEF core metrics                               | Percentage of new employee hires and turnover by gender during the reporting period.                                                                    |
-| **Age-Based Diversity**      | Current employees by age groups             | Percentage (%)            | GRI 405-1, WEF core metrics                               | Percentage of existing employees by age group (under 30, 30-50, over 50).                                                                               |
-|                              | New hires and turnover by age groups        | Percentage (%)            | GRI 401-1, WEF core metrics                               | Percentage of new employee hires and turnover by age group during the reporting period.                                                                 |
-| **Employment**               | Total turnover                              | Number and Percentage (%) | GRI 401-1, SASB 310, WEF core metrics                     | Total number and rate of employee turnover during the reporting period. Definition of reporting scope should be clear.                                  |
-|                              | Total number of employees                   | Number                    | Commonly reported metric by SGX issuers, GRI 2-7          | Total number of employees at the end of the reporting period. Definition of reporting scope should be clear.                                            |
-| **Development & Training**   | Average training hours per employee         | Hours/No. of employees    | GRI 404-1, WEF core metrics                               | Average training hours per employee during the reporting period.                                                                                        |
-|                              | Average training hours per employee by gender | Hours/No. of employees    | GRI 404-1, WEF core metrics                               | Average training hours per employee by gender during the reporting period.                                                                              |
-| **Occupational Health & Safety** | Fatalities                                  | Number of cases           | GRI 403-9, WEF core metrics, MOM (Singapore), SASB 320   | Number of fatalities due to work-related injuries during the reporting period.                                                                          |
-|                              | High-consequence injuries                    | Number of cases           | GRI 403-9, WEF core metrics, MOM (Singapore)             | Number of high-consequence work-related injuries (excluding fatalities).                                                                                 |
-|                              | Recordable injuries                          | Number of cases           | GRI 403-9, WEF core metrics, MOM (Singapore), SASB 320   | Number of recordable work-related injuries during the reporting period.                                                                                 |
-|                              | Recordable work-related illnesses            | Number of cases           | GRI 403-10, WEF expanded metrics, MOM (Singapore)        | Number of recordable work-related illnesses or health conditions during the reporting period.                                                           |
+Once the script runs successfully, it will generate several output files:
+
+- **One `.txt` file** in the directory `/outputs/llama_parsed`, which contains the text extracted from your PDFs.
+  - **Example Output**: 
+    ```
+    # Our Impact from Climate Change
+
+    Global warming leading to national disasters impacting our business and infrastructure
 
 
-### Governance Metrics
+    # Environment
+
+    # Climate Change and Carbon
+
+    As it is important to understand our initiatives in the past and how they interrelate to our current focus and strategy going forward, we have         summarised the major actions, insights and milestones in our climate strategy and journey (see Table 1).
+
+    |YEAR|INITIATIVES/|RELEVANT INSIGHTS INTO|OUR ACTIONS|REPORT|
+    |---|---|---|---|---|
+    |2010|Progressive depth and breadth of carbon disclosure, reporting and external assurance|Understanding our carbon footprint and drivers.|Continuous         refinement and validation to achieve a comprehensive view of our carbon footprint.|Sustainability Reports and CDP|
+    |2013|Founding member of the Australian Business Roundtable for Disaster Resilience and Safer Communities (ABR)|Research and insights into social and     economic impact of natural disasters.|Five research reports.|ABR Reports from 2013 to November 2017|
+    |2015|Stakeholder and Materiality Assessment|Climate change emerged as a topic of moderate importance and moderate impact.|Mid-term energy and carbon     intensity targets set for 2020 and 2030: improvement by 30% and 50% respectively. Widen depth and scope of carbon reporting to CDP for Singapore and Australia.|SR2016|
+    |2016|Life Cycle Assessment|Climate change and carbon were the most material environmental issues of concern. Almost two-thirds of our carbon footprint were in our supply chain. This was highly relevant in setting science-based Scope 3 carbon reduction targets.|Environment strategy updated to     strengthen focus on climate change and carbon. Climate risk and carbon assessment updated for our Sustainable Supply Chain Management framework.|SR2016|
+
+    ```
+
+- **One `.xlsx` file** in the directory `/outputs/extracted_data`, which contains the extracted ESG data organized into five key features.
+  - **Example Output**: 
 
 
-| Topic                 | Metric                      | Unit          | Source                                                 | Description                                                                                                                   |
-|-----------------------|-----------------------------|---------------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **Board Composition**  | Board independence          | Percentage (%)| GRI 102-22, GRI 2-9, WEF core metrics                  | The number of independent board directors as a percentage of all directors.                                                  |
-|                       | Women on the board          | Percentage (%)| GRI 102-22, GRI 2-9, GRI 405-1, WEF core metrics       | The number of female board directors as a percentage of all directors.                                                       |
-| **Management Diversity** | Women in the management team | Percentage (%)| GRI 102-22, GRI 2-9, GRI 405-1, WEF core metrics, SASB 330 | The number of female senior management as a percentage of senior management.                                                  |
-| **Ethical Behaviour**  | Anti-corruption disclosures | Discussion and number | GRI 205-1, GRI 205-2, and GRI 205-3                | Disclosures based on GRI’s anti-corruption standards (205-1, 205-2, and 205-3).                                              |
-|                       | Anti-corruption training for employees | Number and Percentage (%)| GRI 205-2, WEF core metrics                | Number and percentage of employees who received anti-corruption training during the reporting period.                         |
-| **Certifications**    | List of relevant certifications | List       | Commonly reported metric by SGX issuers                | List all sustainability or ESG-related certifications (e.g., ISO 45000 family, BCA Green Building, LEED, ENERGY STAR).        |
-| **Alignment with Frameworks** | Alignment with GRI/TCFD/SASB/SGX-ST Listing Rules | N/A            | SGX-ST Listing Rules (Mainboard) 711A and 711B, Practice Note 7.6; SGX-ST Listing Rules (Catalist) 711A and 711B | Use recognized frameworks for sustainability reporting, providing a description of the extent of framework application.       |
-| **Assurance**         | Assurance of sustainability report | Internal/External/None | GRI 2-5, SGX-ST Listing Rules                      | Disclose whether the sustainability report has undergone assurance and specify the scope of external or internal assurance.  |
+    | label                     | metric                       | unit   | year | value |
+    --------------------------|------------------------------|--------|------|-------|
+    | Greenhouse Gas Emissions  | Scope 2                     | tCO2e  | 2021 | 8500  |
+    | Energy Consumption        | Total energy consumption     | MWhs   | 2021 | 120000|
+    | Water Consumption         | Total water consumption      | ML     | 2021 | 1500  |
+
+    This table can be combined with the previous example to create a comprehensive view of the ESG data. If you need them merged or formatted 
+differently, just let me know!
+
+    This table can be included in the output section of your documentation to provide clear and structured information about the extracted ESG data.
+
+- **A summary of the data** will be appended in the `Summary_table.xlsx` located in the `/outputs` directory.
+  - **Example Output**: 
+
+    | Company Name | Year | GHG Emissions (Scope 1) (tCO2e) | GHG Emissions (Scope 2) (tCO2e) | GHG Emissions (Scope 3) (tCO2e) | GHG Emissions (Total) (tCO2e) | Total Energy Consumption (MWhs) | Total Water Consumption (ML) | Total Waste Generated (t) | Current Employees by Gender (Female %) | New Hires and Turnover by Gender (Female %) | Total Turnover (%) | Total Number of Employees | Average Training Hours per Employee | Fatalities | High-consequence injuries | Recordable injuries | Recordable work-related ill health cases | Board Independence (%) | Women on the Board (%) | Women in Management Team (%) | Anti-Corruption Training for Employees (%) |
+    |--------------|------|----------------------------------|----------------------------------|----------------------------------|--------------------------------|----------------------------------|------------------------------|--------------------------|-----------------------------------------|----------------------------------------------|--------------------|--------------------------|-----------------------------------|------------|--------------------------|-------------------|----------------------------------------------|----------------------|------------------------|-----------------------------|----------------------------------------------|
+    | Singtel      | 2020 | 5000                             | 168679                           | 7000                             | 162566                         | 917090.7337                     | 8646.465                     | 8541                     | 45                                      | 4.6                                          | 39.6               | 24000                    | 45000000                          | 0          |                          | 14                |                                              | 28                   |                        |                             |                                              |
+    | Singtel      | 2021 | 5749                             | 110292                           | 7809                         | 3613093                       | 808072.8687                     | 1500                        | 4921                     | 45                                      | 10.5                                         | 13.2               | 20078                    | 48.3                              | 0          | 17                       | 10                | 60                                           | 30                   | 40                     | 80                          |                                              |
+
+These output files provide a comprehensive view of the ESG data extracted from the reports, making it easy to analyze and report on sustainability metrics.
