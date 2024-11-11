@@ -47,21 +47,6 @@ if input_llama_api_key:
     os.environ["LLAMA_CLOUD_API_KEY"] = input_llama_api_key
 
 
-if not (input_openai_api_key and input_llama_api_key):
-    st.info("Please add your OpenAI & Llama Cloud API key on the left to continue.", icon="🗝️")
-else:
-    with st.sidebar:
-        company_name = st.text_input("Please enter the name of company you want to analyze")
-        st.session_state.uploaded_path = st.file_uploader("Upload a your ESG report(PDF) 📎", type=("pdf"), accept_multiple_files=True)
-
-with st.sidebar:
-    input_openai_api_key = st.text_input("OpenAI API Key", type="password")
-    input_llama_api_key = st.text_input("Llama Cloud API Key", type="password")
-
-if input_openai_api_key:
-    os.environ["OPENAI_API_KEY"] = input_openai_api_key
-if input_llama_api_key:
-    os.environ["LLAMA_CLOUD_API_KEY"] = input_llama_api_key
 
 if not (input_openai_api_key and input_llama_api_key):
     st.info("Please add your OpenAI & Llama Cloud API key on the left to continue.", icon="🗝️")
@@ -69,12 +54,6 @@ else:
     with st.sidebar:
         company_name = st.text_input("Please enter the name of company you want to analyze")
         st.session_state.uploaded_path = st.file_uploader("Upload a your ESG report(PDF) 📎", type=("pdf"), accept_multiple_files=True)
-    if not st.session_state.uploaded_path:
-        st.warning("⬅️ Please upload a PDF file to continue 👻")
-    else:
-        st.write("File uploaded successfully! 🎉")
-        init_session()
-        
     if not st.session_state.uploaded_path:
         st.warning("⬅️ Please upload a PDF file to continue 👻")
     else:
@@ -90,14 +69,11 @@ else:
                 progress_text = "Processing PDF file "
                 my_bar = st.progress(0, text=progress_text)
                 for i in range(len(st.session_state.uploaded_path)):
-                    my_bar.progress(1/len(st.session_state.uploaded_path)*i, text=progress_text+f"{i+1}")
+                    my_bar.progress(1/len(st.session_state.uploaded_path)*i, text=progress_text+f"{i+1} ...")
                     
                     with st.spinner("Converting PDF file into text..."):
                         cur_doc_parsed, cur_pdf_texts = convert_pdf_to_text(st.session_state.uploaded_path[i])
-                    with st.spinner("Extracting ESG information..."):
-                        df_info = convert_text_to_xlsx(cur_doc_parsed)
-                        st.dataframe(df_info)
-                        # df_summary = convert_xlsx_to_summary(df_info, company_name)
+                        st.markdown(cur_pdf_texts)
                     
                     with st.spinner("Extracting ESG information..."):
                         df_info = convert_text_to_xlsx(cur_doc_parsed)
