@@ -144,23 +144,21 @@ Collaboration allows us to tackle broader sustainability challenges that a singl
 
 Collaboration fosters a breeding ground for innovation. Throughout the year, we worked with various partners to explore new solutions. This includes developing LazzieChat, the first digital commerce AI chatbot in Southeast Asia, a project that combines Microsoft Azure’s OpenAI service with Lazada’s extensive consumer reach.
 
-There will be challenges along the way, which is why we believe in being transparent with our commitments and keeping ourselves accountable by tracking our progress. Our voluntary reports go beyond just listing our accomplishments to do just that. Given our extensive reach, we also see opportunities where we can bring others along on this sustainability journey as well and have undertaken efforts to educate our sellers, buyers, and partners. One example is the Lazada Sustainability Academy, which equips sellers with the knowledge and tools to operate sustainably, empowering them to go beyond performative actions and contribute to a genuinely sustainable digital commerce ecosystem.
+Sustainability is a continuous journey, not a one-time achievement. As a leading digital commerce company, we hold ambitious sustainability goals. At the same time, we understand that these can only be meaningfully achieved through collective action with like-minded partners.
 
 # Gladys Chun
 
 General Counsel, Lazada Group
 
-With sustainability becoming a financial foundation for companies in 2024, what is Lazada’s approach towards integrating sustainability into its financial strategy?
+We are actively combating greenwashing and like I mentioned before, transparency and accountability are fundamental to our sustainability efforts. The recent development of global disclosure standards, like those from the International Sustainability Standards Board (ISSB), is a positive step. These standards provide a unified framework for reference as we continue to refine our reporting practices. By actively studying these emerging best practices, we aim to enhance the communication of our sustainability efforts to stakeholders. This will ensure our disclosures not only align with the evolving regulatory landscape but also foster a deeper understanding of how sustainability is integrated into our financial strategy.
 
-We recognize that sustainability and financial stability are fundamentally intertwined, making it imperative to integrate ESG considerations into our financial strategy for long-term success. At Lazada, our approach is multi-pronged: climate change and ESG issues pose significant financial risks to businesses globally, so we have proactively included ESG considerations in our financial planning and risk assessments. Additionally, we are exploring how our financial decisions can support sustainable growth, enhance resilience, and drive innovation. By focusing on strategic long-term investments in sustainable facilities and product lines within the rapidly evolving digital commerce landscape, we aim to create long-term value for Lazada and our stakeholders, demonstrating that sustainable practices are not only beneficial for the planet but also smart business decisions.
-
-# How is Lazada addressing the issue of greenwashing and assessing vulnerability to greenwashing claims?
-
-We are actively combating greenwashing and like I mentioned before, transparency and accountability are fundamental to our sustainability efforts. The recent development of global disclosure standards, like those from the International Sustainability Standards Board (ISSB), is a positive step. These standards provide a unified framework for reference as we continue to refine our reporting practices. By actively studying these emerging best practices, we aim to enhance the communication of our sustainability efforts to stakeholders. This will ensure our disclosures not only align with the evolving regulatory landscape but also foster a deeper understanding of how sustainability is integrated into our financial strategy. Ultimately, our commitment to open communication strengthens engagement with investors, regulators, and the public, allowing us to work collaboratively towards a more sustainable future.
+Ultimately, our commitment to open communication strengthens engagement with investors, regulators, and the public, allowing us to work collaboratively towards a more sustainable future.
 
 # How is Lazada integrating technology into its ESG strategy and what are the anticipated benefits?
 
 We prioritize data-driven decisions in our ESG strategy. In 2023, we developed our own in-house carbon data collection platform to track Scope 1 and 2 emissions, and are in the process of expanding our platform to track Scope 3 emissions, water, waste, and electricity data. This platform leverages our advanced in-house technological capabilities to provide an end-to-end data tracking platform for Lazada to measure its performance and make informed decisions. Our in-house platform is continuously being refined to close data gaps and improve accuracy. For example, enhanced data management allowed Lazada to switch from calculating carbon emissions based on estimates to using actual business activity data. This shift provides more precise and accurate information for emissions management and progress tracking.
+
+By focusing on strategic long-term investments in sustainable facilities and product lines within the rapidly evolving digital commerce landscape, we aim to create long-term value for Lazada and our stakeholders, demonstrating that sustainable practices are not only beneficial for the planet but also smart business decisions.
 
 # ABOUT US
 
@@ -201,16 +199,18 @@ As a leading digital commerce business in Southeast Asia, we aim to positively i
 |---|---|---|---|
 |1 million stakeholders benefit from the economic opportunities we provide|43% of our workforce are women|32 of carton boxes used in activity-based carbon accounting|Over 97% processed within 72 hours of takedown requests|
 |1 million monthly active-selling sellers on Lazada’s platform|160 million monthly active users on Lazada’s platform|Over 20 employee events held across six countries|100% Code of Business Conduct completion rate for our employees|
-|278 products in RedMart’s sustainable house brand product range|Launched internal carbon data collection platform, improving accuracy|Opened Thailand’s first environmentally friendly logistics hub|3 consecutive years of winning the ALB Southeast Asia Law Awards|
-|50,000 runners participated in Lazada Run 2023 supported by 162 brand partners and sponsors| | | |
+|278 products in RedMart’s sustainable house brand product range|Over 50,000 runners participated in Lazada Run 2023|1st sustainability training module launched for Lazadians|Opened Thailand’s environmentally friendly logistics hub|
+|Supported by 162 brand partners and sponsors| | | |
 
 2Refer to the Appendix on page 21 for details.
 
-4 Monthly active users refer to the unique users who log in onto Lazada’s platform in the last 30 days.
-
 3Monthly active-selling sellers refer to the unique sellers who have at least one sale on Lazada’s platform in the last 30 days.
 
-5 For Indonesia, the Philippines, Singapore, Thailand, and Vietnam.
+4Monthly active users refer to the unique users who log in onto Lazada’s platform in the last 30 days.
+
+5For Indonesia, the Philippines, Singapore, Thailand, and Vietnam.
+
+# FY2024 ESG Impact Report
 
 # From Our Leaders
 
@@ -246,20 +246,19 @@ The ESG Taskforce provides expertise to the Executive Committee on relevant ESG 
 
 # Corporate Sustainability
 
-People, Logistics, Corporate Communications, Legal & Compliance, Commercial, Security, Risk & Enterprise Intelligence, Governance Affairs.
+People
 
-# ESG FRAMEWORK
+Logistics
 
-# Sustainable Development
+Communications
 
-|Key Pillars|Material Topics|Goals (SDGs)|
-|---|---|---|
-|Empowering Communities|Socioeconomic impact|1wun|
-| |We endeavor to enrich the lives of Southeast Asian communities by providing the necessary jobs, services and capacity building across our network and support economic development across the region.| |
-|Future-ready Workforce|Talent Attraction, Development and Well-being| |
-| |We continue to enrich the work experience for our employees while developing the skill sets and knowledge of the broader talent pool to stay resilient in a fast-changing world.| |
-|Environmental Stewardship|Carbon Footprint| |
-| |We strive to minimize the environmental impact of our operations in the communities we serve by implementing strategies that lower our carbon footprint and reduce our use of natural resources.| |
+Legal & Compliance
+
+Commercial
+
+Security, Risk & Enterprise Intelligence
+
+Governance Affairs
 
 # ESG PRIORITIES AND MATERIALITY ASSESSMENT
 
@@ -267,23 +266,15 @@ Our ESG priorities for the reporting period remain unchanged. During this time, 
 
 These six material topics were selected via a comprehensive materiality assessment conducted by an independent consultant, to understand the ESG issues most significant to our business and stakeholders. Through a rigorous three-stage process, we prioritized and validated the top six topics according to the double materiality concept, evaluating their impact on our enterprise value and our assessed impact on society and the environment.
 
-# Phase 1: Identification
-
-26 material issues were identified by reviewing industry trends, peer benchmarking, and international standards like GRI and SASB.
-
-# Phase 2: Refinement and Prioritization
-
-Surveys and interviews with internal and external stakeholders assessed the impact of each shortlisted material issue, capturing their views on related risks and opportunities.
-
-# Phase 3: Validation
-
-Lazada's senior leadership validated the six material topics prioritized in Phase 2, forming our ESG framework under four key pillars.
+|Phase 1: Identification|Phase 2: Refinement and Prioritization|Phase 3: Validation|
+|---|---|---|
+|26 material issues were identified by reviewing industry trends, peer benchmarking, and international standards like GRI and SASB.|Surveys and interviews with internal and external stakeholders assessed the impact of each shortlisted material issue, capturing their views on related risks and opportunities.|Lazada's senior leadership validated the six material topics prioritized in Phase 2, forming our ESG framework under four key pillars.|
 
 # Effective Governance
 
-# Cybersecurity and Data Privacy
+We focus on providing our buyers and sellers with a safe and reliable digital environment, supported by effective governance structures that uphold ethical, transparent, and responsible business conduct.
 
-We focus on providing our buyers and sellers with a safe and reliable digital environment, supported by effective governance structures that uphold ethical, transparent and responsible business conduct.
+# Cybersecurity and Data Privacy
 
 Securing the management of digital information to uphold the right to privacy for all our stakeholders and protect data from unwanted parties and unauthorized access, such as security threats and cyberattacks.
 
@@ -291,21 +282,14 @@ Securing the management of digital information to uphold the right to privacy fo
 
 Managing the protection of intellectual property rights to promote a trusted and fair environment.
 
-# From Our Leaders
+# Goals (SDGs)
 
-# About Us
-
-# ESG at Lazada
-
-# Empowering Communities
-
-# Future-ready Workforce
-
-# Environmental Stewardship
-
-# Effective Governance
-
-# Appendix
+|Key Pillars|Material Topics|Goals (SDGs)|
+|---|---|---|
+|Empowering Communities|Socioeconomic impact|1wun|
+|Future-ready Workforce|Talent Attraction, Development and Well-being|Fostering a wider industry talent pool in local markets, and ensuring a diverse workforce built on fair employment practices, skill development for the future, and opportunities to develop meaningful careers with Lazada.|
+|Environmental Stewardship|Carbon Footprint|Implementing a systematic approach to improve the energy efficiency of Lazada’s operations and value chain as well as managing greenhouse gas (GHG) emissions from our operations into the earth’s atmosphere.|
+|Materials and Packaging|Decoupling growth from natural resource consumption and reducing the use of non-renewable material inputs for Lazada businesses, with a focus on collaborating with stakeholders to rethink and reinvent packaging solutions.| |
 
 # STAKEHOLDER ENGAGEMENT
 
@@ -319,15 +303,18 @@ We build strong relationships with our stakeholders through effective communicat
 | |• Marketing and promotional campaigns|Ongoing basis|• Access to products, including price and delivery|• Providing new services and offerings to meet diverse and evolving needs|
 |Buyers|• Social media platforms| |• User-centric experience|• Scaling up customer service operations through various support avenues|
 | |• In-app communications| |• Safety and reliability of services|• Enhancing data and privacy protection via internal and external capacity-building training|
-| |• Industry discussions|Ongoing basis|• Business strategy and outlook|• Supporting the communities through commercial and non-commercial activities|
+| | |• Data and privacy protection| | |
+|Communities|• Industry discussions|Ongoing basis|• Business strategy and outlook|• Supporting the communities through commercial and non-commercial activities|
 | |• Programs and collaborations| |• Environmental, social and economic impact|• Communicating our sustainability performance to the community through multiple channels|
-|Communities|• LazBeat news hub| |• Sustainability efforts| |
-| |• Lazada Insider podcast| | | |
-| |• Townhall meetings|Ongoing basis|• Career development and training opportunities|• Enhancing employee professional skills through a comprehensive training system combined with our in-house training platform|
+| |• LazBeat news hub| |• Sustainability efforts| |
+|Employees|• Townhall meetings|Ongoing basis|• Career development and training opportunities|• Enhancing employee professional skills through a comprehensive training system combined with our in-house training platform|
 | |• Internal communications and updates| |• Employment practices, remuneration and benefits|• Providing rewarding career development opportunities through a robust salary assessment and promotion mechanism|
 | |• Social cohesion activities| |• Organizational updates|• Tracking employee satisfaction and sourcing inputs for improvements through diverse benefits and enrichment activities|
-| |• Laws and regulations updates|Ongoing basis|• Compliance with laws and regulations|• Ensuring compliance with the latest legal and regulatory requirements through proactive external engagements and reviewing internal policies regularly|
-|Government Sectors|• Discussions and collaborations with governments and regulators|Ongoing basis| | |
+| |• Training and development programs| |• Financial and sustainability performance of the company|• Improving employee work experience by creating a friendly and safe work environment|
+| |• LazListen| | | |
+| |• Employee engagement initiatives| | | |
+|Government Sectors|• Laws and regulations updates|Ongoing basis|• Compliance with laws and regulations|• Ensuring compliance with the latest legal and regulatory requirements through proactive external engagements and reviewing internal policies regularly|
+|• Discussions and collaborations with governments and regulators| | | | |
 |Sellers|• Lazada University|Ongoing basis|• Data and intellectual property protection|• Enhancing data and privacy protection via internal and external capacity-building trainings|
 | |• Lazada Insider podcast| |• Product and category trends|• Protecting sellers’ rights through a contactable intellectual property protection system|
 | |• Surveys and publications| |• Visitors’ conversion|• Strengthening sellers’ market sensitivity through market trend-sharing activities|
@@ -335,10 +322,8 @@ We build strong relationships with our stakeholders through effective communicat
 | |• Marketing and promotional campaigns| | | |
 | |• Seller conferences| | | |
 |Suppliers|• Business and operational meetings|Ongoing basis|• Long-term cooperation|• Creating a fair and equitable business model through supplier management and internal control|
-| |• Procurement management| |• Operational updates|• Exploring new market opportunities together through diversified cooperation models|
-| |• Product innovation| | | |
-
-FY2024 ESG Impact Report 8
+| |• Procurement management| |• Operational updates| |
+| |• Product innovation| | |• Exploring new market opportunities together through diversified cooperation models|
 
 # EMPOWERING COMMUNITIES
 
@@ -355,9 +340,11 @@ Despite the promising growth potential, challenges remain in promoting inclusive
 
 # References
 
-1. Chadha, S. (2023). How Southeast Asia can become a $1 trillion digital economy. World Economic Forum. Link
-2. Cher, Benjamin. (2023). S-E Asia's 2023 revenue from digital economy set to hit US$100 billion. The Business Times. Link
-3. Hoppe, F., Baijal, A., Chang, W., Chadna, S. & Hoong, F.W. (2023). e-Conomy SEA 2023. Bain & Company. Link
+6 Chadha, S. (2023). How Southeast Asia can become a $1 trillion digital economy. World Economic Forum. Link
+
+7 Cher, Benjamin. (2023). S-E Asia's 2023 revenue from digital economy set to hit US$100 billion. The Business Times. Link
+
+8 Hoppe, F., Baijal, A., Chang, W., Chadna, S. & Hoong, F.W. (2023). e-Conomy SEA 2023. Bain & Company. Link
 
 # INNOVATIONS ACROSS THE LAZADA ECOSYSTEM
 
@@ -389,6 +376,8 @@ Lazada’s latest innovation, the AI-powered and AR Skin Test Technology, enable
 # AR Feature: Put In My Home
 
 The new AR feature, "Put In My Home," allows buyers to visualize products in their own living spaces, enabling a virtual experience that helps them make more informed purchase decisions. This interactive feature enhances the shopping experience and fosters better engagement with the brands.
+
+FY2024 ESG Impact Report 10
 
 # Reducing Barriers and Facilitating Seamless Payments
 
@@ -500,7 +489,7 @@ Our talent attraction strategy emphasizes inclusivity and equal opportunities, e
 
 We continually invest in the development of Lazadians so they can reach their full potential in an evolving business landscape. Beyond conventional training, we offer a range of learning resources, including workshops, e-learning modules, and coaching programs, catering to the varied learning styles of our diverse workforce. Our learning and development framework is adapted from the 70-20-10 model:
 
-|70% ON THE JOB EXPERIENCE|20% COACHING AND FEEDBACK|10% STRUCTURED TRAINING|
+|70% ON-THE-JOB EXPERIENCE|20% COACHING AND FEEDBACK|10% STRUCTURED TRAINING|
 |---|---|---|
 |On-the-job learning|Performance review and career discussions|Classroom training|
 |Stretch assignments|Coaching|Workshops|
@@ -612,7 +601,11 @@ At Lazada Thailand’s Theparak Sortation Center (TPKSC), various energy-saving 
 
 # Results
 
-27% usage for fans after implementing the reduction in daily electricity scheduling system.
+20% of the logistics hub’s electricity needs are powered by solar energy generated and 30 out of 37 bikes are electric.
+
+# Reduction in Fan Usage
+
+27% reduction in daily electricity usage for fans after implementing the scheduling system.
 
 13Please refer to Appendix page 23
 
@@ -684,7 +677,7 @@ We understand the importance of building a secure and trustworthy marketplace fo
 |---|---|
 |0 substantiated complaints concerning breaches of|customer privacy and loss of customer data|
 |100% employee training completion rate for our|Code of Business Conduct and ABC Policy|
-|3 consecutive years of winning the ALB Southeast|Asia Law Awards|
+|3 consecutive years of winning the|ALB Southeast Asia Law Awards|
 
 FY2024 ESG Impact Report 19
 
@@ -736,21 +729,13 @@ Intellectual property protection is vital for a legally compliant and healthy di
 
 |IPP Platform|IPP Plus Program|Proactive Measures|Online-To-Offline Enforcement|
 |---|---|---|---|
-|Rights holders can register accounts, submit and track takedown requests, including counter-notices by sellers, on the IPP Platform.|Selected rights holders on the IPP Plus Program, including over 100 brands, benefit from expedited takedown processing and enhanced support.|Advanced technology like AI and image recognition is used to proactively remove counterfeit listings.|Lazada supports rights holders in offline investigations and enforcement actions targeting the entire supply chain to prevent counterfeit goods from entering the online sales channel.|
-
-Over 230 leads have been analyzed with brand partners. The platform processes over 97% of requests within 72 hours, with a median time of under 15 hours. Listings are processed within 48 hours, with a median time of under 8 hours. Over 96% of takedown requests filed by IPP Plus users occurred. This program includes over 140 brands and achieves a 90% removal rate before transactions.
-
-# Asian Legal Business (ALB) Southeast Asia Awards
+|Rights holders can register accounts, submit and track takedown requests, including counter-notices by sellers.|Selected rights holders on the IPP Plus Program, including over 100 brands, benefit from expedited takedown processing and enhanced support.|Advanced technology like AI and image recognition is used to proactively remove counterfeit listings.|Lazada supports rights holders in offline investigations and enforcement actions targeting the entire supply chain to prevent counterfeit goods from entering the online sales channel.|
 
 Lazada was recognized at the prestigious ALB Southeast Asia Awards during the reporting period. We were honored with the title “Compliance and Risk Management In-House Team of the Year” for the third consecutive year, acknowledging our exceptional compliance and risk management capabilities. This recognition reflects our innovation in various tools, including those for managing privacy incidents, an ABC due diligence review tool for our Corporate Social Responsibility activities, and a law enforcement request portal that allows us to efficiently manage regulatory requests. By leveraging technology and automation, we continuously improve to build a reliable platform for our buyers and brands, aiming for sustainable, long-term growth with all our ecosystem partners.
 
-15 “Substantiated complaints” are those made by third-parties or regulatory bodies. For a complaint to be considered substantiated, Lazada is required to report the issue to a relevant regulator, or the regulator must start an investigation based on a complaint from an affected party. Additionally, complaints must result in penalties for Lazada such as fines, jail terms, orders to stop certain activities, or a business halt, or lead to voluntary corrective actions by Lazada.
+“Substantiated complaints” are those made by third-parties or regulatory bodies. For a complaint to be considered substantiated, Lazada is required to report the issue to a relevant regulator, or the regulator must start an investigation based on a complaint from an affected party. Additionally, complaints must result in penalties for Lazada such as fines, jail terms, orders to stop certain activities, or a business halt, or lead to voluntary corrective actions by Lazada.
 
-16 The number of complaints concerning customer privacy breaches or customer data losses for FY2023 has been restated to one (1). In FY2023, RedMart Limited recorded an inquiry from the Personal Data Protection Commission (PDPC) of Singapore regarding an incident report on the legitimate interest for the collection of personal information and measures to eliminate and mitigate risks of unauthorized use and disclosure of such information. In the final decision issued by the PDPC on 18 January 2023, the Commissioner confirmed that RedMart has met the requirements for reliance on the Legitimate Interest Exception, including the enhanced access controls implemented to mitigate risks of unauthorized use and disclosure of personal information collected. No evidence of incidents resulted in customer privacy breaches or data losses. Details of the PDPC statement can be viewed at: DECISION OF PERSONAL DATA PROTECTION COMMISSION.
-
-17 Criteria for selecting rights holders for the IPP Plus Program include reporting volume and accuracy of past takedown requests.
-
-18 The decrease is due to more actions taken compared to the previous year.
+The number of complaints concerning customer privacy breaches or customer data losses for FY2023 has been restated to one (1). In FY2023, RedMart Limited recorded an inquiry from the Personal Data Protection Commission (PDPC) of Singapore regarding an incident report on the legitimate interest for the collection of personal information and measures to eliminate and mitigate risks of unauthorized use and disclosure of such information. In the final decision issued by the PDPC on 18 January 2023, the Commissioner confirmed that RedMart has met the requirements for reliance on the Legitimate Interest Exception, including the enhanced access controls implemented to mitigate risks of unauthorized use and disclosure of personal information collected. No evidence of incidents resulted in customer privacy breaches or data losses. Details of the PDPC statement can be viewed at: DECISION OF PERSONAL DATA PROTECTION COMMISSION.
 
 # Empowering Communities
 
@@ -767,9 +752,7 @@ The methodology and assumptions below derive the number of economic opportunitie
 
 Assumptions:
 
-The delivery efficiency of 3PL drivers is assumed to be similar to that of Lazada Logistics operations.
-
-Lazada Logistics’ delivery efficiency was computed using the total number of parcels delivered divided by the total number of drivers in Indonesia, Malaysia, the Philippines, Thailand and Vietnam. Singapore was excluded as it does not have Lazada Logistics operations.
+The delivery efficiency of 3PL drivers is assumed to be similar to that of Lazada Logistics operations. Lazada Logistics’ delivery efficiency was computed using the total number of parcels delivered divided by the total number of drivers in Indonesia, Malaysia, the Philippines, Thailand and Vietnam. Singapore was excluded as it does not have Lazada Logistics operations.
 
 Number of Enabler Company Employees
 Number of enabler company employees was estimated by aggregating the average number of employees in the reporting period by each enabler company that Lazada works with within the countries in which we operate. This number was rounded down to the nearest thousand for a more conservative estimate, as different enabler companies may use different methods to estimate the average number of employees in the reporting period.
@@ -793,7 +776,7 @@ Currency conversion rates are extracted from XE currency tables and are based on
 
 There are less than 0.1% of employees who identify themselves as genders other than male and female or prefer not to declare their genders during the reporting period.
 
-# Future-ready Workforce
+# Breakdown of Employees by Employee Type and Gender (%)
 
 |Categories|FY2022|FY2023|FY2024|
 |---|---|---|---|
@@ -820,31 +803,15 @@ There are less than 0.1% of employees who identify themselves as genders other t
 
 # Breakdown of Employees by Region and Gender (%)
 
-|Categories|FY2023|FY2024|
-|---|---|---|
-|Singapore|Male: 6.8, Female: 4.2, Others: -|Male: 8.3, Female: 3.8|
-|Indonesia|Male: 10.3, Female: 5.8, Others: -|Male: 9.9, Female: 4.8|
-|Malaysia|Male: 4.3, Female: 3.9, Others: -|Male: 3.9, Female: 3.7|
-|Philippines|Male: 7.1, Female: 7.0, Others: 0.0|Male: 7.2, Female: 6.2|
-|Thailand|Male: 6.6, Female: 7.8, Others: 0.0|Male: 5.6, Female: 6.8|
-|Vietnam|Male: 7.2, Female: 6.4, Others: -|Male: 4.2, Female: 3.8|
-|Regional|13.9|18.0|
-
-# Parental Leave
-
-|Categories|FY2023|FY2024|
-|---|---|---|
-|Return to work rate (%)|Male: 88, Female: 83|Male: 84, Female: 78|
-|Retention rate (%)|Male: 85, Female: 88|Male: 72, Female: 55|
-
-# Diversity of Gender and Age Group under Each Employee Category (%)
-
-|Categories|FY2022|FY2023|FY2024|
-|---|---|---|---|
-|Level 1|24|24|24|
-|Level 2|1|2|3|
-|Level 3|4|1|2|
-|Level 4|1|2|3|
+|Categories| | | |FY2023| |Categories|FY2023| | | | | | |FY2024| |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |Singapore|Indonesia|Malaysia|Philippines|Thailand|Vietnam|Regional| | | | | | | | |
+|Male|6.8|10.3|4.3|7.1|6.6|7.2|13.9| | | | | | | | |
+|Female|4.2|5.8|3.9|7.0|7.8|6.4|8.7| | | | | | | | |
+|Others|-|-|-|0.0|0.0|-|-| | | | | | | | |
+|Categories| | | |FY2024| | | | | |Diversity of Gender and Age Group under Each Employee Category (%)| | | | | |
+|Male|8.3|9.9|3.9|7.2|5.6|4.2|18.0| | | | | | | | |
+|Female|3.8|4.8|3.7|6.2|6.8|3.8|13.9| | | | | | | | |
 
 # Breakdown of New Hires Rate by Gender, Age Group and Region (%)
 
@@ -857,11 +824,11 @@ There are less than 0.1% of employees who identify themselves as genders other t
 
 # Breakdown by Age Group
 
-|Age Group|FY2022|FY2023|FY2024|
-|---|---|---|---|
-|Under 30 years old|10.3|25.8|6.0|
-|30-50 years old|6.9|19.3|19.3|
-|Over 50 years old|0.9|0.2|0.4|
+|Age Group|Under 30 years|30-50 years old|Over 50 years old|Unknown age|
+|---|---|---|---|---|
+|FY2022|10.3|6.9|0.9|-|
+|FY2023|25.8|19.3|0.2|-|
+|FY2024|6.0|19.3|0.4|-|
 
 # Breakdown by Region
 
@@ -930,22 +897,22 @@ Indirect GHG emissions occurring from the generation of purchased electricity th
 
 Lazada has reported with reference to the GRI Standards for the period 01 April 2023 to 31 March 2024.
 
-|GRI STANDARD|DISCLOSURE|SECTION/STATEMENT|PAGE|NOTES|
-|---|---|---|---|---|
-|2-9 Governance structure and composition|ESG at Lazada - ESG Governance|7|/|The Board of Directors is the highest governance body of Lazada Group.|
-|2-10 Nomination and selection of the highest governance body|/|/|/|Board members are selected based on a list of criteria that includes tenure of service with Lazada, qualifications, business experience, expertise and other competencies relevant to serve on the Board.|
-|2-11 Chair of the highest governance body|/|/|/|The chairman of the Board is not a senior executive of Lazada Group.|
-|2-12 Role of the highest governance body in overseeing the management of impacts|ESG at Lazada - ESG Governance|7|/|The Board of Directors provides leadership by setting the strategic objectives of Lazada Group.|
-|2-1 Organizational details|About Us - At a Glance|5|/|/|
-|2-2 Entities included in the organization’s sustainability reporting|About Us - About This Report|5|/|/|
-|2-3 Reporting period, frequency and contact point|About Us - About This Report|5|/|/|
-|2-4 Restatements of information|Effective Governance - Cybersecurity and Data Privacy|20|/|/|
-|2-5 External assurance|About Us - About This Report|5|No external assurance.|/|
-|2-6 Activities, value chain and other business relationships|About Us - Who We Are and How We Operate|5|/|/|
-|2-7 Employees|Appendix|21-22|For confidentiality purposes, actual employee numbers are not disclosed.|/|
-|2-8 Workers who are not employees|/|/|/|Workers who are not employees pertains to interns. For confidentiality purposes, actual worker numbers are not disclosed.|
-|2-22 Statement on sustainable development strategy|From our Leaders|3-4|/|/|
-|2-23 Policy commitments|/|/|/|Lazada has included the content related to responsible business conduct and respect for human rights in its Code of Business Conduct Policy in Effective Governance Chapter. While the policy currently does not refer to authoritative intergovernmental instruments or stipulate conducting due diligence, there are plans to revise the policy to be aligned with International Labour Organization (ILO) and Organisation for Economic Co-operation and Development (OECD) guidelines in the near future.|
+|GRI STANDARD|DISCLOSURE|SECTION/STATEMENT|PAGE|NOTES| | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+|2-9 Governance structure and composition| | | | | |ESG at Lazada - ESG Governance|7|/|The Board of Directors is the highest governance body of Lazada Group.|
+|2-10 Nomination and selection of the highest governance body| | | | | |/|/|Board members are selected based on a list of criteria that includes tenure of service with Lazada, qualifications, business experience, expertise and other competencies relevant to serve on the Board.| |
+|2-11 Chair of the highest governance body| | | | | |/|/|The chairman of the Board is not a senior executive of Lazada Group.| |
+|2-12 Role of the highest governance body in overseeing the management of impacts| | | | | |ESG at Lazada - ESG Governance|7|/|The Board of Directors provides leadership by setting the strategic objectives of Lazada Group.|
+|2-1 Organizational details| |About Us - At a Glance|5|/|/| | | | |
+|2-2 Entities included in the organization’s sustainability reporting| |About Us - About This Report|5|/|/| | | | |
+|2-3 Reporting period, frequency and contact point| |About Us - About This Report|5|/|/| | | | |
+|2-4 Restatements of information|Effective Governance - Cybersecurity and Data Privacy| |20|/|/| | | | |
+|2-5 External assurance| |About Us - About This Report|5|No external assurance.|/| | | | |
+|2-6 Activities, value chain and other business relationships| |About Us - Who We Are and How We Operate|5|/|/| | | | |
+| |2-7 Employees|Appendix|21-22|For confidentiality purposes, actual employee numbers are not disclosed.|/| | | | |
+|2-8 Workers who are not employees| | | | | |/|/|Workers who are not employees pertains to interns. For confidentiality purposes, actual worker numbers are not disclosed.|/|
+|2-22 Statement on sustainable development strategy| | | | | |From our Leaders|3-4|/|/|
+|2-23 Policy commitments| | | | | |/|/|Lazada has included the content related to responsible business conduct and respect for human rights in its Code of Business Conduct Policy in Effective Governance Chapter.|The policy currently does not refer to authoritative intergovernmental instruments or stipulate conducting due diligence, there are plans to revise the policy to be aligned with International Labour Organization (ILO) and Organisation for Economic Co-operation and Development (OECD) guidelines in the near future.|
 
 FY2024 ESG Impact Report 24
 
@@ -987,35 +954,21 @@ FY2024 ESG Impact Report 24
 
 # FY2024 ESG Impact Report
 
-# From Our Leaders
+# GRI STANDARD
 
-# About Us
-
-# ESG at Lazada
-
-# Empowering Communities
-
-# Future-ready Workforce
-
-# Environmental Stewardship
-
-# Effective Governance
-
-# Appendix
-
-|GRI STANDARD|DISCLOSURE|SECTION/STATEMENT|REFERENCE|NOTES|
-|---|---|---|---|---|
-|GRI 404:|404-3 Percentage of employees receiving regular performance and career development reviews|All employees, except those still on probation, received a regular performance and career development review during the reporting period.|/|/|
-|GRI 305:|305-3 Other indirect (Scope 3) GHG emissions|Environmental Stewardship - Carbon Footprint|17|For confidentiality purposes, the GHG emissions are not disclosed.|
-|GRI 405:|405-1 Diversity of governance bodies and employees|Appendix|22|/|
-|GRI 406:|406-1 Incidents of discrimination and corrective actions taken|There is no incident of discrimination during the reporting period.|/|/|
-|Material Topic: Cybersecurity and Data Privacy|GRI 3: Material Topics 2021|3-3 Management of material topics|Effective Governance - Cybersecurity and Data Privacy|19-20|
-|GRI 418:|418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data|Effective Governance - Cybersecurity and Data Privacy|20|/|
-|GRI 301:|301-1 Materials used by weight or volume|Appendix|22|/|
-|GRI 301:|301-2 Recycled input materials used|Environmental Stewardship - Materials and Packaging|18|Recycled materials like shredded cartons are used in our operations, but the weight is not quantifiable.|
-|Material Topic: Carbon Footprint|GRI 3: Material Topics 2021|3-3 Management of material topics|Environmental Stewardship - Carbon Footprint|16-17|
-|GRI 305:|305-1 Direct (Scope 1) GHG emissions|Environmental Stewardship - Carbon Footprint|17|For confidentiality purposes, the GHG emissions are not disclosed.|
-|GRI 305:|305-2 Energy indirect (Scope 2) GHG emissions|Environmental Stewardship - Carbon Footprint|17|For confidentiality purposes, the GHG emissions are not disclosed.|
+|DISCLOSURE|SECTION/STATEMENT|REFERENCE|NOTES|
+|---|---|---|---|
+|GRI 404: 404-3 Percentage of employees receiving regular performance and career development reviews|All employees, except those still on probation, received a regular performance and career development review during the reporting period.|/|/|
+|GRI 405: 405-1 Diversity of governance bodies and employees|Appendix|22|/|
+|GRI 406: 406-1 Incidents of discrimination and corrective actions taken|There is no incident of discrimination during the reporting period.|/|/|
+|GRI 305: 305-3 Other indirect (Scope 3) GHG emissions|Environmental Stewardship - Carbon Footprint|17|For confidentiality purposes, the GHG emissions are not disclosed.|
+|GRI 305: 305-5 Reduction of GHG emissions|Environmental Stewardship - Carbon Footprint|17|For confidentiality purposes, the reduction of GHG emissions is not disclosed.|
+|GRI 3: 3-3 Management of material topics|Effective Governance - Cybersecurity and Data Privacy|19-20|/|
+|GRI 418: 418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data|Effective Governance - Cybersecurity and Data Privacy|20|/|
+|GRI 301: 301-1 Materials used by weight or volume|Appendix|22|/|
+|GRI 301: 301-2 Recycled input materials used|Environmental Stewardship - Materials and Packaging|18|Recycled materials like shredded cartons are used in our operations, but the weight is not quantifiable.|
+|GRI 305: 305-1 Direct (Scope 1) GHG emissions|Environmental Stewardship - Carbon Footprint|17|For confidentiality purposes, the GHG emissions are not disclosed.|
+|GRI 305: 305-2 Energy indirect (Scope 2) GHG emissions|Environmental Stewardship - Carbon Footprint|17|For confidentiality purposes, the GHG emissions are not disclosed.|
 
 # From Our Leaders
 
@@ -1037,11 +990,11 @@ FY2024 ESG Impact Report 24
 
 |SASB CODE|ACCOUNTING METRIC|SECTION/STATEMENT|PAGE|NOTES|SASB CODE|ACCOUNTING METRIC|SECTION/STATEMENT|PAGE|NOTES| | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|CG-EC-130a.1|Total energy consumed|Information unavailable/incomplete| | | | |/|Fuel consumed by the distribution process in Indonesia, Malaysia, the Philippines, Thailand and Vietnam is not recorded as the vehicles with the fuel consumption are not owned by Lazada.|CG-EC-230a.1|Number of data breaches|Effective Governance - Cybersecurity and Data Privacy|20|/|
-|percentage grid electricity| | | |percentage involving personally identifiable information (PII)| | | |number of users affected| | | | | |
-|percentage renewable| | | | | | | | | | | | | |
-|CG-EC-130a.2|Total water withdrawn|Not Applicable| | | |/|Non-material topic for Lazada as our business has limited water consumption.|CG-EC-330a.1|Employee engagement as a percentage|Confidentiality constraints|/|/| |
-|total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress| | | |Voluntary| | | |involuntary turnover rate for all employees| | | | | |
+|CG-EC-130a.1|(1) Total energy consumed|Information unavailable/incomplete| | | | |/|Fuel consumed by the distribution process in Indonesia, Malaysia, the Philippines, Thailand and Vietnam is not recorded as the vehicles with the fuel consumption are not owned by Lazada.|CG-EC-230a.1|(1) Number of data breaches|Effective Governance - Cybersecurity and Data Privacy|20|/|
+|(2) percentage grid electricity| |/| |CG-EC-230a.2|(2) percentage involving personally identifiable information (PII)| | | | | | | | |
+|(3) percentage renewable| |/| |(3) number of users affected| | | | | | | | | |
+|CG-EC-130a.2|(1) Total water withdrawn|Not Applicable| | | |/|Non-material topic for Lazada as our business has limited water consumption.|CG-EC-330a.1|Employee engagement|Confidentiality constraints|/|/| |
+|(2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress| |/| |(1) Voluntary|Confidentiality constraints|/|For confidentiality purposes, the turnover rates are not disclosed.| | | | | | |
 |CG-EC-130a.3|Discussion of the integration of environmental considerations into strategic planning for data center needs|Not Applicable| | | | |/|Data centers are under the operations of Lazada’s parent company, Alibaba, and are out of the reporting scope.|CG-EC-330a.3|Percentage of gender and racial/ethnic group representation|Appendix|22|/|
 |CG-EC-220a.1|Number of users whose information is used for secondary purposes|All users who have not opted out.|/|/|CG-EC-330a.4|Percentage of technical employees who are H-1B visa holders|Not Applicable|/|Lazada does not operate in the US during the reporting period.| | | | |
 |CG-EC-220a.2|Description of policies and practices relating to behavioral advertising and user privacy|Effective Governance - Cybersecurity and Data Privacy| | | |20|/|CG-EC-410a.1|Total greenhouse gas (GHG) footprint of product shipments|Confidentiality constraints|/|For confidentiality purposes, the GHG emissions are not disclosed.| |

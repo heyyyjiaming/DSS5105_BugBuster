@@ -1,0 +1,1447 @@
+# ENRICHING LIVES, EMERGING STRONGER
+
+# FY2023 ESG Impact Report
+
+# EMPOWERING FUTURE-READY
+
+# TABLE OF CONTENTS
+
+- 03 FROM OUR LEADERS
+- 05 ABOUT US
+- 07 ESG AT LAZADA
+- 12 COMMUNITIES
+- - 1 Opportunities across Lazada’s Ecosystem
+- 14 Lives and Communities
+- 15 Community Resilience
+
+19 WORKFORCE
+- - 19 Talent Attraction
+- 21 Talent Development
+- 22 Employee Well-being
+- 22 Outreach Engagement
+
+ENVIRONMENTAL STEWARDSHIP
+- - 24 Carbon Footprint
+- 26 Materials and Packaging
+
+GOVERNANCE
+
+# APPENDIX
+
+- 33 Additional Information
+- 36 GRI Content Index
+- 39 Sustainability Accounting Standards Board (SASB)
+
+FY2023 ESG Impact Report
+
+# LETTER FROM OUR GROUP CHIEF EXECUTIVE OFFICER
+
+Dear Stakeholders,
+
+I am delighted to present our latest Environmental, Social and Governance (ESG) Impact Report for FY2023, titled “Enriching Lives, Emerging Stronger”. This theme embodies our unwavering commitment to working alongside our stakeholders and the broader ecosystem to develop the digital commerce industry, through every challenge and opportunity.
+
+For more than a decade, Lazada has been accelerating progress in Southeast Asia through commerce and technology. With our second ESG Impact Report, I am proud to share the progress that we have made and am confident that we can achieve even more together.
+
+This optimism is also captured in the theme of our report this year, as we focus on building back stronger than ever before and empowering our key stakeholders – our customers, brands and sellers, partners, employees and more.
+
+Last year, we launched a new brand proposition, “Add to Cart, Add to Life”. This reflects our belief in the transformative power of digital commerce to enrich consumers’ lives through meaningful connections and memorable experiences beyond online purchases. With the launch, we also introduced LazLive+, a curated interactive live content series featuring new ideas and experts from all walks of lives, to inspire and meet the changing needs of consumers.
+
+Across the markets where we operate, we have seen borders reopen, travel resume and life begin to return to pre-pandemic normality over the past year. The road to recovery, however, is dampened by the weight of a slowing global economy. Despite the uncertainties ahead, we are optimistic that the digital commerce industry will remain a bright spot as the main driver of Southeast Asia’s digital economy, which is expected to grow to $330 billion dollars by 2025.
+
+For our valued brands and partners, we hosted the third edition of our annual marquee event, LazMall Brands Future Forum (BFF) 2022, themed “Empowering Connections through eCommerce”. Through insightful sharing and discussions, the event aimed to equip our brands with advanced digital tools and offerings available on LazMall, in response to changing needs of consumers, including the rise of omnichannel shopping and a much more complex and dynamic shopping journey.
+
+We understand that people are the backbone of our business and we remain steadfast in enriching their work experience, while building up the skill sets and knowledge of our broader talent pool to remain resilient in a rapidly changing world. Our in-house digital learning platform, GROW, offers more than 1,000 interactive and engaging courses for our employees to develop themselves holistically.
+
+Looking beyond our business, we also strive to drive inclusive and sustainable economic growth across the markets. We joined the Asia-Pacific Economic Cooperation (APEC 2022) Economic Forum to promote and support such initiatives across Southeast Asia, including efforts to support the digital transformation of micro, small and medium enterprises (MSMEs), where digitalization is crucial to improving the operational flexibility and long-term growth of businesses. In Vietnam, I am proud to share that our commitment to society was recognized last year when Lazada Vietnam received two prestigious Corporate Social Responsibility (CSR) awards from The Saigon Times and AmCham Association.
+
+As a leading and responsible brand, we are constantly looking for ways to improve and manage our environmental impact for future generations. This year, on top of improving existing sustainable initiatives across our supply chain, we also accelerated the introduction and implementation of electric vehicles in our operations and supported the transition to solar energy at our logistics facilities in Indonesia.
+
+As we prepare for the rapidly evolving digital environment, we continue to strengthen our corporate governance framework and actively advocate for strong cybersecurity, data protection and intellectual property (IP) protection. We are proud to have achieved ISO27001 certification and the highest level, Advocate, of the Cyber Security Agency of Singapore’s Cyber Trust mark certification, ensuring the trust and confidence of customers and partners in our robust and secure platform.
+
+As we move forward to our next stage of growth, sustainability will continue to be our guiding principle. The implementation of Lazada’s ESG framework will drive us toward being an exemplary company, demonstrating our responsibility and focus on sustainability for long-term prosperity. I am proud of the progress we have made, but I know there is more to do. This endeavor is a journey and not a destination.
+
+By working together, we can enrich the lives of all participants in the digital economy and build toward a resilient and sustainable future.
+
+James Dong
+
+Chief Executive Officer
+
+Lazada Group
+
+1 Google. (2022). e-Conomy SEA 2022 report. Google e-Conomy SEA. https://economysea.withgoogle.com/report/
+
+# 5 QUESTIONS WITH OUR SENIOR MANAGEMENT
+
+# Frank Luo (Chief Finance Officer) and Gladys Chun (General Counsel) share their perspectives on ESG matters.
+
+|Frank Luo|Gladys Chun|
+|---|---|
+|Chief Finance Officer|General Counsel|
+|Lazada Group|Lazada Group|
+
+As Lazada publishes its second ESG Impact Report, what notable experiences or achievements have you encountered along the way that you are particularly excited to share?
+
+Frank: Taking the first step is often the most challenging part of any journey. When we made the decision to embark on our ESG journey, we understood that it would be a complex and transformative process that requires substantial commitment. Nevertheless, we embraced this path voluntarily because we firmly believe it is the right thing to do. I am heartened to share that our Group’s overall carbon footprint has been reduced by 10% this year. This is an encouraging milestone for us as we start to see some of our initiatives bear fruit.
+
+Gladys: We saw improved efficiencies from our logistics operations as the main lever that reduced our overall carbon footprint. This will continue to be a key focus for our business as we strive toward decarbonizing our operations and ecosystem. Parallelly, we are actively pursuing scale and impact across our other material topics and we will continue to share our progress and developments.
+
+Ensuring the quality of ESG data is crucial to stakeholders. How does Lazada address the collection and maintenance of ESG data as well as the measures taken to ensure its accuracy and reliability?
+
+Frank: ESG matters cover a broad range of issues. The underlying data depends on a vast spectrum of factors, much of which exists in narrative or unstructured form. These data are often scattered across various sources where data gaps exist. For Lazada, technology is the key enabler to address these challenges. We are working on several fronts to strengthen our processing capabilities, such as establishing new data pipelines, creating a strong data management system and utilizing available data to benchmark performance. These improvements would translate to consistent, high-quality ESG datasets over time. Looking ahead, there will be opportunities to adopt new and innovative ways to improve existing processes, such as using artificial intelligence and machine learning, to create truly data-driven, future-proof reporting for the future.
+
+How does Lazada ensure the ESG framework captures the requirements of a changing compliance and regulatory reporting environment?
+
+Gladys: Given our presence across six markets, it is essential to have a deep and comprehensive understanding of the regulatory landscapes we operate in. For example, we undertake regular landscape assessments, engage regulators and other key stakeholders proactively to understand their perspectives on emerging issues and leverage external channels such as industry associations to keep up-to-date. Our ESG framework acts as a governance mechanism that integrates relevant regulations and standards into its criteria and ensures that our practices comply with the applicable laws and regulations. This ensures our ESG framework remains relevant and effective in supporting our overall ESG strategy.
+
+Frank: Addressing ESG issues is not just about doing the right thing. It is also building the necessary foundation for organizations to properly manage risks and opportunities, to enable stronger and more resilient businesses in the long run.
+
+I am heartened to share that our Group’s overall carbon footprint has reduced by 10% this year. This is an encouraging milestone for us as we start to see some of our initiatives bear fruit.
+
+2 The stakeholder groups include employees, logistics, suppliers, buyers, sellers, communities and sustainability experts
+
+FY2023 ESG Impact Report
+
+# About Us
+
+# At a Glance
+
+As Southeast Asia’s pioneer digital commerce platform now one of the largest in the region, ensuring prompt and reliable parcel delivery to our valued users. Looking ahead, our ambitious vision is to serve 300 million shoppers by 2030, achieve US$100 billion gross merchandise volume and be the best at enabling brands and sellers to digitalize their businesses. To reaffirm our steadfast dedication to sustainable and responsible business practices, we proudly present our second ESG Impact Report as a testament to our unwavering commitment to shaping a better future.
+
+# Who We Are and How We Operate
+
+Lazada is a leading digital commerce platform in Southeast Asia, providing a trusted and engaging ecosystem for consumers, brands and sellers. We continue to revolutionize digital commerce in Southeast Asia. Operating across six countries, we are known for:
+
+- Building a superior online shopping platform catered to diverse consumer needs
+- Delivering high-quality services and products to bring value to all users
+- Pioneering shoppertainment initiatives like LazLive
+- Developing a reliable end-to-end logistic infrastructure and a strong partner network
+- Having the largest online grocery business in Singapore and more
+
+# Online Marketplace
+
+We provide a user-friendly online marketplace for effortless transactions, facilitate seamless communication between buyers and sellers and ensure safety and security through trusted payment channels.
+
+# Partnerships
+
+We work closely with sellers to support their growth and equip them with tools for success on our platform. Additionally, we work with brands to offer exclusive deals, promotions and collaborations that cater to the diverse needs of our customers.
+
+# Robust Logistics Capabilities
+
+We have efficient order fulfillment and a reliable delivery service, supported by data-driven, technology-driven warehouses, sorting centers, shipping hubs and an extended network of logistics partners.
+
+# Comprehensive Range of Offerings
+
+We offer a diverse range of categories such as consumer electronics, fashion and beauty items, household essentials, groceries and more. We enable customers to explore, compare and purchase products from trusted sellers and renowned brands.
+
+# Innovative Technologies
+
+We leverage AI-driven product recommendations, secure payment systems and convenient mobile applications to provide personalized and captivating shopping experiences accessible anytime, anywhere.
+
+# About Us
+
+This report showcases Lazada’s efforts in addressing Environmental, Social and Governance (ESG) impact in six countries - Indonesia, Malaysia, the Philippines, Singapore, Thailand and Vietnam - and its subsidiary, RedMart, in Singapore. It includes a regional team that supports our cross-country operations with employees across the six countries and China. Covering the reporting period from 1 April 2022 to 31 March 2023 (“FY2023”), this report also includes data from the prior reporting period of 1 April 2021 to 31 March 2022 (“FY2022”) for comparison where applicable.
+
+This report contains our current policy, views and strategic direction, but it is not intended to create any legal rights or obligations. Further, this report may contain information derived from publicly available information or other third-party sources, and Lazada makes no representation, warranty or undertaking as to the accuracy, reasonableness or completeness of such information. Lazada does not undertake to update or revise this report.
+
+This report is intended to provide an overview of Lazada’s ESG management approach and performance regarding our operations in six countries. Lazada provides no guarantee that the information in this report is complete, accurate or up-to-date in all cases. To the extent permitted by applicable laws, Lazada disclaims any and all liability for any loss or damage whatsoever that may arise in connection with the use of documents or information contained in this report.
+
+# LOGISTICS
+
+With our end-to-end logistics capabilities and complete control over our supply chain, virtually any product is just a click away. We have fulfillment centers across cities in Southeast Asia, and our investment in warehouses, sorting centers and digital technologies complement our partner network as well as our cross-border and last-mile arrangements in the relevant country of operations.
+
+# TECHNOLOGY
+
+At Lazada, we harness both existing and emerging technologies to redefine the retail experience. Leveraging real-time data allows us to quickly adapt to changing demands and conditions. We connect consumers to sellers, create customized experiences and have evolved into an online retail destination that buyers come to for both shopping and entertainment.
+
+# PAYMENTS
+
+Ensuring safe and seamless transactions guides the development of Southeast Asia’s most secure payments and financial services infrastructure. In a region still at varying stages of e-payment and digital commerce adoption, we have developed a suite of options together with our trusted payment partners that cater to existing preferences while easing buyers into digital payments through intuitive solutions they can trust.
+
+# ESG AT LAZADA
+
+As a leading digital commerce business in the Southeast Asian region, we aim to positively impact the environment, society and communities we engage with, while driving innovation and conducting business responsibly.
+
+Our strategy revolves around fostering a stronger and greener economy through responsible business practices, sustainable initiatives and innovative solutions. We strive to create enterprise value while positively impacting the environment and enriching the lives of the communities we serve.
+
+We seek continuous improvement by actively engaging our stakeholders and aligning our ESG initiatives with their expectations. Through our ESG Impact Report, we share our performance, successes and learnings and hold ourselves accountable by rigorously tracking and reporting our actions.
+
+# ESG GOVERNANCE
+
+|Executive Committee|ESG Taskforce|
+|---|---|
+|Corporate Sustainability|Legal & Compliance|
+|People|Logistics|
+|Communications|Security, Risk & Enterprise Intelligence|
+|Government Affairs| |
+
+We have a transparent and accountable system of organization-wide sustainability strategies and initiatives. ESG governance. The Executive Committee comprises experienced leaders from diverse backgrounds who oversee and review company operations. This committee provides guidance and oversight on various ESG topics, including sustainability matters, and monitors material issues such as carbon footprint, socioeconomic impact and data privacy to ensure alignment with commitments and obligations.
+
+To support our ESG efforts, we have an ESG Task Force represented by cross-functional teams from different business units. Led by the Corporate Sustainability function, this Task Force plans, coordinates and executes.
+
+FY2023 ESG Impact Report
+
+# ESG PRIORITIES
+
+# Stakeholder Engagement
+
+We build strong relationships with our stakeholders about ESG issues and expectations on Lazada in terms of ESG management. Their diverse perspectives enriched Lazada’s focus on ESG matters and helped us tailor our business and sustainability strategies to ensure that we create value for all.
+
+Our ESG priorities remain unchanged. We engaged an independent consultant previously to conduct a comprehensive materiality assessment, for a clear understanding of our ESG issues that are most significant to our business and stakeholders. Through a rigorous three-stage process, we prioritized and validated the top six topics according to the double materiality concept, evaluating the significance of our impact on them and their level of influence and interest in us. During this reporting period, we invited a third-party firm to conduct interviews with selected external stakeholder groups to understand their concerns.
+
+|Stakeholders|Engagement methods|Frequency|Key concerns|Lazada’s response|
+|---|---|---|---|---|
+|Logistics|• Business and operational meetings|Ongoing basis|• Operational updates|• Improving communication efficiency by optimizing online platform and system functionality|
+| |• Training and development programs| |• Benefits, welfare and training|• Motivating logistics partners through training and benefit system|
+|• Communications and updates online and via the app portal| | | | |
+|Buyers|• Marketing and promotional campaigns|Ongoing basis|• Access to products, including price and delivery|• Providing new services and offerings to meet diverse and evolving needs|
+| |• Social media platforms| |• User experience|• Scaling up customer service operations through various support avenues|
+| | | |• Data and privacy protection|• Enhancing data and privacy protection via internal and external capacity-building training|
+|Communities|• Industry discussions|Ongoing basis|• Business strategy and outlook|• Supporting the communities through commercial and non-commercial activities|
+| |• Programs and collaborations| |• Sustainability efforts|• Communicating our sustainability performance to the community through multiple channels|
+| |• LazBeat news hub| | | |
+|Employees|• Townhall meetings|Ongoing basis|• Career development and training opportunities|• Enhancing employee professional skills through a comprehensive training system combined with a training platform|
+| |• Internal communications and updates| |• Employment practices, remuneration and benefits|• Providing suitable career development opportunities through a sound salary assessment and promotion mechanism|
+| |• Social cohesion activities| |• Organizational updates|• Promoting employee satisfaction through diverse benefits and enrichment activities|
+| |• Training and development programs| |• Health and well-being|• Improving employee work experience by creating a friendly work environment|
+| |• LazListen| | | |
+|Government Sectors|• Laws and regulations updates|Ongoing basis|• Compliance with laws and regulations|• Ensure compliance with the latest legal and regulatory requirements through proactive external engagements and reviewing internal policies regularly|
+| |• Communication events| | | |
+|Sellers|• Lazada University|Ongoing basis|• Data and intellectual property protection|• Enhancing data and privacy protection via internal and external capacity-building trainings|
+| |• Lazada Insider podcast| |• Product and category trends|• Protecting sellers’ rights through a contactable intellectual property protection system|
+| |• Surveys and publications| |• Visitors conversion|• Strengthening sellers’ market sensitivity through market trend-sharing activities|
+| |• Lazada seller center| | | |
+| |• Marketing and promotional campaigns| | | |
+|Suppliers|• Business and operational meetings|Ongoing basis|• Long-term cooperation|• Creating a fair and equitable business model through supplier management and internal control|
+| |• Procurement management| |• Operational updates|• Exploring new market opportunities together through diversified cooperation models|
+| |• Product Innovation| | | |
+
+FY2023 ESG Impact Report
+
+# ESG FRAMEWORK
+
+|KEY PILLARS|MATERIAL TOPICS|SUSTAINABLE DEVELOPMENT GOALS (SDGs)|
+|---|---|---|
+|Empowering Communities|Socioeconomic impact|5 %u|
+|Future-ready Workforce|Talent Attraction|5 %u|
+|Environmental Stewardship|Carbon Footprint| |
+|Effective Governance|Cybersecurity and Data Privacy| |
+
+# Empowering Communities
+
+We endeavor to enrich lives of Southeast Asian communities by providing the necessary jobs, services and capacity-building across our network and support economic development across the region.
+
+# Future-ready Workforce
+
+There is a risk of regulatory impact due to implementation of stronger cybersecurity features, but Lazada is a pioneer in this particular topic, which could lead to regulatory scrutiny, but also positions the company as a leader in the industry.
+
+We enrich employees while developing the skill sets and knowledge of the broader talent pool to stay resilient in a fast-changing world.
+
+# Environmental Stewardship
+
+We strive to minimize the impact of our operations on the environment by implementing strategies that lower our carbon footprint and reduce our material use of natural resources.
+
+# Materiality Assessment
+
+During this reporting period, we conducted a review of our material topics and found no significant changes to Lazada’s activities and business relationships. Therefore, we retained the six material topics identified in the previous reporting period based on the results of our materiality assessment.
+
+Our external stakeholders also endorsed the results of our materiality assessment in the interview. We will continue to maintain communication with our stakeholders, incorporate their input and expand our material topics accordingly.
+
+# Phases of Materiality Assessment
+
+|Phase|Description|
+|---|---|
+|1|A comprehensive list of 26 material issues was developed by reviewing multiple data sources, including industry trends, benchmarking peers’ sustainability goals and strategies, and referencing international reporting standards like the GRI Standards and SASB.|
+|2|Input from internal and external stakeholders was gathered through surveys and interviews to assess the influence of each shortlisted material issue on our business success and sustainability.|
+|3|From Phases 1 and 2, we identified six material topics, validated by senior leadership which forms our ESG framework and are grouped under four key pillars.|
+
+# Effective Governance
+
+We focus on providing our buyers and sellers a safe and reliable digital environment, supported by effective governance structures that uphold ethical, transparent and responsible business conduct.
+
+Securing the management of digital information in a manner that upholds the right to privacy for all our stakeholders and protecting data from unwanted parties and unauthorized access, such as security threats and cyberattacks.
+
+Managing the protection of intellectual property rights to promote a trusted and fair environment.
+
+FY2023 ESG Impact Report
+
+# FY2023 HIGHLIGHTS
+
+|Empowering Communities|1.1 million|1 million|2 Corporate Social Responsibility awards for community contributions in Vietnam|
+|---|---|---|---|
+|Future-ready Workforce|44% of our overall workforce are women|32 nationalities employed by Lazada|55 scholarships awarded to recipients from Indonesia and Vietnam|
+| |1,000 courses available on our in-house learning platform GROW| | |
+|Environmental Stewardship|B20 Sustainability 4.0 Award won by Lazada Indonesia in the Responsible Consumption and Production (Plastic) category|10% reduction of overall GHG emissions compared to the last reporting period|More than 20,000 trips avoided from our collaboration with logistics partners in Indonesia|
+| |More than 250kg of recycled plastic reused since the launch of RedMart’s eco range household cleaning products| | |
+|Effective Governance|2 consecutive years of winning the ALB Southeast Asia Law Awards - In-House Team of the Year|1st and only digital commerce company to achieve the highest tier of cybersecurity certification in Singapore|0 substantiated complaints concerning breaches of customer privacy and losses of customer data|
+| |More than 95% of takedown requests on our Intellectual Property Protection Platform processed within 72h, with a median processing time under 24h| | |
+
+43 Refer to the Appendix for details.
+
+Monthly active selling sellers refer to the unique sellers who have at least one sale on Lazada’s platform in the last 30 days.
+
+5 Monthly active users refer to the unique users who log in on Lazada’s platform in the last 30 days.
+
+FY2023 ESG Impact Report 10
+
+# EMPOWERING COMMUNITIES
+
+As Southeast Asia’s leading digital commerce platform, we contribute to the economic progress of the region, supporting the communities we operate in with employment opportunities, services and capacity-building initiatives throughout our network.
+
+During this reporting period, we deftly navigated the transition from a pandemic-stricken landscape to a renewed chapter of economic expansion and prosperity. Through active engagement and empowerment of our communities with the right tools and services, we further their sustainable growth alongside our business.
+
+As we forge a path toward a brighter future, we firmly believe in the transformative power of community empowerment and the significance of collective action. Our efforts revolve around three key pillars: opportunities across Lazada’s ecosystem, lives and communities and community resilience.
+
+|More than 1.1 million|active selling sellers on Lazada’s platform|
+|---|---|
+|1 million|monthly active users on Lazada’s platform|
+|2|Corporate Social Responsibility awards for community contributions in Vietnam|
+
+FY2023 ESG Impact Report
+
+# OPPORTUNITIES ACROSS LAZADA’S ECOSYSTEM
+
+At Lazada, we believe in building a long-term ecosystem that supports local communities and livelihoods that have come to depend on digital commerce as a main source of income. We create opportunities that drive economic growth and empowerment by connecting about 160 million active users to more than one million active selling sellers every month.
+
+# Supporting Muslim and Halal communities
+
+Recognizing the importance for products and food to be reflective of the local communities, we launched a new Halal channel designed to support Muslim and Halal businesses and shoppers in Singapore and Malaysia.
+
+During this reporting period, Lazada Singapore introduced a Halal store in RedMart, while Lazada Malaysia launched a dedicated store, LazHalal, ahead of the Ramadan festival. The timely introduction of Halal categories ensures that consumers have convenient access to a wide range of local and international products that are either Halal-certified or supplied by Muslim-owned sellers. This initiative enhances the overall shopping experience for our Muslim users and underscores our commitment to meeting the diverse needs of the local communities we serve. A similar channel, Lazada Amanah, was launched in 2021 in Indonesia, home to the largest Muslim population in the world.
+
+# Enabling a Seamless Shopping Experience
+
+Our long-term business growth hinges on understanding and catering to consumers’ omnichannel shopping behavior. In the wake of pandemic-induced lockdowns, the lines between online and offline shopping have blurred as consumers seek a seamless integration of both experiences, while brands and sellers look for opportunities to strengthen their online and offline integration. We recognize these evolving needs and actively support our ecosystem in seizing opportunities through omnichannel avenues to facilitate long-term economic growth and success.
+
+# Omnichannel Tech Show
+
+Lazada Singapore launched its inaugural omnichannel tech show, the Grand Online Tech Show, in May 2022. This groundbreaking occasion showcased the seamless integration of online and on-site activities, delivering an engaging shopping journey for tech enthusiasts and our valued brands and sellers. The tech show allowed customers to explore and test products in person while also enjoying the conveniences of online shopping. Consumers could easily make purchases through the Lazada App, with the option of doorstep delivery or in-store pick-ups.
+
+# Catering to Diverse and Evolving Needs
+
+Amidst the growing integration of digital commerce in our everyday lives, we recognize the diverse and evolving needs of different user groups as online shopping behaviors mature. We introduced various channels designed to cater to the specific interests of our diverse groups of buyers and sellers. From inspirational livestream content on LazLive to fitness-focused Lazada Run, beauty-centric LazBeauty, fashion-forward LazLook and inclusivity-driven LazHalal, we have curated distinct experiences for various communities. Additionally, our LazAffliate program allows tech-savvy social media consumers to promote products they love and earn commissions in return.
+
+|Inspiration|Fitness|Beauty|Fashion|Inclusivity|
+|---|---|---|---|---|
+|LazLive is a livestreaming channel that provides quality shoppertainment content. Through livestreams focused on different passion points, LazLive helps users discover and build new interests.|Lazada Run is the first ever multi-country running event organized by a digital commerce platform in Southeast Asia. With three race categories and other exciting activities available for all ages, the event targets users passionate in fitness across six countries.|LazBeauty is a top beauty shopping destination in Southeast Asia that offers a wide assortment of beauty products for skincare, haircare, makeup and more. Members of the LazBeauty Club can also enjoy exclusive members-only perks and discounts.|LazLook is a top fashion shopping destination in Southeast Asia that offers a wide selection of stylish and affordable fashion items, which enables our shoppers to express their individuality and play with various fashion styles.|LazHalal is a dedicated channel launched in Malaysia for consumers looking for halal-certified products. The channel offers products that comply with halal standards, providing convenience and reliability across a diverse range of products.|
+
+More than 20 international and homegrown tech brands were featured on-site at the Lazada Grand Online Tech Show 2022, and seen more than 25% growth in sales compared with 2021’s all-virtual event.
+
+# National Day Heartland Celebration
+
+As the official digital commerce partner for Singapore’s National Day Heartland Celebrations 2022 @ North East, we hosted “Food Street by Lazada,” an omnichannel event where Lazada partnered with 25 brand merchants to provide local food delights to more than 30,000 residents. Residents could conveniently buy digital vouchers from any brand merchant present at the event through our geolocation discovery feature, “Deals Nearby,” and redeem them during their future visits.
+
+25 brand merchants provided digital vouchers for purchase to residents at the event themed ‘Reminisce our SG culture: Food Street by Lazada’
+
+# Driving Inclusive and Sustainable Economic Growth
+
+This collaboration also acknowledges our commitment to building a robust digital commerce ecosystem within the region. One of the key growth drivers identified is micro, small and medium enterprises, where digitalization is crucial to improving the operational flexibility and long-term growth of businesses. To enable this development, we made significant investments in building a best-in-class logistics network infrastructure that revolutionized the digital commerce landscape in Southeast Asia. The forum’s aim of “Openness, Connectivity, and Balance” resonated with Lazada’s vision to accelerate the inclusive and sustainable growth of the digital economy in Southeast Asia through digital commerce and technology.
+
+This infrastructure comprises data-driven, technology-driven warehouses, sorting centers and shipping hubs, as well as an extended network of third-party logistics partners, distinguishing us as the sole digital commerce platform in the region with an end-to-end proprietary logistics network.
+
+“Lazada [is] committed to [working] closely with governments and enterprises in the six major markets in Southeast Asia to achieve long-term growth by building a high-quality digital ecosystem. This is also the core of Lazada’s continuous investment in technology, payment and create value for local sellers and consumers.”
+
+# Digitalization among our Sellers Community
+
+Lazada Thailand has made great strides to support the digitalization of micro, small and medium enterprises (MSMEs). Partnering with the Bangkok Metropolitan Administration, Thailand Tourism Authority and Tourism Council of Thailand, we supported more than 200 local MSMEs with expertise to thrive in the digital economy. As part of our partnership, we offered more than 400 digital vouchers for accommodation and activities through our digital goods category to revive the tourism sector. These partnerships helped promote Thailand’s local tourism agenda and strengthen the country’s digital economy.
+
+Similarly, Lazada Indonesia rolled out the Akselerasi Karya Rakyat (AKAR) Digital Indonesia initiative in partnership with various ministries to support the digital transformation of MSMEs in Indonesia. AKAR initiative provided resources to MSMEs in the Java region to improve digital commerce literacy and increase their competitiveness through skill-based training and mentorships. Since its launch, the AKAR initiative has successfully trained more than 2,000 MSMEs across Java, serving as a catalyst for Indonesia’s digital economy.
+
+|More than|More than|
+|---|---|
+|200 homegrown labels and businesses|2,000 MSMEs have been trained across Java|
+|benefited from greater support for online onboarding and new opportunities through our partnerships in Thailand|since the launch of the AKAR Digital Initiative in Indonesia|
+
+# James Dong
+
+Chief Executive Officer
+
+Lazada Group
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# Nurturing a Vibrant Seller Community
+
+We strive to support our sellers and brand partners while promoting a thriving and welcoming seller community. We organized regular Seller Conferences to share the latest campaign updates, trends and insights with our sellers and brand partners. More importantly, our Seller Conferences provide a way for us to celebrate with our sellers and brand partners who have shown remarkable results in their digital commerce businesses.
+
+To facilitate interaction and learning opportunities among sellers, we created Lazada’s Seller Community forum, a vibrant hub for sharing insights and connecting with like-minded individuals. In all the markets we operate, sellers can join the local channels to seek guidance, gather valuable information and stay updated. The forum seamlessly integrates with other essential resources, such as Lazada University and Help Center, to enrich the overall seller experience.
+
+Additionally, we have a Buddy Mentorship Program to foster a strong support network among sellers. In this 4-week voluntary program, new sellers are matched with experienced mentors for learning opportunities and guidance on various digital commerce challenges. The program serves as a valuable peer-to-peer mentoring resource, enhancing seller support and success on our platform.
+
+# Hear from Our Sellers
+
+More than 30 Seller Conferences organized regionally.
+
+More than 1,000 selected sellers received support through the Buddy Mentorship Program, with the help of more than 200 voluntary mentors across Indonesia, Thailand and Vietnam.
+
+| | | | |Isaac Saliendra|Peculiar|Nguyen Hong Nguyen Ha|Remmus|Sisters Khor Yi Ting and Khor Yi Chen|The Fisherman|
+|---|---|---|---|---|---|---|---|---|---|
+|Started his eyewear brand|Turned to Lazada for free training courses and essential tools to launch his business.|Moved their seafood family business to Lazada in 2021.|Transition challenged the sisters to rethink their existing operations and adjust accordingly.|With automated operations by Lazada, the sisters can spend more time developing their product range and improving customer satisfaction.| | | | | |
+
+# LIVES AND COMMUNITIES
+
+Beyond the boundaries of the Lazada ecosystem, we extend our positive impact by empowering individuals and fostering positive change in our local communities. We believe we can contribute to a more cohesive and thriving society by encouraging active participation and reducing barriers to digital inclusion.
+
+# Nurturing and Empowering Female Entrepreneurs
+
+As we nurture a vibrant and supportive seller community, we also look to empower our women sellers on the Lazada platform. While the digital commerce industry holds tremendous potential for women across Asia, certain barriers still impede their full participation. We partnered with various organizations to develop tailored support programs and initiatives to equip women with the essential tools and knowledge to excel in digital commerce.
+
+6 Edwards, R. B., & Suryadarma, D. (2022). Introduction to the special issue on Social and Economic Impacts of Online Marketplaces on Women in Asia. Asia & the Pacific Policy Studies. https://doi.org/10.1002/app5.367
+
+# LazEmpower in Malaysia
+
+In collaboration with the Malaysian Ministry of Women, Family & Community Development, we continuously support women from marginalized and low-income communities with workshops covering diverse topics such as business development and digital communication. These workshops play a crucial role in nurturing participants’ interest in digital commerce by equipping them with essential skill sets and knowledge to embark on digital entrepreneurship. By providing the necessary resources and training, we aim to empower these women to create alternative livelihoods through digital commerce, fostering economic independence and social empowerment.
+
+More than 600 women participated in the workshops since the launch of the program.
+
+# Workshops and knowledge building in universities
+
+In Vietnam and Malaysia, Lazada has taken significant steps to empower youths entering into the digital commerce industry. In Vietnam, Lazada collaborates with universities like Hue College of Economics and the Da Nang University of Economics, to offer official training courses on digital commerce. Upon completion, students receive certifications from Lazada. Similarly in Malaysia, Lazada collaborated with Universiti Teknologi MARA to launch Lazada4Youth, a program focused on digital entrepreneurship and innovation. Lazada4Youth offers workshops that stimulate stronger digital entrepreneurship capabilities among young entrepreneurs, equipping them with essential skills to kickstart and grow their businesses online.
+
+More than 900 total students in attendance across both programs.
+
+# Encouraging Community Participation
+
+At Lazada, we recognize the importance of supporting the adoption of digital payment services. We have formed partnerships and collaborations with regional eWallet and financial institution partners, facilitating a seamless and trusted digital shopping experience for consumers on these services.
+
+Cash transactions for digital commerce purchases remain widely preferred in Southeast Asia. For involved parties, they pose challenges such as inconvenience, longer transaction time and risks of loss or theft, leading to more failed deliveries for consumers. Digital payments have emerged as a safer and more convenient alternative in this context. Although the digital payment penetration rate is growing, many Southeast Asian consumers still lack access to digital payment services due to limited infrastructure and low levels of financial inclusion. We believe digital inclusivity is essential for providing equal opportunities and ensuring that everyone can fully benefit from the advantages of the digital world.
+
+# COMMUNITY RESILIENCE
+
+We believe that building a compassionate and resilient society starts with the local communities we operate in. We deeply appreciate the people and cultures in these communities, and we are committed to giving back and offering support in times of need.
+
+# Active Participation from Youths
+
+Aside from reducing barriers to digital payments, we also seek to encourage active participation from youths in the digital commerce industry. Recognizing the growing importance of digital commerce in the modern business landscape, we have undertaken initiatives to prepare young individuals for the opportunities and challenges it presents.
+
+More than 8% growth in digital payment adoption among monthly buyers on Lazada across the six markets.
+
+To achieve this, we collaborate with universities to integrate relevant digital commerce content into the curricula and organize insightful training workshops, ensuring that students receive up-to-date knowledge and hands-on learning experiences.
+
+# Supporting Positive Community Impact in Vietnam
+
+Lazada actively contributes to the wider community by creating long-term economic and social value in Vietnam. Our efforts have been recognized through two Corporate Social Responsibility (CSR) awards received in this reporting period. The Saigon Times, a subsidiary of the Saigon Economic Review, and the American Chamber of Commerce (AmCham Association) acknowledged Lazada Vietnam for its outstanding awareness and effective CSR activities. We are proud to be Vietnam’s first digital commerce platform to receive the AmCham Association CSR Recognition Award.
+
+FY2023 ESG Impact Report
+
+# Supporting Needy Communities
+
+We endeavor to create a positive impact within the communities we operate in by supporting their needs through various community-building initiatives.
+
+# Supporting rural communities in Vietnam
+
+We believe in empowering our sellers to serve the local communities. In December 2022, the Lazada Seller Community in Hanoi, Vietnam, organized its inaugural charity event to raise funds for underprivileged children and low-income families from the mountainous district in the country’s northwestern region. Representatives from the Lazada Seller Community visited the rural district and distributed more than 260 packages containing essential items such as school bags, warm clothes and winter essentials.
+
+Similarly in Malaysia, we collaborated with partners, Islamic Relief Malaysia and MyFundAction, to mobilize a charitable donation campaign in conjunction with the month of Ramadan. Lazada contributed toward the donation fund with every applicable order on its platform. The Membeli Untuk Memberi (Buy to Give) campaign distributed more than 4,500 essential food items to over 19,000 beneficiaries from low-income families, old folks homes and orphanages in more than 10 states across Malaysia.
+
+|More than|More than|
+|---|---|
+|260 packages delivered to families and children in need by the Lazada Hanoi Seller Community|4,500 essential food items prepared and distributed to over 19,000 beneficiaries in the month of Ramadan|
+
+# Food donation drive in Singapore
+
+Lazada supported food donation programs to assist low-income families, older people and others in need. By providing the needy residents with accessible basic goods, we hope to support the community with food choices and supplies.
+
+In Singapore, through food donation drives such as “Kampong Glam Gives Back,” “Project Reach Out to Inspire” and “Food With Love,” Lazadians and partner volunteers distributed groceries, fresh produce and daily essentials from RedMart to more than 350 individuals and families, making a meaningful contribution to the local community.
+
+# Blood donation drive in Indonesia and Thailand
+
+Blood donations play a vital role in various medical situations and are particularly critical during emergencies. In collaboration with the local Red Cross chapters, Lazada Logistics Indonesia and Lazada Thailand organized blood donation drives to support this worthy cause. A total of 282 employees from Indonesia warehouse facilities across West Java, East Java, North Jakarta and North Sumatra and the Thailand office generously donated close to 100 liters of blood, potentially saving lives and making a valuable contribution to the local communities.
+
+|More than|More than|More than|
+|---|---|---|
+|150 families supported through “Food With Love”|150 families supported through “Project Reach Out to Inspire”|50 families supported through “Kampong Glam Gives Back”|
+
+FY2023 ESG Impact Report
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# Responding To Disaster Relief and Response
+
+Natural disasters have affected countries such as Malaysia and Indonesia in the past year. As a pillar of support in our local communities, we supported relief efforts and provided swift assistance to affected communities during challenging times.
+
+# Flood Relief in Malaysia
+
+In January 2023, severe floods hit the east coast of Malaysia, followed by flooding in Batu Pahat Johor in March 2023. As part of Lazada Malaysia’s social impact initiative Lazada Teman You, members of the Malaysian public made safe and secure donations conveniently via the Lazada platform. We collaborated with the Ministry of Domestic Trade and Cost of Living to contribute more than MYR 50,000 (USD 11,300) worth of in-kind donations for the post-flood recovery in Bachok Kelantan, assisting more than 500 families. Additionally, in Batu Pahat Johor, Lazada Teman You donated MYR 60,000 (USD 13,560) worth of in-kind donations to support the affected communities.
+
+# Cianjur Earthquake Support
+
+In November 2022, an earthquake occurred in Cianjur, Indonesia and caused widespread damage and destruction in the region. The earthquake left hundreds of casualties and families homeless and in dire need of basic necessities. Lazada Indonesia swiftly responded to provide assistance and disaster relief by donating and distributing more than 2,300 daily essential items to the affected individuals and families.
+
+|MYR 110,000|(USD 24,880) worth of in-kind donations raised and contributed as part of post-flood recovery efforts in Malaysia|
+|---|---|
+|More than 2,300|daily essential items donated and distributed to help disaster victims|
+
+# FY2023 ESG Impact Report
+
+# FUTURE-READY WORKFORCE
+
+Our success is built on the shoulders of our employees, known as Lazadians, who deliver exceptional customer experiences and uphold operational excellence. They are the backbone of our organization and we are committed to investing in their growth and development.
+
+We continue to build a future-ready workforce despite a challenging industry trend by providing Lazadians with extensive professional development opportunities, caring for their physical and mental well-being and engaging our community to nurture the talents of tomorrow.
+
+We believe that Lazadians are the cornerstone of our journey to the future. This chapter exemplifies our dedication to nurturing the growth of our employees and the future of the digital commerce industry.
+
+|44% of our overall workforce are women|employed by Lazada|32 nationalities|
+|---|---|---|
+|55 scholarships awarded|to recipients from Indonesia and Vietnam|available on our in-house learning platform GROW|
+|More than 1,000 courses| | |
+
+FY2023 ESG Impact Report
+
+18
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# TALENT ATTRACTION
+
+A diverse workforce brings different perspectives, leading to innovative solutions. Additionally, a diverse workforce is more adaptable to change, which is an important skill in today’s rapidly changing world.
+
+At Lazada, we strive to create a positive and inclusive working culture that attracts and retains top talent. We believe that everyone has something to offer, and we wish to create an environment where everyone feels valued and respected.
+
+# Promoting Diversity, Equal Opportunity and Non-discrimination
+
+We recognize the pressing challenge of low women representation in the technology industry, as their participation in the workforce remains notably lower than in other sectors, with only 32% of the technology sector’s workforce in Southeast Asia. We are taking measures to tackle this challenge. In Lazada, women constitute 44% of our total workforce, and we have witnessed an increase in the proportion of female employees over the past two years.
+
+Our talent attraction strategy is designed to promote inclusivity and equal opportunities. We ensure that our job postings, recruitment channels, interview process and communication materials are devoid of discriminatory language and biases. We aim to strike a balance between “must-have” and “good to have” requirements, eliminating biases that may hinder diverse talent from applying. All candidates, regardless of their background, have equal chances to apply and be considered for open positions.
+
+These principles of inclusivity and equal opportunities are exemplified in our local hiring efforts. Focusing on nurturing talent within the regions we operate, we aim to grow the local talent team across the organization. Simultaneously, we embrace the rich diversity of Lazadians hailing from 32 nationalities, celebrating the unique perspectives and experiences our employees from various cultural backgrounds bring to the table.
+
+# TALENT DEVELOPMENT
+
+# Growing through Experience
+
+We believe that employees are our greatest asset. We invest in people development so that our staff can reach their full potential amidst the evolving business landscape and contribute to the company’s sustainable and responsible growth.
+
+The first pillar of our employee development approach revolves around experiential learning. This entails providing our employees with valuable on-the-job experiences and engaging them in assignments carefully designed to challenge and enhance their skills effectively.
+
+# LazSwitch
+
+Acknowledging the vital link between employee motivation, productivity and retention, we aim to create roles that align seamlessly with their interests. We launched LazSwitch, an internal transfer program that provides employees the opportunity to expand their exposure and experience across the company. Lazadians can access the LazSwitch portal to explore available job openings, express interest and learn more about the internal transfer process. Through this initiative, Lazadians are empowered to take an active role in their own career development and progression.
+
+# THROUGH EXPERIENCE
+
+Participating in the logistics facilities tour showed me that providing the forecast of orders and volume will help our Logistics plan properly... !
+
+We offer the immersive Lazada Experience Program as part of a comprehensive onboarding journey for new joiners in Singapore. This program is structured into three stages: visiting Lazada sellers to understand their businesses, conducting departmental interviews to strengthen collaboration and touring the logistics warehouse to appreciate the operations and efforts of the logistics operations team. This well-rounded program ensures new Lazadians gain valuable insights and a holistic view of our operations and values.
+
+# THROUGH COACHING AND FEEDBACK
+
+• Performance review and career discussions
+
+• Coaching and mentoring
+
+• Collaborative learning
+
+• Networking
+
+• Organization-wide and industry events
+
+Really eye-opening experience and I enjoyed learning from the seller’s perspective, how they view our products and services and how they benefit from Lazada!
+
+# THROUGH STRUCTURED TRAINING
+
+• Classroom training
+
+• Workshops
+
+• Conferences and summits
+
+• E-learning
+
+The LazPrentice program in Indonesia is a 6 month internship program tailored for student interns and fresh graduates, providing them with the opportunity to immerse themselves in the digital commerce industry with Lazada. This comprehensive program blends practical work experience with essential trainings, aiming to equip interns with fundamental knowledge and essential skills. The program covers a diverse range of activities, including goal setting, email etiquette, relationship building and various training opportunities. A graduation ceremony and appreciation night are organized to honor the interns’ accomplishments and acknowledge their valuable contributions throughout the internship.
+
+# Footnote
+
+7 Rastogi, V., Meyer, M., Tan, M., & Tasiaux, J. (2021). Boosting women in technology in Southeast Asia. BCG Global. Link
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# Progressing through Coaching and Feedback
+
+The second pillar of our approach places a strong emphasis on learning through others, incorporating valuable elements such as close mentoring, collaborative work and performance reviews. Through regular performance reviews and career discussions, we actively support our employees in navigating their career paths. The feedback received from coaching, mentorship and mobility programs shape Individual Development Plans, which are further integrated into annual reviews to foster continuous growth and development.
+
+# GROW Program Series
+
+Building upon the foundation of our GROW digital learning platform, we also offer the GROW Program series, a transformative learning initiative implemented across multiple countries. Each program is thoughtfully tailored to cater to different skill levels and positions. From equipping new joiners with essential knowledge to empowering leaders with advanced capabilities, the series offers a wide range of relevant e-learning courses that enable individuals to excel in their respective roles.
+
+# Coaching
+
+We firmly acknowledge the significance of coaching as a crucial skillset, recognizing its profound impact on personal and professional development. Understanding that effective leadership plays a pivotal role in fostering growth and empowering individuals, we initiated a comprehensive coaching program at various levels within Lazada to equip leaders with essential coaching abilities.
+
+|Senior Leader Coaching Leadership Program|People Manager Coaching Leadership Program|
+|---|---|
+|Our personalized intensive coaching program is specifically designed for senior management. Graduates of this program served as coaching role models for the whole organization.|This coaching program introduced the fundamentals of coaching to all People Managers. This program includes Coaching Labs and Communities of Practice, providing practical hands-on experience and knowledge sharing. An Introduction to Coaching e-learning course is also available for all employees.|
+
+# Grow Leaders in Malaysia
+
+Leadership Ready Series is a program that caters to all Lazadians, from junior employees to senior management. Each level has its own program and objectives, such as Ready2Start, Ready2Supervise, Ready2Inspire, Ready2Lead and Ready2Coach, tailored to meet the specific needs and complexities of each level.
+
+# Grow Leaders in Thailand
+
+The digital commerce onboarding program is designed for new joiners to accelerate their understanding of our business operations and the digital commerce industry as a whole. The program focuses on capability development for the commercial function across employee groups from junior to senior staff.
+
+# Grow Leaders in Vietnam
+
+The Operational Management Development Program seeks to accelerate the growth of potential leaders in logistics functions with various project-based tasks, dedicated mentorship and coaching and customized training. In the reporting period, up to 40% of the candidates were promoted to senior managers while 78% were promoted to managers.
+
+# Learning through Structured Training
+
+The third pillar of our approach centers on structured training programs, where we provide our employees with a comprehensive learning experience that encompasses cultural assimilation, team integration and career and skill development through diverse initiatives and programs.
+
+As a testament to the effectiveness of these efforts, we achieved a balanced distribution of training hours between male and female employees contributing to an inclusive and equitable learning environment.
+
+# Digital Learning Platform
+
+Our in-house digital learning platform, GROW, offers all Lazadians an interactive and engaging learning experience. Employees can embark on a unique learning path and access curated learning materials. Through GROW, we are able to break past physical barriers and bring easy access to learning.
+
+More than 1,000 courses available on our in-house learning platform GROW.
+
+# Testimonials
+
+“The GROW program has been super engaging... The workshop is interesting… [and the trainer delivers] the content in a compelling way.” - Wong Wei Jun, Customer Care, Lazada Malaysia
+
+“... [and helped] me understand Lazada better as well as how to use internal tools.” - Pipornpong, Seller Engagement, Lazada Thailand
+
+“... [and] thinking seriously about my career path.” - Nguyen Thi Kim Tien, Logistics, Lazada Vietnam
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# Lazada Learning Month in Indonesia
+
+We implement diverse initiatives across countries to prioritize the physical and mental well-being of Lazadians.
+
+Lazada Indonesia’s Learning Month offers a diverse range of training programs, from soft skills such as agile project management and empathetic leadership to hard skills such as data storytelling and data to insight, all led by internal and external experts. The programs offer employees access to take charge of their own personal development. The selection and design of these programs are guided by a training needs analysis to ensure alignment with business needs.
+
+# EMPLOYEE WELL-BEING
+
+At Lazada, we believe that employee well-being is essential for a productive and motivated workforce. We offer a comprehensive range of programs and benefits designed to support the physical, mental and emotional well-being of our employees.
+
+# Caring for Physical and Mental Well-being
+
+# Employee Benefits
+
+Our comprehensive employee benefits encompass a variety of offerings. To maintain their relevance and competitiveness, we conduct regular reviews and benchmark analyses for these benefit programs against market standards, while user feedback is collected to gauge their effectiveness, usage and claim ratios, health screenings, leaves and self-funded benefits. These evaluations enable us to optimize our benefit offerings and adapt to the evolving needs of Lazadians, ensuring a supportive and rewarding work environment.
+
+# LazListen
+
+We understand that employee well-being extends beyond physical health. We introduced LazListen, a mental well-being support program, to address personal or workplace issues that may impact an employee’s mental health in 2022. All employees can dial the LazListen round-the-clock support hotline and seek confidential consultations with trained professionals. LazListen also includes ongoing webinars and curated resources on mental well-being topics anytime and anywhere at no cost.
+
+# Engaging Events and Well-being Initiatives
+
+We organized various events across different countries to engage, motivate, and recognize our employees. These events include company celebrations, sports days and team building activities aimed to uplift energy and create a positive work environment. It provides the opportunity for employees to come together, have an enjoyable time and feel appreciated for their contributions.
+
+Lazada Singapore arranged health screenings and personalized coaching sessions for employees.Lazada Thailand and Lazada Indonesia conducted mental health workshops to promote Lazadians’ mental well-being.Lazada Vietnam launched LazRun and #AddFitnessToLife campaign to encourage physical well-being.
+
+# Managing Occupational Health and Safety
+
+# Emergency Response Preparedness (ERP) in Indonesia
+
+Since 2016, we implemented a Health, Safety and Environment (HSE) Management System specifically tailored for our logistics operations. This system encompasses all aspects of digital commerce logistics activities, facilities and personnel across the Southeast Asia region. To ensure its effective implementation, we have a series of internal Standard Operating Procedures (SOPs).
+
+One key SOP is the Regional Risk Management SOP, which guides identifying and assessing work-related hazards. A dedicated team of certified occupational health and safety personnel conduct this process and apply control measures to eliminate or minimize risks. The information from risk assessments for warehouse and supply chain processes is then uploaded to an internal portal, ensuring accessibility for all employees.
+
+We have also established an SOP for regional HSE incident reporting and investigation to ensure thorough investigations of workplace incidents. This includes hazard identification, risk assessment, determination of corrective actions and improvements to the HSE management system.
+
+# Epic 11th Aloha Birthday Party
+
+# Logistics Sports Day
+
+# Teambuilding events
+
+FY2023 ESG Impact Report
+
+# Connecting Lazadians
+
+We value the opinions and feedback of our employees, actively seeking to understand their perspectives and improve talent management while enhancing overall job satisfaction. To gauge employee satisfaction, we conduct an employee survey annually to assess satisfaction across seven talent facets, with Lazadians actively participating and contributing their thoughts. In the most recent survey, we recorded an increase in the overall satisfaction score compared to the last reporting period. The results are shared internally and analyzed to identify actionable steps for further improvements.
+
+In addition to providing scholarships for young talents, we actively organize learning programs and competitions to empower them and promote the development of their skills and knowledge.
+
+# Digital Business Talents Contest in Vietnam
+
+Lazada sponsored a nationwide Digital Business Talents contest in Vietnam, promoting digital commerce education and innovation. The contest attracted nearly 1,000 students from 50 universities, competing in online product sales, digital marketing, technology solutions and innovation while gaining firsthand experience of running a digital commerce business.
+
+# Ask Me Anything
+
+Lazada introduced an initiative led by our Group Chief Executive Officer called Ask Me Anything, a video series aimed at strengthening the bond with employees. Employees have the opportunity to submit their questions to the Group Chief Executive Officer, who answers top questions covering a diverse range of topics, including campaign seasons, workplace arrangements, industry trends and talent mobility.
+
+# Buzz@Laz
+
+Introduced in 2022, Buzz@Laz is an internal platform designed to facilitate internal operations, learning and communication among Lazadians. It encourages employees to upload posts, engage with content through likes and comments, establishes two-way communication and provides a space for employees to join interest groups.
+
+# The Women Scholarship in the Philippines
+
+To narrow the gender gap of skilled professionals entering the digital industry, Lazada provided women in the Philippines with enabling opportunities and access to education, partnering with For The Women (FTW) to support minority and marginalized groups in pursuing tech careers. Filipino women empowered to enter the digital industry through 14 intensive data science training sessions supported by the scholarship program.
+
+# OUTREACH ENGAGEMENT
+
+As part of our dedication to societal development and responsible business practices, Lazada extends learning opportunities to external stakeholders in the community. We do this through targeted initiatives such as scholarships and training sessions, which enable individuals, forge connections and foster mutual growth for a brighter future.
+
+# Inspiring and Supporting Youths
+
+Empowering youths through scholarships exemplifies our commitment to nurturing young talent and investing in the future workforce. Selected applicants receive financial assistance to cover their university tuition fees and have the chance to secure employment at Lazada where applicable. We have introduced the Lazada For The Women Scholarship and the Lazada Forward Scholarship.
+
+# Lazada Forward Scholarship in Indonesia and Vietnam
+
+The Lazada Forward Scholarship is a development program available to forward-looking undergraduate students in Indonesia and Vietnam, regardless of their university background and major. The program aims to remove financial barriers and empower the youths to excel.
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+Environmental impacts are inherently interconnected with the well-being of our planet and humanity. At Lazada, we firmly believe we have a shared responsibility to protect the environment and promote positive ecological practices. We recognize the impact that our business has on the environment, particularly from increased transport-related emissions and waste generated from packaging materials.
+
+Acknowledging these concerns, Lazada strives to minimize the environment footprint of our activities, by enhancing delivery efficiency and reducing packaging materials usage where possible. We also expanded our collaborations with like-minded partners and leveraged our platform’s reach to advocate for responsible practices among our stakeholders. By taking these steps, we can contribute to creating a more sustainable future for ourselves and our planet.
+
+# B20 Sustainability 4.0 Award
+
+|won by Lazada Indonesia in the Responsible Consumption and Production (Plastic) category|won by Lazada Indonesia in the Responsible Consumption and Production (Plastic) category|
+|---|
+|10% reduction of overall GHG emissions|compared to the last reporting period|
+|More than 20,000 trips avoided from our collaboration with logistics partners in Indonesia|More than 250kg of recycled plastic reused since the launch of RedMart’s eco range household cleaning products|
+
+FY2023 ESG Impact Report 23
+
+# CARBON FOOTPRINT
+
+Climate change is one of the most pressing issues of our time. In Southeast Asia, the effects are increasingly evident, with rising sea levels leading to more frequent and devastating floods, and soaring temperatures impacting our daily lives. These effects will worsen if no action is taken, posing severe threats to the region’s ecosystems, economies and communities.
+
+As a responsible digital commerce platform, Lazada believes that it is our responsibility to do our part to mitigate climate change and protect the environment. We have been continuously updating our methodologies to reflect on-the-ground conditions and tracking our progress in reducing greenhouse gas (GHG) emissions. As a result of our efforts, our overall GHG emissions was reduced by 10% compared to the last reporting period.
+
+|Proportion of GHG Emissions in FY2023 (%)|Changes in GHG Emissions in FY2023 Compared to FY2022 (%)|
+|---|---|
+|53%|5%|
+|44%|-15%|
+| |-19%|
+
+# Taking steps into Clean Energy
+
+Despite the challenges of limited infrastructure for electric vehicles, fluctuating availability of renewable energy, and high initial setup costs, we remain resolute in our commitment to drive positive change. Our initiatives represent the initial steps toward promoting clean energy, setting the stage for greater advancements as we embrace a holistic approach to sustainability and overcome obstacles.
+
+# Adopting electric vehicles in Vietnam
+
+Lazada partnered with Selex Motors, a startup that develops electric vehicles, and purchased 100 electric delivery motorbikes in Vietnam. The electric delivery motorbikes utilize a battery swap solution that allows users to swap depleted batteries for fully charged ones in less than two minutes through a network of battery exchange stations. Electric delivery motorbikes are fitted with larger transportation capacity and can achieve lower environmental and operational costs than gasoline motorbikes. This partnership contributes to Lazada’s goal of managing our impact on the environment, where we have piloted our own fleet of electric bicycles in Hanoi and Ho Chi Minh City since 2017.
+
+# Developing green logistics operations
+
+We aspire to adopt eco-friendly practices within our logistics operations. To achieve this, Lazada Indonesia introduced solar panels to two logistics facilities in Bali and Bandung, which can generate up to 15% of the total electricity consumed. Other initiatives include facility enhancements such as automated LED lighting control, usage of smart routing technology and eco-friendly packaging solutions.
+
+Our collective efforts have been recognized as Lazada Logistics Indonesia emerged as the inaugural winner of the prestigious B20 Sustainability 4.0 Award in the Responsible Consumption and Production (Plastic) category during this reporting period. This esteemed accolade, initiated by the Swiss Chamber of Commerce in collaboration with other partner organizations, acknowledges private-sector businesses that support sustainable development in Indonesia.
+
+The success of this solar-powered facility concept and other initiatives have paved the way for the adoption of eco-friendly practices in other logistics facilities across Indonesia. This is a testament to our continuous efforts to set a positive example for the industry.
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# Enabling Sustainable Consumption
+
+At Lazada, our commitment to managing our carbon footprint goes beyond clean energy adoption. We promote sustainable consumption by optimizing efficiency and implementing energy-saving measures. Furthermore, we inspire and encourage our customers and partners to join us in embracing sustainability practices.
+
+# Fostering Sustainable Lifestyle
+
+We strive to empower our customers with options that promote sustainable practices in their daily lives. Through our grocery arm, RedMart, we promote sustainable grocery shopping by offering various products with reduced environmental impacts.
+
+# Green Logistics
+
+Logistics is the backbone of our business, enabling the seamless movement of millions of parcels. Our logistics services cover pick-up, storage and packing to delivery, with more than 85% of the parcels picked up handled at our facilities. While our logistics operations play a crucial role in our operations, land transport remains a significant contributor to our carbon emissions. To address this, we adopted sustainable initiatives like Priority Delivery which helps to consolidate prioritized orders to optimize delivery routing for maximum efficiency. Additionally, our Multi-Channel Logistics consolidates orders from Lazada’s brand partners, regardless of the digital commerce platforms they operate on. By centralizing deliveries through Lazada, we reduce carbon emissions that would otherwise be generated by separate deliveries from each digital commerce platform.
+
+# Transport Access Point (TAP) Program
+
+In Indonesia, our logistics team introduced an initiative to reduce the trips taken for parcel transfer. Known as the Transport Access Point (TAP) program, we work with our logistics partners to use Lazada’s trucks to deliver their parcels to destination cities when possible, eliminating the need for separate trucks. The TAP program is currently implemented in Sumatra and West Java. The TAP program enhances service and efficiency, helps our third-party logistic partners avoid repeated trips, reduces carbon emissions associated with transportation and demonstrates the positive impact generated from strong partnerships.
+
+# Locally sourced products
+
+RedMart offers locally sourced items with a lower carbon footprint due to reduced transportation distances and sustainably caught seafood, prioritizing biodiversity and the long-term sustainability of fish stocks.
+
+# Plant-based protein alternatives
+
+We provide a variety of plant-based meats that produce less greenhouse gas emissions and require less land compared to traditional meat products.
+
+# Climate-conscious purchasing process
+
+We employ reusable insulation in delivery totes and encourage the collection of carton boxes for reuse or recycling, reducing the usage of single-use packaging and the amount entering landfills.
+
+|More than|20,000 trips avoided through our collaboration with logistics partners in the TAP program in Indonesia|
+|---|---|
+|Approximately|7 million kilometers of distance avoided|
+|Nearly|19 local manufacturers supported through RedMart’s initiative to offer locally sourced products|
+|30%|of RedMart’s housebrands are sourced locally and free from preservatives|
+
+# Optimal Energy Efficiency
+
+Optimal and efficient energy usage is key to responsibly managing our energy consumption and carbon footprint. In Singapore, we implemented energy-saving measures at our RedMart facility, such as an automated system for lights and air conditioning, which switches off when the office is vacant. We also conducted multiple energy optimization studies and trials, with a particular focus on optimizing the operation of our cooling towers. In our dry warehouse, we enhanced energy efficiency by replacing air handling units with industrial wall fans and high-volume low-speed ceiling fans. The switch led to a reduction in energy consumed without compromising our employees’ comfort. Collectively, these energy-saving initiatives contributed to a more energy-efficient facility.
+
+3% year-on-year reduction in energy consumption through energy-saving measures at RedMart facility in Singapore
+
+FY2023 ESG Impact Report 25
+
+# MATERIALS AND PACKAGING
+
+Sustainable materials are designed to minimize negative environmental impacts, making them a better choice for the planet. As a multinational company, Lazada shares the responsibility to take action against environmental degradation by adopting sustainable materials and packaging. We have taken tangible steps toward sustainable packaging, centering our initiatives on three key pillars: offering product options with eco-friendly materials, reducing and repurposing material, and collaborating for collective impact.
+
+# Offering Sustainable Product Options
+
+The choice of materials used in our products significantly influences our environmental footprint. Recognizing the potential environmental benefits of having sustainable materials, we have introduced eco-friendly products that empower customers to make sustainable choices.
+
+# Minimizing Packaging Waste
+
+Alongside our eco-friendly product offerings, we strive to reduce, repurpose and explore innovative solutions to minimize waste and reduce plastic usage in our operations.
+
+# Repurpose and resale initiatives
+
+We have various initiatives to minimize food waste. In the reporting period, RedMart launched a pilot initiative with local brewer CRUST Group to repurpose surplus bread from RedMart into a uniquely crafted beer called RedMart X Crust Lager Beer.
+
+We also actively engage in food resale practices where excess stock from our warehouse is made available to other food services and companies at discounted prices, promoting the efficient use of resources. Additionally, perishable items like fresh produce, meat, seafood and bakery items are donated to charitable organizations, ensuring surplus food reaches those in need.
+
+# More than
+
+# RedMart’s eco range products
+
+RedMart offers a wide range of eco-friendly products, from household essentials like hand soap and dishwashing liquids to fruit and vegetable wash. Notably, we offer eco-friendly paper product options such as bamboo facial tissues and baby wipes that are fully biodegradable and certified by Forest Stewardship Council (FSC). This certification ensures the material used in our products originates from responsibly managed and sustainable forests. During this reporting period, we expanded our own eco-packaging range with household cleaning products that use plant-based ingredients packed in bottles made from recycled plastic.
+
+# More than
+
+|250kg|of recycled plastic reused since the launch of RedMart’s eco range household cleaning products in May 2022|
+|---|---|
+|30kg|of bread repurposed into a uniquely crafted beer as part of RedMart’s pilot initiative|
+
+# Enhancing SOPs to minimize waste
+
+With a wide selection of more than 80,000 items, RedMart manages its large inventory by selling goods at markdown prices to buyers. These goods are typically packed in carton boxes for collection.
+
+To enhance this process, RedMart identified a solution that reduces the usage of carton boxes where possible. Recognizing a consistent demand from one regular buyer, RedMart introduced a new SOP that stores orders in the buyer’s tote boxes. Once the collection is completed, the buyer will return the totes to RedMart for the next order. Additionally, using totes eliminates the need for sealing carton boxes with Oriented Polypropylene (OPP) tape, promoting a more sustainable packaging process.
+
+Through close collaboration with like-minded partners, RedMart has reduced its food and packaging waste by creating a closed-loop system that minimizes its environmental footprint.
+
+# More than
+
+1,400
+carton boxes avoided by switching to tote boxes in the reporting period
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# Collaborating with Stakeholders
+
+# Leading the Change in Our Ecosystem
+
+# Collaboration to reduce ocean waste
+
+As a leader within our ecosystem, we implemented initiatives that promote sustainable practices and environmental responsibility. We collaborate with partners to push for innovative solutions and take pride in paving the way for meaningful change.
+
+Southeast Asia generates more than 31 million tons of plastic waste annually8. When such plastic waste leaks into our oceans, it negatively impacts the sustainability of marine habitats and livelihood for communities living in coastal areas and beyond. Indonesia, being the world’s largest archipelagic country, is especially susceptible to these challenges. As part of our commitment to support sustainability practices in the countries we operate in, we supported a competition to find a scalable and sustainable waste management system around the Thousand Islands of Indonesia.
+
+Through our collaborations and joint initiatives, Lazada has pushed forward new solutions to lead meaningful change in our ecosystem. Lazada Vietnam recently launched its Sustainable Packaging Handbook, unveiled during the Digital Economy and Sustainable Development workshop, which serves as a practical guide for digital commerce sellers. It offers insights, best practices and case studies on eco-friendly packaging designs, material selection and waste management. Aligned with Vietnam’s National Strategy on Responding to Climate Change, the handbook was highly appreciated and endorsed by the leaders of the Vietnam E-commerce and Digital Agency, Vietnam Business Council for Sustainable Development and Vietnam E-commerce Association.
+
+# Collaboration to promote a sustainable supply chain
+
+Lazada collaborated with Eiger Adventure, an outdoor activities products brand, to create a sustainable shopping experience for all customers in Indonesia. Using Lazada’s multi-channel logistics solution, all online orders from Eiger Adventure are fulfilled and delivered by Lazada using sustainable materials, such as Forest Stewardship Council (FSC)-certified carton boxes for outer packaging and recycled paper-based honeycomb wraps for inner packaging. The paper-based honeycomb wraps, sourced from discarded cartons to replace plastic air pillows, increase the reuse of paper-based materials and simultaneously minimize the amount of plastic created. With a shared commitment to developing a sustainable supply chain, this collaboration highlights Lazada’s capability to support brands on their sustainability journey.
+
+|More than|1,000kg|of discarded cartons shredded and reused as inner packaging, and more than 100kg of plastic air pillows avoided since the launch of this collaboration in January 2023|
+|---|---|---|
+|More than|190kg|of waste collected from the islands and its surrounding waters for recycling and disposal|
+
+More than 50 Lazadians and volunteers participated in a coastal clean-up event and collected 196kg of waste from the islands and surrounding waters for recycling and disposal.
+
+8 World Bank Group. (2021, August 11). ASEAN member states adopt regional action plan to tackle plastic pollution. World Bank. https://www.worldbank.org/en/news/press-release/2021/05/28/asean-member-states-adopt-regional-action-plan-to-tackle-plastic-pollution
+
+FY2023 ESG Impact Report
+
+# EFFECTIVE GOVERNANCE
+
+Good governance provides the foundation for well-informed decision-making, strategic planning and risk management of a company. It also builds trust and accountability among stakeholders, and compliance with legal obligations which safeguards the company from potential issues.
+
+At Lazada, we take a proactive approach to governance, believing that effective governance is essential for long-term success and sustainability. Over time, we have established a robust governance structure prioritizing responsible business practices, safeguarding data privacy and intellectual property rights.
+
+|2 consecutive years|1st and only digital commerce company to achieve the highest tier of cybersecurity certification in Singapore|
+|---|---|
+|of winning the ALB Southeast Asia Law Awards - Compliance and Risk Management In-House Team of the Year| |
+
+0 substantiated complaints concerning breaches of customer privacy and losses of customer data
+
+More than 95% of takedown requests on our Intellectual Property Protection Platform processed within 72h, with a median processing time of under 24h
+
+FY2023 ESG Impact Report 28
+
+# CORPORATE GOVERNANCE
+
+Governance is a key component of Lazada’s long-term sustainability and success. It ensures that we operate ethically and responsibly, focusing on delivering value to all stakeholders.
+
+A strong emphasis on ethical behavior and corporate responsibility anchors our governance structure. We have fortified our risk management framework, ensuring its efficacy through well-defined roles, responsibilities and reporting mechanisms. This framework helps us identify, assess and mitigate risks, which can help us protect our assets and reputation.
+
+# Upholding Business Ethics and Anti-corruption
+
+As an ethical and responsible entity, we are committed to conducting business with unwavering ethical principles. Our policies and guidelines govern our approach to business, ensuring that we operate legally, honestly and ethically while complying with national laws and international trade rules. The governance policies cover critical aspects such as anti-bribery, anti-corruption, conflict of interest and information security. Every employee is expected to promote a culture of integrity and responsibility within Lazada. Through our concerted efforts, we take pride in achieving a record of zero instances of corruption and bribery.
+
+# Supplier Code of Conduct
+
+We hold our suppliers to high standards, and they are required to acknowledge and adhere to our Suppliers’ Code of Conduct. This code aligns with Lazada’s internal guidelines and policies and outlines the expected behavior of our suppliers. We expect our business partners to share our commitment to conducting business in a legal, fair and ethical manner. Any violation of this code may lead to the termination of contracts.
+
+# Grievance Mechanisms
+
+At Lazada, we maintain a safe and professional work environment through effective communication channels and grievance-handling mechanisms. Our open-door policy encourages line managers to create an atmosphere where employees feel comfortable sharing their input without fear of retaliation. We implemented guidelines to address grievances confidentially and resolve disputes promptly. This approach fosters an environment of trust and mutual respect which serves as a solid foundation for overall success across Lazada. We actively encourage all employees to approach their supervisors or management if they witness any violations of policies or standards, ensuring a supportive and accountable workplace.
+
+Lazada provides a whistleblowing mailbox (whistleblow@lazada.com) and an external whistleblowing channel for reporting any suspected or actual fraud, corruption, illegal acts, or unethical practices by employees and personnel. This platform is available to employees, buyers, sellers and stakeholders. Incidents can be reported in good faith for investigation and appropriate action in compliance with applicable laws and regulations. All grievance information is treated as confidential and is shared only with authorized personnel on a need-to-know basis.
+
+# Implementing Risk Management
+
+Preparing for an uncertain future is crucial, considering risks ranging from climate change, technological disruption, geopolitical instability and global supply chain disruptions. We understand that integrating ESG factors into corporate decision-making is a significant step toward responsible and sustainable risk management. We have implemented Enterprise Risk Management (ERM) to ensure a structured and comprehensive approach to better manage risks across our organization. Led by the Group Chief Executive Officer, the ERM Steering Committee has oversight of the company’s most material risks. Supporting the Steering Committee is the ERM Working committee whose primary responsibilities include the development of a robust risk management framework and policy at the group level. They also focus on enhancing risk management processes, identifying major risks and devising effective risk mitigation strategies.
+
+Furthermore, our risk management system operates in synergy with internal and third-party audits, forming a “three lines of defense” mechanism of risk management and control. This multi-layered approach allows us to proactively monitor, assess and respond to risks, ensuring greater protection for our customers and stakeholders.
+
+|1st Line|Business management|
+|---|---|
+|2nd Line|Risk management|
+|3rd Line|Independent audit|
+|Management teams at each department or business unit|identify, assess and manage risks as an integral part of their business activities.|
+|Various functional teams|provide guidance, oversight and expertise in managing risks across the company.|
+|Internal audit function and third-party audits|assess the effectiveness of risk management practices, internal controls and compliance with policies and procedure mechanisms.|
+
+# Asian Legal Business Southeast Asia Awards
+
+Lazada achieved a remarkable feat by winning the prestigious Asian Legal Business Southeast Asia Awards during the reporting period. We were honored with the title “Compliance and Risk Management In-House Team of the Year” for two years in a row, acknowledging our exceptional compliance and risk management capabilities. The award recognized our exceptional capabilities in managing privacy incidents and third-party data risks across Southeast Asia, ensuring data security and compliance.
+
+# CYBERSECURITY AND DATA PRIVACY
+
+Cybersecurity and data privacy are critical to the success of digital commerce. In the ever-changing world of digital commerce, it is essential to protect customer data from unauthorized access, use, or disclosure. This is especially important given the vast amount of data that flows through our online platform.
+
+At Lazada, we implement robust measures to ensure secure transactions and prevent data breaches. We undergo regular comprehensive audits by external assessors to enhance our cybersecurity measures and align with industry standards.
+
+We successfully obtained certification against the ISO 27001:2013 standard in 2019 and have retained it since then, assuring the security of our corporate information assets. This certification distinguishes Lazada as one of the few certified digital commerce platforms in Southeast Asia. Furthermore, Lazada Singapore has achieved the Advocate level of the Cyber Trustmark certification issued by the Cyber Security Agency of Singapore. This certification demonstrates Lazada Singapore’s exceptional safety and security standards and its capabilities to effectively identify and mitigate abnormal systems or user behaviors.
+
+# Security Measures
+
+Lazada has implemented a robust vulnerability management process, including routine network vulnerability scans on server infrastructure to identify common application and system-level vulnerabilities. Before launching any application into production, an internal vulnerability scan is automatically conducted using our release management platform.
+
+Moreover, our security measures encompass penetration testing executed by our in-house Red Team and an independent external provider for applications connected to public networks. Any issues identified during these tests are promptly addressed and managed through our internal ticketing platform and vulnerability management processes.
+
+To fortify our cybersecurity defenses and safeguard our users’ trust, we are taking measures to consistently mitigate these risks, including promoting user and employee awareness and implementing robust third-party risk management practices.
+
+# Protecting Privacy
+
+Safeguarding privacy is closely tied to ensuring customer security. Operating in the dynamic digital commerce industry of Southeast Asia, Lazada obtains a wide variety of essential services from third parties across diverse industries to support our operations. To maintain our stringent cybersecurity and data privacy obligations expected by regulatory and contractual requirements, we must thoroughly assess our partners’ security measures before entering into service agreements.
+
+# Third-party Risk Management
+
+We implemented a robust Third-party Risk Management program to assess the security maturity and capabilities of third-party service providers and safeguard the interests of buyers and sellers. Under this program, all third-party service providers are automatically included, and risk profiling is carried out to identify and prioritize potential risks. Collaborative risk assessments and management processes are conducted with third parties. Furthermore, we have seamlessly integrated the Third-party Due Diligence process into our regular operational onboarding procedures, ensuring sustainability and scalability as our business grows.
+
+# Employees Awareness Improvement
+
+To foster a culture of cybersecurity and data privacy responsibility, we have implemented Project Sparta, an internal awareness program. This program encompasses various initiatives aimed at enhancing the cyber-resilience of our employees which include periodic drills, cybersecurity training and awareness campaigns through posters and live streams.
+
+# In-platform Protection
+
+We encourage our platform users to play an active role in fraud prevention. We have established a dedicated channel for users to report suspicious activities, allowing us to take prompt action to protect users from potential losses. Our in-platform protection features include:
+
+- Utilizing advanced data science and technology to efficiently identify and address suspicious sellers and transactions
+- Implementing an in-platform secure payment solution for all transactions
+- Offering direct feedback channels on the platform, empowering buyers to promptly report suspicious sellers and unauthorized transactions
+
+# Ensuring Customer Security
+
+Safeguarding our customers and their data is our utmost priority. In the dynamic realm of the digital landscape, we recognize both the opportunities and challenges that may arise. We have implemented rigorous security measures to address these, including regular internal audits to identify and address potential lapses. We also collaborate with stakeholders from various departments to ensure regulatory compliance and maintain a culture of security awareness.
+
+As a result, we have achieved no substantiated complaints concerning customer privacy breaches or customer data losses in the reporting period.
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# Cybersecurity Partnerships
+
+Lazada stays updated on industry trends and global cybersecurity regulations relevant to our operations. We proactively identify cybersecurity concerns and regularly benchmark our practices against industry peers to maintain high performance. This outward perspective ensures our adherence to data privacy laws and allows us to adapt to the evolving cybersecurity landscape while meeting industry standards.
+
+# INTELLECTUAL PROPERTY
+
+Intellectual property (IP) protection is essential for a legally compliant and healthy digital commerce environment in Southeast Asia. Committed to safeguarding IP Rights (IPR) and product authenticity, we are the first Southeast Asian digital commerce company with a dedicated IPR Protection Team. To further deepen our efforts in IPR protection, we took the lead in forming the Southeast Asia E-Commerce Anti-Counterfeiting Working Group (SeCA) in September 2022.
+
+We released the 2022 Lazada Intellectual Property Rights Annual Report, highlighting our main achievements. In this section, we present a selection of key figures extracted from the report to provide a snapshot of our impact.
+
+# Bug bounty live event with YesWeHack
+
+As part of this collaboration, Lazada partnered with YesWeHack, a leading global Bug Bounty and Vulnerability Disclosure Policy Platform, to host a two-day live bug bounty event. Certain security mechanisms were voluntarily disabled for participating researchers, allowing them to conduct comprehensive testing. This event provided a unique opportunity to thoroughly assess our applications, and the direct interaction with researchers facilitated an exclusive exchange of insights into the vulnerabilities discovered.
+
+Accomplishing this commitment to security and progressive stance demonstrates Lazada’s dedication to strengthening their security, transparency, as well as data privacy and protection. We are delighted to be able to contribute to yet another successful collaboration with Lazada.
+
+# Advancing IPR protection
+
+Recognizing the urgency of collective action, Lazada has formed strategic collaborations with esteemed organizations within the digital space. The collaborations aim to tackle the rapidly evolving challenges of counterfeit trade in online retail and increase knowledge and capabilities among regulators in safeguarding IPR.
+
+In addition to collaborations with industry leaders and government agencies, we continued to strengthen our efforts in intellectual property protection (IPP) through strategic partnerships and Memorandum of Understanding (MOU) signings with esteemed organizations such as the Intellectual Property Protection Agency, Regional Enforcement Allied Computer Team (REACT) and the Pharmaceutical Security Institute, among others. These collaborations led to impactful workshops and events, including sharing our IPP program with other organizations and government agencies.
+
+Our dedication to safeguarding consumers from counterfeit goods was recognized during the REACT Annual Assembly, further reinforcing our commitment to protect the interests of brands, rights holders and consumers.
+
+# Online scam training for Law Enforcement Agency in Thailand
+
+Lazada Thailand has collaborated with the Thailand Central Investigation Bureau (CIB) since 2021. During the reporting period, we partnered with the International Criminal Police Organization and the Singapore Police Force to conduct training for the CIB on combating online scams, public-private partnerships and scam prevention strategies.
+
+# Southeast Asia eCommerce Anti-Counterfeiting Working Group
+
+Lazada launched the Southeast Asia eCommerce Anti-Counterfeiting Working Group (SeCA Working Group) with our brand partners during IP Week @ SG, organized by the Intellectual Property Office of Singapore.
+
+Headquartered in Singapore, the SeCA Working Group pledges to support IPR and consumer protection initiatives within the digital commerce landscape. The Working Group plans to develop an online directory that includes IPR protection policies, programs and resources to create a trusted and safe digital commerce environment.
+
+FY2023 ESG Impact Report
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# Safeguarding Governance through Technology
+
+In addition to collaborative action, we leverage technology to strengthen our safeguarding efforts. Lazada’s IPP Platform is a user-friendly portal for rights holders to submit takedown requests in cases of suspected infringement. Our platform accepts requests pertaining to trademark, copyright, patent rights and registered design rights while offering comprehensive assistance and guidance throughout the takedown process. To ensure continuous improvement, we made updates to enhance the user experience, including refined user notifications, clearer explanations for takedown request rejections and an updated Lazada IPP Guide.
+
+We have also taken proactive measures to swiftly remove counterfeit listings from our platform. By utilizing advanced technology and collaborating with rights holders, we leverage data and product-specific information to detect and identify listings suspected of selling counterfeit goods. To further enhance our capabilities, we are exploring the application of image recognition technology to bolster our detection efforts.
+
+# IPP Platform Performance
+
+2022 filing takedown requests on the IPP Platform across Lazada’s 6 countries, a 15% user growth compared to the last reporting period
+More than 1,500 active users in requests compared to the last reporting period in spite of user growth
+increase in takedown 6.5%
+More than 95% of takedown requests processed within 72h, with a median processing time under 24h
+
+# Proactive Measures Program Performance
+
+brands gradually included to be part of Lazada’s proactive program
+maintained rate of proactive removals have occurred before a reactive listing is reported by a participating rights holder
+96%
+
+Our IPP Plus Programme offers enhanced service support and expedited takedown processing for selected participants meeting specific notice and takedown criteria. Participants are chosen based on factors such as reporting volume and accuracy. The IPP Plus Programme strengthens collaboration between rights holders and Lazada by facilitating increased qualified takedown requests and expediting enforcement efforts.
+
+# IPP Plus Platform Performance
+
+Estimated 100 brands on IPP Plus
+More than 90% takedown requests processed within 24h
+median removal time for a successful takedown request Less than 12h
+More than 200 enforcement actions were supported on counterfeit goods distribution with an estimated total value of more than USD 700,000
+
+# Online-To-Offline Enforcement Actions
+
+Finally, we actively support brands in offline investigations and enforcement actions targeting the entire supply chain. By collaborating closely with numerous brands, we analyze potential leads and provide valuable support for their enforcement actions. By working hand-in-hand with these brands, we have been able to take swift and decisive measures to block the entrance of counterfeit goods into the sales market.
+
+FY2023 ESG Impact Report 32
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# ADDITIONAL INFORMATION
+
+Conversion rates of local currencies to USD used throughout the report are shown in the table below.
+
+|Currency Conversion Rates Used| |
+|---|---|
+|SGD to USD|SGD 1 = USD 0.752|
+|THB to USD|THB 1 = USD 0.029|
+|VND to USD|VND 1 = USD 0.0000426|
+|PHP to USD|PHP 1 = USD 0.0184|
+|MYR to USD|MYR 1 = USD 0.226|
+|IDR to USD|IDR 1 = USD 0.0000669|
+
+Currency conversion rates are extracted from XE currency tables based on historical close rates as of 31 March 2023.
+
+# Empowering Communities
+
+The methodology and assumptions below derive the number of economic opportunities created directly and indirectly from Lazada’s platform on page 10.
+
+# Economic Opportunities Created Directly and Indirectly from Lazada’s Platform
+
+|Number of Sellers|Number of active sellers that have at least one sale on Lazada’s platform as of the end of the reporting period.|
+|---|---|
+|Number of Employees|Number of permanent and contract employees on Lazada’s payroll as of the end of the reporting period.|
+|Number of Third-Party Logistics (3PL) Drivers|Number of 3PL drivers was estimated using the number of parcels delivered by 3PL drivers for Lazada in the reporting period, divided by the delivery efficiency (parcel/driver) during the reporting period.|
+|Assumptions:|Assumptions:|
+|The delivery efficiency of 3PL drivers is assumed to be similar to that of Lazada Logistics operations.|The delivery efficiency of 3PL drivers is assumed to be similar to that of Lazada Logistics operations.|
+|Lazada Logistics’ delivery efficiency was computed using the total number of parcels delivered divided by the total number of drivers in Indonesia, Malaysia, the Philippines, Thailand and Vietnam. Singapore was excluded as it does not have Lazada Logistics operations.|Lazada Logistics’ delivery efficiency was computed using the total number of parcels delivered divided by the total number of drivers in Indonesia, Malaysia, the Philippines, Thailand and Vietnam. Singapore was excluded as it does not have Lazada Logistics operations.|
+|Number of Enabler Company Employees|Number of enabler company employees was estimated by aggregating the average number of employees in the reporting period by each enabler company that Lazada works with within the countries in which we operate. This number was rounded down to the nearest thousand for a more conservative estimate, as different enabler companies may use different methods to estimate the average number of employees in the reporting period.|
+|Number of Influencers|Number of influencers was estimated by aggregating the total number of influencers that Lazada worked with across LazLive and various social media channels in the countries in which we operate during the reporting period. This number was rounded to the nearest thousand for a more conservative estimate.|
+
+FY2023 ESG Impact Report 33
+
+# Future-ready Workforce
+
+# Breakdown of New Hires Rate by Gender, Age Group and Region (%)
+
+Values reflected are rounded to the appropriate decimal places.
+
+|Categories|FY2021|FY2022|FY2023|
+|---|---|---|---|
+|Overall|24.4|39.8|27.9|
+
+# Breakdown by Gender
+
+|Categories|Permanent|Temporary|Permanent|Temporary|Permanent|Temporary|
+|---|---|---|---|---|---|---|
+|Male|58.9|0.6|56.6|0.3|56.1|0.2|
+|Female|39.5|1.1|42.4|0.7|43.0|0.7|
+|Others|-|-|-|-|0.1|-|
+
+# Breakdown by Age Group
+
+|Age Group|FY2021|FY2022|FY2023|
+|---|---|---|---|
+|Under 30 years old|33.7|61.5|45.7|
+|30 – 50 years old|18.5|24.4|15.8|
+|Over 50 years old|2.7|6.5|5.7|
+
+# Breakdown by Region
+
+|Categories|Singapore|Indonesia|Malaysia|The Philippines|Thailand|Vietnam|Regional|
+|---|---|---|---|---|---|---|---|
+|Male|6.8|10.3|4.3|7.1|6.6|7.2|13.9|
+|Female|4.2|5.8|3.9|7.0|7.8|6.4|8.7|
+|Others|-|-|-|0.0|0.0|-|-|
+
+Employees under other genders refer to those who identify themselves as genders other than male and female, as well as those who prefer not to disclose their gender. Internal transfers from sister companies within the Alibaba Group (the parent company of Lazada), are categorized as “transfers” rather than new hires. The figures only reflect the new hires of permanent employees. The new hires rate was derived by dividing the number of new hires by the number of permanent employees.
+
+FY2023 ESG Impact Report
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# Parental Leave
+
+|Categories|FY2023|
+|---|---|
+|Return to work rate11 (%)|Male: 88|
+| |Female: 83|
+|Retention rate12 (%)|Male: 84|
+| |Female: 78|
+
+# GHG Emissions
+
+GHG emissions refer to a group of gases that contributes to the greenhouse effect by absorbing infrared radiation. Lazada adopted the operational control method in accordance with the GHG Protocol Corporate Standard for its direct (Scope 1) and electricity indirect (Scope 2) GHG emissions. Computation of Scope 3 emissions is based on the Greenhouse Gas Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard.
+
+# Scope 1
+
+Direct GHG emissions occurring from sources owned or controlled by Lazada’s operations in Indonesia, Malaysia, the Philippines, Singapore, Thailand and Vietnam in the reporting period. Lazada’s Scope 1 emissions sources include:
+
+- Mobile combustion
+- Fugitive emissions
+
+# Material Usage (Metric Ton)
+
+|Material Type|FY2023|
+|---|---|
+|Renewable Materials Usage14|7|
+|Non-renewable Materials Usage15|404|
+
+# Footnotes
+
+1. The return to work rate was derived by dividing the number of employees that did return to work after parental leave by the number of employees due to return to work after taking parental leave.
+2. The retention rate was derived by dividing the number of employees retained 12 months after returning to work following a period of parental leave by the number of employees returning from parental leave in the prior reporting period.
+3. Level 1 refers to employees who are fresh graduates; Level 2 refers to employees who are associates and analysts; Level 3 refers to employees who are managers and senior managers; and Level 4 refers to employees who are vice presidents and above.
+4. Renewable materials refer to paper packaging materials used by RedMart’s house brands during the reporting period.
+5. Non-renewable materials refer to plastic utilized by Lazada logistics during the reporting period.
+6. Grid emission factors used for the reporting period were taken from government sources including the Energy Market Authority of Singapore and Ministry of Energy of Thailand, and from international reports including the IGES List of Grid Emission Factors and the Climate Transparency report. Gases considered in the calculation include CO2.
+7. In the last reporting period’s report (page 56), there was an error in the methodology description for GHG emissions calculation of Lazada Logistics operations. The description was incorrectly expressed as fuel consumption in watt-hours, whereas the correct expression should have been distance traveled in kilometers, the same as in this report.
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# GRI Content Index
+
+# GHG Emissions
+
+Statement of use
+
+Lazada has reported with reference to the GRI Standards for the period 01 April 2022 to 31 March 2023.
+
+# Scope 3
+
+Other indirect GHG emissions that are a consequence of Lazada’s activities and operations in Indonesia, Malaysia, the Philippines, Singapore, Thailand and Vietnam in the reporting period but occur from sources that are not owned or controlled by Lazada. Lazada’s reported Scope 3 emissions sources were selected based on the significance of their contribution to total emissions, influence Lazada has over the emissions category, and data feasibility. They include:
+
+- Category 1: Purchased goods and services
+- Purchased goods and services relating to logistics and warehousing consumables.
+
+Category 4: Upstream transportation and distribution
+- Upstream transportation relating to land transportation, air freight, ocean freight, and third-party logistics providers.
+
+Category 6: Business travel
+
+Computation of Scope 3 emissions is based on the Greenhouse Gas Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard. The GHG Protocol Scope 3 Evaluator Tool, which leverages environmental input-output datasets based on the World Input-Output Database (WIOD) and the Open IO Database, was also used in the quantification of emissions. Gases considered in the calculation include CO2, CH4 and NO2.
+
+|GRI|Disclosure|Section/Statement|Page|Notes| |
+|---|---|---|---|---|---|
+|GRI 1 used|GRI 1: Foundation 2021|2-1 Organizational details|About Us - At a Glance|5|/|
+| | |2-2 Entities included|About Us - About This Report|5|/|
+| | |2-3 Reporting period, frequency and contact point|About Us - About This Report|5|/|
+| | |2-4 Restatements of information|No restatement.|/|/|
+| | |2-5 External assurance|No external assurance.|/|/|
+| | |2-6 Activities, value chain and other business relationships|About Us- Who We Are and How We Operate|5|/|
+| | |2-7 Employees|Appendix|34|For confidentiality purposes, actual employee numbers are not disclosed.|
+| | |2-8 Workers who are not employees|/|/|Workers who are not employees pertains to interns. For confidentiality purposes, actual worker numbers are not disclosed.|
+| | |2-9 Governance structure and composition|The board of directors is the highest governance body of Lazada Group.|7|/|
+| | |2-10 Nomination and selection of the highest governance body|Board members are selected based on a list of criteria that includes tenure of service with Lazada, qualifications, business experience, expertise and other competencies relevant to serve on the Board.|/|/|
+| | |2-11 Chair of the highest governance body|The chairman of the Board is not the senior executive of Lazada Group.|/|/|
+
+FY2023 ESG Impact Report
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+|GRI Standard|Disclosure|Section/Statement|Page|Notes|
+|---|---|---|---|---|
+|GRI 2:|2-12 Role of the highest governance body|The board of directors provides leadership by setting the strategic objectives of Lazada Group.|7|/|
+| |2-13 Delegation of responsibility for managing impacts|The Executive Committee reports regularly to the Board about the status and development of Lazada, including ESG-related matters.|7|/|
+| |2-14 Role of the highest governance body in sustainability reporting|ESG at Lazada - ESG Governance|7|/|
+| |2-15 Conflicts of interest|Effective Governance - Corporate Governance|29|/|
+| |2-16 Communication of critical concerns|Critical concerns are communicated to the highest governance body.|/|For confidentiality purposes, the number and nature of critical concerns are not disclosed.|
+| |2-22 Statement on sustainable development strategy|From our Leaders|3|/|
+| |2-23 Policy commitments|Lazada has included the content related to responsible business conduct and respect for human rights in its Code of Business Conduct Policy in Effective Governance Chapter. While the policy currently does not refer to authoritative intergovernmental instruments or stipulate conducting due diligence, there are plans to revise the policy to be aligned with International Labour Organization (ILO) and Organisation for Economic Co-operation and Development (OECD) guidelines in the near future.|/|The Code of Business Conduct Policy is only for internal announcements and is not disclosed publicly.|
+| |2-24 Embedding policy commitments|ESG Governance|7, 29|/|
+| |2-25 Processes to remediate negative impacts|Effective Governance - Corporate Governance, Intellectual Property|29, 32|/|
+| |2-26 Mechanisms for seeking advice and raising concerns|The grievance mechanism also serves to seek advice and raise concerns about responsible business conduct.|/|/|
+| |2-29 Approach to stakeholder engagement|ESG at Lazada - ESG Priorities|8|/|
+| |2-30 Collective bargaining agreements|Lazada does not engage in collective bargaining with its employees during this reporting period. However, we adhere to local regulations and standards on working conditions and maintain good relationships with all our stakeholders.|/|/|
+
+FY2023 ESG Impact Report 37
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+|GRI Standard|Disclosure| | |Section/Statement|Page| |Notes| | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|GRI 3:|3-3 Management of material topics| |Future-ready Workforce| |18| | | | | | | |
+|GRI 401:|401-1 New employee hires and employee turnover|Appendix| | |34|For confidentiality purposes, numbers of new hires, numbers and rates of turnovers are not disclosed.| | | | | | |
+| |401-2 Benefits provided to full-time employees that are not provided to temporary or part-time employees| |Future-ready Workforce – Employee Well-being| |21|/| | | | | | |
+| |401-3 Parental leave|Appendix| | |35|/| | | | | | |
+|GRI 404:|404-3 Percentage of employees receiving regular performance and career development reviews| | | |/|/|All employees, except those still on probation, received a regular performance and career development review during the reporting period.| | | | | |
+|GRI 405:|405-1 Diversity of governance bodies and employees|Appendix| | |35|/| | | | | | |
+|GRI 406:|406-1 Incidents of discrimination and corrective actions taken| | | |/|/|There is no incident of discrimination during the reporting period.| | | | | |
+|Material Topic: Cybersecurity and Data Privacy| | | | | | | |GRI 3:|3-3 Management of material topics|Effective Governance - Cybersecurity and Data Privacy|30|/|
+|GRI 418:|418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer data| | | | | | | | |Effective Governance - Cybersecurity and Data Privacy|30|/|
+|Material Topic: Carbon Footprint|GRI 3:|3-3 Management of material topics| | | | | | | |Environmental Stewardship - Carbon Footprint|24, 25|For confidentiality purposes, the GHG emissions are not disclosed.|
+| | | | | | | | |GRI 305:|305-1 Direct (Scope 1) GHG emissions|Environmental Stewardship - Carbon Footprint|24|For confidentiality purposes, the GHG emissions are not disclosed.|
+| |305-2 Energy indirect (Scope 2) GHG emissions| | | | | | | | |Environmental Stewardship - Carbon Footprint|24|For confidentiality purposes, the GHG emissions are not disclosed.|
+| |305-3 Other indirect (Scope 3) GHG emissions| | | | | | | | |Environmental Stewardship - Carbon Footprint|24|For confidentiality purposes, the GHG emissions are not disclosed.|
+| |305-5 Reduction of GHG emissions| | | | | | | | |Environmental Stewardship - Carbon Footprint|24|For confidentiality purposes, the reduction of GHG emissions are not disclosed.|
+|Material Topic: Materials and Packaging|GRI 3:|3-3 Management of material topics|Environmental Stewardship - Materials and Packaging| |26|/| | | | | | |
+|GRI 301:|301-1 Materials used by weight or volume|Appendix| | |35|/| | | | | | |
+| |301-2 Recycled input materials used| |Environmental Stewardship - Materials and Packaging| |26, 27|Recycled materials like shredded cartons are used in our operations, but the weight is not quantifiable.| | | | | | |
+
+# FY2023 ESG Impact Report
+
+# 38
+
+# From Our Leaders
+
+# About Us
+
+# ESG at Lazada
+
+# Empowering Communities
+
+# Future-ready Workforce
+
+# Environmental Stewardship
+
+# Effective Governance
+
+# Appendix
+
+# Sustainability Accounting Standards Board (SASB)
+
+|SASB Code|Accounting Metric|Section/Statement|Page Reference|Notes|SASB Code|Accounting Metric|Section/Statement|Page Reference|Notes|
+|---|---|---|---|---|---|---|---|---|---|
+|CG-EC-230a.1|Description of approach to identifying and addressing data security risks|Effective Governance|30|/|CG-EC-230a.2|(1) Number of data breaches, (2) percentage involving personally identifiable information (PII), (3) number of users affected|Effective Governance|30|/|
+|CG-EC-130a.1|(1) Total energy consumed (2) percentage grid electricity (3) percentage renewable|Information unavailable/ incomplete|/|Fuel consumed by the distribution process in Indonesia, Malaysia, the Philippines, Thailand and Vietnam is not recorded as the vehicles with the fuel consumption are not owned by Lazada.|CG-EC-130a.2|(1) Total water withdrawn (2) total water consumed, percentage of each in regions with High or Extremely High Baseline Water Stress|Not Applicable|/|Non-material topic for Lazada as our business has limited water consumption.|
+|CG-EC-130a.3|Discussion of the integration of environmental considerations into strategic planning for data center needs|Not Applicable|/|Data centers are under the operation of Lazada’s parent company, Alibaba, and are out of the reporting scope.|CG-EC-330a.1|Employee engagement as a percentage|Confidentiality|/|/|
+|CG-EC-330a.2|(1) Voluntary (2) involuntary turnover rate for all employees|Confidentiality|/|For confidentiality purposes, the turnover rates are not disclosed.|CG-EC-330a.3|Percentage of gender and racial/ethnic group representation for (1) management, (2) technical staff (3) all other employees|Appendix|35|/|
+|CG-EC-330a.4|Percentage of technical employees who are H-1B visa holders|Not Applicable|/|Lazada does not operate in the US during the reporting period.|CG-EC-410a.1|Total greenhouse gas (GHG) footprint of product shipments|Confidentiality|/|For confidentiality purposes, the GHG emissions are not disclosed.|
+|CG-EC-410a.2|Discussion of strategies to reduce the environmental impact of product delivery|Environmental Stewardship|24|/| | | | | |
+
+# FY2023 ESG Impact Report
+
+39
+
+Lazada
