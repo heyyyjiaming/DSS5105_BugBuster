@@ -417,8 +417,44 @@ def fill_esg_data(df, new_df, column_name, label=None, metric=None, unit=None):
 
 
 
+
 ## change whole
 def restructure(df,company_name):
+    # new_df = pd.DataFrame(columns=['year'])
+    # new_df.set_index('year', inplace=True)
+    
+    # fill_esg_data(df, new_df, 'GHG Emissions (Scope 1) (tCO2e)', label='Greenhouse Gas Emissions', metric='Scope 1', unit = 'tCO2e')
+    # fill_esg_data(df, new_df, 'GHG Emissions (Scope 2) (tCO2e)', label='Greenhouse Gas Emissions', metric='Scope 2', unit='tCO2e')
+    # fill_esg_data(df, new_df, 'GHG Emissions (Scope 3) (tCO2e)', label='Greenhouse Gas Emissions', metric='Scope 3', unit='tCO2e')
+    # fill_esg_data(df, new_df, 'GHG Emissions (Total) (tCO2e)', label='Greenhouse Gas Emissions', metric='Total', unit='tCO2e')
+    # fill_esg_data(df, new_df, 'Total Energy Consumption (MWhs)', label='Energy Consumption', metric='Total energy consumption', unit='MWhs')
+    # fill_esg_data(df, new_df, 'Total Water Consumption (ML)', label='Water Consumption', metric='Total water consumption', unit='ML')
+    # fill_esg_data(df, new_df, 'Total Waste Generated (t)', label='Waste Generation', metric='Total waste generated', unit='t')
+    # fill_esg_data(df, new_df, 'Current Employees by Gender (Female %)', label='Gender Diversity', metric='Current employees by gender', unit='Female Percentage (%)')
+    # fill_esg_data(df, new_df, 'New Hires and Turnover by Gender (Female %)', label='Gender Diversity', metric='New hires and turnover by gender', unit='Female Percentage (%)')
+    # # fill_esg_data(df, new_df, 'Current Employees by Age Groups (Millennials %)', label='Age-Based Diversity', metric='Current employees by age groups', unit='Millennials (%)')
+    # # fill_esg_data(df, new_df, 'New Hires and Turnover by Age Groups (Millennials %)', label='Age-Based Diversity', metric='New hires and turnover by age groups', unit='Millennials (%)')
+    # fill_esg_data(df, new_df, 'Total Turnover (%)', label='Employment', metric='Total employee turnover')
+    # fill_esg_data(df, new_df, 'Total Number of Employees', label='Employment', metric='Total number of employees')
+    # fill_esg_data(df, new_df, 'Average Training Hours per Employee', label='Development & Training', metric='Average training hours per employee', unit='Hour')
+    # fill_esg_data(df, new_df, 'Fatalities', metric='Fatalities')
+    # fill_esg_data(df, new_df, 'High-consequence injuries', metric='High-consequence injuries', unit='Number')
+    # fill_esg_data(df, new_df, 'Recordable injuries', metric='Recordable injuries', unit='Number')
+    # fill_esg_data(df, new_df, 'Recordable work-related ill health cases', metric='Number of recordable work-related illnesses or health conditions', unit='Number')
+    # fill_esg_data(df, new_df, 'Board Independence (%)', label='Board Composition', metric='Board independence')
+    # fill_esg_data(df, new_df, 'Women on the Board (%)', label='Board Composition', metric='Women on the board')
+    # fill_esg_data(df, new_df, 'Women in Management Team (%)', label='Management Diversity', metric='Women in the management team')
+    # # fill_esg_data(df, new_df, 'Anti-Corruption Disclosures', metric='Anti-corruption disclosures')
+    # fill_esg_data(df, new_df, 'Anti-Corruption Training for Employees (%)', label='Ethical Behaviour', metric='Anti-corruption training for employees',unit='Number')
+    # # fill_esg_data(df, new_df, 'List of Relevant Certifications', label='Certifications', metric='List of relevant certifications')
+    # # fill_esg_data(df, new_df, 'Alignment with Frameworks and Disclosure Practices', label='Alignment with Frameworks', metric='Alignment with frameworks and disclosure practices')
+    # # fill_esg_data(df, new_df, 'Assurance of Sustainability Report', label='Assurance', metric='Assurance of sustainability report')
+
+    # new_df.insert(0, 'Company Name', company_name)
+    # new_df.rename_axis('Year', inplace=True)
+    # new_df.reset_index(inplace=True)
+    # new_df.fillna('', inplace=True)
+    
     new_df = pd.DataFrame(columns=['year'])
     new_df.set_index('year', inplace=True)
     
@@ -453,6 +489,7 @@ def restructure(df,company_name):
     new_df.rename_axis('Year', inplace=True)
     new_df.reset_index(inplace=True)
     new_df.fillna('', inplace=True)
+
 
     return new_df
 

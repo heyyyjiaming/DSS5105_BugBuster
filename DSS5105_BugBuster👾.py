@@ -9,7 +9,7 @@ pages = {
         st.Page("app_pages/02_Regulator.py", title="Regulator")
     ],
     "🔨 Test Area": [
-        st.Page("app_pages/03_ESG_Analysis_Tool📊.py", title="ESGenius 📊"),
+        st.Page("app_pages/03_MultiLingual.py", title="ESGenius_MultiLingual📊"),
         st.Page("app_pages/04_playgound🧸.py", title="playground🧸")
     ]
 }
