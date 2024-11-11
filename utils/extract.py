@@ -398,12 +398,16 @@ def fill_esg_data(df, new_df, column_name, label=None, metric=None, unit=None):
     # for year, row in max_values_by_year.iterrows():
     #     new_df.loc[year, column_name] = row['value']
     condition = pd.Series([True] * len(df))
+    
     if label is not None:
         condition &= (df['label'].str.contains(label, regex=False))
     if metric is not None:
         condition &= (df['metric'].str.contains(metric, regex=False))
     if unit is not None:
         condition &= (df['unit'].str.contains(unit, regex=False))
+    
+    print(condition.index)
+    print(df.index)
     
     filtered_df = df[condition]
 
