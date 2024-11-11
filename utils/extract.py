@@ -513,6 +513,7 @@ def append_to_summary(existing_df, new_df):
     for index, new_row in new_df.iterrows():
         # Check if there is an existing row that matches the 'Year' and 'Company Name'
         match = (existing_df['Year'] == new_row['Year']) & (existing_df['Company Name'] == new_row['Company Name'])
+        print(match)
         
         if existing_df[match].empty:
             # If there is no matching row, concatenate the new row
@@ -531,6 +532,7 @@ def append_to_summary(existing_df, new_df):
                             existing_df.loc[match, col] = max(existing_value, new_value)
                         else:
                             existing_df.loc[match, col] = existing_value  # Keep existing value if types differ
+    return existing_df
 
 #     # Write the updated dataframe back to the same Excel file
 #     existing_df.to_excel(summary_table_path, sheet_name='E', index=False)

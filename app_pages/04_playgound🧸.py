@@ -16,7 +16,7 @@ from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, extract_esg
 # import plotly.express as px
 
 
-
+st.cache_data.clear()
 def init_session():
     if 'pdf_texts' not in st.session_state:
         st.session_state.pdf_texts = None
@@ -61,11 +61,12 @@ else:
         init_session()
         
         with st.form(key='extraction_form'):
-            # st.session_state.df_info = None
-            # st.session_state.df_summary = None
             start = st.form_submit_button("Strat to analyze")
-            # st.session_state.df_summary = None
+
             if start:
+                st.session_state.df_info = None
+                st.session_state.df_summary = None
+                
                 progress_text = "Processing PDF file "
                 my_bar = st.progress(0, text=progress_text)
                 for i in range(len(st.session_state.uploaded_path)):
@@ -73,32 +74,34 @@ else:
                     
                     with st.spinner("Converting PDF file into text..."):
                         cur_doc_parsed, cur_pdf_texts = convert_pdf_to_text(st.session_state.uploaded_path[i])
-                        st.markdown(cur_pdf_texts)
+                        # st.markdown(cur_pdf_texts)
                     
                     with st.spinner("Extracting ESG information..."):
                         df_info = convert_text_to_xlsx(cur_doc_parsed)
-                        st.dataframe(df_info)
-                    if st.session_state.df_info is not None:
+                        df_summary = convert_xlsx_to_summary(df_info, company_name)
+                        # st.dataframe(df_info)
+                    if st.session_state.df_info is None:
                         st.session_state.df_info = df_info
                     else:
-                        st.session_state.df_info = pd.concat([st.session_state.df_info, df_info])
-                        st.dataframe(st.session_state.df_info)
+                        existing_df_info = st.session_state.df_info.copy()
+                        st.session_state.df_info = pd.concat([existing_df_info, df_info], axis=0)
+                        # st.dataframe(st.session_state.df_info)
+                    if st.session_state.df_summary is None:
+                        st.session_state.df_summary = df_summary
+                    else:
+                        existing_df_summary = st.session_state.df_summary.copy()
+                        st.session_state.df_summary = append_to_summary(existing_df_summary, df_summary)
+
+                    # st.markdown(f"df_info of file {i+1}")
+                    # st.dataframe(df_info)
+                    # st.markdown(f"df_summary of file {i+1}")
+                    # st.dataframe(df_summary)
                 my_bar.empty()
-                            
-                            # if (st.session_state.df_summary is not None) and (df_summary is not None):
-                            #     st.session_state.df_summary = df_summary
-                            # else:
-                            #     st.session_state.df_summary = append_to_summary(st.session_state.df_summary, df_summary)
-                            # st.dataframe(st.session_state.df_summary)
-                            
-                                
-                            # st.session_state.df_info = convert_text_to_xlsx(st.session_state.doc_parsed)
-                            # st.session_state.df_summary = convert_xlsx_to_summary(st.session_state.df_info, company_name)
-                        # st.session_state.doc_parsed, st.session_state.pdf_texts = convert_pdf_to_text(st.session_state.uploaded_file)
-                        
-                    # with st.spinner("Extracting ESG information..."): 
-                    #     st.session_state.df_info = convert_text_to_xlsx(st.session_state.doc_parsed)
-                    #     st.session_state.df_summary = convert_xlsx_to_summary(st.session_state.df_info, company_name) 
+                st.markdown("ESG Data Extracted From the Uploaded Reports:")
+                st.dataframe(st.session_state.df_info)
+                st.markdown(f"ESG Data Summary of {company_name}:")
+                st.dataframe(st.session_state.df_summary)                    
+
 
 
         if st.session_state.df_summary is not None:

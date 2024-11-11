@@ -9,7 +9,7 @@ from uniflow.flow.config import OpenAIModelConfig
 from uniflow.op.prompt import PromptTemplate, Context
 from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, extract_esg_contents, convert_xlsx_to_summary
 # from models_test.scoring import ESGModel
-from utils.external import get_stock_data, get_ticker_symbol, get_esg_news
+from utils.external import get_stock_data,  get_esg_news
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
@@ -36,7 +36,8 @@ def convert_df(df):
     return df.to_csv().encode("utf-8")
 
 
-st.title("Investor's ESG Lens 👓")
+st.title("ESGenius")
+st.header("Investor's ESG Lens 👓")
 st.write(
     "Upload an ESG report below and see how well the company performs! "
     "To use this app, you may need to provide some API keys below. "
@@ -127,14 +128,17 @@ else:
         company_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/tests/FinancialData/company_ticker_mapping.csv"
         response = requests.get(company_url)
         if response.status_code == 200:
-            company_name_mapping = pd.read_excel(BytesIO(response.content), header=0, engine='openpyxl')
+            company_name_mapping = pd.read_csv(StringIO(response.text))
         else:
             st.error("Failed to load mapping table of company name from GitHub.")
 
-
         stock_price = get_stock_data(company_name, company_name_mapping)
-        fig = px.line(stock_price, x='Date', y='Adj Close', title=f"{company_name} Stock Price")
-        st.plotly_chart(fig)
+        if stock_price is not None:
+            fig = px.line(stock_price, x='Date', y='Adj Close', title=f"{company_name} Stock Price")
+            st.plotly_chart(fig)
+        else:
+            st.warning("No available stock price data. 🙁")
+
         
             
         

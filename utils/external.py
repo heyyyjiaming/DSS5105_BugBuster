@@ -164,15 +164,7 @@ def get_stock_data(company_name, company_ticker_map):
     # Format date and reset index
     data.reset_index(inplace=True)
     data['Date'] = data['Date'].dt.strftime('%Y-%m-%d')
-
-    # Create folder if it doesn't exist
-    folder_path = 'StockPrice'
-    os.makedirs(folder_path, exist_ok=True)
-
-    # Save data as CSV with company name in filename
-    csv_filename = f"{folder_path}/{company_name}_stock_data.csv"
-    data.to_csv(csv_filename, index=False)
-    print(f"Data saved to {csv_filename}")
+    data = data.droplevel(1, axis=1)
 
     # Retrieve the most recent adjusted close price if real-time data is unavailable
     ticker = yf.Ticker(ticker_symbol)
@@ -188,7 +180,8 @@ def get_stock_data(company_name, company_ticker_map):
         print(f"{company_name} ({ticker_symbol}) most recent Adj Close: ${current_price}")
     else:
         print(f"No recent 'Adj Close' or 'Close' price available for {company_name} ({ticker_symbol})")
-
+    
+    return data
 
 
 
