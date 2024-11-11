@@ -406,9 +406,10 @@ def fill_esg_data(df, new_df, column_name, label=None, metric=None, unit=None):
     if unit is not None:
         condition &= (df['unit'].str.contains(unit, regex=False))
     
-    print(condition.index)
-    print(df.index)
-    
+    # print(condition.index)
+    # print(df.index)
+    df = df.reset_index(drop=True)
+    condition = condition.reset_index(drop=True)
     filtered_df = df[condition]
 
     # def custom_agg(values):
@@ -538,8 +539,7 @@ def append_to_summary(existing_df, new_df):
                             existing_df.loc[match, col] = existing_value  # Keep existing value if types differ
     return existing_df
 
-#     # Write the updated dataframe back to the same Excel file
-#     existing_df.to_excel(summary_table_path, sheet_name='E', index=False)
+
     
     
 def convert_xlsx_to_summary(data_df, company_name):
