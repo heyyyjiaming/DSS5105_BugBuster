@@ -35,6 +35,7 @@ st.write(
 )
 
 os.environ["LLAMA_CLOUD_API_KEY"] = st.secrets["LLAMA_CLOUD_API_KEY"]
+os.environ["SERP_API_KEY"] = st.secrets["SERP_API_KEY"]
 
 
 with st.sidebar:
@@ -149,7 +150,7 @@ else:
             #     st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
             #     st.dataframe(st.session_state.news_df, 
             #                  column_config={"link": st.column_config.LinkColumn()})
-            os.environ["SERP_API_KEY"] = st.secrets["SERP_API_KEY"]
+
             input_serp_api_key = os.environ["SERP_API_KEY"]
             st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
             st.dataframe(st.session_state.news_df, 

@@ -27,6 +27,10 @@ def init_session():
     if 'df_summary' not in st.session_state:
         st.session_state.df_summary = None
         
+ # Read API KEYs
+os.environ["LLAMA_CLOUD_API_KEY"] = st.secrets["LLAMA_CLOUD_API_KEY"]
+os.environ["SERP_API_KEY"] = st.secrets["SERP_API_KEY"]
+        
 @st.cache_data
 def convert_df(df):
     # IMPORTANT: Cache the conversion to prevent computation on every rerun
@@ -41,17 +45,17 @@ st.write(
 
 with st.sidebar:
     input_openai_api_key = st.text_input("OpenAI API Key", type="password")
-    input_llama_api_key = st.text_input("Llama Cloud API Key", type="password")
+    # input_llama_api_key = st.text_input("Llama Cloud API Key", type="password")
 
 if input_openai_api_key:
     os.environ["OPENAI_API_KEY"] = input_openai_api_key
-if input_llama_api_key:
-    os.environ["LLAMA_CLOUD_API_KEY"] = input_llama_api_key
+# if input_llama_api_key:
+#     os.environ["LLAMA_CLOUD_API_KEY"] = input_llama_api_key
 
 
 
-if not (input_openai_api_key and input_llama_api_key):
-    st.info("Please add your OpenAI & Llama Cloud API key on the left to continue.", icon="🗝️")
+if not input_openai_api_key:
+    st.info("Please add your OpenAI API key on the left to continue.", icon="🗝️")
 else:
     with st.sidebar:
         company_name = st.text_input("Please enter the name of company you want to analyze")
@@ -141,12 +145,18 @@ else:
             ############################## Summary ###############################
                     
             st.markdown("#### You could find more ESG related reports from the following sources:")
-            input_serp_api_key = st.text_input("Serp API Key", type="password")
-                    
+            input_serp_api_key = os.environ["SERP_API_KEY"]
+            # st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
+            # st.dataframe(st.session_state.news_df, 
+            #             column_config={"link": st.column_config.LinkColumn()})
             if not input_serp_api_key:
                 st.info("Please add your Serp API key to continue.", icon="🗝️")
+                input_serp_api_key = st.text_input("Serp API Key", type="password")
+                st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
+                st.dataframe(st.session_state.news_df, 
+                             column_config={"link": st.column_config.LinkColumn()})
             else:
-                os.environ["SERP_API_KEY"] = input_serp_api_key
+                input_serp_api_key = os.environ["SERP_API_KEY"]
                 st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
                 st.dataframe(st.session_state.news_df, 
                              column_config={"link": st.column_config.LinkColumn()})
