@@ -5,7 +5,7 @@ import pandas as pd
 import requests
 from llama_parse import LlamaParse
 from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, extract_esg_contents, convert_xlsx_to_summary, append_to_summary
-from utils.external import get_esg_news
+from utils.external import get_stock_data,  get_esg_news
 from io import StringIO, BytesIO
 import time
 import pickle
@@ -15,7 +15,7 @@ from model.scoring import ESG_trend, ESG_trend_plot, company_scoring
 # from sklearn.cluster import KMeans
 # from sklearn.linear_model import LinearRegression
 # import matplotlib.pyplot as plt
-# import plotly.express as px
+import plotly.express as px
 
 
 def load_github_csv(url):
@@ -194,8 +194,9 @@ if st.session_state.df_summary is not None:
     scoring_model = load_github_model(reg_url)
 
     
-    # compare_fig = company_scoring(scored_tech_esg, st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend)
-    st.text(company_scoring(scored_tech_esg, st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend))
+    compare_fig = company_scoring(scored_tech_esg, st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend)
+    # st.text(company_scoring(scored_tech_esg, st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend))
+    st.plotly_chart(compare_fig)
     
     
     ## External Data        
@@ -209,3 +210,18 @@ if st.session_state.df_summary is not None:
         st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
         st.dataframe(st.session_state.news_df, 
                         column_config={"link": st.column_config.LinkColumn()})
+
+    st.header("Financial Analysis")
+    company_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/tests/FinancialData/company_ticker_mapping.csv"
+    response = requests.get(company_url)
+    if response.status_code == 200:
+        company_name_mapping = pd.read_csv(StringIO(response.text))
+    else:
+        st.error("Failed to load mapping table of company name from GitHub.")
+
+    stock_price = get_stock_data(company_name, company_name_mapping)
+    if stock_price is not None:
+        fig = px.line(stock_price, x='Date', y='Adj Close', title=f"{company_name} Stock Price")
+        st.plotly_chart(fig)
+    else:
+        st.warning("No available stock price data. 🙁")

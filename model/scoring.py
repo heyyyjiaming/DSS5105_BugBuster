@@ -148,57 +148,57 @@ def company_scoring(esg_data, company_data, kmeans, esg_cluster_centers, reg, es
     company_scaled_data = company_scaled.values  
     
     
-    # company_clusters = kmeans.predict(company_scaled_data)
-    # company_data['Cluster'] = company_clusters
+    company_clusters = kmeans.predict(company_scaled_data)
+    company_data['Cluster'] = company_clusters
     
-    # # Set Performance Category based on clusters
-    # def categorize_performance_by_cluster(cluster):
-    #     if cluster == esg_cluster_centers['Cluster'].idxmax():
-    #         return 'Good'
-    #     elif cluster == esg_cluster_centers['Cluster'].idxmin():
-    #         return 'Poor'
-    #     else:
-    #         return 'Average'
+    # Set Performance Category based on clusters
+    def categorize_performance_by_cluster(cluster):
+        if cluster == esg_cluster_centers['Cluster'].idxmax():
+            return 'Good'
+        elif cluster == esg_cluster_centers['Cluster'].idxmin():
+            return 'Poor'
+        else:
+            return 'Average'
     
-    # company_data['Performance Category'] = company_data['Cluster'].apply(categorize_performance_by_cluster)
+    company_data['Performance Category'] = company_data['Cluster'].apply(categorize_performance_by_cluster)
     
-    # # Calculate ESG Score for new company
-    # # res=company_scaled.columns
-    # company_scores = reg.predict(company_scaled)
-    # # def calculate_score(features, weights, intercept):
-    # #     return np.dot(features, weights) + intercept
-    # # esg_feature_weights = pd.Series(reg.coef_, index=esg_data_numeric.columns).sort_values(ascending=False)
-    # # esg_intercept_b = reg.intercept_
-    # # esg_weights = np.array(esg_feature_weights)
-    # # company_scores = company_scaled.apply(lambda row: calculate_score(row, esg_weights, esg_intercept_b), axis=1)
+    # Calculate ESG Score for new company
+    # res=company_scaled.columns
+    company_scores = reg.predict(company_scaled)
+    # def calculate_score(features, weights, intercept):
+    #     return np.dot(features, weights) + intercept
+    # esg_feature_weights = pd.Series(reg.coef_, index=esg_data_numeric.columns).sort_values(ascending=False)
+    # esg_intercept_b = reg.intercept_
+    # esg_weights = np.array(esg_feature_weights)
+    # company_scores = company_scaled.apply(lambda row: calculate_score(row, esg_weights, esg_intercept_b), axis=1)
     
-    # company_data['Calculated Score'] = company_scores
-    # company_data = pd.concat([company_info.reset_index(drop=True), company_data], axis=1)
+    company_data['Calculated Score'] = company_scores
+    company_data = pd.concat([company_info.reset_index(drop=True), company_data], axis=1)
     
-    # company_score = company_data[['Year', 'Calculated Score']]
-    # company_score.rename(columns = {'Calculated Score': company_name}, inplace = True)
+    company_score = company_data[['Year', 'Calculated Score']]
+    company_score.rename(columns = {'Calculated Score': company_name}, inplace = True)
     
-    # # Loop through each company and check if target_value is in its list of industries using isin
-    # for sub_sector in sub_sectors:
-    #     if pd.Series(sub_sectors[sub_sector]).isin([company_name]).any():
-    #         company_sub_sector = sub_sector
+    # Loop through each company and check if target_value is in its list of industries using isin
+    for sub_sector in sub_sectors:
+        if pd.Series(sub_sectors[sub_sector]).isin([company_name]).any():
+            company_sub_sector = sub_sector
     
-    # sub_sector_select = esg_industry_plot_data[esg_industry_plot_data["sub-sectors"] == company_sub_sector]
-    # sub_sector_select = sub_sector_select.drop(columns = {'sub-sectors'})
-    # sub_sector_select.rename(columns = {'predicted_score':company_sub_sector}, inplace = True)
+    sub_sector_select = esg_industry_plot_data[esg_industry_plot_data["sub-sectors"] == company_sub_sector]
+    sub_sector_select = sub_sector_select.drop(columns = {'sub-sectors'})
+    sub_sector_select.rename(columns = {'predicted_score':company_sub_sector}, inplace = True)
     
-    # compare_data = ESG_score_trend.merge(company_score, on = 'Year').merge(sub_sector_select, on = 'Year')
-    # compare_data = compare_data.melt(id_vars = ["Year"],
-    #                                  var_name = "Type", value_name = "predicted_score")
+    compare_data = ESG_score_trend.merge(company_score, on = 'Year').merge(sub_sector_select, on = 'Year')
+    compare_data = compare_data.melt(id_vars = ["Year"],
+                                     var_name = "Type", value_name = "predicted_score")
     
-    # fig_compare = px.line(compare_data, x = "Year", y = "predicted_score", color = "Type",
-    #                       markers = True, title = "Comparison on ESG score trend")
+    fig_compare = px.line(compare_data, x = "Year", y = "predicted_score", color = "Type",
+                          markers = True, title = "Comparison on ESG score trend")
     
-    # fig_compare.update_traces(
-    #     hovertemplate = 'Year: %{x} <br> ESG Score: %{y} <extra></extra>', 
-    #     marker = dict(size = 8)
-    #     )
+    fig_compare.update_traces(
+        hovertemplate = 'Year: %{x} <br> ESG Score: %{y} <extra></extra>', 
+        marker = dict(size = 8)
+        )
   
-    # return fig_compare
-    return company_scaled.columns, reg.feature_names_in_
+    return fig_compare
+    # return company_scaled.columns, reg.feature_names_in_
     
