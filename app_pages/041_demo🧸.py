@@ -25,6 +25,17 @@ def load_github_csv(url):
     else:
         st.text(response.status_code)
         st.error("Failed to load data from GitHub.")
+    return data
+
+def load_github_model(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        model = pickle.load(BytesIO(response.content))
+    else:
+        st.error(f"{response.status_code}Failed to load model from GitHub.")
+        
+    return model
+
 
 st.cache_data.clear()
 def init_session():
@@ -45,8 +56,6 @@ def convert_df(df):
 
 singtel_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/Singtel_ESG_test.xlsx"
 response_singtel = requests.get(singtel_url)
-# singtel_cols = ["Company Name", "Year", "GHG Emissions (Scope 1) (tCO2e)",	"GHG Emissions (Scope 2) (tCO2e)",	"GHG Emissions (Scope 3) (tCO2e)",	
-#                 "GHG Emissions (Total) (tCO2e)",	Total Energy Consumption (MWhs)	Total Water Consumption (ML)	Total Waste Generated (t)	Current Employees by Gender (Female %)	New Hires and Turnover by Gender (Female %)	Total Turnover (%)	Total Number of Employees	Average Training Hours per Employee	Fatalities	High-consequence injuries	Recordable injuries	Recordable work-related ill health cases	Board Independence (%)	Women on the Board (%)	Women in Management Team (%)	Anti-Corruption Training for Employees (%)]
 if response_singtel.status_code == 200:
     singtel_data = pd.read_excel(BytesIO(response_singtel.content), engine='openpyxl', header=0)
 else:
@@ -169,16 +178,24 @@ if st.session_state.df_summary is not None:
     
     
     # Load Reg Model
-    with open("../model/cluster_model.pkl", "rb") as f:
-        cluster_model = pickle.load(f)
-    with open("../model/scoring_model.pkl", "rb") as f:
-        scoring_model = pickle.load(f)
+    # with open("../model/cluster_model.pkl", "rb") as f:
+    #     cluster_model = pickle.load(f)
+    # with open("../model/scoring_model.pkl", "rb") as f:
+    #     scoring_model = pickle.load(f)
     # st.session_state.esg_socre = scoring_model.predict(st.session_state.df_summary)
     
     esg_cluster_centers_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/tech_esg_cluster_centers.csv"
     esg_cluster_centers = load_github_csv(esg_cluster_centers_url)
-    compare_fig = company_scoring(st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend)
     
+    cluster_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/cluster_model.pkl"
+    cluster_model = load_github_model(cluster_url)
+        
+    reg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/scoring_model.pkl"
+    scoring_model = load_github_model(reg_url)
+
+    
+    # compare_fig = company_scoring(scored_tech_esg, st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend)
+    st.text(company_scoring(scored_tech_esg, st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend))
     
     
     ## External Data        
