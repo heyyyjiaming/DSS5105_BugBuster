@@ -89,6 +89,10 @@ def ESG_trend_plot(esg_industry_plot_data):
                             markers = True, 
                             title = "Environment score trend of the technology industry and sub-sectors")
     
+    fig_esg_trend.update_layout(legend=dict(orientation="h", yanchor="bottom", 
+                                            y=-0.5, xanchor="right",x=1)
+                                )
+    
     fig_esg_trend.update_xaxes(dtick = 1)
     
     fig_esg_trend.update_traces(

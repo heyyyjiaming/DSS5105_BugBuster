@@ -8,6 +8,7 @@ from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, extract_esg
 from utils.external import get_esg_news
 from io import StringIO, BytesIO
 import time
+from model.scoring import ESG_trend, ESG_trend_plot
 # from sklearn.impute import SimpleImputer
 # from sklearn.preprocessing import StandardScaler
 # from sklearn.cluster import KMeans
@@ -32,21 +33,23 @@ def convert_df(df):
 
 
 singtel_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/Singtel_ESG_test.xlsx"
-response = requests.get(singtel_url)
+response_singtel = requests.get(singtel_url)
 # singtel_cols = ["Company Name", "Year", "GHG Emissions (Scope 1) (tCO2e)",	"GHG Emissions (Scope 2) (tCO2e)",	"GHG Emissions (Scope 3) (tCO2e)",	
 #                 "GHG Emissions (Total) (tCO2e)",	Total Energy Consumption (MWhs)	Total Water Consumption (ML)	Total Waste Generated (t)	Current Employees by Gender (Female %)	New Hires and Turnover by Gender (Female %)	Total Turnover (%)	Total Number of Employees	Average Training Hours per Employee	Fatalities	High-consequence injuries	Recordable injuries	Recordable work-related ill health cases	Board Independence (%)	Women on the Board (%)	Women in Management Team (%)	Anti-Corruption Training for Employees (%)]
-if response.status_code == 200:
-    singtel_data = pd.read_excel(BytesIO(response.content), engine='openpyxl', header=0)
+if response_singtel.status_code == 200:
+    singtel_data = pd.read_excel(BytesIO(response_singtel.content), engine='openpyxl', header=0)
 else:
     st.error("Failed to load data from GitHub.")
 
 
 
-st.title("🪀Playground for ESG Analysis Tool")
+
+st.title("ESGeunius 🪄")
 st.write(
     "Upload an ESG report below and see how well the company performs! "
     "To use this app, you may need to provide some API keys below. "
 )
+init_session()
 
 with st.sidebar:
     input_openai_api_key = st.text_input("OpenAI API Key", type="password")
@@ -78,7 +81,7 @@ else:
                 st.session_state.df_info = None
                 st.session_state.df_summary = None
                 
-                progress_text = "Processing PDF file "
+                progress_text = "Processing report  "
                 my_bar = st.progress(0, text=progress_text)
                 for i in range(len(st.session_state.uploaded_path)):
                     my_bar.progress(1/len(st.session_state.uploaded_path)*i, text=progress_text+f"{i+1} ...")
@@ -109,56 +112,55 @@ else:
                 
                 # st.markdown("ESG Data Extracted From the Uploaded Reports:")
                 # st.dataframe(st.session_state.df_info)
-                st.markdown(f"ESG Data Summary of {company_name}:")
-                st.dataframe(st.session_state.df_summary)                    
+                # st.markdown(f"ESG Data Summary of {company_name}:")
+                # st.dataframe(st.session_state.df_summary)                    
 
 
         
-        if st.session_state.df_summary is not None:
-            st.markdown("ESG Data Extracted From the Uploaded Reports:")
-            st.dataframe(st.session_state.df_info)
-            st.markdown("#### Summary of Extracted ESG Related Data:")      
-            st.dataframe(st.session_state.df_summary)
-            df_summary_csv= convert_df(st.session_state.df_summary)
-            st.download_button(
-                label="Download Extracted ESG Data Summary",
-                data=df_summary_csv,
-                file_name=f"{company_name.replace(" ", "_")}_raw_extracted_esg_ata.csv",
-                mime="text/csv",)
-        
-            df_info_button = st.toggle("View Raw Extracted ESG Data 👇🏻")
-            if df_info_button:
-                st.markdown("**Below is the raw ESG data extracted from the report:**")
-                st.dataframe(st.session_state.df_info)
-                df_info_csv= convert_df(st.session_state.df_info)
-                st.download_button(
-                    label="Download Raw Extracted ESG Data as CSV",
-                    data=df_info_csv,
-                    file_name=f"{company_name.replace(" ", "_")}_raw_extracted_esg_ata.csv",
-                    mime="text/csv",)
-                
-            # pdf_texts_button = st.toggle("View Converted ESG Report Texts 👇🏻")
-            # if pdf_texts_button:
-            #     st.markdown("**Texts of uploaded ESG report:**")
-            #     with st.container(height=600):
-            #         st.markdown(st.session_state.pdf_texts)
- 
+if st.session_state.df_summary is not None:
+    # st.markdown("ESG Data Extracted From the Uploaded Reports:")
+    # st.dataframe(st.session_state.df_info)
+    st.markdown("##### Summary of Extracted ESG Related Data:")      
+    st.dataframe(st.session_state.df_summary)
+    df_summary_csv= convert_df(st.session_state.df_summary)
+    st.download_button(
+        label="Download Extracted ESG Data Summary",
+        data=df_summary_csv,
+        file_name=f"{company_name.replace(" ", "_")}_raw_extracted_esg_ata.csv",
+        mime="text/csv",)
 
+         
+         
                     
-        if st.session_state.df_summary is not None:
-            st.markdown("### ESG Summary")
-            st.write("Here is the summary of the ESG information extracted from the report.")
+if st.session_state.df_summary is not None:
+    st.header("ESG Summary")
+    st.write("Here is the summary of the ESG information extracted from the report.")
+    
+    
+    ############################## Summary ###############################
+    
+    scored_esg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/scored_tech_industry_esg_data.csv"       
+    response_tech = requests.get(scored_esg_url)
+    if response_tech.status_code == 200:
+        scored_tech_esg = pd.read_csv(StringIO(response_tech.text), header=0)
+    else:
+        st.text(response_tech.status_code)
+        st.error("Failed to load data from GitHub.")
+
+    ESG_score_trend, esg_industry_plot_data = ESG_trend(scored_tech_esg)
+    fig_esg_trend = ESG_trend_plot(esg_industry_plot_data)
+    st.markdown("##### Trend of ESG Performance in Tech Industry")    
+    st.plotly_chart(fig_esg_trend)
+    
+    
+    ## External Data        
+    st.markdown("#### You could find more ESG related reports from the following sources:")
+    input_serp_api_key = st.text_input("Serp API Key", type="password")
             
-            
-            ############################## Summary ###############################
-                    
-            st.markdown("#### You could find more ESG related reports from the following sources:")
-            input_serp_api_key = st.text_input("Serp API Key", type="password")
-                    
-            if not input_serp_api_key:
-                st.info("Please add your Serp API key to continue.", icon="🗝️")
-            else:
-                os.environ["SERP_API_KEY"] = input_serp_api_key
-                st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
-                st.dataframe(st.session_state.news_df, 
-                             column_config={"link": st.column_config.LinkColumn()})
+    if not input_serp_api_key:
+        st.info("Please add your Serp API key to continue.", icon="🗝️")
+    else:
+        os.environ["SERP_API_KEY"] = input_serp_api_key
+        st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
+        st.dataframe(st.session_state.news_df, 
+                        column_config={"link": st.column_config.LinkColumn()})
