@@ -87,11 +87,12 @@ if input_openai_api_key:
 
 
 if not input_openai_api_key:
-    st.info("Please add your OpenAI & Llama Cloud API key on the left to continue.", icon="🗝️")
+    st.info("Please add your OpenAI API key on the left to continue.", icon="🗝️")
 else:
     with st.sidebar:
         company_name = st.text_input("Please enter the name of company you want to analyze")
         st.session_state.uploaded_path = st.file_uploader("Upload a your ESG report(PDF) 📎", type=("pdf"), accept_multiple_files=True)
+        translate = st.checkbox("🙋🏻‍♀️ The report is **NON-ENGLISH**")
     if not st.session_state.uploaded_path:
         st.warning("⬅️ Please upload a PDF file to continue 👻")
     else:
@@ -174,7 +175,6 @@ if st.session_state.df_summary is not None:
 
 
 
-
     ESG_score_trend, esg_industry_plot_data = ESG_trend(scored_tech_esg)
     fig_esg_trend = ESG_trend_plot(esg_industry_plot_data)
     st.markdown("##### Trend of ESG Performance in Tech Industry")    
@@ -204,7 +204,7 @@ if st.session_state.df_summary is not None:
     
     
     ## External Data        
-    st.markdown("#### You could find more ESG related reports from the following sources:")
+    st.markdown(f"#### You could find more ESG reports related to f{company_name} from the following sources:")
     input_serp_api_key = os.environ["SERP_API_KEY"]
 
     if not input_serp_api_key:

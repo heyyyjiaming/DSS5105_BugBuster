@@ -3,13 +3,13 @@ import os
 import glob
 import pandas as pd
 from llama_parse import LlamaParse
-from uniflow.flow.client import TransformClient
-from uniflow.flow.config import TransformOpenAIConfig
-from uniflow.flow.config import OpenAIModelConfig
-from uniflow.op.prompt import PromptTemplate, Context
+# from uniflow.flow.client import TransformClient
+# from uniflow.flow.config import TransformOpenAIConfig
+# from uniflow.flow.config import OpenAIModelConfig
+# from uniflow.op.prompt import PromptTemplate, Context
 from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, extract_esg_contents, convert_xlsx_to_summary
-# from models_test.scoring import ESGModel
 from utils.external import get_stock_data,  get_esg_news
+from model.scoring import ESG_trend, ESG_trend_plot, company_scoring
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
@@ -29,6 +29,26 @@ def init_session():
         st.session_state.df_info = None
     if 'df_summary' not in st.session_state:
         st.session_state.df_summary = None
+        
+def load_github_csv(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = pd.read_csv(StringIO(response.text), header=0)
+    else:
+        st.text(response.status_code)
+        st.error("Failed to load data from GitHub.")
+    return data
+
+
+def load_github_model(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        model = pickle.load(BytesIO(response.content))
+    else:
+        st.error(f"{response.status_code}Failed to load model from GitHub.")
+        
+    return model
+
         
 os.environ["LLAMA_CLOUD_API_KEY"] = st.secrets["LLAMA_CLOUD_API_KEY"]
 os.environ["SERP_API_KEY"] = st.secrets["SERP_API_KEY"]
@@ -57,7 +77,7 @@ if input_openai_api_key:
 
 
 if not input_openai_api_key:
-    st.info("Please add your OpenAI & Llama Cloud API key on the left to continue.", icon="🗝️")
+    st.info("Please add your OpenAI API key on the left to continue.", icon="🗝️")
 else:
     with st.sidebar:
         company_name = st.text_input("Please enter the name of company you want to analyze")
@@ -114,13 +134,34 @@ else:
         if st.session_state.df_summary is not None:
             st.markdown("### ESG Summary")
             st.write("Here is the summary of the ESG information extracted from the report.")
+            
+        ############################## Summary ###############################
+            
+            scored_esg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/scored_tech_industry_esg_data.csv"   
+            scored_tech_esg = load_github_csv(scored_esg_url)    
+
+            ESG_score_trend, esg_industry_plot_data = ESG_trend(scored_tech_esg)
+            fig_esg_trend = ESG_trend_plot(esg_industry_plot_data)
+            st.markdown("##### Trend of ESG Performance in Tech Industry")    
+            st.plotly_chart(fig_esg_trend)
+            
+            
+            esg_cluster_centers_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/tech_esg_cluster_centers.csv"
+            esg_cluster_centers = load_github_csv(esg_cluster_centers_url)
+            
+            cluster_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/cluster_model.pkl"
+            cluster_model = load_github_model(cluster_url)
+                
+            reg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/scoring_model.pkl"
+            scoring_model = load_github_model(reg_url)
+
+            
+            compare_fig = company_scoring(scored_tech_esg, st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend)
+            st.plotly_chart(compare_fig)
                     
             st.markdown("#### You could find more ESG related reports from the following sources:")
                     
             input_serp_api_key = os.environ["SERP_API_KEY"]
-            # st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
-            # st.dataframe(st.session_state.news_df, 
-            #             column_config={"link": st.column_config.LinkColumn()})
             if not input_serp_api_key:
                 st.info("Please add your Serp API key to continue.", icon="🗝️")
                 input_serp_api_key = st.text_input("Serp API Key", type="password")

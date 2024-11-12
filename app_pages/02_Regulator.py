@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import glob
 import pandas as pd
+import requests
 from llama_parse import LlamaParse
 from uniflow.flow.client import TransformClient
 from uniflow.flow.config import TransformOpenAIConfig
@@ -26,6 +27,26 @@ def init_session():
         st.session_state.df_info = None
     if 'df_summary' not in st.session_state:
         st.session_state.df_summary = None
+        
+def load_github_csv(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = pd.read_csv(StringIO(response.text), header=0)
+    else:
+        st.text(response.status_code)
+        st.error("Failed to load data from GitHub.")
+    return data
+
+
+
+def load_github_model(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        model = pickle.load(BytesIO(response.content))
+    else:
+        st.error(f"{response.status_code}Failed to load model from GitHub.")
+        
+    return model
         
  # Read API KEYs
 os.environ["LLAMA_CLOUD_API_KEY"] = st.secrets["LLAMA_CLOUD_API_KEY"]

@@ -92,7 +92,7 @@ def ESG_trend(esg_data):
     
 def ESG_trend_plot(esg_industry_plot_data):
     fig_esg_trend = px.line(esg_industry_plot_data, x = "Year", y = "predicted_score", color = "sub-sectors",
-                            markers = True, 
+                            markers = True, labels = {"predicted_score": "ESG Score"},
                             title = "Environment score trend of the technology industry and sub-sectors")
     
     fig_esg_trend.update_layout(legend=dict(orientation="h", yanchor="bottom", 
@@ -192,6 +192,7 @@ def company_scoring(esg_data, company_data, kmeans, esg_cluster_centers, reg, es
                                      var_name = "Type", value_name = "predicted_score")
     
     fig_compare = px.line(compare_data, x = "Year", y = "predicted_score", color = "Type",
+                          labels = {"predicted_score": "ESG Score"},
                           markers = True, title = "Comparison on ESG score trend")
     
     fig_compare.update_traces(
