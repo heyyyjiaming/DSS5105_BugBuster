@@ -8,7 +8,8 @@ from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, extract_esg
 from utils.external import get_esg_news
 from io import StringIO, BytesIO
 import time
-from model.scoring import ESG_trend, ESG_trend_plot
+import pickle
+from model.scoring import ESG_trend, ESG_trend_plot, company_scoring
 # from sklearn.impute import SimpleImputer
 # from sklearn.preprocessing import StandardScaler
 # from sklearn.cluster import KMeans
@@ -16,6 +17,14 @@ from model.scoring import ESG_trend, ESG_trend_plot
 # import matplotlib.pyplot as plt
 # import plotly.express as px
 
+
+def load_github_csv(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = pd.read_csv(StringIO(response.text), header=0)
+    else:
+        st.text(response.status_code)
+        st.error("Failed to load data from GitHub.")
 
 st.cache_data.clear()
 def init_session():
@@ -25,6 +34,8 @@ def init_session():
         st.session_state.df_info = None
     if 'df_summary' not in st.session_state:
         st.session_state.df_summary = None
+    if 'esg_score' not in st.session_state:
+        st.session_state.esg_score = None
         
 @st.cache_data
 def convert_df(df):
@@ -139,18 +150,35 @@ if st.session_state.df_summary is not None:
     
     ############################## Summary ###############################
     
-    scored_esg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/scored_tech_industry_esg_data.csv"       
-    response_tech = requests.get(scored_esg_url)
-    if response_tech.status_code == 200:
-        scored_tech_esg = pd.read_csv(StringIO(response_tech.text), header=0)
-    else:
-        st.text(response_tech.status_code)
-        st.error("Failed to load data from GitHub.")
+    scored_esg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/scored_tech_industry_esg_data.csv"   
+    scored_tech_esg = load_github_csv(scored_esg_url)    
+    # response_tech = requests.get(scored_esg_url)
+    # if response_tech.status_code == 200:
+    #     scored_tech_esg = pd.read_csv(StringIO(response_tech.text), header=0)
+    # else:
+    #     st.text(response_tech.status_code)
+    #     st.error("Failed to load data from GitHub.")
+
+
+
 
     ESG_score_trend, esg_industry_plot_data = ESG_trend(scored_tech_esg)
     fig_esg_trend = ESG_trend_plot(esg_industry_plot_data)
     st.markdown("##### Trend of ESG Performance in Tech Industry")    
     st.plotly_chart(fig_esg_trend)
+    
+    
+    # Load Reg Model
+    with open("../model/cluster_model.pkl", "rb") as f:
+        cluster_model = pickle.load(f)
+    with open("../model/scoring_model.pkl", "rb") as f:
+        scoring_model = pickle.load(f)
+    # st.session_state.esg_socre = scoring_model.predict(st.session_state.df_summary)
+    
+    esg_cluster_centers_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/tech_esg_cluster_centers.csv"
+    esg_cluster_centers = load_github_csv(esg_cluster_centers_url)
+    compare_fig = company_scoring(st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend)
+    
     
     
     ## External Data        
