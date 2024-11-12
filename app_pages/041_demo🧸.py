@@ -68,7 +68,7 @@ else:
 
 
 
-st.title("ESGeunius 🪄")
+st.title("ESGenius 🪄")
 st.write(
     "Upload an ESG report below and see how well the company performs! "
     "To use this app, you may need to provide some API keys below. "
