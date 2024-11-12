@@ -34,6 +34,9 @@ st.write(
     "To use this app, you may need to provide some API keys below. "
 )
 
+os.environ["LLAMA_CLOUD_API_KEY"] = st.secrets["LLAMA_CLOUD_API_KEY"]
+
+
 with st.sidebar:
     input_openai_api_key = st.text_input("OpenAI API Key", type="password")
     # input_llama_api_key = st.text_input("Llama Cloud API Key", type="password")
@@ -146,6 +149,8 @@ else:
             #     st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
             #     st.dataframe(st.session_state.news_df, 
             #                  column_config={"link": st.column_config.LinkColumn()})
+            os.environ["SERP_API_KEY"] = st.secrets["SERP_API_KEY"]
+            input_serp_api_key = os.environ.get("SERP_API_KEY")
             st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
             st.dataframe(st.session_state.news_df, 
                         column_config={"link": st.column_config.LinkColumn()})
