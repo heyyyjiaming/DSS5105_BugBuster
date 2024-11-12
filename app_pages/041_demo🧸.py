@@ -2,9 +2,12 @@ import streamlit as st
 import os
 # import glob
 import pandas as pd
+import requests
 from llama_parse import LlamaParse
 from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, extract_esg_contents, convert_xlsx_to_summary, append_to_summary
 from utils.external import get_esg_news
+from io import StringIO, BytesIO
+import time
 # from sklearn.impute import SimpleImputer
 # from sklearn.preprocessing import StandardScaler
 # from sklearn.cluster import KMeans
@@ -26,6 +29,17 @@ def init_session():
 def convert_df(df):
     # IMPORTANT: Cache the conversion to prevent computation on every rerun
     return df.to_csv().encode("utf-8")
+
+
+singtel_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/Singtel_ESG_test.xlsx"
+response = requests.get(singtel_url)
+# singtel_cols = ["Company Name", "Year", "GHG Emissions (Scope 1) (tCO2e)",	"GHG Emissions (Scope 2) (tCO2e)",	"GHG Emissions (Scope 3) (tCO2e)",	
+#                 "GHG Emissions (Total) (tCO2e)",	Total Energy Consumption (MWhs)	Total Water Consumption (ML)	Total Waste Generated (t)	Current Employees by Gender (Female %)	New Hires and Turnover by Gender (Female %)	Total Turnover (%)	Total Number of Employees	Average Training Hours per Employee	Fatalities	High-consequence injuries	Recordable injuries	Recordable work-related ill health cases	Board Independence (%)	Women on the Board (%)	Women in Management Team (%)	Anti-Corruption Training for Employees (%)]
+if response.status_code == 200:
+    singtel_data = pd.read_excel(BytesIO(response.content), engine='openpyxl', header=0)
+else:
+    st.error("Failed to load data from GitHub.")
+
 
 
 st.title("🪀Playground for ESG Analysis Tool")
@@ -70,33 +84,36 @@ else:
                     my_bar.progress(1/len(st.session_state.uploaded_path)*i, text=progress_text+f"{i+1} ...")
                     
                     with st.spinner("Converting PDF file into text..."):
-                        cur_doc_parsed, cur_pdf_texts = convert_pdf_to_text(st.session_state.uploaded_path[i])
+                        time.sleep(3)
+                        # cur_doc_parsed, cur_pdf_texts = convert_pdf_to_text(st.session_state.uploaded_path[i])
                         # st.markdown(cur_pdf_texts)
                     
                     with st.spinner("Extracting ESG information..."):
-                        df_info = convert_text_to_xlsx(cur_doc_parsed)
-                        df_summary = convert_xlsx_to_summary(df_info, company_name)
+                        time.sleep(5)
+                        # df_info = convert_text_to_xlsx(cur_doc_parsed)
+                        # df_summary = convert_xlsx_to_summary(df_info, company_name)
                         # st.dataframe(df_info)
-                    if st.session_state.df_info is None:
-                        st.session_state.df_info = df_info
-                    else:
-                        existing_df_info = st.session_state.df_info.copy()
-                        st.session_state.df_info = pd.concat([existing_df_info, df_info], axis=0)
-                        # st.dataframe(st.session_state.df_info)
-                    if st.session_state.df_summary is None:
-                        st.session_state.df_summary = df_summary
-                    else:
-                        existing_df_summary = st.session_state.df_summary.copy()
-                        st.session_state.df_summary = append_to_summary(existing_df_summary, df_summary)
+                    # if st.session_state.df_info is None:
+                    #     st.session_state.df_info = df_info
+                    # else:
+                    #     existing_df_info = st.session_state.df_info.copy()
+                    #     st.session_state.df_info = pd.concat([existing_df_info, df_info], axis=0)
+                    #     # st.dataframe(st.session_state.df_info)
+                    # if st.session_state.df_summary is None:
+                    #     st.session_state.df_summary = df_summary
+                    # else:
+                    #     existing_df_summary = st.session_state.df_summary.copy()
+                    #     st.session_state.df_summary = append_to_summary(existing_df_summary, df_summary)
+                st.session_state.df_summary = singtel_data
                 my_bar.empty()
                 
                 # st.markdown("ESG Data Extracted From the Uploaded Reports:")
                 # st.dataframe(st.session_state.df_info)
-                # st.markdown(f"ESG Data Summary of {company_name}:")
-                # st.dataframe(st.session_state.df_summary)                    
+                st.markdown(f"ESG Data Summary of {company_name}:")
+                st.dataframe(st.session_state.df_summary)                    
 
 
-
+        
         if st.session_state.df_summary is not None:
             st.markdown("ESG Data Extracted From the Uploaded Reports:")
             st.dataframe(st.session_state.df_info)
