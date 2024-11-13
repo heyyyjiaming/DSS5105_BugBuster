@@ -230,5 +230,28 @@ def var_calculate(future_df, confidence_level):
         )
 
     return VaR, CVaR, fig
+
+
+
+
+
+############################### Finance Analysis ########################################
+def fin_data_manipulate(financial_database, fin_sub_mean, fin_mean, company_name, sub_sectors):
+    fin_mean.insert(1, 'Type', 'Technology Industry')
+    
+    company_fin = financial_database[financial_database['Company'] == company_name].reset_index(drop=True)
+    company_fin = company_fin[[company_fin.columns[-2], company_fin.columns[-1]] + list(company_fin.columns[:-2])]
+    company_fin.rename(columns = {'Company' : 'Type'}, inplace = True)
+    
+    for sector, companies in sub_sectors.items():
+        if company_name in companies:
+            sub_sector = sector   
+    
+    sub_fin = fin_sub_mean[fin_sub_mean['Sub-sector'] == sub_sector]
+    sub_fin.rename(columns = {'Sub-sector' : 'Type'}, inplace = True)
+    
+    fin_df = pd.concat([fin_mean, sub_fin, company_fin], ignore_index=True)
+    
+    return fin_df
     
     

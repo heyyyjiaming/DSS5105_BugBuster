@@ -242,3 +242,7 @@ if st.session_state.df_summary is not None:
     
     
     
+    inancial_database = load_github_csv
+    fin_sub_mean = load_github_csv
+    fin_mean = load_github_csv
+    
