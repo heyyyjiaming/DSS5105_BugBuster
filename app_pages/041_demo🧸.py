@@ -46,6 +46,8 @@ def load_github_model(url):
 
 st.cache_data.clear()
 def init_session():
+    if 'company_name' not in st.session_state:
+        st.session_state.company_name = None
     if 'pdf_texts' not in st.session_state:
         st.session_state.pdf_texts = None
     if 'df_info' not in st.session_state:
@@ -93,7 +95,7 @@ if not input_openai_api_key:
     st.info("Please add your OpenAI API key on the left to continue.", icon="🗝️")
 else:
     with st.sidebar:
-        company_name = st.text_input("Please enter the name of company you want to analyze")
+        st.session_state.company_name = st.text_input("Please enter the name of company you want to analyze")
         st.session_state.uploaded_path = st.file_uploader("Upload a your ESG report(PDF) 📎", type=("pdf"), accept_multiple_files=True)
         translate = st.checkbox("🙋🏻‍♀️ The report is **NON-ENGLISH**")
     if not st.session_state.uploaded_path:
@@ -154,7 +156,7 @@ if st.session_state.df_summary is not None:
     st.download_button(
         label="Download Extracted ESG Data Summary",
         data=df_summary_csv,
-        file_name=f"{company_name.replace(" ", "_")}_raw_extracted_esg_ata.csv",
+        file_name=f"{st.session_state.company_name.replace(" ", "_")}_raw_extracted_esg_ata.csv",
         mime="text/csv",)
 
          
@@ -195,18 +197,18 @@ if st.session_state.df_summary is not None:
     
     
     ## External Data        
-    st.markdown(f"#### You could find more ESG reports related to f{company_name} from the following sources:")
+    st.markdown(f"#### You could find more **{st.session_state.company_name}**'s real-time reports related to ESG from the following sources:")
     input_serp_api_key = os.environ["SERP_API_KEY"]
 
     if not input_serp_api_key:
         st.info("Please add your Serp API key to continue.", icon="🗝️")
         input_serp_api_key = st.text_input("Serp API Key", type="password")
-        st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
+        st.session_state.news_df = get_esg_news(st.session_state.company_name, input_serp_api_key)
         st.dataframe(st.session_state.news_df, 
                         column_config={"link": st.column_config.LinkColumn()})
     else:
         input_serp_api_key = os.environ["SERP_API_KEY"]
-        st.session_state.news_df = get_esg_news(company_name, input_serp_api_key)
+        st.session_state.news_df = get_esg_news(st.session_state.company_name, input_serp_api_key)
         st.dataframe(st.session_state.news_df, 
                         column_config={"link": st.column_config.LinkColumn()})
 
@@ -218,38 +220,38 @@ if st.session_state.df_summary is not None:
     else:
         st.error("Failed to load mapping table of company name from GitHub.")
 
-    stock_price = get_stock_data(company_name, company_name_mapping)
+    stock_price = get_stock_data(st.session_state.company_name, company_name_mapping)
     if stock_price is not None:
-        fig = px.line(stock_price, x='Date', y='Adj Close', title=f"{company_name} Stock Price")
+        fig = px.line(stock_price, x='Date', y='Adj Close', title=f"{st.session_state.company_name} Stock Price")
         st.plotly_chart(fig)
+        
+        
+        stock_price = stock_data_manipulation(stock_price)
+        fig_volatility_risk = rolling_vol_plot(stock_price)
+        st.plotly_chart(fig_volatility_risk)
+            
+        fig_volatility_pred = volatility_pred(stock_price)
+        st.plotly_chart(fig_volatility_pred)
+        
+        
+        time_step = 60
+        with st.spinner("Predicting your future trend of stock..."):
+            stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
+            fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
+            st.plotly_chart(fig_pred)
+        
+        
+        fin_data_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_data.csv"
+        fin_sub_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_sub_mean.csv"
+        fin_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_mean.csv"
+        financial_database = load_github_csv(fin_data_url)
+        fin_sub_mean = load_github_csv(fin_sub_mean_url)
+        fin_mean = load_github_csv(fin_mean_url)
+        fin_df = fin_data_manipulate(financial_database, fin_sub_mean, fin_mean, st.session_state.company_name)
+        fin_plots = plot_financial_data(fin_df)
+        for fig in fin_plots:
+            st.plotly_chart(fig)
+    
     else:
-        st.warning("No available stock price data. 🙁")
+        st.warning("Oops... No available stock price data. 🙁")
         
-    stock_price = stock_data_manipulation(stock_price)
-    
-    fig_volatility_risk = rolling_vol_plot(stock_price)
-    st.plotly_chart(fig_volatility_risk)
-        
-    fig_volatility_pred = volatility_pred(stock_price)
-    st.plotly_chart(fig_volatility_pred)
-    
-    
-    
-    time_step = 60
-    with st.spinner("Predicting your future trend of stock..."):
-        stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
-        fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
-        st.plotly_chart(fig_pred)
-    
-    
-    fin_data_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_data.csv"
-    fin_sub_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_sub_mean.csv"
-    fin_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_mean.csv"
-    financial_database = load_github_csv(fin_data_url)
-    fin_sub_mean = load_github_csv(fin_sub_mean_url)
-    fin_mean = load_github_csv(fin_mean_url)
-    fin_df = fin_data_manipulate(financial_database, fin_sub_mean, fin_mean, company_name)
-    fin_plots = plot_financial_data(fin_df)
-    for fig in fin_plots:
-        st.plotly_chart(fig)
-    

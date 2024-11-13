@@ -3,7 +3,7 @@ import streamlit as st
 pages = {
     "👀 Overview": [
         st.Page("app_pages/00_Welcome.py", title="DSS5105 BugBuster 👾"),
-        st.Page("app_pages/041_demo🧸.py", title="ESGenius demo🧸.py")
+        st.Page("app_pages/041_demo🧸.py", title="ESGenius demo 🧸")
     ],
     "🧑🏻‍💼👩🏻‍💼 I am ...": [
         st.Page("app_pages/01_Investor.py", title="Investor"),
