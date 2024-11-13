@@ -235,11 +235,11 @@ if st.session_state.df_summary is not None:
     
     
     
-    # time_step = 60
-    # with st.spinner("Predicting your future trend of stock..."):
-    #     stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
-    #     fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
-    #     st.plotly_chart(fig_pred)
+    time_step = 60
+    with st.spinner("Predicting your future trend of stock..."):
+        stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
+        fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
+        st.plotly_chart(fig_pred)
     
     
     fin_data_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_data.csv"
