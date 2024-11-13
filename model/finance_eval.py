@@ -236,16 +236,22 @@ def var_calculate(future_df, confidence_level):
 
 
 ############################### Finance Analysis ########################################
-def fin_data_manipulate(financial_database, fin_sub_mean, fin_mean, company_name, sub_sectors):
+def fin_data_manipulate(financial_database, fin_sub_mean, fin_mean, company_name):
+    sub_sectors = {'Software and Services': ['Captii','CSE Global','V2Y Corp','SinoCloud Grp'],
+               'Technology Hardware and Equipment': ['Addvalue Tech','Nanofilm','Venture'],
+               'Semiconductors and Semiconductor Equipment': ['AdvancedSystems','AEM SGD','Asia Vets','ASTI','UMS',],
+               'Information Technology':['Audience'], 
+               'Engineering Services': ['ST Engineering','Singtel','GSS Energy']}
+    
     fin_mean.insert(1, 'Type', 'Technology Industry')
     
-    company_fin = financial_database[financial_database['Company'] == company_name].reset_index(drop=True)
+    company_fin = financial_database[financial_database['Company'].str.lower() == company_name.lower()].reset_index(drop=True)
     company_fin = company_fin[[company_fin.columns[-2], company_fin.columns[-1]] + list(company_fin.columns[:-2])]
     company_fin.rename(columns = {'Company' : 'Type'}, inplace = True)
     
     for sector, companies in sub_sectors.items():
-        if company_name in companies:
-            sub_sector = sector   
+        if company_name.lower() in [company.lower() for company in companies]:
+            sub_sector = sector
     
     sub_fin = fin_sub_mean[fin_sub_mean['Sub-sector'] == sub_sector]
     sub_fin.rename(columns = {'Sub-sector' : 'Type'}, inplace = True)
@@ -254,4 +260,15 @@ def fin_data_manipulate(financial_database, fin_sub_mean, fin_mean, company_name
     
     return fin_df
     
+    
+    # Define the function to plot the graphs and return the plot objects
+def plot_financial_data(fin_df):
+    figures = []  # List to store the plotly figures
+    # Loop through each column starting from the 3rd column (index 2)
+    for col in fin_df.columns[2:]:
+        fig = px.line(fin_df, x='Year', y=col, color='Type',
+                      title=f'Financial Data for {col}',
+                      labels={'Year': 'Year', col: col})
+        figures.append(fig)  # Store the plot in the list
+    return figures
     

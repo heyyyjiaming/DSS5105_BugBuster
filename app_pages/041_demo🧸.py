@@ -10,7 +10,8 @@ from io import StringIO, BytesIO
 import time
 import pickle
 from model.scoring import ESG_trend, ESG_trend_plot, company_scoring
-from model.finance_eval import stock_data_manipulation, rolling_vol_plot, volatility_pred, stock_pred_model, stock_pred
+# from model.finance_eval import stock_data_manipulation, rolling_vol_plot, volatility_pred, stock_pred_model, stock_pred, fin_data_manipulate, plot_financial_data
+from model.finance_eval import *
 from arch import arch_model
 # from sklearn.impute import SimpleImputer
 # from sklearn.preprocessing import StandardScaler
@@ -234,15 +235,21 @@ if st.session_state.df_summary is not None:
     
     
     
-    time_step = 60
-    with st.spinner("Predicting your future trend of stock..."):
-        stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
-        fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
-        st.plotly_chart(fig_pred)
+    # time_step = 60
+    # with st.spinner("Predicting your future trend of stock..."):
+    #     stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
+    #     fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
+    #     st.plotly_chart(fig_pred)
     
     
-    
-    inancial_database = load_github_csv
-    fin_sub_mean = load_github_csv
-    fin_mean = load_github_csv
+    fin_data_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_data.csv"
+    fin_sub_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_sub_mean.csv"
+    fin_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_mean.csv"
+    financial_database = load_github_csv(fin_data_url)
+    fin_sub_mean = load_github_csv(fin_sub_mean_url)
+    fin_mean = load_github_csv(fin_mean_url)
+    fin_df = fin_data_manipulate(financial_database, fin_sub_mean, fin_mean, company_name)
+    fin_plots = plot_financial_data(fin_df)
+    for fig in fin_plots:
+        st.plotly_chart(fig)
     
