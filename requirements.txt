@@ -20,3 +20,4 @@ beautifulsoup4
 openpyxl
 arch
 keras
+tensorflow
