@@ -18,3 +18,4 @@ yfinance==0.2.48
 yahooquery
 beautifulsoup4
 openpyxl
+arch

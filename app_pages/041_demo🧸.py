@@ -10,6 +10,8 @@ from io import StringIO, BytesIO
 import time
 import pickle
 from model.scoring import ESG_trend, ESG_trend_plot, company_scoring
+from model.finance_eval import stock_data_manipulation, rolling_vol_plot, volatility_pred, stock_pred_model, stock_pred
+from arch import arch_model
 # from sklearn.impute import SimpleImputer
 # from sklearn.preprocessing import StandardScaler
 # from sklearn.cluster import KMeans
@@ -166,12 +168,6 @@ if st.session_state.df_summary is not None:
     
     scored_esg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/scored_tech_industry_esg_data.csv"   
     scored_tech_esg = load_github_csv(scored_esg_url)    
-    # response_tech = requests.get(scored_esg_url)
-    # if response_tech.status_code == 200:
-    #     scored_tech_esg = pd.read_csv(StringIO(response_tech.text), header=0)
-    # else:
-    #     st.text(response_tech.status_code)
-    #     st.error("Failed to load data from GitHub.")
 
 
 
@@ -180,13 +176,7 @@ if st.session_state.df_summary is not None:
     st.markdown("##### Trend of ESG Performance in Tech Industry")    
     st.plotly_chart(fig_esg_trend)
     
-    
-    # Load Reg Model
-    # with open("../model/cluster_model.pkl", "rb") as f:
-    #     cluster_model = pickle.load(f)
-    # with open("../model/scoring_model.pkl", "rb") as f:
-    #     scoring_model = pickle.load(f)
-    # st.session_state.esg_socre = scoring_model.predict(st.session_state.df_summary)
+
     
     esg_cluster_centers_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/tech_esg_cluster_centers.csv"
     esg_cluster_centers = load_github_csv(esg_cluster_centers_url)
@@ -233,3 +223,22 @@ if st.session_state.df_summary is not None:
         st.plotly_chart(fig)
     else:
         st.warning("No available stock price data. 🙁")
+        
+    stock_price = stock_data_manipulation(stock_price)
+    
+    fig_volatility_risk = rolling_vol_plot(stock_price)
+    st.plotly_chart(fig_volatility_risk)
+        
+    fig_volatility_pred = volatility_pred(stock_price)
+    st.plotly_chart(fig_volatility_pred)
+    
+    
+    
+    time_step = 60
+    with st.spinner("Predicting your future trend of stock..."):
+        stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
+        fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
+        st.plotly_chart(fig_pred)
+    
+    
+    
