@@ -265,7 +265,7 @@ def fin_data_manipulate(financial_database, fin_sub_mean, fin_mean, company_name
 def plot_financial_data(fin_df):
     figures = []  # List to store the plotly figures
     # Loop through each column starting from the 3rd column (index 2)
-    for col in fin_df.columns[2:]:
+    for col in fin_df.columns[2:].drop('Diluted Normalised EPS Growth (%)'):
         fig = px.line(fin_df, x='Year', y=col, color='Type',
                       title=f'Financial Data for {col}',
                       labels={'Year': 'Year', col: col})
@@ -296,36 +296,168 @@ def analyze_financial_metrics(company_data, industry_data):
 
     # 结果生成函数
     def generate_result(metric, value_23, value_24, industry_value):
-        trend_result = f"The company's {metric} is {'increasing' if value_24 > value_23 else 'decreasing'}, indicating "
-        if metric == 'Return on Equity (ROE)':
-            trend_result += "profitability changes per dollar of shareholders' money."
-        elif metric == 'Return on Assets (ROA)':
-            trend_result += "efficiency in utilizing its assets."
-        elif metric == 'Operating Margin':
-            trend_result += "profitability from its core business relative to revenue."
-        elif metric == 'Net Profit Margin':
-            trend_result += "effectiveness in converting revenue to profit."
-        elif metric == 'Diluted Normalised EPS':
-            trend_result += "changes in shareholder payouts."
-        elif metric == 'Current Ratio':
-            trend_result += "changes in short-term liquidity."
-        elif metric == 'Quick Ratio':
-            trend_result += "changes in immediate financial stability."
-        elif metric == 'Asset Turnover':
-            trend_result += "efficiency in using its assets to generate revenue."
-        
-        industry_comparison = f" The company's {metric} is {'above' if value_24 > industry_value else 'below'} the industry average."
-        return trend_result + industry_comparison
+        trend_result = f"The company's {metric} is {'increasing' if value_24 > value_23 else 'decreasing'} from 2022 to 2023, "
+        industry_comparison = f" and the company's {metric} is {'above' if value_24 > industry_value else 'below'} the industry average."
 
+        # trend_result = f"The company's {metric} is {'increasing' if value_24 > value_23 else 'decreasing'}, indicating "
+        # if metric == 'Return on Equity (ROE)':
+        #     trend_result += "profitability changes per dollar of shareholders' money."
+        # elif metric == 'Return on Assets (ROA)':
+        #     trend_result += "efficiency in utilizing its assets."
+        # elif metric == 'Operating Margin':
+        #     trend_result += "profitability from its core business relative to revenue."
+        # elif metric == 'Net Profit Margin':
+        #     trend_result += "effectiveness in converting revenue to profit."
+        # elif metric == 'Diluted Normalised EPS':
+        #     trend_result += "changes in shareholder payouts."
+        # elif metric == 'Current Ratio':
+        #     trend_result += "changes in short-term liquidity."
+        # elif metric == 'Quick Ratio':
+        #     trend_result += "changes in immediate financial stability."
+        # elif metric == 'Asset Turnover':
+        #     trend_result += "efficiency in using its assets to generate revenue."
+        
+        # industry_comparison = f" The company's {metric} is {'above' if value_24 > industry_value else 'below'} the industry average."
+        return trend_result + industry_comparison
+    def generate_recommendation(metric, value_23, value_24, industry_value):
+        if metric == 'Return on Equity (ROE)':
+            Investment_Recommendations = "Investors can use ROE to estimate a stock’s growth rate and the growth rate of its dividends by comparing with the industrial ROE. A larger ROE indicates a better profitability and may suggest an excepted corporate growth. However, an extremely high ROE can also be the result of a small equity account compared to net income, which indicates risk. Publicly listed companies with a long-term ROE of 10% to 20% are considered excellent companies. However, an ROE below 10% does not necessarily indicate poor company performance, depending on the stage of development of the company."
+            if value_24 > value_23:
+                trend_rec = (
+                        "An increased ROE means the company is making more profit from each dollar of shareholders' money. But it’s important to check what’s driving the increase, like higher profits or more debt.")  
+            else:
+                trend_rec = (
+                            "A decreased ROE means the company is earning less profit from each dollar of shareholders' equity, indicating a declining profitability, inefficient use of equity, or increased costs.")  
+            if value_24 > industry_value:
+                industry_rec = ("The ROE of certain firm is higher than the industrial average means the company is more efficient in earning profits from its equity compared to its peers, reflecting a better management, stronger profitability, or more effective use of resources, which is a positive sign of investment.")  
+            else: 
+                industry_rec = ("The ROE of certain firm is lower than the industrial average means the company is less efficient in generating returns on its equity relative to competitors, reflecting a weak profitability, higher costs, or inefficient use of equity, which is a negative sign of investment.")
+            return f"{trend_rec} + {industry_rec} + {Investment_Recommendations}"
+        
+        elif metric == 'Return on Assets (ROA)':
+            Investment_Recommendations = "Investors can use ROA to find stock opportunities because the ROA shows how efficient a company is at using its assets to make profits. A higher ROA means a company is more efficient and productive at managing its balance sheet to generate profits. A lower ROA indicates the company might have over-invested in assets that have failed to produce revenue growth. The higher ROA is better, the better. However, it’s important not to rely solely on a single year’s data; instead, focusing on long-term trends."
+            if value_24 > value_23:
+                trend_rec = (
+                        "An increased ROA means the company is earning more profit from each dollar of its assets, showing that the company is managing its resources effectively.")  
+            else:
+                trend_rec = (
+                            "An increased ROA means the company is earning less profit from each dollar of its assets, indicating a declining profitability, increased costs, or underutilized assets")              
+            if value_24 > industry_value:
+                industry_rec = ("The ROA of certain firm is higher than the industrial average means the firm is more efficient at using its assets to make profits compared to its industry peers, reflecting a better operational efficiency, cost management, or revenue generation.")              
+            else: 
+                industry_rec = ("The ROA of certain firm is lower than the industrial average means the firm is less efficient at using its assets to make profits compared to its industry peers, reflecting a poor asset management, higher operational costs, or weaker revenue generation.")
+            return f"{trend_rec} + {industry_rec} + {Investment_Recommendations} "
+        
+        
+        elif metric == 'Operating Margin':
+            Investment_Recommendations = "Investors can use Operating Profit Margin to see if a company is making profit primarily from its core operations or from other means, such as investing. It is one of the best ways to evaluate a company's operational efficiency. Rising operating margins show a company that is managing its costs and increasing its profits. Margins above the industry average or the overall market indicate financial efficiency and stability. However, margins below the industry average might indicate potential financial vulnerability to an economic downturn or financial distress if a trend develops. Investors can use Operating Profit Margin to predict the company’s trends in growth and to pinpoint unnecessary expenses. Also, investors can compare it to other companies within the same industry. The company owns higher margin is more worth investing."
+            if value_24 > value_23:
+                trend_rec = (
+                        "An increased Operating Profit Margin means a company makes more profit from its core business in relation to its total revenue, indicating a strong operational performance which can support expansion or reinvestment.")  
+            else:
+                trend_rec = (
+                            "A decreased Operating Profit Margin means a company makes less profit from its core business in relation to its total revenues, indicating operational inefficiencies, pricing pressures, or increased competition.")  
+            if value_24 > industry_value:
+                industry_rec = ("The Operating Profit Margin of certain firm is higher than the industrial average means the firm is more efficient at managing its operating costs and generating profit from its core operations compared to its peers, suggesting the firm has a robust and profitable business model, making it attractive to investors.")             
+            else: 
+                industry_rec = ("The Operating Profit Margin of certain firm is lower than the industrial average means the firm is less efficient at managing its operating costs and generating profit from its core operations compared to its peers, indicating higher operating costs, weaker pricing power, or operational inefficiencies.")
+            return f"{trend_rec} + {industry_rec} + {Investment_Recommendations}"
+ 
+        elif metric == 'Net Profit Margin':
+            Investment_Recommendations = "Investors can use Net Profit Margin to assess if a company’s management is generating enough profit from its sales and whether operating costs and overhead costs are being contained. Generally, a track record of expanding margins mean that the net profit margin is rising over time. Meanwhile, companies that can expand their net margins over time are generally rewarded with share price growth, as share price growth is typically highly correlated with earnings growth. A strong or improving Net Profit Margin can signal a good investment opportunity, but it’s essential to analyze sustainability, industry context, and other financial indicators before making a decision."
+            if value_24 > value_23:
+                trend_rec = (
+                        "An increased Net Profit Margin means a company is better at controlling costs and expenses relative to its revenue.")  
+            else:
+                trend_rec = (
+                            "A decreased Net Profit Margin means a company is less effective at converting revenue into profit.")  
+            if value_24 > industry_value:
+                industry_rec = ("The Net Profit Margin of certain firm is higher than the industrial average means the firm is more effective at turning revenue into profit compared to its peers, indicating a efficient cost management, favorable pricing, or lower tax and interest expenses.")  
+            
+            else: 
+                industry_rec = ("The Net Profit Margin of certain firm is lower than the industrial average means the firm is less efficient at converting revenue into profit relative to competitors, indicating a higher operating costs, weaker pricing power, or higher tax and interest burdens.")
+            return f"{trend_rec} + {industry_rec} + {Investment_Recommendations}"
+        
+        elif metric == 'Diluted Normalised EPS':
+            Investment_Recommendations = "Investors can use ROE to estimate a stock’s growth rate and the growth rate of its dividends by comparing with the industrial ROE. A larger ROE indicates a better profitability and may suggest an excepted corporate growth. However, an extremely high ROE can also be the result of a small equity account compared to net income, which indicates risk. Publicly listed companies with a long-term ROE of 10% to 20% are considered excellent companies. However, an ROE below 10% does not necessarily indicate poor company performance, depending on the stage of development of the company."
+            if value_24 > value_23:
+                trend_rec = (
+                        "An increase in EPS means the firm is profitable enough to pay out more money to its shareholders. ")  
+            else:
+                trend_rec = (
+                            "An decrease in EPS means that the firm is less profitable during this period, therefore, it has to cut down the money paid out to its shareholders. ")  
+            if value_24 > industry_value:
+                industry_rec = ("The EPS of the firm is higher than the industry average value, which means that it is performing relatively better than other players in the industry.")  
+            
+            else: 
+                industry_rec = ("The EPS of the firm is lower than the industry average value, which means that it is not performing as well compared to other players in the industry.")
+            return f"{trend_rec} + {industry_rec} + {Investment_Recommendations}"
+       
+        elif metric == 'Current Ratio':
+            Investment_Recommendations = "Current ratios measure a company’s short-term liquidity, or its ability to generate enough cash to meet its short-term obligations. However, this ratio does not always necessarily give an accurate representation of liquidity because it includes inventory and other current assets that are more difficult to liquidate. Due to the nature of generalization, the current ratio tends to overstate a company’s liquidity. Thus, it must be taken with a grain of salt and definitely only used in conjunction with many other ratios and analysis."
+            if value_24 > value_23:
+                trend_rec = (
+                        "The current ratio of the company increased last year, which indicates that the company is more liquid and has better coverage of outstanding debts")  
+            else:
+                trend_rec = (
+                            "The current ratio of the company decreased last year, which shows the company has less short-term liquidity. ")  
+            if value_24 > industry_value:
+                industry_rec = ("This generally indicates stronger liquidity, meaning the company has more assets available to meet short-term obligations than its peers. A high current ratio can signal conservative management of assets or a strong cash position, which could make the company more resilient in downturns. However, if it’s too high, it might suggest inefficient use of assets; the company might be holding too much cash or inventory that could otherwise be invested for growth.")  
+            
+            else: 
+                industry_rec = ("This may signal weaker liquidity, indicating the company has fewer assets to cover its short-term liabilities compared to peers. A low current ratio might indicate efficient use of resources if it has a strong cash flow or well-managed debt but could also pose a risk during financial distress if cash inflows are irregular. Investors often look for other financial indicators to understand if the low ratio is due to effective asset utilization or poor liquidity.")
+            return f"{trend_rec} + {industry_rec} + {Investment_Recommendations}"
+        
+        elif metric == 'Quick Ratio':
+            Investment_Recommendations = "The quick ratio, often referred to as the acid-test ratio, is another measure of a company’s financial health other than current ratio, which gauges short-term liquidity more rigorously by including only assets that can be converted to cash within 90 days or less. Companies may strive to keep its quick ratio between 0.1 and 0.25, though a quick ratio that is too high means a company may be inefficiently holding too much cash. Same as current ratio, quick ratio is most useful when it is used in comparative form, internally or externally. "
+            if value_24 > value_23:
+                trend_rec = (
+                        "This suggests an improvement in liquidity, meaning the company is better positioned to meet its short-term obligations without relying on inventory. A higher quick ratio can indicate strong cash reserves or easily liquidated assets, which could improve the company's resilience in times of financial stress. However, if the ratio is increasing too much, it might also indicate underutilized assets that could otherwise be invested for growth.")  
+            else:
+                trend_rec = (
+                            "This implies lower liquidity, meaning the company might face more difficulty covering its short-term liabilities with its most liquid assets. A declining quick ratio can be concerning if it falls below 1, as this suggests that liquid assets alone aren’t sufficient to cover immediate obligations. In some cases, a lower quick ratio might not necessarily be negative, especially if the company is investing cash into growth opportunities, though it may increase reliance on inventory or cash flow to manage liabilities.")  
+            if value_24 > industry_value:
+                industry_rec = ("recommendation3")  
+            
+            else: 
+                industry_rec = ("recommendation4")
+            return f"{trend_rec} + {industry_rec} + {Investment_Recommendations}"
+        
+        elif metric == 'Asset Turnover':
+            Investment_Recommendations = "The asset turnover is useful as an indicator of whether companies are collecting receivables and turning inventory efficiently, in short, whether or not they are managing assets efficiently. However, it can be somewhat misleading since companies with large amounts of cash and short-term investments, which generally is a positive, may show a much lower turnover than companies with weak cash positions. Moreover, asset turnover ratios vary across different industry sectors, so there’s no specific range of good asset turnover ratio that applies to every company. The ratio needs to be used in comparative form by looking at the change over financial periods internally and comparing it with the value of other firms in the same industry."
+            if value_24 > value_23:
+                trend_rec = (
+                        "An increase in asset turnover indicates that the company is collecting receivables and turning inventory efficiently.")  
+            else:
+                trend_rec = (
+                            "An increase in asset turnover indicates that the company is not collecting receivables and turning inventory efficiently.")  
+            if value_24 > industry_value:
+                industry_rec = ("A higher asset turnover ratio suggests the company is efficiently using its assets to generate revenue compared to peers. This is often seen as a positive indicator of operational efficiency. High asset turnover can mean that the company has well-managed assets, effectively balancing its investments in assets with its revenue generation. In some cases, a high ratio could indicate that the company operates on low-margin, high-volume sales (common in retail or fast-moving consumer goods) and compensates for lower margins by selling quickly.")  
+            
+            else: 
+                industry_rec = ("A lower asset turnover ratio indicates the company is less efficient in utilizing its assets to generate revenue compared to industry peers. This might suggest that the company has underutilized or idle assets, potentially pointing to inefficiencies in operations, overinvestment, or outdated assets that aren’t generating expected returns. In some industries, however, a lower asset turnover can be typical for companies that require significant asset investments (like machinery in manufacturing or infrastructure in utilities), so it may not necessarily indicate poor performance.")
+            return f"{trend_rec} + {industry_rec} + {Investment_Recommendations}"
+        return ""
+    
     # 存储结果
-    results = []
+    results = {}
     metrics_list = ['Asset Turnover', 'Current Ratio', 'Diluted Normalised EPS', 
-                    'Diluted Normalised EPS', 'Net Profit Margin', 'Operating Margin',
-                    'Quick Ratio', 'Return on Assets (ROA)', 'Return on Equity (ROE)']
+                    'Net Profit Margin', 'Operating Margin', 'Quick Ratio', 
+                    'Return on Assets (ROA)', 'Return on Equity (ROE)']
     for metric in metrics_list: 
         value_23 = year_metrics.loc[metric, 2023]
         value_24 = year_metrics.loc[metric, 2024]
         industry_value = industry_metrics[metric]
-        results.append(generate_result(metric, value_23, value_24, industry_value))
-    
+        # results.append(generate_result(metric, value_23, value_24, industry_value))
+        # analysis_result = generate_result(metric, value_23, value_24, industry_value)
+        # recommendation = generate_recommendation(metric, value_23, value_24, industry_value)
+        
+        analysis_result = generate_result(metric, value_23, value_24, industry_value)
+        recommendation = generate_recommendation(metric, value_23, value_24, industry_value)
+        
+        results[metric] = {
+            'Analysis': analysis_result,
+            'Recommendation': recommendation
+        }
+
     return results

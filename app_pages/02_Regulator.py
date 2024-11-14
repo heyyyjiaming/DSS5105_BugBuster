@@ -58,8 +58,8 @@ def convert_df(df):
     # IMPORTANT: Cache the conversion to prevent computation on every rerun
     return df.to_csv().encode("utf-8")
 
-
-st.title("Regulator's ESG Lens 👓")
+st.title("ESGenius 🪄")
+st.header("Regulator's ESG Lens 👓")
 st.write(
     "Upload an ESG report below and see how well the company performs! "
     "To use this app, you may need to provide some API keys below. "

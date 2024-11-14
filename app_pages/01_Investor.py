@@ -7,9 +7,10 @@ from llama_parse import LlamaParse
 # from uniflow.flow.config import TransformOpenAIConfig
 # from uniflow.flow.config import OpenAIModelConfig
 # from uniflow.op.prompt import PromptTemplate, Context
-from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, extract_esg_contents, convert_xlsx_to_summary
+from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, convert_xlsx_to_summary
 from utils.external import get_stock_data,  get_esg_news
 from model.scoring import ESG_trend, ESG_trend_plot, company_scoring
+from model.finance_eval import *
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
@@ -18,6 +19,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from yahooquery import search
 import requests
+import pickle
 from io import StringIO, BytesIO
 
 st.set_page_config(layout="wide")
@@ -59,7 +61,7 @@ def convert_df(df):
     return df.to_csv().encode("utf-8")
 
 
-st.title("ESGenius")
+st.title("ESGenius 🪄")
 st.header("Investor's ESG Lens 👓")
 st.write(
     "Upload an ESG report below and see how well the company performs! "
@@ -189,6 +191,110 @@ else:
             st.plotly_chart(fig)
         else:
             st.warning("No available stock price data. 🙁")
+            
+    scored_esg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/scored_tech_industry_esg_data.csv"   
+    scored_tech_esg = load_github_csv(scored_esg_url)    
+
+
+
+    ESG_score_trend, esg_industry_plot_data = ESG_trend(scored_tech_esg)
+    fig_esg_trend = ESG_trend_plot(esg_industry_plot_data)
+    st.markdown("##### Trend of ESG Performance in Tech Industry")    
+    st.plotly_chart(fig_esg_trend)
+    
+
+    
+    esg_cluster_centers_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/tech_esg_cluster_centers.csv"
+    esg_cluster_centers = load_github_csv(esg_cluster_centers_url)
+    
+    cluster_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/cluster_model.pkl"
+    cluster_model = load_github_model(cluster_url)
+        
+    reg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/scoring_model.pkl"
+    scoring_model = load_github_model(reg_url)
+
+    
+    compare_fig = company_scoring(scored_tech_esg, st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend)
+    # st.text(company_scoring(scored_tech_esg, st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend))
+    st.plotly_chart(compare_fig)
+    
+    
+    ## External Data        
+    st.markdown(f"#### You could find more **{st.session_state.company_name}**'s real-time reports related to ESG from the following sources:")
+    input_serp_api_key = os.environ["SERP_API_KEY"]
+
+    if not input_serp_api_key:
+        st.info("Please add your Serp API key to continue.", icon="🗝️")
+        input_serp_api_key = st.text_input("Serp API Key", type="password")
+        st.session_state.news_df = get_esg_news(st.session_state.company_name, input_serp_api_key)
+        st.dataframe(st.session_state.news_df, 
+                        column_config={"link": st.column_config.LinkColumn()})
+    else:
+        input_serp_api_key = os.environ["SERP_API_KEY"]
+        st.session_state.news_df = get_esg_news(st.session_state.company_name, input_serp_api_key)
+        st.dataframe(st.session_state.news_df, 
+                        column_config={"link": st.column_config.LinkColumn()})
+
+    st.header("Financial Analysis")
+    company_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/tests/FinancialData/company_ticker_mapping.csv"
+    response = requests.get(company_url)
+    if response.status_code == 200:
+        company_name_mapping = pd.read_csv(StringIO(response.text))
+    else:
+        st.error("Failed to load mapping table of company name from GitHub.")
+
+    stock_price = get_stock_data(st.session_state.company_name, company_name_mapping)
+    if stock_price is not None:
+        fig = px.line(stock_price, x='Date', y='Adj Close', title=f"{st.session_state.company_name} Stock Price")
+        st.plotly_chart(fig)
+        
+        
+        stock_price = stock_data_manipulation(stock_price)
+        fig_volatility_risk = rolling_vol_plot(stock_price)
+        st.plotly_chart(fig_volatility_risk)
+            
+        # fig_volatility_pred = volatility_pred(stock_price)
+        # st.plotly_chart(fig_volatility_pred)
+        
+        
+        time_step = 60
+        with st.spinner("Predicting your future trend of stock..."):
+            stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
+            fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
+            st.plotly_chart(fig_pred)
+    else:
+        st.warning("Oops... No available stock price data. 🙁")
+        
+        
+    fin_data_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_data.csv"
+    fin_sub_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_sub_mean.csv"
+    fin_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_mean.csv"
+    financial_database = load_github_csv(fin_data_url)
+    fin_sub_mean = load_github_csv(fin_sub_mean_url)
+    fin_mean = load_github_csv(fin_mean_url)
+    fin_df = fin_data_manipulate(financial_database, fin_sub_mean, fin_mean, st.session_state.company_name)
+    fin_plots = plot_financial_data(fin_df)
+    
+    company_fin_data = financial_database[financial_database['Company'].str.lower() == st.session_state.company_name.lower()]
+    fin_metrics = analyze_financial_metrics(company_fin_data, fin_mean)
+    # st.markdown('\n\n'.join(fin_metrics))
+    
+    col1, col2, col3 = st.columns(3)
+    
+    with col1:
+        for i in range(0, len(fin_plots), 3):
+            st.plotly_chart(fin_plots[i])
+            st.markdown(fin_metrics[i])
+    with col2:
+        for i in range(1, len(fin_plots), 3):
+            st.plotly_chart(fin_plots[i])
+            st.markdown(fin_metrics[i])
+    with col3:
+        for i in range(2, len(fin_plots), 3):
+            st.plotly_chart(fin_plots[i])
+            st.markdown(fin_metrics[i])
+        
+
 
         
             
