@@ -190,7 +190,7 @@ if st.session_state.df_summary is not None:
     esg_weights = scoring_model.coef_
     esg_bottom3_idx = esg_weights.argsort()[:3]
     esg_cols = st.session_state.df_summary.columns[2:]
-    st.markdown("⚠️ **Top 3 ESG indicators that might impair your score**")
+    st.markdown("⚠️ **Top 3 ESG indicators that might drop down your score**")
     for idx,col in enumerate(esg_cols[esg_bottom3_idx]):
         st.markdown(f"Top{idx+1}: {col}")
         # st.markdown(f"Top{idx+1} ESG Weights: {col}, {esg_weights[esg_bottom3_idx][idx]:.4f}")
@@ -205,23 +205,6 @@ if st.session_state.df_summary is not None:
     st.markdown("\n")
     st.markdown("##### Trend of ESG Performance in Tech Industry") 
     st.plotly_chart(compare_fig)
-    
-    fin_top3_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/top_features_df.csv"
-    fin_bott3_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/bottom_features_df.csv"
-    fin_top3 = load_github_csv(fin_top3_url)
-    fin_bott3 = load_github_csv(fin_bott3_url)
-    
-    col1, col2 = st.columns(2)
-    with col1:
-        st.markdown("✅ Top 3 ESG indicators **most** related to Finance")
-        for idx,col in enumerate(fin_top3['Feature']):
-            st.markdown(f"Top{idx+1}: {col}")
-            # st.markdown(f"Top{idx+1} ESG Weights: {col}, {esg_weights[esg_bottom3_idx][idx]:.4f}")
-    with col2:
-        st.markdown("❎ Top 3 ESG indicators **least** related to Finance")
-        for idx,col in enumerate(fin_bott3['Feature']):
-            st.markdown(f"Top{idx+1}: {col}")
-            # st.markdown(f"Top{idx+1} ESG Weights: {col}, {esg_weights[esg_bottom3_idx][idx]:.4f}")
     
     
     ## External Data        
@@ -241,8 +224,32 @@ if st.session_state.df_summary is not None:
                         column_config={"link": st.column_config.LinkColumn()})
 
 
+
 ############################## Finance Summary ###############################
     st.subheader("💰 Financial Analysis")
+    
+    st.markdown("### Correlation Analysis Between ESG and Financial Metrics")
+        
+    fin_top3_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/top_features_df.csv"
+    fin_bott3_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/bottom_features_df.csv"
+    fin_top3 = load_github_csv(fin_top3_url)
+    fin_bott3 = load_github_csv(fin_bott3_url)
+    
+    col1, col2 = st.columns(2)
+    with col1:
+        st.markdown("✅ Top 3 ESG indicators **most** related to Finance")
+        for idx,col in enumerate(fin_top3['Feature']):
+            st.markdown(f"Top{idx+1}: {col}")
+            # st.markdown(f"Top{idx+1} ESG Weights: {col}, {esg_weights[esg_bottom3_idx][idx]:.4f}")
+    with col2:
+        st.markdown("❎ Top 3 ESG indicators **least** related to Finance")
+        for idx,col in enumerate(fin_bott3['Feature']):
+            st.markdown(f"Top{idx+1}: {col}")
+            # st.markdown(f"Top{idx+1} ESG Weights: {col}, {esg_weights[esg_bottom3_idx][idx]:.4f}")
+    
+    
+    st.markdown("### Stock Price Analysis")
+    
     company_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/tests/FinancialData/company_ticker_mapping.csv"
     response = requests.get(company_url)
     if response.status_code == 200:
@@ -285,7 +292,8 @@ if st.session_state.df_summary is not None:
         
     else:
         st.warning("Oops... No available stock price data. 🙁")
-        
+    
+    st.markdown("### Financial Metric Analysis")
         
     fin_data_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_data.csv"
     fin_sub_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_sub_mean.csv"
