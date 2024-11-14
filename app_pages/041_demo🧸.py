@@ -171,12 +171,6 @@ if st.session_state.df_summary is not None:
     st.subheader("🌱 ESG Analysis")
     scored_esg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/scored_tech_industry_esg_data.csv"   
     scored_tech_esg = load_github_csv(scored_esg_url)    
-# PART 1
-    ESG_score_trend, esg_industry_plot_data = ESG_trend(scored_tech_esg)
-    fig_esg_trend = ESG_trend_plot(esg_industry_plot_data)
-    st.markdown("##### Trend of ESG Performance in Tech Industry")    
-    st.plotly_chart(fig_esg_trend)
-    
     
     esg_cluster_centers_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/tech_esg_cluster_centers.csv"
     esg_cluster_centers = load_github_csv(esg_cluster_centers_url)
@@ -187,23 +181,47 @@ if st.session_state.df_summary is not None:
     reg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/scoring_model.pkl"
     scoring_model = load_github_model(reg_url)
     
+# PART 1
+    ESG_score_trend, esg_industry_plot_data = ESG_trend(scored_tech_esg)
+    fig_esg_trend = ESG_trend_plot(esg_industry_plot_data)
+    st.markdown("##### Trend of ESG Performance in Tech Industry")    
+    st.plotly_chart(fig_esg_trend)
+    
+    esg_weights = scoring_model.coef_
+    esg_bottom3_idx = esg_weights.argsort()[:3]
+    esg_cols = st.session_state.df_summary.columns[2:]
+    st.markdown("⚠️ **Top 3 ESG indicators that might impair your score**")
+    for idx,col in enumerate(esg_cols[esg_bottom3_idx]):
+        st.markdown(f"Top{idx+1}: {col}")
+        # st.markdown(f"Top{idx+1} ESG Weights: {col}, {esg_weights[esg_bottom3_idx][idx]:.4f}")
+            
+    
+    
 # PART 2
+    
     compare_fig = company_scoring(scored_tech_esg, st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend)
+    st.markdown("\n\n")
+    st.markdown("\n\n")
+    st.markdown("\n")
     st.markdown("##### Trend of ESG Performance in Tech Industry") 
     st.plotly_chart(compare_fig)
     
-    esg_weights = scoring_model.coef_
-    esg_top3_idx = np.abs(esg_weights).argsort()[-3:][::-1]
-    esg_cols = st.session_state.df_summary.columns[2:]
-    
+    fin_top3_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/top_features_df.csv"
+    fin_bott3_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/bottom_features_df.csv"
+    fin_top3 = load_github_csv(fin_top3_url)
+    fin_bott3 = load_github_csv(fin_bott3_url)
     
     col1, col2 = st.columns(2)
     with col1:
-        for idx,col in enumerate(esg_cols[esg_top3_idx]):
-            st.markdown(f"Top{idx+1} ESG Weights: {col}")
-    # st.markdown(f"Top3 ESG Weights: {esg_cols[esg_top3_idx]}")
-    # st.markdown(esg_cols)
-    # with col2:
+        st.markdown("✅ Top 3 ESG indicators **most** related to Finance")
+        for idx,col in enumerate(fin_top3['Feature']):
+            st.markdown(f"Top{idx+1}: {col}")
+            # st.markdown(f"Top{idx+1} ESG Weights: {col}, {esg_weights[esg_bottom3_idx][idx]:.4f}")
+    with col2:
+        st.markdown("❎ Top 3 ESG indicators **least** related to Finance")
+        for idx,col in enumerate(fin_bott3['Feature']):
+            st.markdown(f"Top{idx+1}: {col}")
+            # st.markdown(f"Top{idx+1} ESG Weights: {col}, {esg_weights[esg_bottom3_idx][idx]:.4f}")
     
     
     ## External Data        

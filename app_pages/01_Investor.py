@@ -223,14 +223,7 @@ else:
         if st.session_state.df_summary is not None:
             st.header("ESG Summary")
             st.subheader("🌱 ESG Analysis")
-
-            scored_esg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/scored_tech_industry_esg_data.csv"   
-            scored_tech_esg = load_github_csv(scored_esg_url)    
-            ESG_score_trend, esg_industry_plot_data = ESG_trend(scored_tech_esg)
-            fig_esg_trend = ESG_trend_plot(esg_industry_plot_data)
-            st.markdown("##### Trend of ESG Performance in Tech Industry")    
-            st.plotly_chart(fig_esg_trend)
-
+            
             esg_cluster_centers_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/tech_esg_cluster_centers.csv"
             esg_cluster_centers = load_github_csv(esg_cluster_centers_url)
 
@@ -240,6 +233,22 @@ else:
             reg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/scoring_model.pkl"
             scoring_model = load_github_model(reg_url)
 
+            scored_esg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/scored_tech_industry_esg_data.csv"   
+            scored_tech_esg = load_github_csv(scored_esg_url)    
+            ESG_score_trend, esg_industry_plot_data = ESG_trend(scored_tech_esg)
+            fig_esg_trend = ESG_trend_plot(esg_industry_plot_data)
+            st.markdown("##### Trend of ESG Performance in Tech Industry")    
+            st.plotly_chart(fig_esg_trend)
+            
+            esg_weights = scoring_model.coef_
+            esg_bottom3_idx = esg_weights.argsort()[:3]
+            esg_cols = st.session_state.df_summary.columns[2:]
+            st.markdown("⚠️ **Top 3 ESG indicators that might impair your score**")
+            for idx,col in enumerate(esg_cols[esg_bottom3_idx]):
+                st.markdown(f"Top{idx+1}: {col}")
+                # st.markdown(f"Top{idx+1} ESG Weights: {col}, {esg_weights[esg_bottom3_idx][idx]:.4f}")
+
+        # Part 2
             compare_fig = company_scoring(scored_tech_esg, st.session_state.df_summary, cluster_model, esg_cluster_centers, scoring_model, esg_industry_plot_data, ESG_score_trend)
             st.plotly_chart(compare_fig)
                     
@@ -300,6 +309,17 @@ else:
                     stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
                     fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
                     st.plotly_chart(fig_pred)
+                    
+                    confidence_level = 0.95
+                    VaR, CVaR, fig_var = var_calculate(future_df, confidence_level)
+                    st.plotly_chart(fig_var)
+                    
+                    match_con, VaR_analysis = risk_analysis(risk_pref, VaR)
+                    st.markdown(f"👾 Confidence Interval {confidence_level * 100}%, **VaR**: {VaR:.4f}")
+                    # st.markdown(f"Confidence Interval {confidence_level * 100}%, CVaR: {CVaR:.4f}")
+                    
+                    st.markdown(match_con + f"({risk_pref})")
+                    st.markdown(VaR_analysis)
             else:
                 st.warning("Oops... No available stock price data. 🙁")
                 
