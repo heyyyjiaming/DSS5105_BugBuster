@@ -265,22 +265,22 @@ if st.session_state.df_summary is not None:
         # st.plotly_chart(fig_volatility_pred)
         
         
-        # time_step = 60
-        # with st.spinner("Predicting your future trend of stock..."):
-        #     stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
-        #     fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
-        #     st.plotly_chart(fig_pred)    
+        time_step = 60
+        with st.spinner("Predicting your future trend of stock..."):
+            stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
+            fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
+            st.plotly_chart(fig_pred)    
             
-        #     confidence_level = 0.95
-        #     VaR, CVaR, fig_var = var_calculate(future_df, confidence_level)
-        #     st.plotly_chart(fig_var)
+            confidence_level = 0.95
+            VaR, CVaR, fig_var = var_calculate(future_df, confidence_level)
+            st.plotly_chart(fig_var)
             
-        #     match_con, VaR_analysis = risk_analysis(risk_pref, VaR)
-        #     st.markdown(f"Confidence Interval {confidence_level * 100}%, **VaR**: {VaR:.4f}")
-        #     # st.markdown(f"Confidence Interval {confidence_level * 100}%, CVaR: {CVaR:.4f}")
+            match_con, VaR_analysis = risk_analysis(risk_pref, VaR)
+            st.markdown(f"Confidence Interval {confidence_level * 100}%, **VaR**: {VaR:.4f}")
+            # st.markdown(f"Confidence Interval {confidence_level * 100}%, CVaR: {CVaR:.4f}")
             
-        #     st.markdown(match_con)
-        #     st.markdown(VaR_analysis)
+            st.markdown(match_con)
+            st.markdown(VaR_analysis)
             
         
     else:
