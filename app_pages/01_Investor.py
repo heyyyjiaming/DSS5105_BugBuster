@@ -138,7 +138,7 @@ if input_openai_api_key:
 #                     st.markdown(st.session_state.pdf_texts)
 
 if not (input_openai_api_key):
-    st.info("Please add your OpenAI & Llama Cloud API key on the left to continue.", icon="🗝️")
+    st.info("Please add your OpenAI API key on the left to continue.", icon="🗝️")
 else:
     with st.sidebar:
         st.session_state.company_name = st.text_input("Please enter the name of company you want to analyze")
@@ -147,6 +147,7 @@ else:
         st.warning("⬅️ Please upload a PDF file to continue 👻")
     else:
         st.write("File uploaded successfully! 🎉")
+        risk_pref = st.selectbox("Please select your preferred investment risk level", ["Middle", "High", "Low"])
         init_session()
         
         with st.form(key='extraction_form'):
@@ -283,16 +284,16 @@ else:
                 st.error("Failed to load mapping table of company name from GitHub.")
 
             stock_price = get_stock_data(st.session_state.company_name, company_name_mapping)
+            
             if stock_price is not None:
                 fig = px.line(stock_price, x='Date', y='Adj Close', title=f"{st.session_state.company_name} Stock Price")
                 st.plotly_chart(fig)
                 
                 stock_price = stock_data_manipulation(stock_price)
-                fig_volatility_risk = rolling_vol_plot(stock_price)
+                volatility, fig_volatility_risk = rolling_vol_plot(stock_price)
                 st.plotly_chart(fig_volatility_risk)
-                    
-                # fig_volatility_pred = volatility_pred(stock_price)
-                # st.plotly_chart(fig_volatility_pred)
+                st.markdown(volatility_analysis_invest(volatility))
+                
                 
                 time_step = 60
                 with st.spinner("Predicting your future trend of stock..."):
