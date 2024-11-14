@@ -226,9 +226,10 @@ if st.session_state.df_summary is not None:
 
 
 ############################## Finance Summary ###############################
+    st.markdown("\n")
     st.subheader("💰 Financial Analysis")
     
-    st.markdown("### Correlation Analysis Between ESG and Financial Metrics")
+    st.markdown("##### Correlation Analysis Between ESG and Financial Metrics")
         
     fin_top3_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/top_features_df.csv"
     fin_bott3_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/bottom_features_df.csv"
@@ -248,7 +249,7 @@ if st.session_state.df_summary is not None:
             # st.markdown(f"Top{idx+1} ESG Weights: {col}, {esg_weights[esg_bottom3_idx][idx]:.4f}")
     
     
-    st.markdown("### Stock Price Analysis")
+    st.markdown("##### Stock Price Analysis")
     
     company_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/tests/FinancialData/company_ticker_mapping.csv"
     response = requests.get(company_url)
@@ -293,7 +294,7 @@ if st.session_state.df_summary is not None:
     else:
         st.warning("Oops... No available stock price data. 🙁")
     
-    st.markdown("### Financial Metric Analysis")
+    st.markdown("##### Financial Metric Analysis")
         
     fin_data_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_data.csv"
     fin_sub_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_sub_mean.csv"
