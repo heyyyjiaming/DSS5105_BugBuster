@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.set_page_config(layout="wide")
+
 st.title("Welcome to Bug Busters' World! 👾")
 github_url = "https://github.com/heyyyjiaming/DSS5105_BugBuster"
 st.markdown("You can find our GitHub repository [here](%s) 🙋🏻‍♀️"%github_url)

@@ -20,7 +20,7 @@ from yahooquery import search
 import requests
 from io import StringIO, BytesIO
 
-
+st.set_page_config(layout="wide")
 
 def init_session():
     if 'pdf_texts' not in st.session_state:

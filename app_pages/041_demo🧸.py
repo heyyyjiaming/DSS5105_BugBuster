@@ -20,6 +20,7 @@ from arch import arch_model
 # import matplotlib.pyplot as plt
 import plotly.express as px
 
+st.set_page_config(layout="wide")
 
 def load_github_csv(url):
     response = requests.get(url)
@@ -241,17 +242,39 @@ if st.session_state.df_summary is not None:
             st.plotly_chart(fig_pred)
         
         
-        fin_data_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_data.csv"
-        fin_sub_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_sub_mean.csv"
-        fin_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_mean.csv"
-        financial_database = load_github_csv(fin_data_url)
-        fin_sub_mean = load_github_csv(fin_sub_mean_url)
-        fin_mean = load_github_csv(fin_mean_url)
-        fin_df = fin_data_manipulate(financial_database, fin_sub_mean, fin_mean, st.session_state.company_name)
-        fin_plots = plot_financial_data(fin_df)
-        for fig in fin_plots:
-            st.plotly_chart(fig)
+    fin_data_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_data.csv"
+    fin_sub_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_sub_mean.csv"
+    fin_mean_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/data/financial_mean.csv"
+    financial_database = load_github_csv(fin_data_url)
+    fin_sub_mean = load_github_csv(fin_sub_mean_url)
+    fin_mean = load_github_csv(fin_mean_url)
+    fin_df = fin_data_manipulate(financial_database, fin_sub_mean, fin_mean, st.session_state.company_name)
+    fin_plots = plot_financial_data(fin_df)
     
-    else:
-        st.warning("Oops... No available stock price data. 🙁")
+    company_fin_data = financial_database[financial_database['Company'].str.lower() == st.session_state.company_name.lower()]
+    fin_metrics = analyze_financial_metrics(company_fin_data, fin_mean)
+    # st.markdown('\n\n'.join(fin_metrics))
+    
+    col1, col2, col3 = st.columns(3)
+    
+    with col1:
+        for i in range(0, len(fin_plots), 3):
+            st.plotly_chart(fin_plots[i])
+            st.markdown(fin_metrics[i])
+    with col2:
+        for i in range(1, len(fin_plots), 3):
+            st.plotly_chart(fin_plots[i])
+            st.markdown(fin_metrics[i])
+    with col3:
+        for i in range(2, len(fin_plots), 3):
+            st.plotly_chart(fin_plots[i])
+            st.markdown(fin_metrics[i])
+        
+        
+    
+    # else:
+    #     st.warning("Oops... No available stock price data. 🙁")
+        
+    
+
         

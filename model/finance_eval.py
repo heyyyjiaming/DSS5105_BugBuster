@@ -269,6 +269,63 @@ def plot_financial_data(fin_df):
         fig = px.line(fin_df, x='Year', y=col, color='Type',
                       title=f'Financial Data for {col}',
                       labels={'Year': 'Year', col: col})
+        fig.update_layout(legend=dict(orientation="h", yanchor="bottom", y=-0.2, xanchor="center", x=0.5))
         figures.append(fig)  # Store the plot in the list
     return figures
     
+    
+    
+############################################## Overall Financial Analysis ##############################################
+def analyze_financial_metrics(company_data, industry_data):
+
+    # 清理数据，确保列名一致，年份为数值类型
+    company_data.columns = company_data.columns.str.strip()
+    company_data['Year'] = pd.to_numeric(company_data['Year'], errors='coerce')
+
+    # 筛选2023和2024年的数据
+    metrics_comparison = company_data[company_data['Year'].isin([2023, 2024])][
+        ['Year', 'Return on Equity (ROE)', 'Return on Assets (ROA)', 'Operating Margin', 'Net Profit Margin', 
+         'Diluted Normalised EPS', 'Current Ratio', 'Asset Turnover', 'Quick Ratio']
+    ]
+
+    # 提取2024年的industry average
+    industry_metrics = industry_data[industry_data['Year'] == 2024].iloc[0]
+
+    # 提取2023年和2024年的指标数据
+    year_metrics = metrics_comparison.set_index('Year').T
+
+    # 结果生成函数
+    def generate_result(metric, value_23, value_24, industry_value):
+        trend_result = f"The company's {metric} is {'increasing' if value_24 > value_23 else 'decreasing'}, indicating "
+        if metric == 'Return on Equity (ROE)':
+            trend_result += "profitability changes per dollar of shareholders' money."
+        elif metric == 'Return on Assets (ROA)':
+            trend_result += "efficiency in utilizing its assets."
+        elif metric == 'Operating Margin':
+            trend_result += "profitability from its core business relative to revenue."
+        elif metric == 'Net Profit Margin':
+            trend_result += "effectiveness in converting revenue to profit."
+        elif metric == 'Diluted Normalised EPS':
+            trend_result += "changes in shareholder payouts."
+        elif metric == 'Current Ratio':
+            trend_result += "changes in short-term liquidity."
+        elif metric == 'Quick Ratio':
+            trend_result += "changes in immediate financial stability."
+        elif metric == 'Asset Turnover':
+            trend_result += "efficiency in using its assets to generate revenue."
+        
+        industry_comparison = f" The company's {metric} is {'above' if value_24 > industry_value else 'below'} the industry average."
+        return trend_result + industry_comparison
+
+    # 存储结果
+    results = []
+    metrics_list = ['Asset Turnover', 'Current Ratio', 'Diluted Normalised EPS', 
+                    'Diluted Normalised EPS', 'Net Profit Margin', 'Operating Margin',
+                    'Quick Ratio', 'Return on Assets (ROA)', 'Return on Equity (ROE)']
+    for metric in metrics_list: 
+        value_23 = year_metrics.loc[metric, 2023]
+        value_24 = year_metrics.loc[metric, 2024]
+        industry_value = industry_metrics[metric]
+        results.append(generate_result(metric, value_23, value_24, industry_value))
+    
+    return results

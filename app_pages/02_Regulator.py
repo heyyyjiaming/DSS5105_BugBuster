@@ -19,6 +19,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 
+st.set_page_config(layout="wide")
 
 def init_session():
     if 'pdf_texts' not in st.session_state:
