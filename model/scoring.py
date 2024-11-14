@@ -134,6 +134,9 @@ def company_scoring(esg_data, company_data, kmeans, esg_cluster_centers, reg, es
                                                  'Average Training Hours per Employee', 'Total Energy Consumption (MWhs)',
                                                  'Women on the Board (%)', 'Current Employees by Gender (Female %)', 
                                                  'Women in Management Team (%)', 'Fatalities', 'Board Independence (%)'])
+    # convert extacted str data into numeric
+    company_numeric = company_numeric.replace('', np.nan)
+    company_numeric = company_numeric.astype(float).reset_index(drop=True)
     
     # Handle missing values(Implement techniques to handle missing data and ensure fair comparisons across companies.)
     imputer = SimpleImputer(strategy='median')
@@ -179,8 +182,11 @@ def company_scoring(esg_data, company_data, kmeans, esg_cluster_centers, reg, es
     company_score.rename(columns = {'Calculated Score': company_name}, inplace = True)
     
     # Loop through each company and check if target_value is in its list of industries using isin
+    # for sub_sector in sub_sectors:
+    #     if pd.Series(sub_sectors[sub_sector]).isin([company_name]).any():
+    #         company_sub_sector = sub_sector
     for sub_sector in sub_sectors:
-        if pd.Series(sub_sectors[sub_sector]).isin([company_name]).any():
+        if pd.Series([company_name.lower()]).isin([name.lower() for name in sub_sectors[sub_sector]]).any():
             company_sub_sector = sub_sector
     
     sub_sector_select = esg_industry_plot_data[esg_industry_plot_data["sub-sectors"] == company_sub_sector]
@@ -199,6 +205,7 @@ def company_scoring(esg_data, company_data, kmeans, esg_cluster_centers, reg, es
         hovertemplate = 'Year: %{x} <br> ESG Score: %{y} <extra></extra>', 
         marker = dict(size = 8)
         )
+    fig_compare.update_xaxes(dtick=1)
   
     return fig_compare
     # return company_scaled.columns, reg.feature_names_in_

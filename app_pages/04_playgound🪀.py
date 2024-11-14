@@ -3,7 +3,7 @@ import os
 # import glob
 import pandas as pd
 from llama_parse import LlamaParse
-from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, extract_esg_contents, convert_xlsx_to_summary, append_to_summary
+from utils.extract import convert_pdf_to_text, convert_text_to_xlsx, convert_xlsx_to_summary, append_to_summary
 from utils.external import get_esg_news
 # from sklearn.impute import SimpleImputer
 # from sklearn.preprocessing import StandardScaler
