@@ -190,8 +190,8 @@ else:
 
 
         if st.session_state.df_summary is not None:
-            st.markdown("ESG Data Extracted From the Uploaded Reports:")
-            st.dataframe(st.session_state.df_info)
+            # st.markdown("ESG Data Extracted From the Uploaded Reports:")
+            # st.dataframe(st.session_state.df_info)
             st.markdown("#### Summary of Extracted ESG Related Data:")      
             st.dataframe(st.session_state.df_summary)
             df_summary_csv= convert_df(st.session_state.df_summary)
@@ -220,8 +220,8 @@ else:
  
                     
         if st.session_state.df_summary is not None:
-            st.markdown("### ESG Summary")
-            st.subheader("ESG Analysis")
+            st.header("ESG Summary")
+            st.subheader("🌱 ESG Analysis")
 
             scored_esg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/scored_tech_industry_esg_data.csv"   
             scored_tech_esg = load_github_csv(scored_esg_url)    
@@ -274,7 +274,7 @@ else:
                     
 
 
-            st.subheader("Financial Analysis")
+            st.subheader("💰 Financial Analysis")
             company_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/tests/FinancialData/company_ticker_mapping.csv"
             response = requests.get(company_url)
             if response.status_code == 200:

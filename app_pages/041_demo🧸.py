@@ -103,6 +103,7 @@ else:
         st.warning("⬅️ Please upload a PDF file to continue 👻")
     else:
         st.write("File uploaded successfully! 🎉")
+        risk_pref = st.selectbox("Please select your preferred investment risk level", ["Middle", "High", "Low"])
         init_session()
         
         with st.form(key='extraction_form'):
@@ -166,7 +167,7 @@ if st.session_state.df_summary is not None:
 # if st.session_state.df_summary is not None:
     st.header("ESG Summary")
     
-    st.subheader("ESG Analysis")
+    st.subheader("🌱 ESG Analysis")
     scored_esg_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/model/data/scored_tech_industry_esg_data.csv"   
     scored_tech_esg = load_github_csv(scored_esg_url)    
 # PART 1
@@ -209,7 +210,7 @@ if st.session_state.df_summary is not None:
 
 
 ############################## Finance Summary ###############################
-    st.subheader("Financial Analysis")
+    st.subheader("💰 Financial Analysis")
     company_url = "https://raw.githubusercontent.com/heyyyjiaming/DSS5105_BugBuster/refs/heads/main/tests/FinancialData/company_ticker_mapping.csv"
     response = requests.get(company_url)
     if response.status_code == 200:
@@ -224,8 +225,9 @@ if st.session_state.df_summary is not None:
         
         
         stock_price = stock_data_manipulation(stock_price)
-        fig_volatility_risk = rolling_vol_plot(stock_price)
+        volatility, fig_volatility_risk = rolling_vol_plot(stock_price)
         st.plotly_chart(fig_volatility_risk)
+        st.markdown(volatility_analysis_invest(volatility))
             
         # fig_volatility_pred = volatility_pred(stock_price)
         # st.plotly_chart(fig_volatility_pred)
@@ -235,7 +237,20 @@ if st.session_state.df_summary is not None:
         with st.spinner("Predicting your future trend of stock..."):
             stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
             fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
-            st.plotly_chart(fig_pred)
+            st.plotly_chart(fig_pred)    
+            
+            confidence_level = 0.95
+            VaR, CVaR, fig_var = var_calculate(future_df, confidence_level)
+            st.plotly_chart(fig_var)
+            
+            match_con, VaR_analysis = risk_analysis(risk_pref, VaR)
+            st.markdown(f"Confidence Interval {confidence_level * 100}%, **VaR**: {VaR:.4f}")
+            # st.markdown(f"Confidence Interval {confidence_level * 100}%, CVaR: {CVaR:.4f}")
+            
+            st.markdown(match_con)
+            st.markdown(VaR_analysis)
+            
+        
     else:
         st.warning("Oops... No available stock price data. 🙁")
         
@@ -251,7 +266,7 @@ if st.session_state.df_summary is not None:
     
     company_fin_data = financial_database[financial_database['Company'].str.lower() == st.session_state.company_name.lower()]
     fin_metrics = investor_analyze_financial_metrics(company_fin_data, fin_mean)
-    # fin_metrics = investor_analyze_financial_metrics(company_fin_data, fin_mean)
+    # fin_metrics = regulator_analyze_financial_metrics(company_fin_data, fin_mean)
     # st.markdown('\n\n'.join(fin_metrics))
     
     col1, col2 = st.columns(2)

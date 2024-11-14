@@ -19,4 +19,4 @@ st.markdown('''
 
 
 st.subheader("Our Team Members (in alphabetic order):")
-st.markdown("Bi Ying, Chen Zhujun, Ding Jiamig, Huang Yuxin, Li Jingming, Niu Muyuan, Wang Hao, Zhang Yi")
+st.markdown("Bi Ying, Chen Zhujun, Ding Jiaming, Huang Yuxin, Li Jingming, Niu Muyuan, Wang Hao, Zhang Yi")

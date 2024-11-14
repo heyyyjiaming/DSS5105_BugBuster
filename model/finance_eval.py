@@ -36,7 +36,9 @@ def rolling_vol_plot(stock_price):
     fig_volatility_risk = px.line(stock_price, x=stock_price.index, y='Rolling Volatility', 
                                   title='Rolling Volatility (Risk) Over Time',
                                   labels={'Date': 'Date', 'Rolling Volatility': 'Volatility'})
-    return fig_volatility_risk
+    fig_volatility_risk.add_hline(y=0.025, line_dash="dash", line_color="red", line_width=2)
+
+    return stock_price['Rolling Volatility'], fig_volatility_risk
 
 
 
@@ -61,6 +63,30 @@ def volatility_pred(stock_price):
     fig_volatility_pred = px.line(x=forecast_index, y=cond_vol, labels={'x': 'Date', 'y': 'Conditional volatility'}, 
                                   title='The next 90 day volatility predicted by the GARCH model')
     return fig_volatility_pred
+
+
+
+def volatility_analysis_invest(volatility):
+    volatility_invest_text = {'Low':'''The historical data shows volatility has stabilized at a lower level, suggesting a more stable and less risky market environment. 
+                     Investors may consider increasing exposure to growth stocks or other higher-risk assets, capitalizing on the reduced uncertainty. 
+                     However, maintaining a diversified portfolio remains essential to mitigate unexpected market shocks.''', 
+                     
+                     'High': '''The historical data shows volatility has stabilized at a lower level, suggesting a more stable and less risky market environment. 
+                     Investors may consider increasing exposure to growth stocks or other higher-risk assets, capitalizing on the reduced uncertainty. 
+                     However, maintaining a diversified portfolio remains essential to mitigate unexpected market shocks.'''}
+    volatility.dropna(inplace = True)
+    high_vol = len([x for x in volatility if x > 0.025])
+    
+    if high_vol <= len(volatility)/3:
+        volatility_invest = volatility_invest_text['Low']
+    else:
+        volatility_invest = volatility_invest_text['High']
+    
+    return volatility_invest
+
+
+
+
 
 
 def compute_RSI(data, time_window):
@@ -272,6 +298,97 @@ def plot_financial_data(fin_df):
         fig.update_layout(legend=dict(orientation="h", yanchor="bottom", y=-0.2, xanchor="center", x=0.5))
         figures.append(fig)  # Store the plot in the list
     return figures
+
+
+
+def var_calculate(future_df, confidence_level):
+    
+    # Calculate daily forecast returns
+    future_df['Predicted Return'] = future_df['Predicted Price'].pct_change()
+    
+    # Remove NaN value (because the first yield cannot be calculated)
+    future_returns = future_df['Predicted Return'].dropna()
+    
+    # Calculate VaR
+    VaR = np.percentile(-future_returns, confidence_level * 100)
+    
+    # Calculate CVaR
+    CVaR = -future_returns[future_returns <= -VaR].mean()
+    
+    # Plot VaR and CVaR
+    loss_df = pd.DataFrame({'Loss': -future_returns})
+    
+    # Create a histogram of the loss distribution
+    fig = px.histogram(loss_df, x='Loss', nbins=30, opacity=0.7, title='Predict the loss distribution of returns')
+    
+    fig.add_vline(x=VaR, line_dash="dash", line_color="red",
+                  annotation_text=f"VaR ({VaR:.4f})", annotation_position="top left")
+    
+    fig.add_vline(x=CVaR, line_dash="dash", line_color="green",
+                  annotation_text=f"CVaR ({CVaR:.4f})", annotation_position="top right")
+    
+    fig.update_layout(
+        xaxis_title='Loss',
+        yaxis_title='Frequency'
+        )
+
+    return VaR, CVaR, fig
+
+
+# risk_pref = 'Low'
+# VaR_text = {'Low':'''The VaR is below 0.01, it indicates a low level of risk exposure, meaning that the portfolio is very unlikely to incur significant losses within the specified time frame.
+#         If the current low risk aligns with your risk tolerance, maintaining the portfolio as it is could be a prudent choice.
+#         If your target returns are not being met, consider increasing risk exposure by diversifying into higher-risk, higher-return assets.
+#         Both remember to maintain your portfolio as well-diversified to mitigate any unforeseen risks''', 
+        
+#         'Middel': '''The VaR is between 0.01 and 0.05, the portfolio is exposed to a moderate level of risk. 
+#         This range suggests that there is a reasonable balance between risk and potential return.
+#         Compare the current risk-return tradeoff with your investment goals. If returns are satisfactory, you may maintain the current portfolio.
+#         If you believe the risk is high even with VaR between 0.01 and 0.05, you can Reallocate a portion of your portfolio to low-risk investments such as government bonds, blue-chip stocks, or money market funds.''',
+        
+#         'High':'''The VaR exceeds 0.05, it indicates a higher risk exposure, meaning the portfolio is more likely to experience significant losses within the specified time frame. 
+#         In such a scenario, it's crucial to carefully manage risk while considering potential opportunities for higher returns.
+#         If the current level of risk is above your comfort zone, consider adjusting the portfolio. You can shift some capital to lower-risk assets like bonds, defensive stocks, or other safe-haven investments.
+#         If the current level of risk is acceptable, you may consider maintaining your current strategy while optimizing for potential returns. 
+#         Remember to keep a close eye on the portfolio’s performance and market trends to ensure the risk remains manageable. 
+#         Even if the risk is acceptable, conduct stress tests to anticipate portfolio behavior under extreme scenarios.'''}
+def risk_analysis(risk_pref, VaR):
+    VaR_text = {'Low':'''The VaR is below 0.01, it indicates a low level of risk exposure, meaning that the portfolio is very unlikely to incur significant losses within the specified time frame.
+        If the current low risk aligns with your risk tolerance, maintaining the portfolio as it is could be a prudent choice.
+        If your target returns are not being met, consider increasing risk exposure by diversifying into higher-risk, higher-return assets.
+        Both remember to maintain your portfolio as well-diversified to mitigate any unforeseen risks''', 
+        
+        'Middel': '''The VaR is between 0.01 and 0.05, the portfolio is exposed to a moderate level of risk. 
+        This range suggests that there is a reasonable balance between risk and potential return.
+        Compare the current risk-return tradeoff with your investment goals. If returns are satisfactory, you may maintain the current portfolio.
+        If you believe the risk is high even with VaR between 0.01 and 0.05, you can Reallocate a portion of your portfolio to low-risk investments such as government bonds, blue-chip stocks, or money market funds.''',
+        
+        'High':'''The VaR exceeds 0.05, it indicates a higher risk exposure, meaning the portfolio is more likely to experience significant losses within the specified time frame. 
+        In such a scenario, it's crucial to carefully manage risk while considering potential opportunities for higher returns.
+        If the current level of risk is above your comfort zone, consider adjusting the portfolio. You can shift some capital to lower-risk assets like bonds, defensive stocks, or other safe-haven investments.
+        If the current level of risk is acceptable, you may consider maintaining your current strategy while optimizing for potential returns. 
+        Remember to keep a close eye on the portfolio’s performance and market trends to ensure the risk remains manageable. 
+        Even if the risk is acceptable, conduct stress tests to anticipate portfolio behavior under extreme scenarios.'''}
+    if VaR <= 0.01:
+        VaR_con = 'Low'
+        VaR_analysis = VaR_text['Low']
+    elif VaR >= 0.05:
+        VaR_con = 'High'
+        VaR_analysis = VaR_text['High']
+    else:
+        VaR_con = 'Middle'
+        VaR_analysis = VaR_text['Middle']
+        
+    if risk_pref == VaR_con:
+        match_con = 'The predicted risk matches with your risk preference level.'
+    else:
+        match_con = 'The predicted risk does not match your risk preference level.'
+        
+    return match_con, VaR_analysis
+    
+
+
+
     
     
     
