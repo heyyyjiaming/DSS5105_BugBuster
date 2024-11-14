@@ -250,7 +250,8 @@ if st.session_state.df_summary is not None:
     fin_plots = plot_financial_data(fin_df)
     
     company_fin_data = financial_database[financial_database['Company'].str.lower() == st.session_state.company_name.lower()]
-    fin_metrics = analyze_financial_metrics(company_fin_data, fin_mean)
+    fin_metrics = investor_analyze_financial_metrics(company_fin_data, fin_mean)
+    # fin_metrics = investor_analyze_financial_metrics(company_fin_data, fin_mean)
     # st.markdown('\n\n'.join(fin_metrics))
     
     col1, col2 = st.columns(2)

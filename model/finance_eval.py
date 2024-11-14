@@ -276,7 +276,7 @@ def plot_financial_data(fin_df):
     
     
 ############################################## Overall Financial Analysis ##############################################
-def analyze_financial_metrics(company_data, industry_data):
+def investor_analyze_financial_metrics(company_data, industry_data):
 
     # 清理数据，确保列名一致，年份为数值类型
     company_data.columns = company_data.columns.str.strip()
@@ -319,6 +319,7 @@ def analyze_financial_metrics(company_data, industry_data):
         
         # industry_comparison = f" The company's {metric} is {'above' if value_24 > industry_value else 'below'} the industry average."
         return trend_result + industry_comparison
+    
     def generate_recommendation(metric, value_23, value_24, industry_value):
         if metric == 'Return on Equity (ROE)':
             Investment_Recommendations = "Investors can use ROE to estimate a stock’s growth rate and the growth rate of its dividends by comparing with the industrial ROE. A larger ROE indicates a better profitability and may suggest an excepted corporate growth. However, an extremely high ROE can also be the result of a small equity account compared to net income, which indicates risk. Publicly listed companies with a long-term ROE of 10% to 20% are considered excellent companies. However, an ROE below 10% does not necessarily indicate poor company performance, depending on the stage of development of the company."
@@ -460,4 +461,192 @@ def analyze_financial_metrics(company_data, industry_data):
             'Recommendation': recommendation
         }
 
+    return results
+
+
+
+def regulator_analyze_financial_metrics(company_data, industry_data):
+   
+    # 清理数据，确保列名一致，年份为数值类型
+    company_data.columns = company_data.columns.str.strip()
+    company_data['Year'] = pd.to_numeric(company_data['Year'], errors='coerce')
+
+    # 筛选2023和2024年的数据
+    metrics_comparison = company_data[company_data['Year'].isin([2023, 2024])][
+        ['Year', 'Return on Equity (ROE)', 'Return on Assets (ROA)', 'Operating Margin', 'Net Profit Margin', 
+         'Diluted Normalised EPS', 'Current Ratio', 'Asset Turnover', 'Quick Ratio']
+    ]
+
+    # 提取2024年的行业平均值
+    industry_metrics = company_data[company_data['Year'] == 2024].iloc[0]
+
+    # 提取2023年和2024年的指标数据
+    year_metrics = metrics_comparison.set_index('Year').T
+
+    def generate_result(metric, value_23, value_24, industry_value):
+        trend_result = f"The company's {metric} is {'increasing' if value_24 > value_23 else 'decreasing'}, indicating "
+        
+        industry_comparison = f"The company's {metric} is {'above' if value_24 > industry_value else 'below'} the industry average."
+        return f"{trend_result}\n{industry_comparison}"
+
+    def generate_recommendation(metric, value_23, value_24, industry_value):
+        if metric == 'Return on Assets (ROA)':
+            if value_24 > value_23:
+                trend_rec = (
+                        "When ROA increases, regulators should evaluate whether the increase in ROA is driven by "
+                        "improved asset utilization or one-time gains. If it's due to operational efficiency, it reflects "
+                        "positively on the company's management. Regulators also should ensure the company isn't "
+                        "compromising long-term stability for short-term gains." 
+                )
+            else:
+                trend_rec = (
+                            "When ROE decreases, regulators should assess whether the dropis temporary or indicative of"
+                             "deeper structural issues. Regulators could encourage companies to optimize resource "
+                             "allocation, improve cost management, or innovate to enhance profitability without "
+                             "compromising financial stability."                
+               )
+            return f"{trend_rec}"
+        
+        elif metric == 'Return on Equity (ROE)':
+            if value_24 > value_23:
+                trend_rec = (
+                        "When ROE increases, regulators should examine whether the increase in ROE is "
+                        "driven by sustainable business operations or short-term financial maneuvers. "
+                        "An ROE increase due to high leverage or risky investments could expose the company to financial instability."
+                        "Regulators should encourage firms to maintain a healthy balance between profitability and risk" 
+                )
+            else:
+                trend_rec = ("When ROE decreases, regulators should assess whether the dropis temporary or indicative of"
+                             "deeper structural issues. Regulators could encourage companies to optimize resource "
+                             "allocation, improve cost management, or innovate to enhance profitability without "
+                             "compromising financial stability."                
+                )
+            return f"{trend_rec}"
+        elif metric == 'Operating Margin':
+            if value_24 > value_23:
+                trend_rec = (
+                        "When Operating Profit Margin increases, regulators should assess whether the increase in "
+                        "margin is driven by sustainable factors such as improved operational efficiency or cost "
+                        "control, rather than short-term factors like price hikes. If the increase stems from anti-competitive "
+                        "behavior (e.g., monopolistic pricing or market dominance), regulators should investigate and ensure fair competition is maintained." 
+                )
+            else:
+                trend_rec = ("When Operating Profit Margin decreases, regulators should encourage companies to optimize "
+                             "operations and improve cost structures. If the decrease is due to external factors such as  "
+                             "not engaging in harmful cost-cutting measures (e.g., underpaying workers or compromising "
+                             "product quality)."                
+                )
+            return f"{trend_rec}"
+        elif metric == 'Net Profit Margin':
+            if value_24 > value_23:
+                trend_rec = (
+                        "When Net Profit Margin increases, regulators should evaluate whether the increase in net "
+                        "profit margin is due to sustainable factors like operational improvements or tax efficiency, "
+                        "rather than one-time events such as asset sales or subsidies. If the increase results from "
+                        "pricing strategies or cost-cutting measures that might harm consumers (e.g., price gouging or " 
+                        "reducing product quality), regulators should intervene to ensure market fairness."
+                )
+            else:
+                trend_rec = ("When Net Profit Margin decreases, regulators should assess whether these factors pose a "
+                             "systemic risk or reflect temporary challenges. Regulators may advise firms to strengthen their "
+                             "financial health through cost optimization and diversification, avoiding aggressive cost-cutting "
+                             "that could impact stakeholders."                
+                )
+            return f"{trend_rec}"
+        elif metric == 'Diluted Normalised EPS':
+            if value_24 > value_23:
+                trend_rec = (
+                        "When a firm’s EPS increases, regulators might recommend that companies consider reinvesting "
+                        "these increased earnings into growth initiatives, distributing dividends, buying back shares, or "
+                        "improving employee benefits, to ensure long-term shareholder value and company stability. It’s "
+                        "important for companies to be transparent about the sources of earnings growth to build investor " 
+                        "confidence and avoid any perception of financial manipulation. Regulators would also "
+                        "discourage firms from artificially inflating EPS through measures like excessive stock "
+                        "buybacks, which can make EPS appear stronger without any underlying improvement in operations."
+                )
+            else:
+                trend_rec = ("When a firm’s EPS decreases, regulators might encourage companies to provide a clear "
+                             "disclosure of the causes behind this decline, particularly if it reflects financial or operational "
+                             "difficulties. Offering forward-looking guidance can reassure investors, especially if the EPS "
+                             "drop is part of a broader industry trend, while regulators may also caution firms against taking "
+                             "on excessive risk in a bid to boost short-term earnings."                
+                )
+            return f"{trend_rec}"
+        elif metric == 'Current Ratio':
+            if value_24 > value_23:
+                trend_rec = (
+                        "An increase in the Current Ratio signals improved liquidity, and regulators may recommend "
+                        "that companies leverage this liquidity effectively, perhaps through strategic investments or "
+                        "addressing outstanding liabilities. It is advisable that companies avoid hoarding liquid assets "
+                        "without a clear purpose, as this may suggest inefficiencies or lack of a proactive growth " 
+                        "strategy. Increased transparency in financial reporting is essential here, especially to clarify "
+                        "whether the higher ratio results from stronger cash flows or reduced liabilities. "
+                )
+            else:
+                trend_rec = ("When Current Ratio decreases, regulators might suggest that firms focus on maintaining "
+                             "sufficient liquidity to guard against short-term financial challenges, especially during "
+                             "uncertain economic conditions. Refinancing strategies and liability management can be "
+                             "beneficial to ensure the firm can meet its obligations. It’s also important for firms to clearly " 
+                             "communicate the reasons for reduced liquidity to their investors, particularly if this reduction "    
+                             "is driven by rising debt or other operational challenges."           
+                )
+            return f"{trend_rec}"
+        elif metric == 'Quick Ratio':
+            if value_24 > value_23:
+                trend_rec = (
+                        "With a rising Quick Ratio, regulators may advise companies to ensure their additional cash or "
+                        "liquid assets are used efficiently and not left idle. It is beneficial for firms to provide clarity "
+                        "on the reasons behind this increase, whether it stems from stronger cash flows, the sale of "
+                        "assets, or other sources, to avoid misleading stakeholders. Balancing liquidity with growth " 
+                        "investments is key to preventing an overly conservative approach that could limit potential gains. "
+                )
+            else:
+                trend_rec = ("When Quick Ratio decreases, regulators regulators might recommend that companies take steps to improve "
+                             "liquidity management, especially to avoid future solvency risks. Increased transparency "
+                             "around declining liquidity is crucial, as it enables investors to understand whether it’s due to "
+                             "issues like poor receivables collections or rising liabilities. Regulators may also advise "     
+                             "companies to avoid taking on extensive risks, such as significant credit extensions or "    
+                             "aggressive expansion, when liquidity is already under strain."       
+                )
+            return f"{trend_rec}"
+        elif metric == 'Asset Turnover':
+            if value_24 > value_23:
+                trend_rec = (
+                        "When a company’s Asset Turnover ratio increases, regulators may encourage firms to continue "
+                        "their focus on efficient asset utilization but to do so in a way that doesn’t exhaust resources "
+                        "unsustainably. Disclosing the factors behind this efficiency—whether through process "
+                        "improvements, divesting non-essential assets, or other measures—can give investors better " 
+                        "insight into the nature of the company’s efficiency gains. Ensuring that assets are used "
+                        "sustainably is especially important in industries that require ongoing reinvestment. "
+                )
+            else:
+                trend_rec = ("When a company’s Asset Turnover ratio decreases, regulators may recommend that firms address inefficiencies in "
+                             "their asset management, such as restructuring or repurposing underperforming assets to "
+                             "increase their contribution to revenue. Transparency with investors regarding the causes of a "
+                             "declining asset turnover, such as slower sales or heavy investments in growth areas, helps to " 
+                             "maintain investor trust. Regulators might also advise firms to consider divesting or finding " 
+                             "new uses for idle assets if these are unlikely to generate satisfactory returns in the near future, "    
+                             "improving overall operational efficiency."          
+                )
+            return f"{trend_rec}"
+        return ""
+
+    # 存储结果
+    results = {}
+    metrics_list = ['Asset Turnover', 'Current Ratio', 'Diluted Normalised EPS', 
+                    'Net Profit Margin', 'Operating Margin', 'Quick Ratio', 
+                    'Return on Assets (ROA)', 'Return on Equity (ROE)']
+    for metric in metrics_list:
+        value_23 = year_metrics.loc[metric, 2023]
+        value_24 = year_metrics.loc[metric, 2024]
+        industry_value = industry_metrics[metric]
+        
+        analysis_result = generate_result(metric, value_23, value_24, industry_value)
+        recommendation = generate_recommendation(metric, value_23, value_24, industry_value)
+        
+        results[metric] = {
+            'Analysis': analysis_result,
+            'Recommendation': recommendation
+        }
+    
     return results
