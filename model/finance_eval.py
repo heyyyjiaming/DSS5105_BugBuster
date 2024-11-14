@@ -84,6 +84,24 @@ def volatility_analysis_invest(volatility):
     
     return volatility_invest
 
+def volatility_analysis_reg(volatility):
+    volatility_reg_text = {'Low':'''The historical data shows volatility has stabilized at a lower level, suggesting a more predictable and stable market environment. 
+                       Regulators could use this period of calm to encourage long-term investments and strengthen systemic resilience. 
+                       However, they should remain vigilant to avoid complacency and ensure that financial institutions continue to prepare for potential future uncertainties.''', 
+                     
+                     'High': '''The historical data shows volatility has stabilized at a higher level, indicating manageable yet sustained market risks. 
+                     Regulators should ensure that financial institutions maintain adequate capital buffers. 
+                     Elevated volatility might reveal underlying vulnerabilities, prompting the need for proactive measures such as policy adjustments or targeted communication to reassure markets and prevent instability.'''}
+    volatility.dropna(inplace = True)
+    high_vol = len([x for x in volatility if x > 0.025])
+    
+    if high_vol <= len(volatility)/3:
+        volatility_reg = volatility_reg_text['Low']
+    else:
+        volatility_reg = volatility_reg_text['High']
+    
+    return volatility_reg
+
 
 
 

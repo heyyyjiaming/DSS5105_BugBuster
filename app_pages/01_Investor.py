@@ -296,7 +296,7 @@ else:
                 
                 
                 time_step = 60
-                with st.spinner("Predicting your future trend of stock..."):
+                with st.spinner("👩🏻‍💻 Predicting your future trend of stock..."):
                     stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
                     fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
                     st.plotly_chart(fig_pred)

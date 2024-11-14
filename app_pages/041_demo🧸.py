@@ -13,6 +13,7 @@ from model.scoring import ESG_trend, ESG_trend_plot, company_scoring
 # from model.finance_eval import stock_data_manipulation, rolling_vol_plot, volatility_pred, stock_pred_model, stock_pred, fin_data_manipulate, plot_financial_data
 from model.finance_eval import *
 from arch import arch_model
+import numpy as np
 # from sklearn.impute import SimpleImputer
 # from sklearn.preprocessing import StandardScaler
 # from sklearn.cluster import KMeans
@@ -191,6 +192,19 @@ if st.session_state.df_summary is not None:
     st.markdown("##### Trend of ESG Performance in Tech Industry") 
     st.plotly_chart(compare_fig)
     
+    esg_weights = scoring_model.coef_
+    esg_top3_idx = np.abs(esg_weights).argsort()[-3:][::-1]
+    esg_cols = st.session_state.df_summary.columns[2:]
+    
+    
+    col1, col2 = st.columns(2)
+    with col1:
+        for idx,col in enumerate(esg_cols[esg_top3_idx]):
+            st.markdown(f"Top{idx+1} ESG Weights: {col}")
+    # st.markdown(f"Top3 ESG Weights: {esg_cols[esg_top3_idx]}")
+    # st.markdown(esg_cols)
+    # with col2:
+    
     
     ## External Data        
     st.markdown(f"#### You could find more **{st.session_state.company_name}**'s real-time reports related to ESG from the following sources:")
@@ -233,22 +247,22 @@ if st.session_state.df_summary is not None:
         # st.plotly_chart(fig_volatility_pred)
         
         
-        time_step = 60
-        with st.spinner("Predicting your future trend of stock..."):
-            stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
-            fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
-            st.plotly_chart(fig_pred)    
+        # time_step = 60
+        # with st.spinner("Predicting your future trend of stock..."):
+        #     stock_price, scaled_data, model, features, scaler = stock_pred_model(stock_price, time_step)
+        #     fig_pred, future_df = stock_pred(stock_price, scaled_data, features, model, time_step, scaler)
+        #     st.plotly_chart(fig_pred)    
             
-            confidence_level = 0.95
-            VaR, CVaR, fig_var = var_calculate(future_df, confidence_level)
-            st.plotly_chart(fig_var)
+        #     confidence_level = 0.95
+        #     VaR, CVaR, fig_var = var_calculate(future_df, confidence_level)
+        #     st.plotly_chart(fig_var)
             
-            match_con, VaR_analysis = risk_analysis(risk_pref, VaR)
-            st.markdown(f"Confidence Interval {confidence_level * 100}%, **VaR**: {VaR:.4f}")
-            # st.markdown(f"Confidence Interval {confidence_level * 100}%, CVaR: {CVaR:.4f}")
+        #     match_con, VaR_analysis = risk_analysis(risk_pref, VaR)
+        #     st.markdown(f"Confidence Interval {confidence_level * 100}%, **VaR**: {VaR:.4f}")
+        #     # st.markdown(f"Confidence Interval {confidence_level * 100}%, CVaR: {CVaR:.4f}")
             
-            st.markdown(match_con)
-            st.markdown(VaR_analysis)
+        #     st.markdown(match_con)
+        #     st.markdown(VaR_analysis)
             
         
     else:
@@ -269,9 +283,9 @@ if st.session_state.df_summary is not None:
     # fin_metrics = regulator_analyze_financial_metrics(company_fin_data, fin_mean)
     # st.markdown('\n\n'.join(fin_metrics))
     
-    col1, col2 = st.columns(2)
+    col3, col4 = st.columns(2)
     
-    with col1:
+    with col3:
         for i, (metric, result) in enumerate(fin_metrics.items()):
             if i % 2 == 0:
                 st.plotly_chart(fin_plots[i])
@@ -281,7 +295,7 @@ if st.session_state.df_summary is not None:
         # for i in range(0, len(fin_plots), 2):
         #     st.plotly_chart(fin_plots[i])
         #     st.markdown(fin_metrics[i])
-    with col2:
+    with col4:
         for i, (metric, result) in enumerate(fin_metrics.items()):
             if i % 2 != 0:
                 st.plotly_chart(fin_plots[i])
