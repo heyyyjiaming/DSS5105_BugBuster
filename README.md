@@ -6,6 +6,16 @@ Bi Ying, Chen Zhujun, Ding Jiaming, Huang Yuxin, Li Jingming, Niu Muyuan, Wang H
 ## Project Description
 This an automatic system that extracts ESG information from unstructured reports and provides a comprehensive analysis of ESG performance within selected industries. By incorporating advanced natural language processing (NLP) techniques and data analysis, the tool helps streamline the ESG data extraction process, improve data quality, and offer valuable insights into corporate sustainability practices.
 
+## Streamlit Online App
+
+Welcome to the **[ESG Data Extraction Tool](https://dss5105bugbuster-vungkn2vd4zbfouiwsr55u.streamlit.app/)**! This user-friendly web application is designed to help you easily extract and analyze ESG (Environmental, Social, and Governance) data from PDF reports.
+
+![](https://github.com/heyyyjiaming/DSS5105_BugBuster/blob/main/image/app.png)
+
+
+### How to Use
+To get started with the ESG Data Extraction Tool, please refer to our detailed instructions available here: [Getting Started Guide](https://github.com/heyyyjiaming/DSS5105_BugBuster/wiki/6.-Getting-Started). This guide will walk you through the necessary steps, including how to input your API key, upload files, and review your results.
+
 ## :computer: Installation (For running code locally)
 
 1. Create a conda environment on your terminal using:
