@@ -238,12 +238,12 @@ if st.session_state.df_summary is not None:
     
     col1, col2 = st.columns(2)
     with col1:
-        st.markdown("✅ Top 3 ESG indicators **most** related to Finance")
+        st.markdown("✅ Top 3 Financial indicators **most** related to ESG performance")
         for idx,col in enumerate(fin_top3['Feature']):
             st.markdown(f"Top{idx+1}: {col}")
             # st.markdown(f"Top{idx+1} ESG Weights: {col}, {esg_weights[esg_bottom3_idx][idx]:.4f}")
     with col2:
-        st.markdown("❎ Top 3 ESG indicators **least** related to Finance")
+        st.markdown("❎ Top 3 Financial indicators **least** related to ESG performance")
         for idx,col in enumerate(fin_bott3['Feature']):
             st.markdown(f"Top{idx+1}: {col}")
             # st.markdown(f"Top{idx+1} ESG Weights: {col}, {esg_weights[esg_bottom3_idx][idx]:.4f}")
