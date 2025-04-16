@@ -1,4 +1,4 @@
-# DSS5105_BugBuster
+# ESG Extraction Tool
 
 ## Team Member (in alphabetic order):
 Bi Ying, Chen Zhujun, Ding Jiaming, Huang Yuxin, Li Jingming, Niu Muyuan, Zhang yi
